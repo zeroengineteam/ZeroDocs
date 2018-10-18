@@ -1,4 +1,4 @@
-The [ ReverbNode ](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/reverbnode.markdown) collects audio data from all its inputs and applies a simple reverb filter before passing it off to its outputs. 
+The [ ReverbNode ](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/reverbnode.markdown) collects audio data from all its inputs and applies a simple reverb filter before passing it off to its outputs. 
 
  # Common Uses
 
@@ -13,9 +13,9 @@ The `Length` property sets the length of the reverb tail (the number of seconds 
 ---
  # Related Materials
  ## Manual
-- [soudnode_overview](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/audio/soundnode/soudnode_overview.markdown)
+- [soudnode_overview](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/audio/soundnode/soudnode_overview.markdown)
 
  ## Code Reference
-- [ ReverbNode ](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/reverbnode.markdown) 
+- [ ReverbNode ](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/reverbnode.markdown) 
 
  

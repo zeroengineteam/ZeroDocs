@@ -6,17 +6,17 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ Joint](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/jointevent.markdown#joint-zero-engine-docume)|[event](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/event.markdown)| |
-| |[ JointCog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/jointevent.markdown#jointcog-zero-engine-doc)| | |
-| |[ ObjectA](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/jointevent.markdown#objecta-zero-engine-docu)| | |
-| |[ ObjectB](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/jointevent.markdown#objectb-zero-engine-docu)| | |
+| |[ Joint](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/jointevent.markdown#joint-zero-engine-docume)|[event](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/event.markdown)| |
+| |[ JointCog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/jointevent.markdown#jointcog-zero-engine-doc)| | |
+| |[ ObjectA](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/jointevent.markdown#objecta-zero-engine-docu)| | |
+| |[ ObjectB](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/jointevent.markdown#objectb-zero-engine-docu)| | |
 
 
  #  Properties
 
 
 ---  
- #  Joint : [joint](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/joint.markdown)
+ #  Joint : [joint](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/joint.markdown)
 
  `read-only`
 
@@ -26,7 +26,7 @@
 
 
 ---  
- #  JointCog : [cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
+ #  JointCog : [cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)
 
  `read-only`
 
@@ -36,7 +36,7 @@
 
 
 ---  
- #  ObjectA : [cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
+ #  ObjectA : [cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)
 
  `read-only`
 
@@ -46,7 +46,7 @@
 
 
 ---  
- #  ObjectB : [cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
+ #  ObjectB : [cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)
 
  `read-only`
 

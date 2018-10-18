@@ -6,21 +6,21 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/floweffect.markdown#floweffect-void)|[ AttractSpeed](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/floweffect.markdown#attractspeed-zero-engine)|[physicseffect](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/physicseffect.markdown)| |
-| |[ AttractToFlowCenter](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/floweffect.markdown#attracttoflowcenter-zero)| | |
-| |[ FlowDirection](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/floweffect.markdown#flowdirection-zero-engin)| | |
-| |[ FlowSpeed](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/floweffect.markdown#flowspeed-zero-engine-do)| | |
-| |[ LocalForce](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/floweffect.markdown#localforce-zero-engine-d)| | |
-| |[ MaxAttractForce](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/floweffect.markdown#maxattractforce-zero-eng)| | |
-| |[ MaxFlowForce](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/floweffect.markdown#maxflowforce-zero-engine)| | |
-| |[ WorldFlowDirection](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/floweffect.markdown#worldflowdirection-zero)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/floweffect.markdown#floweffect-void)|[ AttractSpeed](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/floweffect.markdown#attractspeed-zero-engine)|[physicseffect](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/physicseffect.markdown)| |
+| |[ AttractToFlowCenter](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/floweffect.markdown#attracttoflowcenter-zero)| | |
+| |[ FlowDirection](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/floweffect.markdown#flowdirection-zero-engin)| | |
+| |[ FlowSpeed](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/floweffect.markdown#flowspeed-zero-engine-do)| | |
+| |[ LocalForce](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/floweffect.markdown#localforce-zero-engine-d)| | |
+| |[ MaxAttractForce](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/floweffect.markdown#maxattractforce-zero-eng)| | |
+| |[ MaxFlowForce](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/floweffect.markdown#maxflowforce-zero-engine)| | |
+| |[ WorldFlowDirection](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/floweffect.markdown#worldflowdirection-zero)| | |
 
 
  #  Properties
 
 
 ---  
- #  AttractSpeed : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  AttractSpeed : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > The target speed for an object to be pulled towards the center of the flow.
 > ``` lang=cpp, name=Zilch
@@ -28,7 +28,7 @@
 
 
 ---  
- #  AttractToFlowCenter : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  AttractToFlowCenter : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > Determines if the flow field will attract objects towards the center of the field. This can be used to create a tractor beam effect that will keep the object inside of the flow field.
 > ``` lang=cpp, name=Zilch
@@ -36,7 +36,7 @@
 
 
 ---  
- #  FlowDirection : [real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)
+ #  FlowDirection : [real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real3.markdown)
 
 > The direction that the field is flowing. This can be defined in world or local space.
 > ``` lang=cpp, name=Zilch
@@ -44,7 +44,7 @@
 
 
 ---  
- #  FlowSpeed : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  FlowSpeed : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > The target speed of objects in the flow field.
 > ``` lang=cpp, name=Zilch
@@ -52,7 +52,7 @@
 
 
 ---  
- #  LocalForce : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  LocalForce : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > Determines if the flow direction is in the local space of the object.
 > ``` lang=cpp, name=Zilch
@@ -60,7 +60,7 @@
 
 
 ---  
- #  MaxAttractForce : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  MaxAttractForce : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > The max force that can be used to reach the target attract speed.
 > ``` lang=cpp, name=Zilch
@@ -68,7 +68,7 @@
 
 
 ---  
- #  MaxFlowForce : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  MaxFlowForce : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > The max force that can be used to reach the target flow speed.
 > ``` lang=cpp, name=Zilch
@@ -76,7 +76,7 @@
 
 
 ---  
- #  WorldFlowDirection : [real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)
+ #  WorldFlowDirection : [real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real3.markdown)
 
  `read-only`
 

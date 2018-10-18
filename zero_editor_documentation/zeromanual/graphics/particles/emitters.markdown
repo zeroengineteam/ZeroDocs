@@ -1,4 +1,4 @@
-Emitters are necessary components for a particle system that define the properties of a particle as it's created.  One of those properties is the spawn position, which is in part defined by the component itself.  The emitter types are [BoxParticleEmitter](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/boxparticleemitter.markdown), [SphericalParticleEmitter](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/sphericalparticleemitter.markdown), and [MeshParticleEmitter](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/meshparticleemitter.markdown), and each one defines a surface or curve that particles emit from.
+Emitters are necessary components for a particle system that define the properties of a particle as it's created.  One of those properties is the spawn position, which is in part defined by the component itself.  The emitter types are [BoxParticleEmitter](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/boxparticleemitter.markdown), [SphericalParticleEmitter](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/sphericalparticleemitter.markdown), and [MeshParticleEmitter](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/meshparticleemitter.markdown), and each one defines a surface or curve that particles emit from.
 
 
 
@@ -20,13 +20,13 @@ When an object is moving fast, the fact that its motion is an illusion becomes m
 
  # Related Material
  ## Manual
-- [Color Gradient](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/architecture/resources/colorgradient.markdown)
+- [Color Gradient](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/architecture/resources/colorgradient.markdown)
 
  ## Code Reference
-- [SpriteParticleSystem](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/code_reference/class_reference/spriteparticlesystem.markdown)
-- [BoxParticleEmitter](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/boxparticleemitter.markdown)
-- [SphericalParticleEmitter](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/sphericalparticleemitter.markdown)
-- [MeshParticleEmitter](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/meshparticleemitter.markdown)
+- [SpriteParticleSystem](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/class_reference/spriteparticlesystem.markdown)
+- [BoxParticleEmitter](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/boxparticleemitter.markdown)
+- [SphericalParticleEmitter](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/sphericalparticleemitter.markdown)
+- [MeshParticleEmitter](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/meshparticleemitter.markdown)
  
 
  

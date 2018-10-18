@@ -6,19 +6,19 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/projectsettings.markdown#projectsettings-void)|[ AutoTakeProjectScreenshot](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/projectsettings.markdown#autotakeprojectscreensho)|[component](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/component.markdown)| |
-| |[ ContentFolder](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/projectsettings.markdown#contentfolder-zero-engin)| | |
-| |[ EditorContentFolder](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/projectsettings.markdown#editorcontentfolder-zero)| | |
-| |[ ProjectFolder](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/projectsettings.markdown#projectfolder-zero-engin)| | |
-| |[ ProjectName](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/projectsettings.markdown#projectname-zero-engine)| | |
-| |[ ProjectOwner](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/projectsettings.markdown#projectowner-zero-engine)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/projectsettings.markdown#projectsettings-void)|[ AutoTakeProjectScreenshot](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/projectsettings.markdown#autotakeprojectscreensho)|[component](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/component.markdown)| |
+| |[ ContentFolder](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/projectsettings.markdown#contentfolder-zero-engin)| | |
+| |[ EditorContentFolder](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/projectsettings.markdown#editorcontentfolder-zero)| | |
+| |[ ProjectFolder](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/projectsettings.markdown#projectfolder-zero-engin)| | |
+| |[ ProjectName](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/projectsettings.markdown#projectname-zero-engine)| | |
+| |[ ProjectOwner](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/projectsettings.markdown#projectowner-zero-engine)| | |
 
 
  #  Properties
 
 
 ---  
- #  AutoTakeProjectScreenshot : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  AutoTakeProjectScreenshot : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -26,7 +26,7 @@
 
 
 ---  
- #  ContentFolder : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
+ #  ContentFolder : [string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)
 
  `read-only`
 
@@ -36,7 +36,7 @@
 
 
 ---  
- #  EditorContentFolder : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
+ #  EditorContentFolder : [string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)
 
  `read-only`
 
@@ -46,7 +46,7 @@
 
 
 ---  
- #  ProjectFolder : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
+ #  ProjectFolder : [string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)
 
  `read-only`
 
@@ -56,7 +56,7 @@
 
 
 ---  
- #  ProjectName : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
+ #  ProjectName : [string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)
 
  `read-only`
 
@@ -66,7 +66,7 @@
 
 
 ---  
- #  ProjectOwner : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
+ #  ProjectOwner : [string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch

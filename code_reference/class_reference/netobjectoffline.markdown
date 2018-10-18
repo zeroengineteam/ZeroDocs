@@ -6,17 +6,17 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ GameSession](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobjectoffline.markdown#gamesession-zero-engine)|[event](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/event.markdown)| |
-| |[ IsEndOfLifespan](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobjectoffline.markdown#isendoflifespan-zero-eng)| | |
-| |[ Object](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobjectoffline.markdown#object-zero-engine-docum)| | |
-| |[ Space](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobjectoffline.markdown#space-zero-engine-docume)| | |
+| |[ GameSession](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobjectoffline.markdown#gamesession-zero-engine)|[event](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/event.markdown)| |
+| |[ IsEndOfLifespan](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobjectoffline.markdown#isendoflifespan-zero-eng)| | |
+| |[ Object](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobjectoffline.markdown#object-zero-engine-docum)| | |
+| |[ Space](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobjectoffline.markdown#space-zero-engine-docume)| | |
 
 
  #  Properties
 
 
 ---  
- #  GameSession : [gamesession](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/gamesession.markdown)
+ #  GameSession : [gamesession](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/gamesession.markdown)
 
  `read-only`
 
@@ -26,7 +26,7 @@
 
 
 ---  
- #  IsEndOfLifespan : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  IsEndOfLifespan : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -36,7 +36,7 @@
 
 
 ---  
- #  Object : [cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
+ #  Object : [cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)
 
  `read-only`
 
@@ -46,7 +46,7 @@
 
 
 ---  
- #  Space : [space](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/space.markdown)
+ #  Space : [space](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/space.markdown)
 
  `read-only`
 

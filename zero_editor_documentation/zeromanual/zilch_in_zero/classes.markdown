@@ -1,7 +1,7 @@
-Classes and structs define the type of certain objects in Zilch, and the `class` keyword can create user-defined data types.  The [Variables](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/variables_and_data_types.markdown) and [Functions](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/functions.markdown) defined in a class or struct are all stored and referenced from instantiations.  In contrast with how Structs handle [Memory Management](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/memory_management.markdown), classes are copied `by-reference`.
+Classes and structs define the type of certain objects in Zilch, and the `class` keyword can create user-defined data types.  The [Variables](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/variables_and_data_types.markdown) and [Functions](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/functions.markdown) defined in a class or struct are all stored and referenced from instantiations.  In contrast with how Structs handle [Memory Management](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/memory_management.markdown), classes are copied `by-reference`.
 
  # Class Contents
-Classes in Zilch must be defined in [global scope](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/variables_and_data_types.markdown#global-scope).  The format for classes and structs are as shown below:
+Classes in Zilch must be defined in [global scope](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/variables_and_data_types.markdown#global-scope).  The format for classes and structs are as shown below:
 
 ```lang=csharp, name=Simple Classes
 struct SimpleStruct {}
@@ -23,7 +23,7 @@ class ClassInClass { var MyClass : SimpleClass; }
 The class `MyClass` is a member of `ClassInStruct`, which is a struct.  Having a class in a struct will cause Zilch to throw a compile-time exception.
 
  ## Static vs Non-Static Members
-Variables and functions inside a class or struct are known as members. Most member variables must be accessed through instantiations of the object.  The one exception are member variables with the [Static](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/attributes.markdown#static) [Attribute](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/attributes.markdown).
+Variables and functions inside a class or struct are known as members. Most member variables must be accessed through instantiations of the object.  The one exception are member variables with the [Static](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/attributes.markdown#static) [Attribute](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/attributes.markdown).
 
 ```lang=csharp, name=Static Members
 class MyClass
@@ -127,7 +127,7 @@ class Driver
 }
 ```
 
-The class `ExplicitCustom` defines a single constructor that takes a single [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown).  This means that `ExplicitCustom` cannot be default constructed, therefore the statement `ExplicitCustom();` fails to compile.  The default constructor can still be readded by explicitly defining it alongside other constructors, as shown in the class `ExplicitCustomAndDefault`.
+The class `ExplicitCustom` defines a single constructor that takes a single [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown).  This means that `ExplicitCustom` cannot be default constructed, therefore the statement `ExplicitCustom();` fails to compile.  The default constructor can still be readded by explicitly defining it alongside other constructors, as shown in the class `ExplicitCustomAndDefault`.
 
 NOTE: Explcitly defining a constructor is **not required** in Zilch as long as every data member of the class has a default constructor.
 
@@ -168,18 +168,18 @@ class Driver2
 5
 ```
 
-In the example above, `MyClass` [inherits](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/inheritance.markdown) from `MyStruct`.  `MyClass` has the same members as `MyStruct`, and the only difference between the two is that `MyClass` is a `class`.  Observe how `3`, `4`, and `5` are printed, which means that the destructor got called on `v3`, `v4`, and `v5`.  All struct destructors were ignored, while all class destructors were called.  The one exception is `v3`, which is of the type `ref MyStruct` and has the copy `by-reference` quality.
+In the example above, `MyClass` [inherits](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/inheritance.markdown) from `MyStruct`.  `MyClass` has the same members as `MyStruct`, and the only difference between the two is that `MyClass` is a `class`.  Observe how `3`, `4`, and `5` are printed, which means that the destructor got called on `v3`, `v4`, and `v5`.  All struct destructors were ignored, while all class destructors were called.  The one exception is `v3`, which is of the type `ref MyStruct` and has the copy `by-reference` quality.
 
  # Related Materials
  ## Manual
-- [Variables](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/variables_and_data_types.markdown)
-- [Functions](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/functions.markdown)
-- [memory_management](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/memory_management.markdown)
-- [attributes](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/attributes.markdown)
-- [inheritance](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/inheritance.markdown)
-- [Static](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/attributes.markdown#static)
+- [Variables](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/variables_and_data_types.markdown)
+- [Functions](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/functions.markdown)
+- [memory_management](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/memory_management.markdown)
+- [attributes](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/attributes.markdown)
+- [inheritance](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/inheritance.markdown)
+- [Static](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/attributes.markdown#static)
 
  ## Code Reference
-- [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown) 
+- [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown) 
 
  

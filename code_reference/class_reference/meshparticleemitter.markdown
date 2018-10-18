@@ -6,16 +6,16 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/meshparticleemitter.markdown#meshparticleemitter-void)|[ Mesh](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/meshparticleemitter.markdown#mesh-zero-engine-documen)|[particleemittershared](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/particleemittershared.markdown)| |
-| |[ MeshEmitMode](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/meshparticleemitter.markdown#meshemitmode-zero-engine)| | |
-| |[ NormalExtrude](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/meshparticleemitter.markdown#normalextrude-zero-engin)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/meshparticleemitter.markdown#meshparticleemitter-void)|[ Mesh](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/meshparticleemitter.markdown#mesh-zero-engine-documen)|[particleemittershared](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/particleemittershared.markdown)| |
+| |[ MeshEmitMode](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/meshparticleemitter.markdown#meshemitmode-zero-engine)| | |
+| |[ NormalExtrude](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/meshparticleemitter.markdown#normalextrude-zero-engin)| | |
 
 
  #  Properties
 
 
 ---  
- #  Mesh : [mesh](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/mesh.markdown)
+ #  Mesh : [mesh](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/mesh.markdown)
 
 > Mesh used for this Model.
 > ``` lang=cpp, name=Zilch
@@ -23,7 +23,7 @@
 
 
 ---  
- #  MeshEmitMode : [MeshEmitMode](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#meshemitmode)
+ #  MeshEmitMode : [MeshEmitMode](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#meshemitmode)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -31,7 +31,7 @@
 
 
 ---  
- #  NormalExtrude : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  NormalExtrude : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > Moved the spawn position along the normal scaled by this amount.
 > ``` lang=cpp, name=Zilch

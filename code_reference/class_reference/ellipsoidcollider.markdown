@@ -6,15 +6,15 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/ellipsoidcollider.markdown#ellipsoidcollider-void)|[ Radii](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/ellipsoidcollider.markdown#radii-zero-engine-docume)|[collider](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/collider.markdown)| |
-| |[ WorldRadii](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/ellipsoidcollider.markdown#worldradii-zero-engine-d)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/ellipsoidcollider.markdown#ellipsoidcollider-void)|[ Radii](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/ellipsoidcollider.markdown#radii-zero-engine-docume)|[collider](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/collider.markdown)| |
+| |[ WorldRadii](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/ellipsoidcollider.markdown#worldradii-zero-engine-d)| | |
 
 
  #  Properties
 
 
 ---  
- #  Radii : [real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)
+ #  Radii : [real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real3.markdown)
 
 > The x, y, and z radius of the ellipsoid.
 > ``` lang=cpp, name=Zilch
@@ -22,7 +22,7 @@
 
 
 ---  
- #  WorldRadii : [real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)
+ #  WorldRadii : [real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real3.markdown)
 
  `read-only`
 

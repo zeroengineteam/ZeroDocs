@@ -2,16 +2,16 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/indexedhalfedge.markdown#indexedhalfedge-void)|[ FaceIndex](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/indexedhalfedge.markdown#faceindex-zero-engine-do)|[safeid32object](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/safeid32object.markdown)| |
-| |[ TwinIndex](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/indexedhalfedge.markdown#twinindex-zero-engine-do)| | |
-| |[ VertexIndex](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/indexedhalfedge.markdown#vertexindex-zero-engine)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/indexedhalfedge.markdown#indexedhalfedge-void)|[ FaceIndex](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/indexedhalfedge.markdown#faceindex-zero-engine-do)|[safeid32object](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/safeid32object.markdown)| |
+| |[ TwinIndex](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/indexedhalfedge.markdown#twinindex-zero-engine-do)| | |
+| |[ VertexIndex](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/indexedhalfedge.markdown#vertexindex-zero-engine)| | |
 
 
  #  Properties
 
 
 ---  
- #  FaceIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  FaceIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
  `read-only`
 
@@ -21,7 +21,7 @@
 
 
 ---  
- #  TwinIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  TwinIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
  `read-only`
 
@@ -31,7 +31,7 @@
 
 
 ---  
- #  VertexIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  VertexIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
  `read-only`
 
@@ -65,7 +65,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[indexedhalfedge](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/indexedhalfedge.markdown)| |
+> |p0|[indexedhalfedge](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/indexedhalfedge.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function IndexedHalfEdge(p0 : IndexedHalfEdge)
 > ``` 

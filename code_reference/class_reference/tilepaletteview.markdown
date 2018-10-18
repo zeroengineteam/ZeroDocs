@@ -2,18 +2,18 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ Archetype](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/tilepaletteview.markdown#archetype-zero-engine-do)|[composite](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/composite.markdown)| |
-| |[ Collision](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/tilepaletteview.markdown#collision-zero-engine-do)| | |
-| |[ Mergeable](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/tilepaletteview.markdown#mergeable-zero-engine-do)| | |
-| |[ Sprite](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/tilepaletteview.markdown#sprite-zero-engine-docum)| | |
-| |[ TilePalette](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/tilepaletteview.markdown#tilepalette-zero-engine)| | |
+| |[ Archetype](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/tilepaletteview.markdown#archetype-zero-engine-do)|[composite](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/composite.markdown)| |
+| |[ Collision](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/tilepaletteview.markdown#collision-zero-engine-do)| | |
+| |[ Mergeable](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/tilepaletteview.markdown#mergeable-zero-engine-do)| | |
+| |[ Sprite](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/tilepaletteview.markdown#sprite-zero-engine-docum)| | |
+| |[ TilePalette](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/tilepaletteview.markdown#tilepalette-zero-engine)| | |
 
 
  #  Properties
 
 
 ---  
- #  Archetype : [archetype](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/archetype.markdown)
+ #  Archetype : [archetype](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/archetype.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -21,7 +21,7 @@
 
 
 ---  
- #  Collision : [physicsmesh](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/physicsmesh.markdown)
+ #  Collision : [physicsmesh](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/physicsmesh.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -29,7 +29,7 @@
 
 
 ---  
- #  Mergeable : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  Mergeable : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -37,7 +37,7 @@
 
 
 ---  
- #  Sprite : [spritesource](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spritesource.markdown)
+ #  Sprite : [spritesource](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/spritesource.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -45,7 +45,7 @@
 
 
 ---  
- #  TilePalette : [tilepalettesource](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/tilepalettesource.markdown)
+ #  TilePalette : [tilepalettesource](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/tilepalettesource.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch

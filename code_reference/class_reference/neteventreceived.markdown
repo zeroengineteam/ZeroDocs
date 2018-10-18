@@ -6,17 +6,17 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ Destination](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/neteventreceived.markdown#destination-zero-engine)|[event](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/event.markdown)| |
-| |[ NetEvent](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/neteventreceived.markdown#netevent-zero-engine-doc)| | |
-| |[ ReturnAllow](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/neteventreceived.markdown#returnallow-zero-engine)| | |
-| |[ TheirNetPeerId](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/neteventreceived.markdown#theirnetpeerid-zero-engi)| | |
+| |[ Destination](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/neteventreceived.markdown#destination-zero-engine)|[event](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/event.markdown)| |
+| |[ NetEvent](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/neteventreceived.markdown#netevent-zero-engine-doc)| | |
+| |[ ReturnAllow](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/neteventreceived.markdown#returnallow-zero-engine)| | |
+| |[ TheirNetPeerId](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/neteventreceived.markdown#theirnetpeerid-zero-engi)| | |
 
 
  #  Properties
 
 
 ---  
- #  Destination : [cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
+ #  Destination : [cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)
 
  `read-only`
 
@@ -26,7 +26,7 @@
 
 
 ---  
- #  NetEvent : [event](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/event.markdown)
+ #  NetEvent : [event](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/event.markdown)
 
  `read-only`
 
@@ -36,7 +36,7 @@
 
 
 ---  
- #  ReturnAllow : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  ReturnAllow : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > Return: Allow the received network event to be dispatched on the destination object?
 > ``` lang=cpp, name=Zilch
@@ -44,7 +44,7 @@
 
 
 ---  
- #  TheirNetPeerId : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  TheirNetPeerId : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
  `read-only`
 

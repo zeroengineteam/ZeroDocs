@@ -2,33 +2,33 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ GetOffsetX](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spritesheetimporter.markdown#getoffsetx-zero-engine-d)|[ AlphaColor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spritesheetimporter.markdown#alphacolor-zero-engine-d)|[composite](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/composite.markdown)| |
-|[ GetOffsetY](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spritesheetimporter.markdown#getoffsety-zero-engine-d)|[ CreatePalette](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spritesheetimporter.markdown#createpalette-zero-engin)| | |
-|[ SetOffsetX](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spritesheetimporter.markdown#setoffsetx-void)|[ FrameCount](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spritesheetimporter.markdown#framecount-zero-engine-d)| | |
-|[ SetOffsetY](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spritesheetimporter.markdown#setoffsety-void)|[ FrameHeight](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spritesheetimporter.markdown#frameheight-zero-engine)| | |
-| |[ FrameRate](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spritesheetimporter.markdown#framerate-zero-engine-do)| | |
-| |[ FramesPerRow](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spritesheetimporter.markdown#framesperrow-zero-engine)| | |
-| |[ FrameWidth](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spritesheetimporter.markdown#framewidth-zero-engine-d)| | |
-| |[ ImportFrames](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spritesheetimporter.markdown#importframes-zero-engine)| | |
-| |[ Name](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spritesheetimporter.markdown#name-zero-engine-documen)| | |
-| |[ NumberOfRows](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spritesheetimporter.markdown#numberofrows-zero-engine)| | |
-| |[ Origin](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spritesheetimporter.markdown#origin-zero-engine-docum)| | |
-| |[ PixelsPerUnit](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spritesheetimporter.markdown#pixelsperunit-zero-engin)| | |
-| |[ PreviewAnimate](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spritesheetimporter.markdown#previewanimate-zero-engi)| | |
-| |[ PreviewFrame](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spritesheetimporter.markdown#previewframe-zero-engine)| | |
-| |[ Smoothing](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spritesheetimporter.markdown#smoothing-zero-engine-do)| | |
-| |[ SourceSizeX](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spritesheetimporter.markdown#sourcesizex-zero-engine)| | |
-| |[ SourceSizeY](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spritesheetimporter.markdown#sourcesizey-zero-engine)| | |
-| |[ SpacingX](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spritesheetimporter.markdown#spacingx-zero-engine-doc)| | |
-| |[ SpacingY](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spritesheetimporter.markdown#spacingy-zero-engine-doc)| | |
-| |[ UseAlphaColorKey](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spritesheetimporter.markdown#usealphacolorkey-zero-en)| | |
+|[ GetOffsetX](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/spritesheetimporter.markdown#getoffsetx-zero-engine-d)|[ AlphaColor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/spritesheetimporter.markdown#alphacolor-zero-engine-d)|[composite](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/composite.markdown)| |
+|[ GetOffsetY](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/spritesheetimporter.markdown#getoffsety-zero-engine-d)|[ CreatePalette](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/spritesheetimporter.markdown#createpalette-zero-engin)| | |
+|[ SetOffsetX](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/spritesheetimporter.markdown#setoffsetx-void)|[ FrameCount](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/spritesheetimporter.markdown#framecount-zero-engine-d)| | |
+|[ SetOffsetY](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/spritesheetimporter.markdown#setoffsety-void)|[ FrameHeight](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/spritesheetimporter.markdown#frameheight-zero-engine)| | |
+| |[ FrameRate](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/spritesheetimporter.markdown#framerate-zero-engine-do)| | |
+| |[ FramesPerRow](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/spritesheetimporter.markdown#framesperrow-zero-engine)| | |
+| |[ FrameWidth](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/spritesheetimporter.markdown#framewidth-zero-engine-d)| | |
+| |[ ImportFrames](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/spritesheetimporter.markdown#importframes-zero-engine)| | |
+| |[ Name](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/spritesheetimporter.markdown#name-zero-engine-documen)| | |
+| |[ NumberOfRows](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/spritesheetimporter.markdown#numberofrows-zero-engine)| | |
+| |[ Origin](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/spritesheetimporter.markdown#origin-zero-engine-docum)| | |
+| |[ PixelsPerUnit](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/spritesheetimporter.markdown#pixelsperunit-zero-engin)| | |
+| |[ PreviewAnimate](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/spritesheetimporter.markdown#previewanimate-zero-engi)| | |
+| |[ PreviewFrame](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/spritesheetimporter.markdown#previewframe-zero-engine)| | |
+| |[ Smoothing](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/spritesheetimporter.markdown#smoothing-zero-engine-do)| | |
+| |[ SourceSizeX](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/spritesheetimporter.markdown#sourcesizex-zero-engine)| | |
+| |[ SourceSizeY](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/spritesheetimporter.markdown#sourcesizey-zero-engine)| | |
+| |[ SpacingX](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/spritesheetimporter.markdown#spacingx-zero-engine-doc)| | |
+| |[ SpacingY](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/spritesheetimporter.markdown#spacingy-zero-engine-doc)| | |
+| |[ UseAlphaColorKey](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/spritesheetimporter.markdown#usealphacolorkey-zero-en)| | |
 
 
  #  Properties
 
 
 ---  
- #  AlphaColor : [real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)
+ #  AlphaColor : [real4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real4.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -36,7 +36,7 @@
 
 
 ---  
- #  CreatePalette : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  CreatePalette : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -44,7 +44,7 @@
 
 
 ---  
- #  FrameCount : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  FrameCount : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
  `read-only`
 
@@ -54,7 +54,7 @@
 
 
 ---  
- #  FrameHeight : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  FrameHeight : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -62,7 +62,7 @@
 
 
 ---  
- #  FrameRate : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  FrameRate : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -70,7 +70,7 @@
 
 
 ---  
- #  FramesPerRow : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  FramesPerRow : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -78,7 +78,7 @@
 
 
 ---  
- #  FrameWidth : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  FrameWidth : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -86,7 +86,7 @@
 
 
 ---  
- #  ImportFrames : [ImportFrames](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#importframes)
+ #  ImportFrames : [ImportFrames](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#importframes)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -94,7 +94,7 @@
 
 
 ---  
- #  Name : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
+ #  Name : [string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -102,7 +102,7 @@
 
 
 ---  
- #  NumberOfRows : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  NumberOfRows : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -110,7 +110,7 @@
 
 
 ---  
- #  Origin : [SpriteOrigin](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#spriteorigin)
+ #  Origin : [SpriteOrigin](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#spriteorigin)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -118,7 +118,7 @@
 
 
 ---  
- #  PixelsPerUnit : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  PixelsPerUnit : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -126,7 +126,7 @@
 
 
 ---  
- #  PreviewAnimate : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  PreviewAnimate : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -134,7 +134,7 @@
 
 
 ---  
- #  PreviewFrame : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  PreviewFrame : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -142,7 +142,7 @@
 
 
 ---  
- #  Smoothing : [SpriteSampling](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#spritesampling)
+ #  Smoothing : [SpriteSampling](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#spritesampling)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -150,7 +150,7 @@
 
 
 ---  
- #  SourceSizeX : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  SourceSizeX : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -158,7 +158,7 @@
 
 
 ---  
- #  SourceSizeY : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  SourceSizeY : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -166,7 +166,7 @@
 
 
 ---  
- #  SpacingX : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  SpacingX : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -174,7 +174,7 @@
 
 
 ---  
- #  SpacingY : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  SpacingY : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -182,7 +182,7 @@
 
 
 ---  
- #  UseAlphaColorKey : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  UseAlphaColorKey : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -194,7 +194,7 @@
 
 
 ---  
- #  GetOffsetX : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  GetOffsetX : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
@@ -205,7 +205,7 @@
 
 
 ---  
- #  GetOffsetY : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  GetOffsetY : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
@@ -221,7 +221,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |value|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function SetOffsetX(value : Integer)
 > ``` 
@@ -233,7 +233,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |value|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function SetOffsetY(value : Integer)
 > ``` 

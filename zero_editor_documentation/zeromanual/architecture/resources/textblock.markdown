@@ -1,6 +1,6 @@
-[TextBlock](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/textblock.markdown) resources are used to organize and format the visual style of SpriteText in a project. They are a very helpful resource any time more than a single sentence of text needs to be used.
+[TextBlock](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/textblock.markdown) resources are used to organize and format the visual style of SpriteText in a project. They are a very helpful resource any time more than a single sentence of text needs to be used.
 
-NOTE: **Recommended Reading**  This section covers topics that may not have been addressed yet. To learn or review those topics, please see: [Area component](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/sprites/area.markdown), [Sprites](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/sprites.markdown), & [SpriteText](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/sprites/spritetext.markdown)
+NOTE: **Recommended Reading**  This section covers topics that may not have been addressed yet. To learn or review those topics, please see: [Area component](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/sprites/area.markdown), [Sprites](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/sprites.markdown), & [SpriteText](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/sprites/spritetext.markdown)
 
  # Common Uses
 
@@ -9,7 +9,7 @@ NOTE: **Recommended Reading**  This section covers topics that may not have been
  - Easier text swapping
 
  # Using a TextBlock
-Adding Text using the TextBlock requires two elements: a TextBlock resource and a [SpriteText](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/SpriteText.markdown) component. To get the text from the TextBlock into the SpriteText you will need a component like this
+Adding Text using the TextBlock requires two elements: a TextBlock resource and a [SpriteText](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/SpriteText.markdown) component. To get the text from the TextBlock into the SpriteText you will need a component like this
 
 ```lang=csharp
 [RunInEditor]
@@ -49,7 +49,7 @@ class SpriteTextBlock : ZilchComponent
 
 ```
 
-The `SpriteTextBlock` component is added to the object whose SpriteText needs to be changed. These two work in tandem to change the `Text` property of the SpriteText component. To create a new TextBlock, use TextBlock requires two elements: a TextBlock resource and and a `SpriteTextBlock` component. The `SpriteTextBlock` component is added to the object whose SpriteText needs to be changed. These two work in tandem to change the `Text` property of the SpriteText component. To create a new TextBlock, use [commands](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [Add](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#add) and select TextBlock from the resource list. This will open a new TextBlock in a new Tab where text may be written. After entering the desired text, simply add the `SpriteTextBlock` component to the Game Object and set the TextBlock property to the new TextBlock. 
+The `SpriteTextBlock` component is added to the object whose SpriteText needs to be changed. These two work in tandem to change the `Text` property of the SpriteText component. To create a new TextBlock, use TextBlock requires two elements: a TextBlock resource and and a `SpriteTextBlock` component. The `SpriteTextBlock` component is added to the object whose SpriteText needs to be changed. These two work in tandem to change the `Text` property of the SpriteText component. To create a new TextBlock, use [commands](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [Add](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#add) and select TextBlock from the resource list. This will open a new TextBlock in a new Tab where text may be written. After entering the desired text, simply add the `SpriteTextBlock` component to the Game Object and set the TextBlock property to the new TextBlock. 
 
 
 ![image](https://media.githubusercontent.com/media/zeroengineteam/ZeroFiles/master/doc_files/47035.png)
@@ -67,13 +67,13 @@ The `Area` component can help solve this problem. While SpriteTextBlock keeps th
 
  # Related Materials
  ## Manual Pages
-- [Area component](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation.markdown)
-- [Sprites](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation.markdown)
-- [SpriteText](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation.markdown)
-- [commands](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown)
+- [Area component](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation.markdown)
+- [Sprites](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation.markdown)
+- [SpriteText](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation.markdown)
+- [commands](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown)
 
  ## Reference Pages
-- [textblock](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/textblock.markdown)
-- [SpriteText](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/SpriteText.markdown)  
+- [textblock](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/textblock.markdown)
+- [SpriteText](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/SpriteText.markdown)  
 
  

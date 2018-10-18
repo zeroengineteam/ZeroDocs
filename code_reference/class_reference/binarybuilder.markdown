@@ -2,7 +2,7 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/binarybuilder.markdown#binarybuilder-void)| |[buildercomponent](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/buildercomponent.markdown)| |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/binarybuilder.markdown#binarybuilder-void)| |[buildercomponent](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/buildercomponent.markdown)| |
 
 
  #  Properties

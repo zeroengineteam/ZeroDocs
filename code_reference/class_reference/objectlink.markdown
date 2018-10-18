@@ -6,21 +6,21 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/objectlink.markdown#objectlink-void)|[ LocalPointA](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/objectlink.markdown#localpointa-zero-engine)|[component](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/component.markdown)| |
-| |[ LocalPointB](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/objectlink.markdown#localpointb-zero-engine)| | |
-| |[ ObjectA](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/objectlink.markdown#objecta-zero-engine-docu)| | |
-| |[ ObjectAPath](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/objectlink.markdown#objectapath-zero-engine)| | |
-| |[ ObjectB](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/objectlink.markdown#objectb-zero-engine-docu)| | |
-| |[ ObjectBPath](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/objectlink.markdown#objectbpath-zero-engine)| | |
-| |[ WorldPointA](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/objectlink.markdown#worldpointa-zero-engine)| | |
-| |[ WorldPointB](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/objectlink.markdown#worldpointb-zero-engine)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/objectlink.markdown#objectlink-void)|[ LocalPointA](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/objectlink.markdown#localpointa-zero-engine)|[component](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/component.markdown)| |
+| |[ LocalPointB](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/objectlink.markdown#localpointb-zero-engine)| | |
+| |[ ObjectA](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/objectlink.markdown#objecta-zero-engine-docu)| | |
+| |[ ObjectAPath](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/objectlink.markdown#objectapath-zero-engine)| | |
+| |[ ObjectB](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/objectlink.markdown#objectb-zero-engine-docu)| | |
+| |[ ObjectBPath](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/objectlink.markdown#objectbpath-zero-engine)| | |
+| |[ WorldPointA](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/objectlink.markdown#worldpointa-zero-engine)| | |
+| |[ WorldPointB](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/objectlink.markdown#worldpointb-zero-engine)| | |
 
 
  #  Properties
 
 
 ---  
- #  LocalPointA : [real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)
+ #  LocalPointA : [real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real3.markdown)
 
 > The Point on Object A in local space.
 > ``` lang=cpp, name=Zilch
@@ -28,7 +28,7 @@
 
 
 ---  
- #  LocalPointB : [real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)
+ #  LocalPointB : [real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real3.markdown)
 
 > The Point on Object B in local space.
 > ``` lang=cpp, name=Zilch
@@ -36,7 +36,7 @@
 
 
 ---  
- #  ObjectA : [cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
+ #  ObjectA : [cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)
 
 > The first object that is being connected to. Set this to null to clear the link.
 > ``` lang=cpp, name=Zilch
@@ -44,7 +44,7 @@
 
 
 ---  
- #  ObjectAPath : [cogpath](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cogpath.markdown)
+ #  ObjectAPath : [cogpath](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cogpath.markdown)
 
 > CogPath to object A.
 > ``` lang=cpp, name=Zilch
@@ -52,7 +52,7 @@
 
 
 ---  
- #  ObjectB : [cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
+ #  ObjectB : [cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)
 
 > The second object that is being connected to. Set this to null to clear the link.
 > ``` lang=cpp, name=Zilch
@@ -60,7 +60,7 @@
 
 
 ---  
- #  ObjectBPath : [cogpath](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cogpath.markdown)
+ #  ObjectBPath : [cogpath](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cogpath.markdown)
 
 > CogPath to object B.
 > ``` lang=cpp, name=Zilch
@@ -68,7 +68,7 @@
 
 
 ---  
- #  WorldPointA : [real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)
+ #  WorldPointA : [real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real3.markdown)
 
 > The point on object A in world space.
 > ``` lang=cpp, name=Zilch
@@ -76,7 +76,7 @@
 
 
 ---  
- #  WorldPointB : [real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)
+ #  WorldPointB : [real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real3.markdown)
 
 > The point on object B in world space.
 > ``` lang=cpp, name=Zilch

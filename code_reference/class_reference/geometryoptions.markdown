@@ -2,31 +2,31 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ ChangeBasis](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/geometryoptions.markdown#changebasis-zero-engine)|Object| |
-| |[ CollapsePivots](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/geometryoptions.markdown#collapsepivots-zero-engi)| | |
-| |[ CreateArchetype](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/geometryoptions.markdown#createarchetype-zero-eng)| | |
-| |[ FlipWindingOrder](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/geometryoptions.markdown#flipwindingorder-zero-en)| | |
-| |[ GenerateSmoothNormals](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/geometryoptions.markdown#generatesmoothnormals-ze)| | |
-| |[ GenerateTangentSpace](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/geometryoptions.markdown#generatetangentspace-zer)| | |
-| |[ ImportAnimations](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/geometryoptions.markdown#importanimations-zero-en)| | |
-| |[ ImportMeshes](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/geometryoptions.markdown#importmeshes-zero-engine)| | |
-| |[ ImportTextures](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/geometryoptions.markdown#importtextures-zero-engi)| | |
-| |[ InvertUvYAxis](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/geometryoptions.markdown#invertuvyaxis-zero-engin)| | |
-| |[ OriginOffset](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/geometryoptions.markdown#originoffset-zero-engine)| | |
-| |[ PhysicsImport](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/geometryoptions.markdown#physicsimport-zero-engin)| | |
-| |[ ScaleConversion](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/geometryoptions.markdown#scaleconversion-zero-eng)| | |
-| |[ ScaleFactor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/geometryoptions.markdown#scalefactor-zero-engine)| | |
-| |[ SmoothingAngleDegreesThreshold](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/geometryoptions.markdown#smoothingangledegreesthr)| | |
-| |[ XBasisTo](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/geometryoptions.markdown#xbasisto-zero-engine-doc)| | |
-| |[ YBasisTo](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/geometryoptions.markdown#ybasisto-zero-engine-doc)| | |
-| |[ ZBasisTo](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/geometryoptions.markdown#zbasisto-zero-engine-doc)| | |
+| |[ ChangeBasis](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/geometryoptions.markdown#changebasis-zero-engine)|Object| |
+| |[ CollapsePivots](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/geometryoptions.markdown#collapsepivots-zero-engi)| | |
+| |[ CreateArchetype](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/geometryoptions.markdown#createarchetype-zero-eng)| | |
+| |[ FlipWindingOrder](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/geometryoptions.markdown#flipwindingorder-zero-en)| | |
+| |[ GenerateSmoothNormals](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/geometryoptions.markdown#generatesmoothnormals-ze)| | |
+| |[ GenerateTangentSpace](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/geometryoptions.markdown#generatetangentspace-zer)| | |
+| |[ ImportAnimations](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/geometryoptions.markdown#importanimations-zero-en)| | |
+| |[ ImportMeshes](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/geometryoptions.markdown#importmeshes-zero-engine)| | |
+| |[ ImportTextures](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/geometryoptions.markdown#importtextures-zero-engi)| | |
+| |[ InvertUvYAxis](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/geometryoptions.markdown#invertuvyaxis-zero-engin)| | |
+| |[ OriginOffset](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/geometryoptions.markdown#originoffset-zero-engine)| | |
+| |[ PhysicsImport](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/geometryoptions.markdown#physicsimport-zero-engin)| | |
+| |[ ScaleConversion](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/geometryoptions.markdown#scaleconversion-zero-eng)| | |
+| |[ ScaleFactor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/geometryoptions.markdown#scalefactor-zero-engine)| | |
+| |[ SmoothingAngleDegreesThreshold](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/geometryoptions.markdown#smoothingangledegreesthr)| | |
+| |[ XBasisTo](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/geometryoptions.markdown#xbasisto-zero-engine-doc)| | |
+| |[ YBasisTo](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/geometryoptions.markdown#ybasisto-zero-engine-doc)| | |
+| |[ ZBasisTo](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/geometryoptions.markdown#zbasisto-zero-engine-doc)| | |
 
 
  #  Properties
 
 
 ---  
- #  ChangeBasis : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  ChangeBasis : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -34,7 +34,7 @@
 
 
 ---  
- #  CollapsePivots : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  CollapsePivots : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -42,7 +42,7 @@
 
 
 ---  
- #  CreateArchetype : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  CreateArchetype : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -50,7 +50,7 @@
 
 
 ---  
- #  FlipWindingOrder : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  FlipWindingOrder : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -58,7 +58,7 @@
 
 
 ---  
- #  GenerateSmoothNormals : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  GenerateSmoothNormals : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -66,7 +66,7 @@
 
 
 ---  
- #  GenerateTangentSpace : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  GenerateTangentSpace : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -74,7 +74,7 @@
 
 
 ---  
- #  ImportAnimations : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  ImportAnimations : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -82,7 +82,7 @@
 
 
 ---  
- #  ImportMeshes : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  ImportMeshes : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -90,7 +90,7 @@
 
 
 ---  
- #  ImportTextures : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  ImportTextures : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -98,7 +98,7 @@
 
 
 ---  
- #  InvertUvYAxis : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  InvertUvYAxis : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -106,7 +106,7 @@
 
 
 ---  
- #  OriginOffset : [real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)
+ #  OriginOffset : [real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real3.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -114,7 +114,7 @@
 
 
 ---  
- #  PhysicsImport : [PhysicsImport](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#physicsimport)
+ #  PhysicsImport : [PhysicsImport](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#physicsimport)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -122,7 +122,7 @@
 
 
 ---  
- #  ScaleConversion : [ScaleConversion](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#scaleconversion)
+ #  ScaleConversion : [ScaleConversion](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#scaleconversion)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -130,7 +130,7 @@
 
 
 ---  
- #  ScaleFactor : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  ScaleFactor : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -138,7 +138,7 @@
 
 
 ---  
- #  SmoothingAngleDegreesThreshold : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  SmoothingAngleDegreesThreshold : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -146,7 +146,7 @@
 
 
 ---  
- #  XBasisTo : [BasisType](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#basistype)
+ #  XBasisTo : [BasisType](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#basistype)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -154,7 +154,7 @@
 
 
 ---  
- #  YBasisTo : [BasisType](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#basistype)
+ #  YBasisTo : [BasisType](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#basistype)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -162,7 +162,7 @@
 
 
 ---  
- #  ZBasisTo : [BasisType](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#basistype)
+ #  ZBasisTo : [BasisType](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#basistype)
 
 > 
 > ``` lang=cpp, name=Zilch

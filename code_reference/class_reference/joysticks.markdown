@@ -4,15 +4,15 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ JoystickCount](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/joysticks.markdown#joystickcount-zero-engin)|[eventobject](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/eventobject.markdown)| |
-| |[ Joysticks](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/joysticks.markdown#joysticks-zero-engine-do)| | |
+| |[ JoystickCount](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/joysticks.markdown#joystickcount-zero-engin)|[eventobject](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/eventobject.markdown)| |
+| |[ Joysticks](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/joysticks.markdown#joysticks-zero-engine-do)| | |
 
 
  #  Properties
 
 
 ---  
- #  JoystickCount : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  JoystickCount : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
  `read-only`
 
@@ -22,7 +22,7 @@
 
 
 ---  
- #  Joysticks : [joystickrange](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/joystickrange.markdown)
+ #  Joysticks : [joystickrange](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/joystickrange.markdown)
 
  `read-only`
 

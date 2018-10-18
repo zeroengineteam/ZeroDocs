@@ -4,16 +4,16 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ Line](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/webbrowserconsoleevent.markdown#line-zero-engine-documen)|[webbrowserevent](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/webbrowserevent.markdown)| |
-| |[ Message](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/webbrowserconsoleevent.markdown#message-zero-engine-docu)| | |
-| |[ Source](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/webbrowserconsoleevent.markdown#source-zero-engine-docum)| | |
+| |[ Line](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/webbrowserconsoleevent.markdown#line-zero-engine-documen)|[webbrowserevent](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/webbrowserevent.markdown)| |
+| |[ Message](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/webbrowserconsoleevent.markdown#message-zero-engine-docu)| | |
+| |[ Source](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/webbrowserconsoleevent.markdown#source-zero-engine-docum)| | |
 
 
  #  Properties
 
 
 ---  
- #  Line : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  Line : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -21,7 +21,7 @@
 
 
 ---  
- #  Message : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
+ #  Message : [string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -29,7 +29,7 @@
 
 
 ---  
- #  Source : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
+ #  Source : [string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch

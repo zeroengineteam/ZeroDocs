@@ -2,13 +2,13 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ DumpValue](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/console.markdown#dumpvalue-void)| | | |
-|[ ReadBoolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/console.markdown#readboolean-zero-engine)| | | |
-|[ ReadInteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/console.markdown#readinteger-zero-engine)| | | |
-|[ ReadReal](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/console.markdown#readreal-zero-engine-doc)| | | |
-|[ ReadString](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/console.markdown#readstring-zero-engine-d)| | | |
-|[ Write](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/console.markdown#write-void)| | | |
-|[ WriteLine](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/console.markdown#writeline-void)| | | |
+|[ DumpValue](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/console.markdown#dumpvalue-void)| | | |
+|[ ReadBoolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/console.markdown#readboolean-zero-engine)| | | |
+|[ ReadInteger](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/console.markdown#readinteger-zero-engine)| | | |
+|[ ReadReal](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/console.markdown#readreal-zero-engine-doc)| | | |
+|[ ReadString](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/console.markdown#readstring-zero-engine-d)| | | |
+|[ Write](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/console.markdown#write-void)| | | |
+|[ WriteLine](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/console.markdown#writeline-void)| | | |
 
 
  #  Properties
@@ -41,14 +41,14 @@
 > |Name|Type|Description|
 > |---|---|---|
 > |p0|T| |
-> |p1|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |p1|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function DumpValue(p0 : T, p1 : Integer)
 > ``` 
 
 
 ---  
- #  ReadBoolean : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  ReadBoolean : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `static`
 
@@ -61,7 +61,7 @@
 
 
 ---  
- #  ReadInteger : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  ReadInteger : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
  `static`
 
@@ -74,7 +74,7 @@
 
 
 ---  
- #  ReadReal : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  ReadReal : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
  `static`
 
@@ -87,7 +87,7 @@
 
 
 ---  
- #  ReadString : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
+ #  ReadString : [string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)
 
  `static`
 

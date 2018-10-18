@@ -4,21 +4,21 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/jointtool.markdown#jointtool-void)|[ AttachToCommonParent](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/jointtool.markdown#attachtocommonparent-zer)|[objectconnectingtool](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/objectconnectingtool.markdown)| |
-| |[ AttachToWorld](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/jointtool.markdown#attachtoworld-zero-engin)| | |
-| |[ AutoSnaps](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/jointtool.markdown#autosnaps-zero-engine-do)| | |
-| |[ JointType](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/jointtool.markdown#jointtype-zero-engine-do)| | |
-| |[ Length](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/jointtool.markdown#length-zero-engine-docum)| | |
-| |[ MaxImpulse](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/jointtool.markdown#maximpulse-zero-engine-d)| | |
-| |[ OverrideLength](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/jointtool.markdown#overridelength-zero-engi)| | |
-| |[ UseCenter](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/jointtool.markdown#usecenter-zero-engine-do)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/jointtool.markdown#jointtool-void)|[ AttachToCommonParent](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/jointtool.markdown#attachtocommonparent-zer)|[objectconnectingtool](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/objectconnectingtool.markdown)| |
+| |[ AttachToWorld](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/jointtool.markdown#attachtoworld-zero-engin)| | |
+| |[ AutoSnaps](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/jointtool.markdown#autosnaps-zero-engine-do)| | |
+| |[ JointType](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/jointtool.markdown#jointtype-zero-engine-do)| | |
+| |[ Length](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/jointtool.markdown#length-zero-engine-docum)| | |
+| |[ MaxImpulse](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/jointtool.markdown#maximpulse-zero-engine-d)| | |
+| |[ OverrideLength](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/jointtool.markdown#overridelength-zero-engi)| | |
+| |[ UseCenter](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/jointtool.markdown#usecenter-zero-engine-do)| | |
 
 
  #  Properties
 
 
 ---  
- #  AttachToCommonParent : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  AttachToCommonParent : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -26,7 +26,7 @@
 
 
 ---  
- #  AttachToWorld : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  AttachToWorld : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -34,7 +34,7 @@
 
 
 ---  
- #  AutoSnaps : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  AutoSnaps : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -42,7 +42,7 @@
 
 
 ---  
- #  JointType : [JointToolTypes](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#jointtooltypes)
+ #  JointType : [JointToolTypes](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#jointtooltypes)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -50,7 +50,7 @@
 
 
 ---  
- #  Length : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  Length : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -58,7 +58,7 @@
 
 
 ---  
- #  MaxImpulse : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  MaxImpulse : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -66,7 +66,7 @@
 
 
 ---  
- #  OverrideLength : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  OverrideLength : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -74,7 +74,7 @@
 
 
 ---  
- #  UseCenter : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  UseCenter : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch

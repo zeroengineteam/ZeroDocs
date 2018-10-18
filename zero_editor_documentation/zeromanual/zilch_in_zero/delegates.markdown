@@ -21,7 +21,7 @@ class DelegateHolder
 
 ```
 
-The `DelegateHolder` class contains a delegate member variable `Greeting` that is set in the [constructor](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/classes.markdown#constructors-and-destruc) to the member function `Introduce()`.
+The `DelegateHolder` class contains a delegate member variable `Greeting` that is set in the [constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/classes.markdown#constructors-and-destruc) to the member function `Introduce()`.
 
 ```
 class MyMathLib
@@ -40,7 +40,7 @@ class MyMathLib
 }
 ```
 
-The `MyMathLib` class contains just a single [static](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/attributes.markdown#static) [function](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/functions.markdown) that returns the product of exponentiation. This function will be used to demonstrate how to use a delegate in the next and final class.
+The `MyMathLib` class contains just a single [static](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/attributes.markdown#static) [function](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/functions.markdown) that returns the product of exponentiation. This function will be used to demonstrate how to use a delegate in the next and final class.
 
 ```
 class DelegateDriver : ZilchComponent
@@ -251,7 +251,7 @@ class Driver
 ```
 
  # Member Function Delegates
-IMPORTANT: Delegates that point at member functions can create memory leaks if they make cycles. See [memory_management](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/memory_management.markdown) for more.
+IMPORTANT: Delegates that point at member functions can create memory leaks if they make cycles. See [memory_management](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/memory_management.markdown) for more.
 
 IMPORTANT: Delegates pointing to member functions will throw runtime errors if the instance it was bound with was destroyed:
 
@@ -287,8 +287,8 @@ Attempted to invoke a null delegate
 
  # Related Materials
  ## Manual
-- [memory_management](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/memory_management.markdown)
-- [classes](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/classes.markdown)
-- [attributes](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/attributes.markdown) 
+- [memory_management](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/memory_management.markdown)
+- [classes](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/classes.markdown)
+- [attributes](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/attributes.markdown) 
 
  

@@ -4,7 +4,7 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/physicscarwheelbasisgizmo.markdown#physicscarwheelbasisgizm)| |[component](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/component.markdown)| |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/physicscarwheelbasisgizmo.markdown#physicscarwheelbasisgizm)| |[component](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/component.markdown)| |
 
 
  #  Properties

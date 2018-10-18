@@ -105,12 +105,12 @@ Zerohub is the open source platform/site for Zero Engine developement and educat
 
  # Tutorials
 The tutorial section is the bulk of the content intended for new students. Much of the workshop 
- ## [Tutorial Sequence](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/tutorials/tutorial_sequences.markdown)
- ### [Beginner I](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/tutorials/tutorial_sequences.markdown#beginner-i)
+ ## [Tutorial Sequence](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/tutorials/tutorial_sequences.markdown)
+ ### [Beginner I](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/tutorials/tutorial_sequences.markdown#beginner-i)
 
- ### [Beginner II](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/tutorials/tutorial_sequences.markdown#beginner-ii)
+ ### [Beginner II](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/tutorials/tutorial_sequences.markdown#beginner-ii)
 
- # [Manual](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual.markdown)
+ # [Manual](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual.markdown)
 
  # Projects
 The following are suggested projects to be implemented after completing each set of the #basic_tutorials.
@@ -120,7 +120,7 @@ After completing the #beginner_i tutorials students should be able to implement 
 
 - Physics Effects
  - Applied to LevelSettings object
- - Applied to a [Region](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/region.markdown)
+ - Applied to a [Region](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/region.markdown)
 - Physics Materials
  - Restitution
  - Friction
@@ -189,6 +189,6 @@ After completing the #beginner_iv tutorials students should be able to implement
 - [MIT ](https://en.wikipedia.org/wiki/MIT_License )
 
  ## Editor Reference
-[Text Editor Hotkeys](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/texteditor/texteditorhotkeys.markdown) 
+[Text Editor Hotkeys](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/texteditor/texteditorhotkeys.markdown) 
 
  

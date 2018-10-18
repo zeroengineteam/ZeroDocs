@@ -6,18 +6,18 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Play](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/simplesound.markdown#play-zero-engine-documen)|[ Cue](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/simplesound.markdown#cue-zero-engine-document)|[component](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/component.markdown)| |
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/simplesound.markdown#simplesound-void)|[ IsPlaying](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/simplesound.markdown#isplaying-zero-engine-do)| | |
-|[ Stop](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/simplesound.markdown#stop-void)|[ Paused](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/simplesound.markdown#paused-zero-engine-docum)| | |
-| |[ Positional](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/simplesound.markdown#positional-zero-engine-d)| | |
-| |[ StartPlaying](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/simplesound.markdown#startplaying-zero-engine)| | |
+|[ Play](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/simplesound.markdown#play-zero-engine-documen)|[ Cue](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/simplesound.markdown#cue-zero-engine-document)|[component](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/component.markdown)| |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/simplesound.markdown#simplesound-void)|[ IsPlaying](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/simplesound.markdown#isplaying-zero-engine-do)| | |
+|[ Stop](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/simplesound.markdown#stop-void)|[ Paused](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/simplesound.markdown#paused-zero-engine-docum)| | |
+| |[ Positional](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/simplesound.markdown#positional-zero-engine-d)| | |
+| |[ StartPlaying](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/simplesound.markdown#startplaying-zero-engine)| | |
 
 
  #  Properties
 
 
 ---  
- #  Cue : [soundcue](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/soundcue.markdown)
+ #  Cue : [soundcue](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/soundcue.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -25,7 +25,7 @@
 
 
 ---  
- #  IsPlaying : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  IsPlaying : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -35,7 +35,7 @@
 
 
 ---  
- #  Paused : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  Paused : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > Setting this Property to true will pause a currently playing SoundCue. Setting it to false will resume playback.
 > ``` lang=cpp, name=Zilch
@@ -43,7 +43,7 @@
 
 
 ---  
- #  Positional : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  Positional : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > If this property is true the SoundCue will be played positionally (heard at a specific location by SoundListeners) through the SoundEmitter component on the same object. If false, the SoundCue will be played through the SoundSpace, and will NOT be affected by any SoundEmitter settings.
 > ``` lang=cpp, name=Zilch
@@ -51,7 +51,7 @@
 
 
 ---  
- #  StartPlaying : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  StartPlaying : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > If this property is true the SoundCue will begin playing as soon as the object is created.
 > ``` lang=cpp, name=Zilch
@@ -63,7 +63,7 @@
 
 
 ---  
- #  Play : [soundinstance](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/soundinstance.markdown)
+ #  Play : [soundinstance](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/soundinstance.markdown)
 
 > Begins playing the SoundCue chosen in the Cue property and returns the resulting SoundInstance. If already playing it will be stopped and re-started.
 > |Name|Type|Description|

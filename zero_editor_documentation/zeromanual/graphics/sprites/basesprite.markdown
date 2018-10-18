@@ -1,7 +1,7 @@
-While not being a class that is directly accessed by the User, both the Sprite class and the [SpriteText](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/sprites/spritetext.markdown) class inherit directly from the BaseSprite class, making it an important class on its own. Any of the Properties of the BaseSprite class can be directly used by either Sprites or SpriteText, changing many of the visual aspects of the Object. 
+While not being a class that is directly accessed by the User, both the Sprite class and the [SpriteText](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/sprites/spritetext.markdown) class inherit directly from the BaseSprite class, making it an important class on its own. Any of the Properties of the BaseSprite class can be directly used by either Sprites or SpriteText, changing many of the visual aspects of the Object. 
 
  # Using the Color Picker
-The base color of a  [Sprite](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/code_reference/class_reference/Sprite.markdown)  can be changed in several different methods:
+The base color of a  [Sprite](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/class_reference/Sprite.markdown)  can be changed in several different methods:
 
  - Entering the Hex Code of the desired color into the Color Picker. For example, `FF0000` for Red. 
  - Click and Drag the Eye Dropper tool onto the desired color on screen.
@@ -37,7 +37,7 @@ Depending on the current parameter chosen the Color Picker will change how it lo
 Using these the color can be changed to any shade needed. Alternately if either the HSV or RGB values are known, they can also simply be typed in. 
 
  # Alpha Blending
-When using alpha blending, a renderpass must be performed with the appropriate blendsettings set.  The [DeferredRenderer](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/renderer.markdown) performs an linearly interpolating blend by default using the AlphaBlend resource [RenderGroup](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/rendergroups.markdown).  Since the AlphaSprite resource [Material](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/materials/materials_overview.markdown) is already in AlphaBlend resource, setting the alpha value of the VertexColor  is sufficient in making transparent sprites.  Additive blending is also available through the alternative AdditiveBlend resource RenderGroup.
+When using alpha blending, a renderpass must be performed with the appropriate blendsettings set.  The [DeferredRenderer](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/renderer.markdown) performs an linearly interpolating blend by default using the AlphaBlend resource [RenderGroup](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/rendergroups.markdown).  Since the AlphaSprite resource [Material](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/materials/materials_overview.markdown) is already in AlphaBlend resource, setting the alpha value of the VertexColor  is sufficient in making transparent sprites.  Additive blending is also available through the alternative AdditiveBlend resource RenderGroup.
 
 
 
@@ -53,14 +53,14 @@ When using alpha blending, a renderpass must be performed with the appropriate b
  # Related Materials
  ## Manual
 
-- {icon university}[[[Sprite](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/code_reference/class_reference/Sprite.markdown)
-- [spritetext](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/sprites/spritetext.markdown)
-- [DeferredRenderer](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/renderer.markdown)
-- [RenderGroup](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/rendergroups.markdown)
-- [Material](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/materials/materials_overview.markdown)
+- {icon university}[[[Sprite](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/class_reference/Sprite.markdown)
+- [spritetext](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/sprites/spritetext.markdown)
+- [DeferredRenderer](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/renderer.markdown)
+- [RenderGroup](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/rendergroups.markdown)
+- [Material](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/materials/materials_overview.markdown)
 
  ## Code Reference
-- [Sprite](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/code_reference/class_reference/Sprite.markdown)
-- [BaseSprite Code Reference](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/code_reference/class_reference/basesprite.markdown) 
+- [Sprite](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/class_reference/Sprite.markdown)
+- [BaseSprite Code Reference](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/class_reference/basesprite.markdown) 
 
  

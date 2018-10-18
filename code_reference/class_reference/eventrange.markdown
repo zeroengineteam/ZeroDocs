@@ -2,17 +2,17 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/eventrange.markdown#eventrange-void)|[ All](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/eventrange.markdown#all-zero-engine-document)| | |
-|[ MoveNext](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/eventrange.markdown#movenext-void)|[ Current](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/eventrange.markdown#current-zero-engine-docu)| | |
-| |[ IsEmpty](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/eventrange.markdown#isempty-zero-engine-docu)| | |
-| |[ IsNotEmpty](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/eventrange.markdown#isnotempty-zero-engine-d)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/eventrange.markdown#eventrange-void)|[ All](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/eventrange.markdown#all-zero-engine-document)| | |
+|[ MoveNext](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/eventrange.markdown#movenext-void)|[ Current](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/eventrange.markdown#current-zero-engine-docu)| | |
+| |[ IsEmpty](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/eventrange.markdown#isempty-zero-engine-docu)| | |
+| |[ IsNotEmpty](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/eventrange.markdown#isnotempty-zero-engine-d)| | |
 
 
  #  Properties
 
 
 ---  
- #  All : [eventrange](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/eventrange.markdown)
+ #  All : [eventrange](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/eventrange.markdown)
 
  `read-only`
 
@@ -22,7 +22,7 @@
 
 
 ---  
- #  Current : [event](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/event.markdown)
+ #  Current : [event](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/event.markdown)
 
  `read-only`
 
@@ -32,7 +32,7 @@
 
 
 ---  
- #  IsEmpty : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  IsEmpty : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -42,7 +42,7 @@
 
 
 ---  
- #  IsNotEmpty : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  IsNotEmpty : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -76,7 +76,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[eventrange](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/eventrange.markdown)| |
+> |p0|[eventrange](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/eventrange.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function EventRange(p0 : EventRange)
 > ``` 

@@ -4,19 +4,19 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Close](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/asyncprocess.markdown#close-void)|[ StandardError](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/asyncprocess.markdown#standarderror-zero-engin)|[referencecountedeventobject](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/referencecountedeventobject.markdown)| |
-|[ Create](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/asyncprocess.markdown#create-zero-engine-docum)|[ StandardInput](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/asyncprocess.markdown#standardinput-zero-engin)| | |
-|[ IsRunning](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/asyncprocess.markdown#isrunning-zero-engine-do)|[ StandardOutput](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/asyncprocess.markdown#standardoutput-zero-engi)| | |
-|[ Start](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/asyncprocess.markdown#start-zero-engine-docume)|[ StoreStandardErrorData](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/asyncprocess.markdown#storestandarderrordata-z)| | |
-|[ Terminate](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/asyncprocess.markdown#terminate-void)|[ StoreStandardOutputData](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/asyncprocess.markdown#storestandardoutputdata)| | |
-|[ WaitForClose](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/asyncprocess.markdown#waitforclose-zero-engine)| | | |
+|[ Close](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/asyncprocess.markdown#close-void)|[ StandardError](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/asyncprocess.markdown#standarderror-zero-engin)|[referencecountedeventobject](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/referencecountedeventobject.markdown)| |
+|[ Create](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/asyncprocess.markdown#create-zero-engine-docum)|[ StandardInput](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/asyncprocess.markdown#standardinput-zero-engin)| | |
+|[ IsRunning](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/asyncprocess.markdown#isrunning-zero-engine-do)|[ StandardOutput](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/asyncprocess.markdown#standardoutput-zero-engi)| | |
+|[ Start](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/asyncprocess.markdown#start-zero-engine-docume)|[ StoreStandardErrorData](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/asyncprocess.markdown#storestandarderrordata-z)| | |
+|[ Terminate](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/asyncprocess.markdown#terminate-void)|[ StoreStandardOutputData](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/asyncprocess.markdown#storestandardoutputdata)| | |
+|[ WaitForClose](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/asyncprocess.markdown#waitforclose-zero-engine)| | | |
 
 
  #  Properties
 
 
 ---  
- #  StandardError : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
+ #  StandardError : [string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)
 
  `read-only`
 
@@ -26,7 +26,7 @@
 
 
 ---  
- #  StandardInput : [filestream](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/filestream.markdown)
+ #  StandardInput : [filestream](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/filestream.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -34,7 +34,7 @@
 
 
 ---  
- #  StandardOutput : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
+ #  StandardOutput : [string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)
 
  `read-only`
 
@@ -44,7 +44,7 @@
 
 
 ---  
- #  StoreStandardErrorData : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  StoreStandardErrorData : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > Should the results from standard error be accumulated and stored? If a lot of data is output it may be good to turn this off and use the partial data callback events instead.
 > ``` lang=cpp, name=Zilch
@@ -52,7 +52,7 @@
 
 
 ---  
- #  StoreStandardOutputData : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  StoreStandardOutputData : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > Should the results from standard output be accumulated and stored? If a lot of data is output it may be good to turn this off and use the partial data callback events instead.
 > ``` lang=cpp, name=Zilch
@@ -75,7 +75,7 @@
 
 
 ---  
- #  Create : [asyncprocess](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/asyncprocess.markdown)
+ #  Create : [asyncprocess](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/asyncprocess.markdown)
 
  `static`
 
@@ -88,7 +88,7 @@
 
 
 ---  
- #  IsRunning : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  IsRunning : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > Returns true if the process is still running, false otherwise.
 > |Name|Type|Description|
@@ -99,12 +99,12 @@
 
 
 ---  
- #  Start : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  Start : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > Begins the execution of another process using the given parameters. Throws an exception if the process cannot be started.
 > |Name|Type|Description|
 > |---|---|---|
-> |startInfo|[processstartinfo](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/processstartinfo.markdown)| |
+> |startInfo|[processstartinfo](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/processstartinfo.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Start(startInfo : ProcessStartInfo) : Boolean
 > ``` 
@@ -122,7 +122,7 @@
 
 
 ---  
- #  WaitForClose : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  WaitForClose : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > Waits for a process to close, this will block until the process closes.
 > |Name|Type|Description|
@@ -133,12 +133,12 @@
 
 
 ---  
- #  WaitForClose : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  WaitForClose : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > Waits for a process to close up to a given number of milliseconds. This can take up to 3 * milliseconds due to waiting for the output streams to close.
 > |Name|Type|Description|
 > |---|---|---|
-> |milliseconds|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |milliseconds|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function WaitForClose(milliseconds : Integer) : Integer
 > ``` 

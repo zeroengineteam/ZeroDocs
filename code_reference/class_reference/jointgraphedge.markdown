@@ -4,18 +4,18 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/jointgraphedge.markdown#jointgraphedge-void)|[ Joint](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/jointgraphedge.markdown#joint-zero-engine-docume)|BaseJointGraphEdge<[joint](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/joint.markdown)>| |
-| |[ Object](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/jointgraphedge.markdown#object-zero-engine-docum)| | |
-| |[ OtherObject](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/jointgraphedge.markdown#otherobject-zero-engine)| | |
-| |[ Owner](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/jointgraphedge.markdown#owner-zero-engine-docume)| | |
-| |[ Valid](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/jointgraphedge.markdown#valid-zero-engine-docume)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/jointgraphedge.markdown#jointgraphedge-void)|[ Joint](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/jointgraphedge.markdown#joint-zero-engine-docume)|BaseJointGraphEdge<[joint](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/joint.markdown)>| |
+| |[ Object](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/jointgraphedge.markdown#object-zero-engine-docum)| | |
+| |[ OtherObject](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/jointgraphedge.markdown#otherobject-zero-engine)| | |
+| |[ Owner](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/jointgraphedge.markdown#owner-zero-engine-docume)| | |
+| |[ Valid](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/jointgraphedge.markdown#valid-zero-engine-docume)| | |
 
 
  #  Properties
 
 
 ---  
- #  Joint : [joint](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/joint.markdown)
+ #  Joint : [joint](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/joint.markdown)
 
  `read-only`
 
@@ -25,7 +25,7 @@
 
 
 ---  
- #  Object : [cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
+ #  Object : [cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)
 
  `read-only`
 
@@ -35,7 +35,7 @@
 
 
 ---  
- #  OtherObject : [cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
+ #  OtherObject : [cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)
 
  `read-only`
 
@@ -45,7 +45,7 @@
 
 
 ---  
- #  Owner : [cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
+ #  Owner : [cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)
 
  `read-only`
 
@@ -55,7 +55,7 @@
 
 
 ---  
- #  Valid : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  Valid : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -89,7 +89,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[jointgraphedge](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/jointgraphedge.markdown)| |
+> ||[jointgraphedge](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/jointgraphedge.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function JointGraphEdge( : JointGraphEdge)
 > ``` 

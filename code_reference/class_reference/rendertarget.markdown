@@ -4,14 +4,14 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Release](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/rendertarget.markdown#release-void)|[ Texture](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/rendertarget.markdown#texture-zero-engine-docu)|[safeid32](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/safeid32.markdown)| |
+|[ Release](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/rendertarget.markdown#release-void)|[ Texture](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/rendertarget.markdown#texture-zero-engine-docu)|[safeid32](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/safeid32.markdown)| |
 
 
  #  Properties
 
 
 ---  
- #  Texture : [texture](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texture.markdown)
+ #  Texture : [texture](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/texture.markdown)
 
  `read-only`
 

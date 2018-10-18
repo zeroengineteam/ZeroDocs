@@ -6,18 +6,18 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ Direction](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netlinkdisconnected.markdown#direction-zero-engine-do)|[event](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/event.markdown)| |
-| |[ DisconnectReason](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netlinkdisconnected.markdown#disconnectreason-zero-en)| | |
-| |[ RequestBundle](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netlinkdisconnected.markdown#requestbundle-zero-engin)| | |
-| |[ TheirIpAddress](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netlinkdisconnected.markdown#theiripaddress-zero-engi)| | |
-| |[ TheirNetPeerId](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netlinkdisconnected.markdown#theirnetpeerid-zero-engi)| | |
+| |[ Direction](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netlinkdisconnected.markdown#direction-zero-engine-do)|[event](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/event.markdown)| |
+| |[ DisconnectReason](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netlinkdisconnected.markdown#disconnectreason-zero-en)| | |
+| |[ RequestBundle](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netlinkdisconnected.markdown#requestbundle-zero-engin)| | |
+| |[ TheirIpAddress](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netlinkdisconnected.markdown#theiripaddress-zero-engi)| | |
+| |[ TheirNetPeerId](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netlinkdisconnected.markdown#theirnetpeerid-zero-engi)| | |
 
 
  #  Properties
 
 
 ---  
- #  Direction : [TransmissionDirection](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#transmissiondirection)
+ #  Direction : [TransmissionDirection](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#transmissiondirection)
 
  `read-only`
 
@@ -27,7 +27,7 @@
 
 
 ---  
- #  DisconnectReason : [DisconnectReason](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#disconnectreason)
+ #  DisconnectReason : [DisconnectReason](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#disconnectreason)
 
  `read-only`
 
@@ -37,7 +37,7 @@
 
 
 ---  
- #  RequestBundle : [eventbundle](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/eventbundle.markdown)
+ #  RequestBundle : [eventbundle](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/eventbundle.markdown)
 
  `read-only`
 
@@ -47,7 +47,7 @@
 
 
 ---  
- #  TheirIpAddress : [ipaddress](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/ipaddress.markdown)
+ #  TheirIpAddress : [ipaddress](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/ipaddress.markdown)
 
  `read-only`
 
@@ -57,7 +57,7 @@
 
 
 ---  
- #  TheirNetPeerId : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  TheirNetPeerId : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
  `read-only`
 

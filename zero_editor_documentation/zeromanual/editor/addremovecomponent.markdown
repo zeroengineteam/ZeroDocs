@@ -1,4 +1,4 @@
-Add and remove [ components  ](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/architecture/components.markdown) from objects to give them new functionality.
+Add and remove [ components  ](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/architecture/components.markdown) from objects to give them new functionality.
 
  # Adding a Component
 There are multiple ways to add a component to an object:
@@ -46,6 +46,6 @@ Using the component's **Right-Click Submenu** in Properties window
 
  # Related Materials
  ## Manual
-- [components](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/architecture/components.markdown) 
+- [components](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/architecture/components.markdown) 
 
  

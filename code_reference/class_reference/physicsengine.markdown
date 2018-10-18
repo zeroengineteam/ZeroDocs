@@ -2,7 +2,7 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| | |[system](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/system.markdown)| |
+| | |[system](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/system.markdown)| |
 
 
  #  Properties

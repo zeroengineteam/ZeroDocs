@@ -2,16 +2,16 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/eventdata.markdown#eventdata-void)| | |[buildevent](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/buildevent.markdown)|
-| | | |[consoleevent](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/consoleevent.markdown)|
-| | | |[debuggerevent](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/debuggerevent.markdown)|
-| | | |[errorevent](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/errorevent.markdown)|
-| | | |[exceptionevent](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/exceptionevent.markdown)|
-| | | |[fatalerrorevent](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/fatalerrorevent.markdown)|
-| | | |[memoryleakevent](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/memoryleakevent.markdown)|
-| | | |[opcodeevent](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/opcodeevent.markdown)|
-| | | |[parseevent](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/parseevent.markdown)|
-| | | |[pluginevent](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/pluginevent.markdown)|
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/eventdata.markdown#eventdata-void)| | |[buildevent](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/buildevent.markdown)|
+| | | |[consoleevent](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/consoleevent.markdown)|
+| | | |[debuggerevent](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/debuggerevent.markdown)|
+| | | |[errorevent](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/errorevent.markdown)|
+| | | |[exceptionevent](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/exceptionevent.markdown)|
+| | | |[fatalerrorevent](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/fatalerrorevent.markdown)|
+| | | |[memoryleakevent](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/memoryleakevent.markdown)|
+| | | |[opcodeevent](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/opcodeevent.markdown)|
+| | | |[parseevent](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/parseevent.markdown)|
+| | | |[pluginevent](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/pluginevent.markdown)|
 
 
  #  Properties

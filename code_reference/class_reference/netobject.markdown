@@ -6,51 +6,51 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ DispatchBroadcast](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#dispatchbroadcast-void)|[ AcceptIncomingChanges](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#acceptincomingchanges-ze)|[component](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/component.markdown)|[netpeer](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netpeer.markdown)|
-|[ DispatchLocal](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#dispatchlocal-void)|[ AccurateTimestampOnChange](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#accuratetimestamponchang)| |[netspace](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netspace.markdown)|
-|[ DispatchLocalAndBroadcast](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#dispatchlocalandbroadcas)|[ AccurateTimestampOnOffline](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#accuratetimestamponoffli)| |[netuser](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netuser.markdown)|
-|[ DispatchLocalAndRemote](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#dispatchlocalandremote-v)|[ AccurateTimestampOnOnline](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#accuratetimestampononlin)| | |
-|[ DispatchRemote](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#dispatchremote-void)|[ AllowNapping](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#allownapping-zero-engine)| | |
-|[ Forget](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#forget-zero-engine-docum)|[ AutomaticChannel](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#automaticchannel-zero-en)| | |
-|[ GetNetChannel](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#getnetchannel-zero-engin)|[ DetectOutgoingChanges](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#detectoutgoingchanges-ze)| | |
-|[ HasNetChannel](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#hasnetchannel-zero-engin)|[ IsClient](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#isclient-zero-engine-doc)| | |
-|[ IsOwnedByPeer](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#isownedbypeer-zero-engin)|[ IsClientAndMine](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#isclientandmine-zero-eng)| | |
-|[ IsOwnedByUser](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#isownedbyuser-zero-engin)|[ IsClientButNotMine](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#isclientbutnotmine-zero)| | |
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#netobject-void)|[ IsClientOrOffline](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#isclientoroffline-zero-e)| | |
-|[ ReplicateNow](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#replicatenow-zero-engine)|[ IsClientOrServer](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#isclientorserver-zero-en)| | |
-|[ SelectRemote](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#selectremote-zero-engine)|[ IsMine](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#ismine-zero-engine-docum)| | |
-|[ SetNetUserOwnerDown](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#setnetuserownerdown-void)|[ IsNapping](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#isnapping-zero-engine-do)| | |
-|[ SetNetUserOwnerUp](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#setnetuserownerup-void)|[ IsNotMine](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#isnotmine-zero-engine-do)| | |
-|[ TakeNap](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#takenap-void)|[ IsNotOwnedByAUser](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#isnotownedbyauser-zero-e)| | |
-|[ WakeUp](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#wakeup-void)|[ IsOffline](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#isoffline-zero-engine-do)| | |
-| |[ IsOfflineAndMine](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#isofflineandmine-zero-en)| | |
-| |[ IsOfflineButNotMine](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#isofflinebutnotmine-zero)| | |
-| |[ IsOnline](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#isonline-zero-engine-doc)| | |
-| |[ IsOwnedByAUser](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#isownedbyauser-zero-engi)| | |
-| |[ IsServer](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#isserver-zero-engine-doc)| | |
-| |[ IsServerAndMine](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#isserverandmine-zero-eng)| | |
-| |[ IsServerButNotMine](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#isserverbutnotmine-zero)| | |
-| |[ IsServerOrOffline](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#isserveroroffline-zero-e)| | |
-| |[ LastChangeTimePassed](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#lastchangetimepassed-zer)| | |
-| |[ LastChangeTimestamp](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#lastchangetimestamp-zero)| | |
-| |[ NetObjectId](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#netobjectid-zero-engine)| | |
-| |[ NetPropertyInfos](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#netpropertyinfos-zero-en)| | |
-| |[ NetUserOwner](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#netuserowner-zero-engine)| | |
-| |[ NetUserOwnerPath](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#netuserownerpath-zero-en)| | |
-| |[ NetUserOwnerPeerId](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#netuserownerpeerid-zero)| | |
-| |[ NetUserOwnerUserId](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#netuserowneruserid-zero)| | |
-| |[ OfflineTimePassed](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#offlinetimepassed-zero-e)| | |
-| |[ OfflineTimestamp](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#offlinetimestamp-zero-en)| | |
-| |[ OnlineTimePassed](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#onlinetimepassed-zero-en)| | |
-| |[ OnlineTimestamp](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#onlinetimestamp-zero-eng)| | |
-| |[ Role](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown#role-zero-engine-documen)| | |
+|[ DispatchBroadcast](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#dispatchbroadcast-void)|[ AcceptIncomingChanges](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#acceptincomingchanges-ze)|[component](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/component.markdown)|[netpeer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netpeer.markdown)|
+|[ DispatchLocal](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#dispatchlocal-void)|[ AccurateTimestampOnChange](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#accuratetimestamponchang)| |[netspace](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netspace.markdown)|
+|[ DispatchLocalAndBroadcast](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#dispatchlocalandbroadcas)|[ AccurateTimestampOnOffline](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#accuratetimestamponoffli)| |[netuser](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netuser.markdown)|
+|[ DispatchLocalAndRemote](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#dispatchlocalandremote-v)|[ AccurateTimestampOnOnline](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#accuratetimestampononlin)| | |
+|[ DispatchRemote](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#dispatchremote-void)|[ AllowNapping](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#allownapping-zero-engine)| | |
+|[ Forget](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#forget-zero-engine-docum)|[ AutomaticChannel](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#automaticchannel-zero-en)| | |
+|[ GetNetChannel](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#getnetchannel-zero-engin)|[ DetectOutgoingChanges](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#detectoutgoingchanges-ze)| | |
+|[ HasNetChannel](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#hasnetchannel-zero-engin)|[ IsClient](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#isclient-zero-engine-doc)| | |
+|[ IsOwnedByPeer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#isownedbypeer-zero-engin)|[ IsClientAndMine](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#isclientandmine-zero-eng)| | |
+|[ IsOwnedByUser](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#isownedbyuser-zero-engin)|[ IsClientButNotMine](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#isclientbutnotmine-zero)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#netobject-void)|[ IsClientOrOffline](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#isclientoroffline-zero-e)| | |
+|[ ReplicateNow](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#replicatenow-zero-engine)|[ IsClientOrServer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#isclientorserver-zero-en)| | |
+|[ SelectRemote](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#selectremote-zero-engine)|[ IsMine](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#ismine-zero-engine-docum)| | |
+|[ SetNetUserOwnerDown](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#setnetuserownerdown-void)|[ IsNapping](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#isnapping-zero-engine-do)| | |
+|[ SetNetUserOwnerUp](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#setnetuserownerup-void)|[ IsNotMine](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#isnotmine-zero-engine-do)| | |
+|[ TakeNap](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#takenap-void)|[ IsNotOwnedByAUser](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#isnotownedbyauser-zero-e)| | |
+|[ WakeUp](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#wakeup-void)|[ IsOffline](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#isoffline-zero-engine-do)| | |
+| |[ IsOfflineAndMine](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#isofflineandmine-zero-en)| | |
+| |[ IsOfflineButNotMine](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#isofflinebutnotmine-zero)| | |
+| |[ IsOnline](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#isonline-zero-engine-doc)| | |
+| |[ IsOwnedByAUser](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#isownedbyauser-zero-engi)| | |
+| |[ IsServer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#isserver-zero-engine-doc)| | |
+| |[ IsServerAndMine](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#isserverandmine-zero-eng)| | |
+| |[ IsServerButNotMine](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#isserverbutnotmine-zero)| | |
+| |[ IsServerOrOffline](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#isserveroroffline-zero-e)| | |
+| |[ LastChangeTimePassed](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#lastchangetimepassed-zer)| | |
+| |[ LastChangeTimestamp](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#lastchangetimestamp-zero)| | |
+| |[ NetObjectId](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#netobjectid-zero-engine)| | |
+| |[ NetPropertyInfos](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#netpropertyinfos-zero-en)| | |
+| |[ NetUserOwner](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#netuserowner-zero-engine)| | |
+| |[ NetUserOwnerPath](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#netuserownerpath-zero-en)| | |
+| |[ NetUserOwnerPeerId](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#netuserownerpeerid-zero)| | |
+| |[ NetUserOwnerUserId](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#netuserowneruserid-zero)| | |
+| |[ OfflineTimePassed](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#offlinetimepassed-zero-e)| | |
+| |[ OfflineTimestamp](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#offlinetimestamp-zero-en)| | |
+| |[ OnlineTimePassed](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#onlinetimepassed-zero-en)| | |
+| |[ OnlineTimestamp](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#onlinetimestamp-zero-eng)| | |
+| |[ Role](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown#role-zero-engine-documen)| | |
 
 
  #  Properties
 
 
 ---  
- #  AcceptIncomingChanges : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  AcceptIncomingChanges : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > Controls whether or not net channels on this net object may accept incoming changes.
 > ``` lang=cpp, name=Zilch
@@ -58,7 +58,7 @@
 
 
 ---  
- #  AccurateTimestampOnChange : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  AccurateTimestampOnChange : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > Controls whether or not the net object will serialize an accurate timestamp value when changed (on any net channel), or will instead accept an estimated timestamp value. (Enabling this will override the corresponding net channel type setting for all net channels added to this net object)
 > ``` lang=cpp, name=Zilch
@@ -66,7 +66,7 @@
 
 
 ---  
- #  AccurateTimestampOnOffline : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  AccurateTimestampOnOffline : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > Controls whether or not the net object will serialize an accurate timestamp value when taken offline, or will instead accept an estimated timestamp value.
 > ``` lang=cpp, name=Zilch
@@ -74,7 +74,7 @@
 
 
 ---  
- #  AccurateTimestampOnOnline : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  AccurateTimestampOnOnline : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > Controls whether or not the net object will serialize an accurate timestamp value when brought online, or will instead accept an estimated timestamp value.
 > ``` lang=cpp, name=Zilch
@@ -82,7 +82,7 @@
 
 
 ---  
- #  AllowNapping : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  AllowNapping : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > Controls whether or not net channels on this net object may nap (perform change detection on longer intervals) if they haven't changed in a while.
 > ``` lang=cpp, name=Zilch
@@ -90,7 +90,7 @@
 
 
 ---  
- #  AutomaticChannel : [netchannelconfig](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netchannelconfig.markdown)
+ #  AutomaticChannel : [netchannelconfig](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netchannelconfig.markdown)
 
 > Returns the automatic net channel configuration resource (assigned to net properties unless another channel is specified).
 > ``` lang=cpp, name=Zilch
@@ -98,7 +98,7 @@
 
 
 ---  
- #  DetectOutgoingChanges : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  DetectOutgoingChanges : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > Controls whether or not net channels on this net object may detect outgoing changes.
 > ``` lang=cpp, name=Zilch
@@ -106,7 +106,7 @@
 
 
 ---  
- #  IsClient : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  IsClient : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -116,7 +116,7 @@
 
 
 ---  
- #  IsClientAndMine : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  IsClientAndMine : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -126,7 +126,7 @@
 
 
 ---  
- #  IsClientButNotMine : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  IsClientButNotMine : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -136,7 +136,7 @@
 
 
 ---  
- #  IsClientOrOffline : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  IsClientOrOffline : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -146,7 +146,7 @@
 
 
 ---  
- #  IsClientOrServer : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  IsClientOrServer : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -156,7 +156,7 @@
 
 
 ---  
- #  IsMine : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  IsMine : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -166,7 +166,7 @@
 
 
 ---  
- #  IsNapping : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  IsNapping : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -176,7 +176,7 @@
 
 
 ---  
- #  IsNotMine : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  IsNotMine : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -186,7 +186,7 @@
 
 
 ---  
- #  IsNotOwnedByAUser : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  IsNotOwnedByAUser : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -196,7 +196,7 @@
 
 
 ---  
- #  IsOffline : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  IsOffline : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -206,7 +206,7 @@
 
 
 ---  
- #  IsOfflineAndMine : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  IsOfflineAndMine : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -216,7 +216,7 @@
 
 
 ---  
- #  IsOfflineButNotMine : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  IsOfflineButNotMine : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -226,7 +226,7 @@
 
 
 ---  
- #  IsOnline : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  IsOnline : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -236,7 +236,7 @@
 
 
 ---  
- #  IsOwnedByAUser : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  IsOwnedByAUser : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -246,7 +246,7 @@
 
 
 ---  
- #  IsServer : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  IsServer : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -256,7 +256,7 @@
 
 
 ---  
- #  IsServerAndMine : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  IsServerAndMine : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -266,7 +266,7 @@
 
 
 ---  
- #  IsServerButNotMine : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  IsServerButNotMine : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -276,7 +276,7 @@
 
 
 ---  
- #  IsServerOrOffline : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  IsServerOrOffline : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -286,7 +286,7 @@
 
 
 ---  
- #  LastChangeTimePassed : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  LastChangeTimePassed : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
  `read-only`
 
@@ -296,7 +296,7 @@
 
 
 ---  
- #  LastChangeTimestamp : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  LastChangeTimestamp : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
  `read-only`
 
@@ -306,7 +306,7 @@
 
 
 ---  
- #  NetObjectId : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  NetObjectId : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
  `read-only`
 
@@ -316,7 +316,7 @@
 
 
 ---  
- #  NetPropertyInfos : [netpropertyinfos](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netpropertyinfos.markdown)
+ #  NetPropertyInfos : [netpropertyinfos](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netpropertyinfos.markdown)
 
 > Net property infos added through the property grid.
 > ``` lang=cpp, name=Zilch
@@ -324,7 +324,7 @@
 
 
 ---  
- #  NetUserOwner : [cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
+ #  NetUserOwner : [cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)
 
 > Returns the network user this object conceptually belongs to, else nullptr.
 > ``` lang=cpp, name=Zilch
@@ -332,7 +332,7 @@
 
 
 ---  
- #  NetUserOwnerPath : [cogpath](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cogpath.markdown)
+ #  NetUserOwnerPath : [cogpath](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cogpath.markdown)
 
  `read-only`
 
@@ -342,7 +342,7 @@
 
 
 ---  
- #  NetUserOwnerPeerId : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  NetUserOwnerPeerId : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
  `read-only`
 
@@ -352,7 +352,7 @@
 
 
 ---  
- #  NetUserOwnerUserId : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  NetUserOwnerUserId : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
  `read-only`
 
@@ -362,7 +362,7 @@
 
 
 ---  
- #  OfflineTimePassed : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  OfflineTimePassed : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
  `read-only`
 
@@ -372,7 +372,7 @@
 
 
 ---  
- #  OfflineTimestamp : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  OfflineTimestamp : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
  `read-only`
 
@@ -382,7 +382,7 @@
 
 
 ---  
- #  OnlineTimePassed : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  OnlineTimePassed : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
  `read-only`
 
@@ -392,7 +392,7 @@
 
 
 ---  
- #  OnlineTimestamp : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  OnlineTimestamp : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
  `read-only`
 
@@ -402,7 +402,7 @@
 
 
 ---  
- #  Role : [NetRole](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#netrole)
+ #  Role : [NetRole](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#netrole)
 
  `read-only`
 
@@ -421,8 +421,8 @@
 > Dispatches the net event on the net object for all remote peers. In Offline mode, this calls DispatchLocal only.
 > |Name|Type|Description|
 > |---|---|---|
-> |eventId|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
-> |event|[event](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/event.markdown)| |
+> |eventId|[string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)| |
+> |event|[event](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/event.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function DispatchBroadcast(eventId : String, event : Event)
 > ``` 
@@ -434,8 +434,8 @@
 > Dispatches the net event on the net object for the local peer.
 > |Name|Type|Description|
 > |---|---|---|
-> |eventId|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
-> |event|[event](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/event.markdown)| |
+> |eventId|[string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)| |
+> |event|[event](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/event.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function DispatchLocal(eventId : String, event : Event)
 > ``` 
@@ -447,8 +447,8 @@
 > Dispatches the net event on the net object for the local peer and for all remote peers. In Offline mode, this calls DispatchLocal only.
 > |Name|Type|Description|
 > |---|---|---|
-> |eventId|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
-> |event|[event](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/event.markdown)| |
+> |eventId|[string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)| |
+> |event|[event](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/event.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function DispatchLocalAndBroadcast(eventId : String, event : Event)
 > ``` 
@@ -460,9 +460,9 @@
 > Dispatches the net event on the net object for the local peer and for the remote peer. In Offline mode, this calls DispatchLocal only.
 > |Name|Type|Description|
 > |---|---|---|
-> |eventId|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
-> |event|[event](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/event.markdown)| |
-> |netPeerId|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |eventId|[string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)| |
+> |event|[event](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/event.markdown)| |
+> |netPeerId|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function DispatchLocalAndRemote(eventId : String, event : Event, netPeerId : Integer)
 > ``` 
@@ -474,16 +474,16 @@
 > Dispatches the net event on the net object for the remote peer. In Offline mode, this calls DispatchLocal only.
 > |Name|Type|Description|
 > |---|---|---|
-> |eventId|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
-> |event|[event](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/event.markdown)| |
-> |netPeerId|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |eventId|[string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)| |
+> |event|[event](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/event.markdown)| |
+> |netPeerId|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function DispatchRemote(eventId : String, event : Event, netPeerId : Integer)
 > ``` 
 
 
 ---  
- #  Forget : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  Forget : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > [Client] Forgets the online net object locally. [Server] Forgets the online net object locally and remotely for all relevant peers. Effectively removes the net object from the network system without destroying it. Returns true if successful, else false.
 > |Name|Type|Description|
@@ -494,48 +494,48 @@
 
 
 ---  
- #  GetNetChannel : [netchannel](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netchannel.markdown)
+ #  GetNetChannel : [netchannel](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netchannel.markdown)
 
 > [Client/Server] Returns the specified net channel, else nullptr.
 > |Name|Type|Description|
 > |---|---|---|
-> |netChannelName|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
+> |netChannelName|[string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function GetNetChannel(netChannelName : String) : NetChannel
 > ``` 
 
 
 ---  
- #  HasNetChannel : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  HasNetChannel : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > [Client/Server] Returns true if the net object has the specified net channel, else false.
 > |Name|Type|Description|
 > |---|---|---|
-> |netChannelName|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
+> |netChannelName|[string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function HasNetChannel(netChannelName : String) : Boolean
 > ``` 
 
 
 ---  
- #  IsOwnedByPeer : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  IsOwnedByPeer : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > Returns true if the net object is conceptually owned by a user added by the specified peer, else false.
 > |Name|Type|Description|
 > |---|---|---|
-> |netPeerId|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |netPeerId|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function IsOwnedByPeer(netPeerId : Integer) : Boolean
 > ``` 
 
 
 ---  
- #  IsOwnedByUser : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  IsOwnedByUser : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > Returns true if the net object is conceptually owned by the specified user, else false.
 > |Name|Type|Description|
 > |---|---|---|
-> |cog|[cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)| |
+> |cog|[cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function IsOwnedByUser(cog : Cog) : Boolean
 > ``` 
@@ -555,7 +555,7 @@
 
 
 ---  
- #  ReplicateNow : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  ReplicateNow : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > [Client/Server] Replicates all net channels' property changes immediately (only where changes are detected). Will also update nap state as configured. Returns true if changes were replicated, else false.
 > |Name|Type|Description|
@@ -566,7 +566,7 @@
 
 
 ---  
- #  SelectRemote : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  SelectRemote : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > [Client/Server] Selects the remote net object on the first opposite-role peer found running in another game session instance on the engine. Will fail if the net object is not online, or not found remotely. Returns true if successful, else false.
 > |Name|Type|Description|
@@ -582,7 +582,7 @@
 > [Server/Offline] Sets the owning network user on this object and down the tree on all children recursively (pre-order traversal).
 > |Name|Type|Description|
 > |---|---|---|
-> |cog|[cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)| |
+> |cog|[cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function SetNetUserOwnerDown(cog : Cog)
 > ``` 
@@ -594,7 +594,7 @@
 > [Server/Offline] Sets the owning network user on this object and up the tree on each parent recursively (pre-order traversal).
 > |Name|Type|Description|
 > |---|---|---|
-> |cog|[cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)| |
+> |cog|[cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function SetNetUserOwnerUp(cog : Cog)
 > ``` 

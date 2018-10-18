@@ -1,4 +1,4 @@
-[ RenderGroup](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/rendergroup.markdown) resources act as categories for [ Materials](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/materials/materials_overview.markdown). In a [Renderer](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/renderer.markdown) script, when adding a RenderPass task, a RenderGroup is used to specify which set of objects is to be drawn by that render task. When that render task is executed, all Graphicals in the scene that are using a Material that is categorized as that RenderGroup will be drawn.
+[ RenderGroup](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/rendergroup.markdown) resources act as categories for [ Materials](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/materials/materials_overview.markdown). In a [Renderer](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/renderer.markdown) script, when adding a RenderPass task, a RenderGroup is used to specify which set of objects is to be drawn by that render task. When that render task is executed, all Graphicals in the scene that are using a Material that is categorized as that RenderGroup will be drawn.
 
  # RenderGroup usage in the DeferredRenderer
 A variety of RenderGroup usage examples can be found in the DeferredRenderer resource script. The table below provides some brief descriptions for how it uses different groups of objects to define different steps of the rendering pipeline, in the order they're used.
@@ -44,7 +44,7 @@ No matter what the renderer is, the order that graphicals are drawn will almost 
 | `SortEvent` | Sorting is done by a value handled in the SortEvent |
 
  # Creating RenderGroups
-To create a RenderGroup, use [Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/ZeroManual/Editor/EditorCommands/Commands.markdown) : [Add](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#add) or the Add button button.  From the resource list, select `RenderGroup  > DefaultRenderGroup`:
+To create a RenderGroup, use [Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Editor/EditorCommands/Commands.markdown) : [Add](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#add) or the Add button button.  From the resource list, select `RenderGroup  > DefaultRenderGroup`:
 
 
 
@@ -53,10 +53,10 @@ To create a RenderGroup, use [Command](https://github.com/zeroengineteam/ZeroDoc
 
  # Related Materials
  ## Manual
-- [Renderer](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/renderer.markdown)
-- [Deferred and Forward Renderer](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/renderer/deferred_renderer.markdown)
+- [Renderer](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/renderer.markdown)
+- [Deferred and Forward Renderer](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/renderer/deferred_renderer.markdown)
 
  ## Reference
-- [rendergroup](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/rendergroup.markdown) 
+- [rendergroup](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/rendergroup.markdown) 
 
  

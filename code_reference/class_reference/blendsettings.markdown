@@ -4,20 +4,20 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/blendsettings.markdown#blendsettings-void)|[ BlendEquation](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/blendsettings.markdown#blendequation-zero-engin)| | |
-| |[ BlendEquationAlpha](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/blendsettings.markdown#blendequationalpha-zero)| | |
-| |[ BlendMode](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/blendsettings.markdown#blendmode-zero-engine-do)| | |
-| |[ DestFactor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/blendsettings.markdown#destfactor-zero-engine-d)| | |
-| |[ DestFactorAlpha](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/blendsettings.markdown#destfactoralpha-zero-eng)| | |
-| |[ SourceFactor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/blendsettings.markdown#sourcefactor-zero-engine)| | |
-| |[ SourceFactorAlpha](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/blendsettings.markdown#sourcefactoralpha-zero-e)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/blendsettings.markdown#blendsettings-void)|[ BlendEquation](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/blendsettings.markdown#blendequation-zero-engin)| | |
+| |[ BlendEquationAlpha](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/blendsettings.markdown#blendequationalpha-zero)| | |
+| |[ BlendMode](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/blendsettings.markdown#blendmode-zero-engine-do)| | |
+| |[ DestFactor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/blendsettings.markdown#destfactor-zero-engine-d)| | |
+| |[ DestFactorAlpha](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/blendsettings.markdown#destfactoralpha-zero-eng)| | |
+| |[ SourceFactor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/blendsettings.markdown#sourcefactor-zero-engine)| | |
+| |[ SourceFactorAlpha](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/blendsettings.markdown#sourcefactoralpha-zero-e)| | |
 
 
  #  Properties
 
 
 ---  
- #  BlendEquation : [BlendEquation](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#blendequation)
+ #  BlendEquation : [BlendEquation](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#blendequation)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -25,7 +25,7 @@
 
 
 ---  
- #  BlendEquationAlpha : [BlendEquation](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#blendequation)
+ #  BlendEquationAlpha : [BlendEquation](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#blendequation)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -33,7 +33,7 @@
 
 
 ---  
- #  BlendMode : [BlendMode](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#blendmode)
+ #  BlendMode : [BlendMode](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#blendmode)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -41,7 +41,7 @@
 
 
 ---  
- #  DestFactor : [BlendFactor](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#blendfactor)
+ #  DestFactor : [BlendFactor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#blendfactor)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -49,7 +49,7 @@
 
 
 ---  
- #  DestFactorAlpha : [BlendFactor](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#blendfactor)
+ #  DestFactorAlpha : [BlendFactor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#blendfactor)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -57,7 +57,7 @@
 
 
 ---  
- #  SourceFactor : [BlendFactor](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#blendfactor)
+ #  SourceFactor : [BlendFactor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#blendfactor)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -65,7 +65,7 @@
 
 
 ---  
- #  SourceFactorAlpha : [BlendFactor](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#blendfactor)
+ #  SourceFactorAlpha : [BlendFactor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#blendfactor)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -97,7 +97,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |other|[blendsettings](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/blendsettings.markdown)| |
+> |other|[blendsettings](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/blendsettings.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function BlendSettings(other : BlendSettings)
 > ``` 

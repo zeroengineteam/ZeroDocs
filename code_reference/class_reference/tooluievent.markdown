@@ -6,16 +6,16 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ NeedsPropertyGrid](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/tooluievent.markdown#needspropertygrid-zero-e)|[event](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/event.markdown)| |
-| |[ Parent](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/tooluievent.markdown#parent-zero-engine-docum)| | |
-| |[ SelectTool](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/tooluievent.markdown#selecttool-zero-engine-d)| | |
+| |[ NeedsPropertyGrid](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/tooluievent.markdown#needspropertygrid-zero-e)|[event](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/event.markdown)| |
+| |[ Parent](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/tooluievent.markdown#parent-zero-engine-docum)| | |
+| |[ SelectTool](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/tooluievent.markdown#selecttool-zero-engine-d)| | |
 
 
  #  Properties
 
 
 ---  
- #  NeedsPropertyGrid : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  NeedsPropertyGrid : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > Whether or not to force show the tools window when switched to this tool.
 > ``` lang=cpp, name=Zilch
@@ -23,7 +23,7 @@
 
 
 ---  
- #  Parent : [composite](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/composite.markdown)
+ #  Parent : [composite](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/composite.markdown)
 
  `read-only`
 
@@ -33,7 +33,7 @@
 
 
 ---  
- #  SelectTool : [cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
+ #  SelectTool : [cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)
 
  `read-only`
 

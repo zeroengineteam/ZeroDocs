@@ -6,15 +6,15 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ CurrentNetUserOwner](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netuserlostobjectownership.markdown#currentnetuserowner-zero)|[event](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/event.markdown)| |
-| |[ LostObject](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netuserlostobjectownership.markdown#lostobject-zero-engine-d)| | |
+| |[ CurrentNetUserOwner](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netuserlostobjectownership.markdown#currentnetuserowner-zero)|[event](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/event.markdown)| |
+| |[ LostObject](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netuserlostobjectownership.markdown#lostobject-zero-engine-d)| | |
 
 
  #  Properties
 
 
 ---  
- #  CurrentNetUserOwner : [cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
+ #  CurrentNetUserOwner : [cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)
 
  `read-only`
 
@@ -24,7 +24,7 @@
 
 
 ---  
- #  LostObject : [cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
+ #  LostObject : [cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)
 
  `read-only`
 

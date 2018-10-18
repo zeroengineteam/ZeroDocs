@@ -2,19 +2,19 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean3.markdown#boolean3-void)|[ Count](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean3.markdown#count-zero-engine-docume)| | |
-|[ Get](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean3.markdown#get-zero-engine-document)|[ One](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean3.markdown#one-zero-engine-document)| | |
-|[ GetAxis](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean3.markdown#getaxis-zero-engine-docu)|[ XAxis](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean3.markdown#xaxis-zero-engine-docume)| | |
-|[ Set](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean3.markdown#set-void)|[ YAxis](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean3.markdown#yaxis-zero-engine-docume)| | |
-| |[ ZAxis](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean3.markdown#zaxis-zero-engine-docume)| | |
-| |[ Zero](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean3.markdown#zero-zero-engine-documen)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean3.markdown#boolean3-void)|[ Count](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean3.markdown#count-zero-engine-docume)| | |
+|[ Get](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean3.markdown#get-zero-engine-document)|[ One](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean3.markdown#one-zero-engine-document)| | |
+|[ GetAxis](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean3.markdown#getaxis-zero-engine-docu)|[ XAxis](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean3.markdown#xaxis-zero-engine-docume)| | |
+|[ Set](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean3.markdown#set-void)|[ YAxis](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean3.markdown#yaxis-zero-engine-docume)| | |
+| |[ ZAxis](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean3.markdown#zaxis-zero-engine-docume)| | |
+| |[ Zero](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean3.markdown#zero-zero-engine-documen)| | |
 
 
  #  Properties
 
 
 ---  
- #  Count : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  Count : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
  `read-only`
 
@@ -24,7 +24,7 @@
 
 
 ---  
- #  One : [boolean3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean3.markdown)
+ #  One : [boolean3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean3.markdown)
 
  `read-only` `static`
 
@@ -34,7 +34,7 @@
 
 
 ---  
- #  XAxis : [boolean3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean3.markdown)
+ #  XAxis : [boolean3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean3.markdown)
 
  `read-only` `static`
 
@@ -44,7 +44,7 @@
 
 
 ---  
- #  YAxis : [boolean3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean3.markdown)
+ #  YAxis : [boolean3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean3.markdown)
 
  `read-only` `static`
 
@@ -54,7 +54,7 @@
 
 
 ---  
- #  ZAxis : [boolean3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean3.markdown)
+ #  ZAxis : [boolean3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean3.markdown)
 
  `read-only` `static`
 
@@ -64,7 +64,7 @@
 
 
 ---  
- #  Zero : [boolean3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean3.markdown)
+ #  Zero : [boolean3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean3.markdown)
 
  `read-only` `static`
 
@@ -98,7 +98,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |scalar|[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)| |
+> |scalar|[boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Boolean3(scalar : Boolean)
 > ``` 
@@ -112,9 +112,9 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)| |
-> |p1|[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)| |
-> |p2|[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)| |
+> |p0|[boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)| |
+> |p1|[boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)| |
+> |p2|[boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Boolean3(p0 : Boolean, p1 : Boolean, p2 : Boolean)
 > ``` 
@@ -128,8 +128,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)| |
-> |p1|[boolean2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean2.markdown)| |
+> |p0|[boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)| |
+> |p1|[boolean2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Boolean3(p0 : Boolean, p1 : Boolean2)
 > ``` 
@@ -143,34 +143,34 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[boolean2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean2.markdown)| |
-> |p1|[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)| |
+> |p0|[boolean2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean2.markdown)| |
+> |p1|[boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Boolean3(p0 : Boolean2, p1 : Boolean)
 > ``` 
 
 
 ---  
- #  Get : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  Get : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |p0|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Get(p0 : Integer) : Boolean
 > ``` 
 
 
 ---  
- #  GetAxis : [boolean3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean3.markdown)
+ #  GetAxis : [boolean3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean3.markdown)
 
  `static`
 
 > Returns an axis vector from the given index (ie. 0 is XAxis, 1 is YAxis, etc...
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |p0|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function GetAxis(p0 : Integer) : Boolean3
 > ``` 
@@ -182,8 +182,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |p1|[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)| |
+> |p0|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |p1|[boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Set(p0 : Integer, p1 : Boolean)
 > ``` 

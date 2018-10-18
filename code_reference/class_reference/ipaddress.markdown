@@ -4,20 +4,20 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Clear](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/ipaddress.markdown#clear-void)|[ Hash](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/ipaddress.markdown#hash-zero-engine-documen)|SocketAddress| |
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/ipaddress.markdown#ipaddress-void)|[ Host](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/ipaddress.markdown#host-zero-engine-documen)| | |
-| |[ InternetProtocol](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/ipaddress.markdown#internetprotocol-zero-en)| | |
-| |[ IsValid](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/ipaddress.markdown#isvalid-zero-engine-docu)| | |
-| |[ Port](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/ipaddress.markdown#port-zero-engine-documen)| | |
-| |[ PortString](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/ipaddress.markdown#portstring-zero-engine-d)| | |
-| |[ String](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/ipaddress.markdown#string-zero-engine-docum)| | |
+|[ Clear](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/ipaddress.markdown#clear-void)|[ Hash](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/ipaddress.markdown#hash-zero-engine-documen)|SocketAddress| |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/ipaddress.markdown#ipaddress-void)|[ Host](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/ipaddress.markdown#host-zero-engine-documen)| | |
+| |[ InternetProtocol](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/ipaddress.markdown#internetprotocol-zero-en)| | |
+| |[ IsValid](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/ipaddress.markdown#isvalid-zero-engine-docu)| | |
+| |[ Port](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/ipaddress.markdown#port-zero-engine-documen)| | |
+| |[ PortString](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/ipaddress.markdown#portstring-zero-engine-d)| | |
+| |[ String](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/ipaddress.markdown#string-zero-engine-docum)| | |
 
 
  #  Properties
 
 
 ---  
- #  Hash : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  Hash : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
  `read-only`
 
@@ -27,7 +27,7 @@
 
 
 ---  
- #  Host : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
+ #  Host : [string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)
 
 > Returns the valid IP address host as a numeric string, else String()
 > ``` lang=cpp, name=Zilch
@@ -35,7 +35,7 @@
 
 
 ---  
- #  InternetProtocol : [InternetProtocol](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#internetprotocol)
+ #  InternetProtocol : [InternetProtocol](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#internetprotocol)
 
  `read-only`
 
@@ -45,7 +45,7 @@
 
 
 ---  
- #  IsValid : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  IsValid : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -55,7 +55,7 @@
 
 
 ---  
- #  Port : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  Port : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > Returns the valid IP address port, else 0.
 > ``` lang=cpp, name=Zilch
@@ -63,7 +63,7 @@
 
 
 ---  
- #  PortString : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
+ #  PortString : [string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)
 
  `read-only`
 
@@ -73,7 +73,7 @@
 
 
 ---  
- #  String : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
+ #  String : [string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)
 
  `read-only`
 
@@ -118,7 +118,7 @@
 > Copy Constructors.
 > |Name|Type|Description|
 > |---|---|---|
-> |rhs|[ipaddress](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/ipaddress.markdown)| |
+> |rhs|[ipaddress](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/ipaddress.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function IpAddress(rhs : IpAddress)
 > ``` 
@@ -132,8 +132,8 @@
 > Creates an empty IP address.
 > |Name|Type|Description|
 > |---|---|---|
-> |host|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
-> |port|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |host|[string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)| |
+> |port|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function IpAddress(host : String, port : Integer)
 > ``` 
@@ -147,9 +147,9 @@
 > Creates an empty IP address.
 > |Name|Type|Description|
 > |---|---|---|
-> |host|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
-> |port|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |internetProtocol|[InternetProtocol](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#internetprotocol)| |
+> |host|[string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)| |
+> |port|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |internetProtocol|[InternetProtocol](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#internetprotocol)| |
 > ``` lang=cpp, name=Zilch
 > function IpAddress(host : String, port : Integer, internetProtocol : InternetProtocol)
 > ``` 

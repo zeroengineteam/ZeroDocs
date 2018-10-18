@@ -6,17 +6,17 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ Host](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/nethostupdate.markdown#host-zero-engine-documen)|[event](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/event.markdown)| |
-| |[ Network](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/nethostupdate.markdown#network-zero-engine-docu)| | |
-| |[ RefreshResult](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/nethostupdate.markdown#refreshresult-zero-engin)| | |
-| |[ ResponseTime](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/nethostupdate.markdown#responsetime-zero-engine)| | |
+| |[ Host](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/nethostupdate.markdown#host-zero-engine-documen)|[event](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/event.markdown)| |
+| |[ Network](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/nethostupdate.markdown#network-zero-engine-docu)| | |
+| |[ RefreshResult](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/nethostupdate.markdown#refreshresult-zero-engin)| | |
+| |[ ResponseTime](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/nethostupdate.markdown#responsetime-zero-engine)| | |
 
 
  #  Properties
 
 
 ---  
- #  Host : [nethost](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/nethost.markdown)
+ #  Host : [nethost](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/nethost.markdown)
 
  `read-only`
 
@@ -26,7 +26,7 @@
 
 
 ---  
- #  Network : [Network](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#network)
+ #  Network : [Network](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#network)
 
  `read-only`
 
@@ -36,7 +36,7 @@
 
 
 ---  
- #  RefreshResult : [NetRefreshResult](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#netrefreshresult)
+ #  RefreshResult : [NetRefreshResult](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#netrefreshresult)
 
  `read-only`
 
@@ -46,7 +46,7 @@
 
 
 ---  
- #  ResponseTime : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  ResponseTime : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
  `read-only`
 

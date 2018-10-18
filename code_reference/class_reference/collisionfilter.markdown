@@ -4,16 +4,16 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/collisionfilter.markdown#collisionfilter-void)|[ CollisionFlag](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/collisionfilter.markdown#collisionflag-zero-engin)|[safeid32eventobject](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/safeid32eventobject.markdown)| |
-| |[ CollisionGroupA](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/collisionfilter.markdown#collisiongroupa-zero-eng)| | |
-| |[ CollisionGroupB](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/collisionfilter.markdown#collisiongroupb-zero-eng)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/collisionfilter.markdown#collisionfilter-void)|[ CollisionFlag](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/collisionfilter.markdown#collisionflag-zero-engin)|[safeid32eventobject](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/safeid32eventobject.markdown)| |
+| |[ CollisionGroupA](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/collisionfilter.markdown#collisiongroupa-zero-eng)| | |
+| |[ CollisionGroupB](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/collisionfilter.markdown#collisiongroupb-zero-eng)| | |
 
 
  #  Properties
 
 
 ---  
- #  CollisionFlag : [CollisionFilterCollisionFlags](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#collisionfiltercollisionflags)
+ #  CollisionFlag : [CollisionFilterCollisionFlags](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#collisionfiltercollisionflags)
 
 > The collision state between the two types. Controls whether the types skip detection, skip resolution, or resolve as normal.
 > ``` lang=cpp, name=Zilch
@@ -21,7 +21,7 @@
 
 
 ---  
- #  CollisionGroupA : [collisiongroup](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/collisiongroup.markdown)
+ #  CollisionGroupA : [collisiongroup](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/collisiongroup.markdown)
 
  `read-only`
 
@@ -31,7 +31,7 @@
 
 
 ---  
- #  CollisionGroupB : [collisiongroup](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/collisiongroup.markdown)
+ #  CollisionGroupB : [collisiongroup](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/collisiongroup.markdown)
 
  `read-only`
 

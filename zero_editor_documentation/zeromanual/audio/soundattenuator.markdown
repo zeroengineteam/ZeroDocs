@@ -1,4 +1,4 @@
-The [ SoundAttenuator ](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/soundattenuator.markdown) resource controls how a sound played through a [SoundEmitter ](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/audio/soundemitter.markdown) on an object decreases in volume as the object gets further away from a  [SoundListener ](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/audio/soundlistener.markdown). 
+The [ SoundAttenuator ](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/soundattenuator.markdown) resource controls how a sound played through a [SoundEmitter ](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/audio/soundemitter.markdown) on an object decreases in volume as the object gets further away from a  [SoundListener ](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/audio/soundlistener.markdown). 
 
  # Using SoundAttenuators 
 
@@ -6,7 +6,7 @@ The [ SoundAttenuator ](https://github.com/zeroengineteam/ZeroDocs/code_referenc
 ![Attenuator1](https://media.githubusercontent.com/media/zeroengineteam/ZeroFiles/master/doc_files/3057.png)
 
 
-SoundAttenuators can be added to both [SoundCues ](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/audio/soundcue.markdown) and SoundEmitters. If a SoundCue has a SoundAttenuator other than the DefaultNoAttenuation resource attenuator, its settings will be used when the SoundCue is played through any SoundEmitter. Otherwise the settings from the SoundAttenuator on the SoundEmitter will be used. If the SoundEmitter also has DefaultNoAttenuation resource selected, the sound will be heard spatially by SoundListeners (panned to left or right depending on the location of the object), but will not change its volume with distance.
+SoundAttenuators can be added to both [SoundCues ](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/audio/soundcue.markdown) and SoundEmitters. If a SoundCue has a SoundAttenuator other than the DefaultNoAttenuation resource attenuator, its settings will be used when the SoundCue is played through any SoundEmitter. Otherwise the settings from the SoundAttenuator on the SoundEmitter will be used. If the SoundEmitter also has DefaultNoAttenuation resource selected, the sound will be heard spatially by SoundListeners (panned to left or right depending on the location of the object), but will not change its volume with distance.
 
  ## Attenuation
 
@@ -24,12 +24,12 @@ The volume of sounds are reduced, or attenuated, according to their distance fro
 
  ## Manual
 
-- [SoundEmitter ](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/audio/soundemitter.markdown)
-- [SoundListener ](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/audio/soundlistener.markdown)
-- [SoundCue ](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/audio/soundcue.markdown)
+- [SoundEmitter ](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/audio/soundemitter.markdown)
+- [SoundListener ](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/audio/soundlistener.markdown)
+- [SoundCue ](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/audio/soundcue.markdown)
 
  ## Reference
 
-- [ SoundAttenuator ](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/soundattenuator.markdown) 
+- [ SoundAttenuator ](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/soundattenuator.markdown) 
 
  

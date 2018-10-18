@@ -2,23 +2,23 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ Bottom](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spritesourcebuilder.markdown#bottom-zero-engine-docum)|[buildercomponent](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/buildercomponent.markdown)| |
-| |[ Fill](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spritesourcebuilder.markdown#fill-zero-engine-documen)| | |
-| |[ Left](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spritesourcebuilder.markdown#left-zero-engine-documen)| | |
-| |[ Looping](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spritesourcebuilder.markdown#looping-zero-engine-docu)| | |
-| |[ OriginX](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spritesourcebuilder.markdown#originx-zero-engine-docu)| | |
-| |[ OriginY](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spritesourcebuilder.markdown#originy-zero-engine-docu)| | |
-| |[ PixelsPerUnit](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spritesourcebuilder.markdown#pixelsperunit-zero-engin)| | |
-| |[ Right](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spritesourcebuilder.markdown#right-zero-engine-docume)| | |
-| |[ Sampling](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spritesourcebuilder.markdown#sampling-zero-engine-doc)| | |
-| |[ Top](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spritesourcebuilder.markdown#top-zero-engine-document)| | |
+| |[ Bottom](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/spritesourcebuilder.markdown#bottom-zero-engine-docum)|[buildercomponent](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/buildercomponent.markdown)| |
+| |[ Fill](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/spritesourcebuilder.markdown#fill-zero-engine-documen)| | |
+| |[ Left](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/spritesourcebuilder.markdown#left-zero-engine-documen)| | |
+| |[ Looping](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/spritesourcebuilder.markdown#looping-zero-engine-docu)| | |
+| |[ OriginX](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/spritesourcebuilder.markdown#originx-zero-engine-docu)| | |
+| |[ OriginY](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/spritesourcebuilder.markdown#originy-zero-engine-docu)| | |
+| |[ PixelsPerUnit](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/spritesourcebuilder.markdown#pixelsperunit-zero-engin)| | |
+| |[ Right](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/spritesourcebuilder.markdown#right-zero-engine-docume)| | |
+| |[ Sampling](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/spritesourcebuilder.markdown#sampling-zero-engine-doc)| | |
+| |[ Top](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/spritesourcebuilder.markdown#top-zero-engine-document)| | |
 
 
  #  Properties
 
 
 ---  
- #  Bottom : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  Bottom : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -26,7 +26,7 @@
 
 
 ---  
- #  Fill : [SpriteFill](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#spritefill)
+ #  Fill : [SpriteFill](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#spritefill)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -34,7 +34,7 @@
 
 
 ---  
- #  Left : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  Left : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -42,7 +42,7 @@
 
 
 ---  
- #  Looping : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  Looping : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -50,7 +50,7 @@
 
 
 ---  
- #  OriginX : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  OriginX : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -58,7 +58,7 @@
 
 
 ---  
- #  OriginY : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  OriginY : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -66,7 +66,7 @@
 
 
 ---  
- #  PixelsPerUnit : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  PixelsPerUnit : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -74,7 +74,7 @@
 
 
 ---  
- #  Right : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  Right : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -82,7 +82,7 @@
 
 
 ---  
- #  Sampling : [SpriteSampling](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#spritesampling)
+ #  Sampling : [SpriteSampling](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#spritesampling)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -90,7 +90,7 @@
 
 
 ---  
- #  Top : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  Top : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch

@@ -1,4 +1,4 @@
-The MultiConvexMesh Editor is a tool that allows the user to create a MultiConvexMesh Resource to use as the [Mesh](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/mesh.markdown) in a [MultiConvexMeshCollilder](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/physics/collision/multiconvexmeshcollider.markdown). The Editor provides a number of different methods for creating the Mesh allowing the user a great of customizability.
+The MultiConvexMesh Editor is a tool that allows the user to create a MultiConvexMesh Resource to use as the [Mesh](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/mesh.markdown) in a [MultiConvexMeshCollilder](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/collision/multiconvexmeshcollider.markdown). The Editor provides a number of different methods for creating the Mesh allowing the user a great of customizability.
 
  # Using the MultiConvexMesh Editor
 The following section will be split up into two main sections: the In-Editor properties and methods of the MultiConvexMesh Editor and creating a MultiConvexMesh using the Editor.
@@ -59,7 +59,7 @@ The following section will be split up into two main sections: the In-Editor pro
 
  # Using the MultiConvexMesh Editor
  ## Adding a MultiConvexMesh Resource
-To add a new MultiConvexMesh Resource, use the [Add Resource](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/ZeroManual/Editor/EditorCommands/ResourceAdding.markdown) window.
+To add a new MultiConvexMesh Resource, use the [Add Resource](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Editor/EditorCommands/ResourceAdding.markdown) window.
 
 When the Resource is created, the MultiConvexMesh Editor window will automatically open, like so:
 
@@ -102,11 +102,11 @@ As the value of SurfaceThreshold  is lowered, and `Intensity` is selected as the
  # Related Materials
 
  ## Manual
-- [MultiConvexMeshCollilder](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/physics/collision/multiconvexmeshcollider.markdown)
-- [Add Resource](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/ZeroManual/Editor/EditorCommands/ResourceAdding.markdown)
+- [MultiConvexMeshCollilder](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/collision/multiconvexmeshcollider.markdown)
+- [Add Resource](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Editor/EditorCommands/ResourceAdding.markdown)
 
  ## Reference
-- [MultiConvexMesh](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/MultiConvexMesh.markdown)
-- [Mesh](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/mesh.markdown) 
+- [MultiConvexMesh](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/MultiConvexMesh.markdown)
+- [Mesh](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/mesh.markdown) 
 
  

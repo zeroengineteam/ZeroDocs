@@ -4,18 +4,18 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/castresult.markdown#castresult-void)|[ Collider](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/castresult.markdown#collider-zero-engine-doc)| | |
-|[ GetLocalPosition](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/castresult.markdown#getlocalposition-zero-en)|[ Distance](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/castresult.markdown#distance-zero-engine-doc)| | |
-| |[ Normal](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/castresult.markdown#normal-zero-engine-docum)| | |
-| |[ ObjectHit](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/castresult.markdown#objecthit-zero-engine-do)| | |
-| |[ WorldPosition](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/castresult.markdown#worldposition-zero-engin)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/castresult.markdown#castresult-void)|[ Collider](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/castresult.markdown#collider-zero-engine-doc)| | |
+|[ GetLocalPosition](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/castresult.markdown#getlocalposition-zero-en)|[ Distance](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/castresult.markdown#distance-zero-engine-doc)| | |
+| |[ Normal](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/castresult.markdown#normal-zero-engine-docum)| | |
+| |[ ObjectHit](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/castresult.markdown#objecthit-zero-engine-do)| | |
+| |[ WorldPosition](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/castresult.markdown#worldposition-zero-engin)| | |
 
 
  #  Properties
 
 
 ---  
- #  Collider : [collider](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/collider.markdown)
+ #  Collider : [collider](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/collider.markdown)
 
  `read-only`
 
@@ -25,7 +25,7 @@
 
 
 ---  
- #  Distance : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  Distance : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
  `read-only`
 
@@ -35,7 +35,7 @@
 
 
 ---  
- #  Normal : [real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)
+ #  Normal : [real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real3.markdown)
 
  `read-only`
 
@@ -45,7 +45,7 @@
 
 
 ---  
- #  ObjectHit : [cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
+ #  ObjectHit : [cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)
 
  `read-only`
 
@@ -55,7 +55,7 @@
 
 
 ---  
- #  WorldPosition : [real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)
+ #  WorldPosition : [real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real3.markdown)
 
  `read-only`
 
@@ -89,19 +89,19 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |rhs|[castresult](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/castresult.markdown)| |
+> |rhs|[castresult](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/castresult.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function CastResult(rhs : CastResult)
 > ``` 
 
 
 ---  
- #  GetLocalPosition : [real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)
+ #  GetLocalPosition : [real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real3.markdown)
 
 > Returns the local-space position that the object was hit. The point index is used to get the first or last point of intersection. Invalid on volume casts.
 > |Name|Type|Description|
 > |---|---|---|
-> |pointIndex|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |pointIndex|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function GetLocalPosition(pointIndex : Integer) : Real3
 > ``` 

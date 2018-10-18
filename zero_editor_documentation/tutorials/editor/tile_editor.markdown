@@ -1,4 +1,4 @@
-This lesson covers the basics of Zero Engine's Tile Editor tool. The [ next lesson](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/tutorials/editor/tile_editor_ii.markdown) covers some of its more advanced features.
+This lesson covers the basics of Zero Engine's Tile Editor tool. The [ next lesson](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/tutorials/editor/tile_editor_ii.markdown) covers some of its more advanced features.
 
 
  #  Learning Objectives
@@ -11,7 +11,7 @@ This lesson covers the basics of Zero Engine's Tile Editor tool. The [ next less
  #  Level Setup
 
 
-- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ New Project](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#newproject)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ New Project](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#newproject)
  - Create a new project using the {nav icon=clone, name=Empty 2D Project} template
 
 The Tile Editor tool allows a designer to quickly make a 2D level by painting a tilemap with tiles that consist of graphics, colliders, custom logic, and more.
@@ -20,7 +20,7 @@ The Tile Editor tool allows a designer to quickly make a 2D level by painting a 
  #  Importing Tile Sprites
 
 
-The Tile Editor tool is typically (though not exclusively) used with sprites prepared with the [ Sprite Importer](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/sprites/spriteimporter.markdown).
+The Tile Editor tool is typically (though not exclusively) used with sprites prepared with the [ Sprite Importer](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/sprites/spriteimporter.markdown).
 
 - Download the following tile sheet:
   ![PlatformerTiles](https://media.githubusercontent.com/media/zeroengineteam/ZeroFiles/master/doc_files/107599.png)
@@ -29,7 +29,7 @@ The Tile Editor tool is typically (though not exclusively) used with sprites pre
  - Set ImportImages enum to `Sprites`
  - Press the `Import All` button
 
-Like in the [ tutorial on sprite animations](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/tutorials/graphics/sprite_animations.markdown), we will use the Sprite Importer to take this large tile sheet and extract smaller SpriteSource resource resources from it.
+Like in the [ tutorial on sprite animations](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/tutorials/graphics/sprite_animations.markdown), we will use the Sprite Importer to take this large tile sheet and extract smaller SpriteSource resource resources from it.
 
 - In the `Library Window`
  - Under the SpriteSource  tag
@@ -56,7 +56,7 @@ To divide the tiles properly, we should set the FrameWidth  and FrameHeight  eac
  - Set FrameHeight  to `32`
  - Set PixelsPerUnit  to `32`
 
-Our goal here is to select every square region of the sheet that we want to use as a tile for the Tile Editor. By default, the ImportFrames enum property is set to [ AllFrames](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#importframes), so if we just clicked the `Add Frames as Sprites` button, it would add every 32-pixel tile in the sheet as a separate SpriteSource, and we'd be done. However, the sheet has some "holes" in it and a lot of empty space at the bottom, which would result in many tiles that are totally blank. These virtually useless SpriteSources would clutter up our library and act as a general nuisance. Instead, we can use the mouse to manually select all and only the tiles we want.
+Our goal here is to select every square region of the sheet that we want to use as a tile for the Tile Editor. By default, the ImportFrames enum property is set to [ AllFrames](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#importframes), so if we just clicked the `Add Frames as Sprites` button, it would add every 32-pixel tile in the sheet as a separate SpriteSource, and we'd be done. However, the sheet has some "holes" in it and a lot of empty space at the bottom, which would result in many tiles that are totally blank. These virtually useless SpriteSources would clutter up our library and act as a general nuisance. Instead, we can use the mouse to manually select all and only the tiles we want.
 
 - In the `Sprite Importer Window`
  - Set ImportFrames enum to `SelectedFrames`
@@ -149,7 +149,7 @@ The Draw sub-tool allows you to paint tiles into a tilemap. All of your project'
 The Selection sub-tool allows you to select one or more tiles to use as a "brush", which can then be used to paint using the Draw sub-tool.
 
 - In the `Tools Window`
- - Set ToolType enum to [ SelectionTool](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#tileeditor2dsubtooltype)
+ - Set ToolType enum to [ SelectionTool](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#tileeditor2dsubtooltype)
    ![image](https://media.githubusercontent.com/media/zeroengineteam/ZeroFiles/master/doc_files/108285.png)
 
 (NOTE) **TileEditor2D Tool Hotkeys:** You can quickly select the TileEditor2D tool by pressing key the `6` key. With the TileEditor2D tool active, you can select the Draw sub-tool and the Selection sub-tool by pressing key `Shift + 1` and `Shift + 2`, respectively.
@@ -163,7 +163,7 @@ The Selection sub-tool allows you to select one or more tiles to use as a "brush
 After committing a selection with the Selection sub-tool, the Draw sub-tool is automatically selected, and you can draw and erase with the new brush.
 
 - In the `Tools Window`
- - Confirm that the ToolType enum property is set to [ SelectionTool](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#tileeditor2dsubtooltype)
+ - Confirm that the ToolType enum property is set to [ SelectionTool](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#tileeditor2dsubtooltype)
 - In the `Level Window`
  - `Left-click and drag` to make a selection and right-click  it to commit it as a brush
  - `Left-click and drag` to **place tiles with the new brush**
@@ -175,7 +175,7 @@ After committing a selection with the Selection sub-tool, the Draw sub-tool is a
  ##  A Quick Test Run
 
 
-Let's use what we've covered so far to throw together a very basic level (but really not much more than a couple of platforms) that we can play in using the swept character archetype that can be downloaded from the Zero Market, as covered in [ tutorial on the Zero Market](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/tutorials/external_zero_engine_tools/the_market.markdown).
+Let's use what we've covered so far to throw together a very basic level (but really not much more than a couple of platforms) that we can play in using the swept character archetype that can be downloaded from the Zero Market, as covered in [ tutorial on the Zero Market](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/tutorials/external_zero_engine_tools/the_market.markdown).
 
 - Use the TileEditor2D tool to create a set of simple platforms:
   ![image](https://media.githubusercontent.com/media/zeroengineteam/ZeroFiles/master/doc_files/108816.png)
@@ -189,7 +189,7 @@ Let's use what we've covered so far to throw together a very basic level (but re
  - Under Archetype 
   - `Left-click and drag` `SweptPlayer2D` into the `Level Window`
     ![Adding a Swept Character](https://media.githubusercontent.com/media/zeroengineteam/ZeroFiles/master/doc_files/108718.gif)
-- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ PlayGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#playgame)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ PlayGame](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#playgame)
 
 
 
@@ -199,11 +199,11 @@ Let's use what we've covered so far to throw together a very basic level (but re
 *By default, the tiles placed with the TileEditor2D tool have collision*
 
 
-- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ StopGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#stopgame)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ StopGame](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#stopgame)
 
 (NOTE) **Can't Jump High Enough?** Depending on how you constructed your level, you may want to adjust your player character's properties, such as the `SweptController`'s Gravity  and JumpSpeed .
 
-The test run was a success: the swept character collides with the tiles as expected. In the [ next tutorial](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/tutorials/editor/tile_editor_ii.markdown), we'll begin by learning about tile archetypes.
+The test run was a success: the swept character collides with the tiles as expected. In the [ next tutorial](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/tutorials/editor/tile_editor_ii.markdown), we'll begin by learning about tile archetypes.
 
 
  #  Related Materials
@@ -212,18 +212,18 @@ The test run was a success: the swept character collides with the tiles as expec
  ##  Tutorials
 
 
-- [sprite_animations](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/tutorials/graphics/sprite_animations.markdown)
-- [the_market](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/tutorials/external_zero_engine_tools/the_market.markdown)
-- [swept_character](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/tutorials/gameplay/swept_character.markdown)
-- [tile_editor_ii](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/tutorials/editor/tile_editor_ii.markdown)
+- [sprite_animations](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/tutorials/graphics/sprite_animations.markdown)
+- [the_market](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/tutorials/external_zero_engine_tools/the_market.markdown)
+- [swept_character](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/tutorials/gameplay/swept_character.markdown)
+- [tile_editor_ii](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/tutorials/editor/tile_editor_ii.markdown)
 
 
  ##  Manual
 
 
-- [commands](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown)
-- [spriteimporter](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/sprites/spriteimporter.markdown)
-- [spritesourceeditor](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/sprites/spritesourceeditor.markdown)
+- [commands](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown)
+- [spriteimporter](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/sprites/spriteimporter.markdown)
+- [spritesourceeditor](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/sprites/spritesourceeditor.markdown)
 
 
  ##  Reference
@@ -232,16 +232,16 @@ The test run was a success: the swept character collides with the tiles as expec
  ###  Commands
 
 
-- [ NewProject](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#newproject)
-- [ PlayGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#playgame)
-- [ StopGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#stopgame)
+- [ NewProject](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#newproject)
+- [ PlayGame](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#playgame)
+- [ StopGame](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#stopgame)
 
 
  ###  Enums
 
 
-- [ ImportFrames](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#importframes)
-- [ TileEditor2DSubToolType](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#tileeditor2dsubtooltype)
+- [ ImportFrames](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#importframes)
+- [ TileEditor2DSubToolType](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#tileeditor2dsubtooltype)
 
 
  ##  Development Task

@@ -4,23 +4,23 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Calibrating](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/joystick.markdown#calibrating-zero-engine)|[ AxisCount](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/joystick.markdown#axiscount-zero-engine-do)|[eventobject](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/eventobject.markdown)| |
-|[ EndCalibration](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/joystick.markdown#endcalibration-void)|[ ButtonCount](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/joystick.markdown#buttoncount-zero-engine)| | |
-|[ GetAxisIndex](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/joystick.markdown#getaxisindex-zero-engine)|[ DisabledValue](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/joystick.markdown#disabledvalue-zero-engin)| | |
-|[ GetAxisName](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/joystick.markdown#getaxisname-zero-engine)|[ IsActive](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/joystick.markdown#isactive-zero-engine-doc)| | |
-|[ GetAxisValue](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/joystick.markdown#getaxisvalue-zero-engine)|[ Name](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/joystick.markdown#name-zero-engine-documen)| | |
-|[ GetAxisValueByName](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/joystick.markdown#getaxisvaluebyname-zero)| | | |
-|[ GetButtonValue](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/joystick.markdown#getbuttonvalue-zero-engi)| | | |
-|[ LoadInputMapping](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/joystick.markdown#loadinputmapping-void)| | | |
-|[ SaveInputMapping](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/joystick.markdown#saveinputmapping-void)| | | |
-|[ StartCalibration](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/joystick.markdown#startcalibration-void)| | | |
+|[ Calibrating](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/joystick.markdown#calibrating-zero-engine)|[ AxisCount](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/joystick.markdown#axiscount-zero-engine-do)|[eventobject](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/eventobject.markdown)| |
+|[ EndCalibration](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/joystick.markdown#endcalibration-void)|[ ButtonCount](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/joystick.markdown#buttoncount-zero-engine)| | |
+|[ GetAxisIndex](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/joystick.markdown#getaxisindex-zero-engine)|[ DisabledValue](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/joystick.markdown#disabledvalue-zero-engin)| | |
+|[ GetAxisName](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/joystick.markdown#getaxisname-zero-engine)|[ IsActive](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/joystick.markdown#isactive-zero-engine-doc)| | |
+|[ GetAxisValue](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/joystick.markdown#getaxisvalue-zero-engine)|[ Name](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/joystick.markdown#name-zero-engine-documen)| | |
+|[ GetAxisValueByName](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/joystick.markdown#getaxisvaluebyname-zero)| | | |
+|[ GetButtonValue](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/joystick.markdown#getbuttonvalue-zero-engi)| | | |
+|[ LoadInputMapping](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/joystick.markdown#loadinputmapping-void)| | | |
+|[ SaveInputMapping](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/joystick.markdown#saveinputmapping-void)| | | |
+|[ StartCalibration](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/joystick.markdown#startcalibration-void)| | | |
 
 
  #  Properties
 
 
 ---  
- #  AxisCount : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  AxisCount : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
  `read-only`
 
@@ -30,7 +30,7 @@
 
 
 ---  
- #  ButtonCount : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  ButtonCount : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
  `read-only`
 
@@ -40,7 +40,7 @@
 
 
 ---  
- #  DisabledValue : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  DisabledValue : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
  `read-only` `static`
 
@@ -50,7 +50,7 @@
 
 
 ---  
- #  IsActive : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  IsActive : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -60,7 +60,7 @@
 
 
 ---  
- #  Name : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
+ #  Name : [string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)
 
  `read-only`
 
@@ -74,7 +74,7 @@
 
 
 ---  
- #  Calibrating : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  Calibrating : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
@@ -96,60 +96,60 @@
 
 
 ---  
- #  GetAxisIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  GetAxisIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |name|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
+> |name|[string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function GetAxisIndex(name : String) : Integer
 > ``` 
 
 
 ---  
- #  GetAxisName : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
+ #  GetAxisName : [string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function GetAxisName(index : Integer) : String
 > ``` 
 
 
 ---  
- #  GetAxisValue : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  GetAxisValue : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > Queries an axes and returns a value between [-1, 1]. The valid range of axes is between 0 and 'GetMaxAxes'. If the axis is not valid, then the value returned is 0. If the axis is disabled, then the value returned is Joystick.DisabledValue.
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function GetAxisValue(index : Integer) : Real
 > ``` 
 
 
 ---  
- #  GetAxisValueByName : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  GetAxisValueByName : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |name|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
+> |name|[string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function GetAxisValueByName(name : String) : Real
 > ``` 
 
 
 ---  
- #  GetButtonValue : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  GetButtonValue : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > Queries a button and returns true if it is down, false if it is up The valid range of buttons is between 0 and 'GetMaxButtons' If the button is not valid, then the value returned is false.
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function GetButtonValue(index : Integer) : Boolean
 > ``` 
@@ -161,7 +161,7 @@
 > Load an input mapping.
 > |Name|Type|Description|
 > |---|---|---|
-> |name|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
+> |name|[string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function LoadInputMapping(name : String)
 > ``` 
@@ -173,7 +173,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |name|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
+> |name|[string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function SaveInputMapping(name : String)
 > ``` 

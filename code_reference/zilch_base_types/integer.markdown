@@ -2,21 +2,21 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Get](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown#get-zero-engine-document)|[ Count](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown#count-zero-engine-docume)| | |
-|[ GetAxis](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown#getaxis-zero-engine-docu)|[ NegativeMin](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown#negativemin-zero-engine)| | |
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown#integer-void)|[ NegativeValueClosestToZero](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown#negativevalueclosesttoze)| | |
-|[ Parse](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown#parse-zero-engine-docume)|[ One](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown#one-zero-engine-document)| | |
-|[ Reinterpret](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown#reinterpret-zero-engine)|[ PositiveMax](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown#positivemax-zero-engine)| | |
-|[ Set](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown#set-void)|[ PositiveValueClosestToZero](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown#positivevalueclosesttoze)| | |
-| |[ XAxis](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown#xaxis-zero-engine-docume)| | |
-| |[ Zero](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown#zero-zero-engine-documen)| | |
+|[ Get](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown#get-zero-engine-document)|[ Count](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown#count-zero-engine-docume)| | |
+|[ GetAxis](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown#getaxis-zero-engine-docu)|[ NegativeMin](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown#negativemin-zero-engine)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown#integer-void)|[ NegativeValueClosestToZero](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown#negativevalueclosesttoze)| | |
+|[ Parse](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown#parse-zero-engine-docume)|[ One](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown#one-zero-engine-document)| | |
+|[ Reinterpret](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown#reinterpret-zero-engine)|[ PositiveMax](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown#positivemax-zero-engine)| | |
+|[ Set](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown#set-void)|[ PositiveValueClosestToZero](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown#positivevalueclosesttoze)| | |
+| |[ XAxis](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown#xaxis-zero-engine-docume)| | |
+| |[ Zero](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown#zero-zero-engine-documen)| | |
 
 
  #  Properties
 
 
 ---  
- #  Count : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  Count : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
  `read-only`
 
@@ -26,7 +26,7 @@
 
 
 ---  
- #  NegativeMin : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  NegativeMin : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
  `read-only` `static`
 
@@ -36,7 +36,7 @@
 
 
 ---  
- #  NegativeValueClosestToZero : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  NegativeValueClosestToZero : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
  `read-only` `static`
 
@@ -46,7 +46,7 @@
 
 
 ---  
- #  One : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  One : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
  `read-only` `static`
 
@@ -56,7 +56,7 @@
 
 
 ---  
- #  PositiveMax : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  PositiveMax : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
  `read-only` `static`
 
@@ -66,7 +66,7 @@
 
 
 ---  
- #  PositiveValueClosestToZero : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  PositiveValueClosestToZero : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
  `read-only` `static`
 
@@ -76,7 +76,7 @@
 
 
 ---  
- #  XAxis : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  XAxis : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
  `read-only` `static`
 
@@ -86,7 +86,7 @@
 
 
 ---  
- #  Zero : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  Zero : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
  `read-only` `static`
 
@@ -100,26 +100,26 @@
 
 
 ---  
- #  Get : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  Get : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |p0|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Get(p0 : Integer) : Integer
 > ``` 
 
 
 ---  
- #  GetAxis : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  GetAxis : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
  `static`
 
 > Returns an axis vector from the given index (ie. 0 is XAxis, 1 is YAxis, etc...
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |p0|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function GetAxis(p0 : Integer) : Integer
 > ``` 
@@ -146,35 +146,35 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |scalar|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |scalar|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Integer(scalar : Integer)
 > ``` 
 
 
 ---  
- #  Parse : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  Parse : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
  `static`
 
 > Attempt to convert the given StringRange to an Integer. If parsing fails 0 is returned.
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[stringrange](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/stringrange.markdown)| |
+> |p0|[stringrange](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/stringrange.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Parse(p0 : StringRange) : Integer
 > ``` 
 
 
 ---  
- #  Reinterpret : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  Reinterpret : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
  `static`
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)| |
+> |p0|[real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Reinterpret(p0 : Real) : Integer
 > ``` 
@@ -186,8 +186,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |p1|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |p0|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |p1|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Set(p0 : Integer, p1 : Integer)
 > ``` 

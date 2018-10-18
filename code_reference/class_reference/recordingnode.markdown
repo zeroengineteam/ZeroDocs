@@ -4,16 +4,16 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ StartRecording](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/recordingnode.markdown#startrecording-void)|[ FileName](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/recordingnode.markdown#filename-zero-engine-doc)|[soundnode](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/soundnode.markdown)| |
-|[ StopRecording](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/recordingnode.markdown#stoprecording-void)|[ Paused](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/recordingnode.markdown#paused-zero-engine-docum)| | |
-| |[ StreamToDisk](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/recordingnode.markdown#streamtodisk-zero-engine)| | |
+|[ StartRecording](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/recordingnode.markdown#startrecording-void)|[ FileName](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/recordingnode.markdown#filename-zero-engine-doc)|[soundnode](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/soundnode.markdown)| |
+|[ StopRecording](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/recordingnode.markdown#stoprecording-void)|[ Paused](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/recordingnode.markdown#paused-zero-engine-docum)| | |
+| |[ StreamToDisk](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/recordingnode.markdown#streamtodisk-zero-engine)| | |
 
 
  #  Properties
 
 
 ---  
- #  FileName : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
+ #  FileName : [string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)
 
 > The name of the output file that will be created, including the full path. Do not include the file extension.
 > ``` lang=cpp, name=Zilch
@@ -21,7 +21,7 @@
 
 
 ---  
- #  Paused : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  Paused : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > When true, recording is paused, and can be resumed by setting to false.
 > ``` lang=cpp, name=Zilch
@@ -29,7 +29,7 @@
 
 
 ---  
- #  StreamToDisk : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  StreamToDisk : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > When false, audio data will be saved in a buffer and written to the file when StopRecording is called. When true, data will be written to the file constantly during every update frame, and nothing will be saved.
 > ``` lang=cpp, name=Zilch

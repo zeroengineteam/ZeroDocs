@@ -4,14 +4,14 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ CutoffFrequency](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/highpassnode.markdown#cutofffrequency-zero-eng)|[soundnode](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/soundnode.markdown)| |
+| |[ CutoffFrequency](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/highpassnode.markdown#cutofffrequency-zero-eng)|[soundnode](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/soundnode.markdown)| |
 
 
  #  Properties
 
 
 ---  
- #  CutoffFrequency : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  CutoffFrequency : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > Frequencies below this number in the node's input will be attenuated. Setting this value to 20.0 or lower will skip all filter calculations.
 > ``` lang=cpp, name=Zilch

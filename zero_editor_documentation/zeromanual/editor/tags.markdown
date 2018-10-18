@@ -31,7 +31,7 @@ and
 and all other permutations of tags.
 
  # Tags in Zero
-Tags in the Zero Engine are used in the Library Window to organize the [Resources](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/architecture/resources/resources.markdown). 
+Tags in the Zero Engine are used in the Library Window to organize the [Resources](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/architecture/resources/resources.markdown). 
 
  ## Adding and Removing Tags
 Right-clicking on an object in the `Library Window` will give you the option to Edit Tags:

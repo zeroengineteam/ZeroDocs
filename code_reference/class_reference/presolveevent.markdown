@@ -6,15 +6,15 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ Friction](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/presolveevent.markdown#friction-zero-engine-doc)|[basecollisionevent](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/basecollisionevent.markdown)| |
-| |[ Restitution](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/presolveevent.markdown#restitution-zero-engine)| | |
+| |[ Friction](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/presolveevent.markdown#friction-zero-engine-doc)|[basecollisionevent](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/basecollisionevent.markdown)| |
+| |[ Restitution](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/presolveevent.markdown#restitution-zero-engine)| | |
 
 
  #  Properties
 
 
 ---  
- #  Friction : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  Friction : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > The friction to use for solving this pair. Allows custom overriding for this pair.
 > ``` lang=cpp, name=Zilch
@@ -22,7 +22,7 @@
 
 
 ---  
- #  Restitution : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  Restitution : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > The restitution to use for solving this pair. Allows custom overriding for this pair.
 > ``` lang=cpp, name=Zilch

@@ -4,19 +4,19 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/splineparticleemitter.markdown#splineparticleemitter-vo)|[ ClampT](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/splineparticleemitter.markdown#clampt-zero-engine-docum)|[particleemittershared](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/particleemittershared.markdown)| |
-| |[ EmitRadius](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/splineparticleemitter.markdown#emitradius-zero-engine-d)| | |
-| |[ SpawnT](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/splineparticleemitter.markdown#spawnt-zero-engine-docum)| | |
-| |[ SpawnTVariance](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/splineparticleemitter.markdown#spawntvariance-zero-engi)| | |
-| |[ Spline](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/splineparticleemitter.markdown#spline-zero-engine-docum)| | |
-| |[ TargetSplineCog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/splineparticleemitter.markdown#targetsplinecog-zero-eng)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/splineparticleemitter.markdown#splineparticleemitter-vo)|[ ClampT](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/splineparticleemitter.markdown#clampt-zero-engine-docum)|[particleemittershared](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/particleemittershared.markdown)| |
+| |[ EmitRadius](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/splineparticleemitter.markdown#emitradius-zero-engine-d)| | |
+| |[ SpawnT](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/splineparticleemitter.markdown#spawnt-zero-engine-docum)| | |
+| |[ SpawnTVariance](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/splineparticleemitter.markdown#spawntvariance-zero-engi)| | |
+| |[ Spline](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/splineparticleemitter.markdown#spline-zero-engine-docum)| | |
+| |[ TargetSplineCog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/splineparticleemitter.markdown#targetsplinecog-zero-eng)| | |
 
 
  #  Properties
 
 
 ---  
- #  ClampT : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  ClampT : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -24,7 +24,7 @@
 
 
 ---  
- #  EmitRadius : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  EmitRadius : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -32,7 +32,7 @@
 
 
 ---  
- #  SpawnT : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  SpawnT : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -40,7 +40,7 @@
 
 
 ---  
- #  SpawnTVariance : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  SpawnTVariance : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -48,7 +48,7 @@
 
 
 ---  
- #  Spline : [spline](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spline.markdown)
+ #  Spline : [spline](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/spline.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -56,7 +56,7 @@
 
 
 ---  
- #  TargetSplineCog : [cogpath](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cogpath.markdown)
+ #  TargetSplineCog : [cogpath](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cogpath.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch

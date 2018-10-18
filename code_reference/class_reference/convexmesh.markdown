@@ -6,9 +6,9 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/convexmesh.markdown#convexmesh-void)| |[genericphysicsmesh](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/genericphysicsmesh.markdown)| |
-|[ CreateRuntime](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/convexmesh.markdown#createruntime-zero-engin)| | | |
-|[ RuntimeClone](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/convexmesh.markdown#runtimeclone-zero-engine)| | | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/convexmesh.markdown#convexmesh-void)| |[genericphysicsmesh](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/genericphysicsmesh.markdown)| |
+|[ CreateRuntime](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/convexmesh.markdown#createruntime-zero-engin)| | | |
+|[ RuntimeClone](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/convexmesh.markdown#runtimeclone-zero-engine)| | | |
 
 
  #  Properties
@@ -32,7 +32,7 @@
 
 
 ---  
- #  CreateRuntime : [convexmesh](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/convexmesh.markdown)
+ #  CreateRuntime : [convexmesh](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/convexmesh.markdown)
 
  `static`
 
@@ -45,7 +45,7 @@
 
 
 ---  
- #  RuntimeClone : [convexmesh](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/convexmesh.markdown)
+ #  RuntimeClone : [convexmesh](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/convexmesh.markdown)
 
 > Creates a clone of this mesh for run-time modifications.
 > |Name|Type|Description|

@@ -4,17 +4,17 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ SendBuffer](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/customaudionode.markdown#sendbuffer-void)|[ Channels](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/customaudionode.markdown#channels-zero-engine-doc)|[soundnode](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/soundnode.markdown)| |
-|[ SendMicCompressedData](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/customaudionode.markdown#sendmiccompresseddata-vo)|[ MinimumBufferSize](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/customaudionode.markdown#minimumbuffersize-zero-e)| | |
-|[ SendMicUncompressedData](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/customaudionode.markdown#sendmicuncompresseddata)|[ SystemSampleRate](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/customaudionode.markdown#systemsamplerate-zero-en)| | |
-|[ SendPartialBuffer](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/customaudionode.markdown#sendpartialbuffer-void)| | | |
+|[ SendBuffer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/customaudionode.markdown#sendbuffer-void)|[ Channels](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/customaudionode.markdown#channels-zero-engine-doc)|[soundnode](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/soundnode.markdown)| |
+|[ SendMicCompressedData](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/customaudionode.markdown#sendmiccompresseddata-vo)|[ MinimumBufferSize](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/customaudionode.markdown#minimumbuffersize-zero-e)| | |
+|[ SendMicUncompressedData](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/customaudionode.markdown#sendmicuncompresseddata)|[ SystemSampleRate](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/customaudionode.markdown#systemsamplerate-zero-en)| | |
+|[ SendPartialBuffer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/customaudionode.markdown#sendpartialbuffer-void)| | | |
 
 
  #  Properties
 
 
 ---  
- #  Channels : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  Channels : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > The number of audio channels that will be in the buffer.
 > ``` lang=cpp, name=Zilch
@@ -22,7 +22,7 @@
 
 
 ---  
- #  MinimumBufferSize : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  MinimumBufferSize : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
  `read-only`
 
@@ -32,7 +32,7 @@
 
 
 ---  
- #  SystemSampleRate : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  SystemSampleRate : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
  `read-only`
 
@@ -51,7 +51,7 @@
 > Sends a buffer of audio samples to the audio system for output.
 > |Name|Type|Description|
 > |---|---|---|
-> |buffer|[soundbuffer](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/soundbuffer.markdown)| |
+> |buffer|[soundbuffer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/soundbuffer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function SendBuffer(buffer : SoundBuffer)
 > ``` 
@@ -63,7 +63,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||Array[[byte](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/byte.markdown)]| |
+> ||Array[[byte](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/byte.markdown)]| |
 > ``` lang=cpp, name=Zilch
 > function SendMicCompressedData( : Array[Byte])
 > ``` 
@@ -75,7 +75,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||Array[[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)]| |
+> ||Array[[real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)]| |
 > ``` lang=cpp, name=Zilch
 > function SendMicUncompressedData( : Array[Real])
 > ``` 
@@ -87,9 +87,9 @@
 > Sends a partial buffer of audio samples to the audio system for output.
 > |Name|Type|Description|
 > |---|---|---|
-> |buffer|[soundbuffer](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/soundbuffer.markdown)| |
-> |startAtIndex|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |howManySamples|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |buffer|[soundbuffer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/soundbuffer.markdown)| |
+> |startAtIndex|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |howManySamples|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function SendPartialBuffer(buffer : SoundBuffer, startAtIndex : Integer, howManySamples : Integer)
 > ``` 

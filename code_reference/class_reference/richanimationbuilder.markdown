@@ -2,14 +2,14 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/richanimationbuilder.markdown#richanimationbuilder-voi)|[ PreviewArchetype](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/richanimationbuilder.markdown#previewarchetype-zero-en)|[buildercomponent](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/buildercomponent.markdown)| |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/richanimationbuilder.markdown#richanimationbuilder-voi)|[ PreviewArchetype](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/richanimationbuilder.markdown#previewarchetype-zero-en)|[buildercomponent](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/buildercomponent.markdown)| |
 
 
  #  Properties
 
 
 ---  
- #  PreviewArchetype : [archetype](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/archetype.markdown)
+ #  PreviewArchetype : [archetype](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/archetype.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch

@@ -49,7 +49,7 @@ The Discover tab is the Launcher's information hub. It features a number of usef
 | New Project Default Settings by Template |
 |--|
 | **Setting**  | **Description**| **EMPTY 2D PROJECT** | **EMPTY 3D PROJECT**|
-|[ PhysicsSpace ](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/physicsspace.markdown)| Default behavior for collision resolution| `true`|`true`|
+|[ PhysicsSpace ](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/physicsspace.markdown)| Default behavior for collision resolution| `true`|`true`|
 |EditorCamera|Settings of editor camera|2D (orthographic, etc..)|3D (perspective, etc..|
 |Default Camera|Settings of the camera that is placed by default in each new level|2D (ortographic, etc...)|3D (perspective, etc...)|
 |GridDraw Axis|Perpendicular axis to the grid plane|`ZAxis`|`YAxis`|
@@ -59,12 +59,12 @@ The Discover tab is the Launcher's information hub. It features a number of usef
 
 2. Type a name for the project in the **Name** field. (You will be notified if a project by the same name already exists in the folder specified in the **Location** field.)
 
-3. Specify where the project should be created in the **Location** field. The default path for new projects can be changed in [The Settings Tab ](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/tutorials/editor/launcher.markdown#the-settings-tab). 
+3. Specify where the project should be created in the **Location** field. The default path for new projects can be changed in [The Settings Tab ](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/tutorials/editor/launcher.markdown#the-settings-tab). 
  - You can use the **Open Path** button next to the field to browse to a desired folder in your operating system's Folder Selection dialog.
 
-4. Optionally, you may give the project *tags* by typing them, separated by commas, in the **Tags** field. Tags are just bits of text that can be used as keywords when searching for projects in the [Recent Projects](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/tutorials/editor/launcher.markdown#recent-projects) subtab.
+4. Optionally, you may give the project *tags* by typing them, separated by commas, in the **Tags** field. Tags are just bits of text that can be used as keywords when searching for projects in the [Recent Projects](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/tutorials/editor/launcher.markdown#recent-projects) subtab.
 
-5. Specify which Zero Engine [build version](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/tutorials/editor/launcher.markdown#the-builds-tab) that you want to use to create the project in the **Build** popup menu (build 13480).
+5. Specify which Zero Engine [build version](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/tutorials/editor/launcher.markdown#the-builds-tab) that you want to use to create the project in the **Build** popup menu (build 13480).
 
 6. When you are ready, click the **Create Project** button. This will create a
   folder with the project name in the specified location containing the project
@@ -92,7 +92,7 @@ When you click on a recent project, you will see this:
 
 
 1. To open the project, click the **Launch Project** button.
-2. You may choose which installed Zero Engine [build version](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/tutorials/editor/launcher.markdown#the-builds-tab) you wish to open the project in by selecting the desired build from the **Build** popup menu.
+2. You may choose which installed Zero Engine [build version](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/tutorials/editor/launcher.markdown#the-builds-tab) you wish to open the project in by selecting the desired build from the **Build** popup menu.
 3. Clicking the **Open Path** button will open the project folder in your operating system.
 4. To return to the list of recent projects, click the **Back** button.
 
@@ -137,7 +137,7 @@ Finally, there's the **Settings** tab, found by clicking the little orange horiz
 
 2. The `Default Project Location` field defines the default path where new projects will be created.
  - You can use the **Open Path** button next to the field to browse to a desired folder in your operating system's Folder Selection dialog.
- - New projects can still be created elsewhere, by specifying a different path in the [New Project subtab](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/tutorials/editor/launcher.markdown#the-new-project-sub-tab).
+ - New projects can still be created elsewhere, by specifying a different path in the [New Project subtab](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/tutorials/editor/launcher.markdown#the-new-project-sub-tab).
 
 3. The `Default Download Location` field defines the path to which new build versions are downloaded and installed.
  - You can use the **Open Path** button next to the field to browse to a desired folder in your operating system's Folder Selection dialog.

@@ -1,4 +1,4 @@
-The [ CustomAudioNode ](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/customaudionode.markdown) allows the user to provide buffers of custom audio data to the system for output, using a [ SoundBuffer ](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/soundbuffer.markdown) object. 
+The [ CustomAudioNode ](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/customaudionode.markdown) allows the user to provide buffers of custom audio data to the system for output, using a [ SoundBuffer ](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/soundbuffer.markdown) object. 
 
  # Common Uses
 
@@ -50,10 +50,10 @@ function OnSoundEvent(event : SoundEvent)
 ---
  # Related Materials
  ## Manual
-- [soudnode_overview](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/audio/soundnode/soudnode_overview.markdown)
+- [soudnode_overview](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/audio/soundnode/soudnode_overview.markdown)
 
  ## Code Reference
-- [ CustomAudioNode ](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/customaudionode.markdown)
-- [ SoundBuffer ](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/soundbuffer.markdown) 
+- [ CustomAudioNode ](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/customaudionode.markdown)
+- [ SoundBuffer ](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/soundbuffer.markdown) 
 
  

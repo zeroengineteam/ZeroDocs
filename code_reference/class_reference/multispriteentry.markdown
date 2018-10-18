@@ -2,15 +2,15 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/multispriteentry.markdown#multispriteentry-void)|[ Index](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/multispriteentry.markdown#index-zero-engine-docume)| | |
-| |[ SpriteSource](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/multispriteentry.markdown#spritesource-zero-engine)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/multispriteentry.markdown#multispriteentry-void)|[ Index](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/multispriteentry.markdown#index-zero-engine-docume)| | |
+| |[ SpriteSource](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/multispriteentry.markdown#spritesource-zero-engine)| | |
 
 
  #  Properties
 
 
 ---  
- #  Index : [integer2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer2.markdown)
+ #  Index : [integer2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer2.markdown)
 
  `read-only`
 
@@ -20,7 +20,7 @@
 
 
 ---  
- #  SpriteSource : [spritesource](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spritesource.markdown)
+ #  SpriteSource : [spritesource](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/spritesource.markdown)
 
  `read-only`
 
@@ -41,7 +41,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[multispriteentry](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/multispriteentry.markdown)| |
+> |p0|[multispriteentry](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/multispriteentry.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function MultiSpriteEntry(p0 : MultiSpriteEntry)
 > ``` 

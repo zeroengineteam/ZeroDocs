@@ -6,20 +6,20 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ OurAddResponse](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netpeersentuseraddresponse.markdown#ouraddresponse-zero-engi)|[event](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/event.markdown)| |
-| |[ OurResponseBundle](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netpeersentuseraddresponse.markdown#ourresponsebundle-zero-e)| | |
-| |[ TheirIpAddress](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netpeersentuseraddresponse.markdown#theiripaddress-zero-engi)| | |
-| |[ TheirNetPeerId](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netpeersentuseraddresponse.markdown#theirnetpeerid-zero-engi)| | |
-| |[ TheirNetUser](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netpeersentuseraddresponse.markdown#theirnetuser-zero-engine)| | |
-| |[ TheirNetUserId](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netpeersentuseraddresponse.markdown#theirnetuserid-zero-engi)| | |
-| |[ TheirRequestBundle](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netpeersentuseraddresponse.markdown#theirrequestbundle-zero)| | |
+| |[ OurAddResponse](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netpeersentuseraddresponse.markdown#ouraddresponse-zero-engi)|[event](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/event.markdown)| |
+| |[ OurResponseBundle](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netpeersentuseraddresponse.markdown#ourresponsebundle-zero-e)| | |
+| |[ TheirIpAddress](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netpeersentuseraddresponse.markdown#theiripaddress-zero-engi)| | |
+| |[ TheirNetPeerId](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netpeersentuseraddresponse.markdown#theirnetpeerid-zero-engi)| | |
+| |[ TheirNetUser](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netpeersentuseraddresponse.markdown#theirnetuser-zero-engine)| | |
+| |[ TheirNetUserId](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netpeersentuseraddresponse.markdown#theirnetuserid-zero-engi)| | |
+| |[ TheirRequestBundle](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netpeersentuseraddresponse.markdown#theirrequestbundle-zero)| | |
 
 
  #  Properties
 
 
 ---  
- #  OurAddResponse : [NetUserAddResponse](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#netuseraddresponse)
+ #  OurAddResponse : [NetUserAddResponse](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#netuseraddresponse)
 
  `read-only`
 
@@ -29,7 +29,7 @@
 
 
 ---  
- #  OurResponseBundle : [eventbundle](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/eventbundle.markdown)
+ #  OurResponseBundle : [eventbundle](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/eventbundle.markdown)
 
  `read-only`
 
@@ -39,7 +39,7 @@
 
 
 ---  
- #  TheirIpAddress : [ipaddress](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/ipaddress.markdown)
+ #  TheirIpAddress : [ipaddress](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/ipaddress.markdown)
 
  `read-only`
 
@@ -49,7 +49,7 @@
 
 
 ---  
- #  TheirNetPeerId : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  TheirNetPeerId : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
  `read-only`
 
@@ -59,7 +59,7 @@
 
 
 ---  
- #  TheirNetUser : [cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
+ #  TheirNetUser : [cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)
 
  `read-only`
 
@@ -69,7 +69,7 @@
 
 
 ---  
- #  TheirNetUserId : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  TheirNetUserId : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
  `read-only`
 
@@ -79,7 +79,7 @@
 
 
 ---  
- #  TheirRequestBundle : [eventbundle](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/eventbundle.markdown)
+ #  TheirRequestBundle : [eventbundle](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/eventbundle.markdown)
 
  `read-only`
 

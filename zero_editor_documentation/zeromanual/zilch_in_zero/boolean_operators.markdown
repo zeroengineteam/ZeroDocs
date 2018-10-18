@@ -1,6 +1,6 @@
-NOTE: It is highly suggested you read [conditionals](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/conditionals.markdown) before this page, as the concepts of conditionals are used through out to demonstrate Boolean Operators.
+NOTE: It is highly suggested you read [conditionals](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/conditionals.markdown) before this page, as the concepts of conditionals are used through out to demonstrate Boolean Operators.
 
-The [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown) type has special operators that work with it.
+The [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown) type has special operators that work with it.
 
  # The Negation Operator `!`
 The `!` operator, called the negation operator, is typically the simplest of the boolean operators as it changes the value of its operand to `true` if it was `false`, and changes the value to `false` if it was `true`.
@@ -219,8 +219,8 @@ Either i or j is true
 
  # Related Materials
  ## Manual
-- [conditionals](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/conditionals.markdown)
+- [conditionals](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/conditionals.markdown)
  ## Code Reference
-- [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown) 
+- [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown) 
 
  

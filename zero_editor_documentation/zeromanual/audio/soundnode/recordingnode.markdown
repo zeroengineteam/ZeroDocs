@@ -1,4 +1,4 @@
-The [ RecordingNode ](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/recordingnode.markdown) collects audio data from its inputs and writes that data to a file. The audio data is then passed along to its outputs with no changes. 
+The [ RecordingNode ](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/recordingnode.markdown) collects audio data from its inputs and writes that data to a file. The audio data is then passed along to its outputs with no changes. 
 
  # Common Uses
 
@@ -19,9 +19,9 @@ this.MyRecorder.FileName = FilePath.CombineDirectoriesAndFile(FilePath.UserDocum
 ---
  # Related Materials
  ## Manual
-- [soudnode_overview](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/audio/soundnode/soudnode_overview.markdown)
+- [soudnode_overview](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/audio/soundnode/soudnode_overview.markdown)
 
  ## Code Reference
-- [ RecordingNode ](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/recordingnode.markdown) 
+- [ RecordingNode ](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/recordingnode.markdown) 
 
  

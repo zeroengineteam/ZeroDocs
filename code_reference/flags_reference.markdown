@@ -1,8 +1,8 @@
 |Flags||
 |---|
-|[ FileMode](https://github.com/zeroengineteam/ZeroDocs/code_reference/flags_reference.markdown#filemode)|
-|[ Members](https://github.com/zeroengineteam/ZeroDocs/code_reference/flags_reference.markdown#members)|
-|[ StreamCapabilities](https://github.com/zeroengineteam/ZeroDocs/code_reference/flags_reference.markdown#streamcapabilities)|
+|[ FileMode](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/flags_reference.markdown#filemode)|
+|[ Members](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/flags_reference.markdown#members)|
+|[ StreamCapabilities](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/flags_reference.markdown#streamcapabilities)|
 
 
 

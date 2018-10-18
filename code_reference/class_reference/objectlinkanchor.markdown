@@ -6,14 +6,14 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/objectlinkanchor.markdown#objectlinkanchor-void)|[ ObjectLinks](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/objectlinkanchor.markdown#objectlinks-zero-engine)|[component](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/component.markdown)| |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/objectlinkanchor.markdown#objectlinkanchor-void)|[ ObjectLinks](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/objectlinkanchor.markdown#objectlinks-zero-engine)|[component](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/component.markdown)| |
 
 
  #  Properties
 
 
 ---  
- #  ObjectLinks : [objectlinkrange](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/objectlinkrange.markdown)
+ #  ObjectLinks : [objectlinkrange](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/objectlinkrange.markdown)
 
  `read-only`
 

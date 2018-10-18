@@ -1,4 +1,4 @@
-The [ GeneratedWaveNode](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/generatedwavenode.markdown) will generate audio using a specified wave type and frequency. Since it is a generating node, it will ignore any input connections.
+The [ GeneratedWaveNode](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/generatedwavenode.markdown) will generate audio using a specified wave type and frequency. Since it is a generating node, it will ignore any input connections.
 
  # Common Uses
 
@@ -72,9 +72,9 @@ class SimpleSiren : ZilchComponent
 ---
  # Related Materials
  ## Manual
-- [soudnode_overview](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/audio/soundnode/soudnode_overview.markdown)
+- [soudnode_overview](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/audio/soundnode/soudnode_overview.markdown)
 
  ## Code Reference
-- [ GeneratedWaveNode ](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/generatedwavenode.markdown) 
+- [ GeneratedWaveNode ](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/generatedwavenode.markdown) 
 
  

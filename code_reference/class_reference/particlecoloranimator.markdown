@@ -6,16 +6,16 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/particlecoloranimator.markdown#particlecoloranimator-vo)|[ MaxParticleSpeed](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/particlecoloranimator.markdown#maxparticlespeed-zero-en)|[particleanimator](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/particleanimator.markdown)| |
-| |[ TimeGradient](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/particlecoloranimator.markdown#timegradient-zero-engine)| | |
-| |[ VelocityGradient](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/particlecoloranimator.markdown#velocitygradient-zero-en)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/particlecoloranimator.markdown#particlecoloranimator-vo)|[ MaxParticleSpeed](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/particlecoloranimator.markdown#maxparticlespeed-zero-en)|[particleanimator](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/particleanimator.markdown)| |
+| |[ TimeGradient](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/particlecoloranimator.markdown#timegradient-zero-engine)| | |
+| |[ VelocityGradient](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/particlecoloranimator.markdown#velocitygradient-zero-en)| | |
 
 
  #  Properties
 
 
 ---  
- #  MaxParticleSpeed : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  MaxParticleSpeed : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -23,7 +23,7 @@
 
 
 ---  
- #  TimeGradient : [colorgradient](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/colorgradient.markdown)
+ #  TimeGradient : [colorgradient](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/colorgradient.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -31,7 +31,7 @@
 
 
 ---  
- #  VelocityGradient : [colorgradient](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/colorgradient.markdown)
+ #  VelocityGradient : [colorgradient](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/colorgradient.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch

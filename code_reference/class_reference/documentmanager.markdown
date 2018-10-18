@@ -2,7 +2,7 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| | |[eventobject](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/eventobject.markdown)| |
+| | |[eventobject](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/eventobject.markdown)| |
 
 
  #  Properties

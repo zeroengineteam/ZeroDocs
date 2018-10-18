@@ -6,16 +6,16 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ Destination](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/neteventsent.markdown#destination-zero-engine)|[event](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/event.markdown)| |
-| |[ NetEvent](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/neteventsent.markdown#netevent-zero-engine-doc)| | |
-| |[ TheirNetPeerId](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/neteventsent.markdown#theirnetpeerid-zero-engi)| | |
+| |[ Destination](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/neteventsent.markdown#destination-zero-engine)|[event](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/event.markdown)| |
+| |[ NetEvent](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/neteventsent.markdown#netevent-zero-engine-doc)| | |
+| |[ TheirNetPeerId](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/neteventsent.markdown#theirnetpeerid-zero-engi)| | |
 
 
  #  Properties
 
 
 ---  
- #  Destination : [cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
+ #  Destination : [cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)
 
  `read-only`
 
@@ -25,7 +25,7 @@
 
 
 ---  
- #  NetEvent : [event](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/event.markdown)
+ #  NetEvent : [event](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/event.markdown)
 
  `read-only`
 
@@ -35,7 +35,7 @@
 
 
 ---  
- #  TheirNetPeerId : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  TheirNetPeerId : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
  `read-only`
 

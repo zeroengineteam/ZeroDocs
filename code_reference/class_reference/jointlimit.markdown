@@ -6,17 +6,17 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/jointlimit.markdown#jointlimit-void)|[ Active](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/jointlimit.markdown#active-zero-engine-docum)|[component](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/component.markdown)| |
-| |[ AtomIds](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/jointlimit.markdown#atomids-zero-engine-docu)| | |
-| |[ LowerLimit](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/jointlimit.markdown#lowerlimit-zero-engine-d)| | |
-| |[ UpperLimit](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/jointlimit.markdown#upperlimit-zero-engine-d)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/jointlimit.markdown#jointlimit-void)|[ Active](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/jointlimit.markdown#active-zero-engine-docum)|[component](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/component.markdown)| |
+| |[ AtomIds](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/jointlimit.markdown#atomids-zero-engine-docu)| | |
+| |[ LowerLimit](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/jointlimit.markdown#lowerlimit-zero-engine-d)| | |
+| |[ UpperLimit](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/jointlimit.markdown#upperlimit-zero-engine-d)| | |
 
 
  #  Properties
 
 
 ---  
- #  Active : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  Active : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > Determines if this limit is currently active.
 > ``` lang=cpp, name=Zilch
@@ -24,7 +24,7 @@
 
 
 ---  
- #  AtomIds : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  AtomIds : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > Signifies what atoms on the joint this affects. For internal use.
 > ``` lang=cpp, name=Zilch
@@ -32,7 +32,7 @@
 
 
 ---  
- #  LowerLimit : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  LowerLimit : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > The lower bound for this limit.
 > ``` lang=cpp, name=Zilch
@@ -40,7 +40,7 @@
 
 
 ---  
- #  UpperLimit : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  UpperLimit : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > The upper bound for this limit.
 > ``` lang=cpp, name=Zilch

@@ -2,16 +2,16 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ MultiTargetBlend](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/graphicsdriversupport.markdown#multitargetblend-zero-en)| | |
-| |[ SamplerObjects](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/graphicsdriversupport.markdown#samplerobjects-zero-engi)| | |
-| |[ TextureCompression](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/graphicsdriversupport.markdown#texturecompression-zero)| | |
+| |[ MultiTargetBlend](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/graphicsdriversupport.markdown#multitargetblend-zero-en)| | |
+| |[ SamplerObjects](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/graphicsdriversupport.markdown#samplerobjects-zero-engi)| | |
+| |[ TextureCompression](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/graphicsdriversupport.markdown#texturecompression-zero)| | |
 
 
  #  Properties
 
 
 ---  
- #  MultiTargetBlend : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  MultiTargetBlend : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -21,7 +21,7 @@
 
 
 ---  
- #  SamplerObjects : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  SamplerObjects : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -31,7 +31,7 @@
 
 
 ---  
- #  TextureCompression : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  TextureCompression : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 

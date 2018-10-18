@@ -6,14 +6,14 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ FirstPoint](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/collisionevent.markdown#firstpoint-zero-engine-d)|[basecollisionevent](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/basecollisionevent.markdown)| |
+| |[ FirstPoint](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/collisionevent.markdown#firstpoint-zero-engine-d)|[basecollisionevent](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/basecollisionevent.markdown)| |
 
 
  #  Properties
 
 
 ---  
- #  FirstPoint : [contactpoint](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/contactpoint.markdown)
+ #  FirstPoint : [contactpoint](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/contactpoint.markdown)
 
  `read-only`
 

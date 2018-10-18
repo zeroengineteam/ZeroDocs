@@ -2,24 +2,24 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Add](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_type .markdown#add-void)|[ All](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_type .markdown#all-arrayrange)| | |
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_type .markdown#array-type-void)|[ Capacity](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_type .markdown#capacity-zero-engine-doc)| | |
-|[ Clear](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_type .markdown#clear-void)|[ Count](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_type .markdown#count-zero-engine-docume)| | |
-|[ Copy](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_type .markdown#copy-zero-engine-documen)|[ LastIndex](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_type .markdown#lastindex-zero-engine-do)| | |
-|[ FindFirstIndex](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_type .markdown#findfirstindex-zero-engi)| | | |
-|[ Get](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_type .markdown#get-zero-engine-document)| | | |
-|[ Insert](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_type .markdown#insert-void)| | | |
-|[ Pop](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_type .markdown#pop-zero-engine-document)| | | |
-|[ Push](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_type .markdown#push-void)| | | |
-|[ Range](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_type .markdown#range-zero-engine-docume)| | | |
-|[ RemoveAll](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_type .markdown#removeall-zero-engine-do)| | | |
-|[ RemoveAt](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_type .markdown#removeat-void)| | | |
-|[ RemoveFirst](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_type .markdown#removefirst-zero-engine)| | | |
-|[ RemoveSwap](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_type .markdown#removeswap-void)| | | |
-|[ Reserve](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_type .markdown#reserve-void)| | | |
-|[ Resize](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_type .markdown#resize-void)| | | |
-|[ Set](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_type .markdown#set-void)| | | |
-|[ Sort](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_type .markdown#sort-void)| | | |
+|[ Add](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_type .markdown#add-void)|[ All](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_type .markdown#all-arrayrange)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_type .markdown#array-type-void)|[ Capacity](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_type .markdown#capacity-zero-engine-doc)| | |
+|[ Clear](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_type .markdown#clear-void)|[ Count](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_type .markdown#count-zero-engine-docume)| | |
+|[ Copy](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_type .markdown#copy-zero-engine-documen)|[ LastIndex](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_type .markdown#lastindex-zero-engine-do)| | |
+|[ FindFirstIndex](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_type .markdown#findfirstindex-zero-engi)| | | |
+|[ Get](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_type .markdown#get-zero-engine-document)| | | |
+|[ Insert](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_type .markdown#insert-void)| | | |
+|[ Pop](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_type .markdown#pop-zero-engine-document)| | | |
+|[ Push](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_type .markdown#push-void)| | | |
+|[ Range](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_type .markdown#range-zero-engine-docume)| | | |
+|[ RemoveAll](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_type .markdown#removeall-zero-engine-do)| | | |
+|[ RemoveAt](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_type .markdown#removeat-void)| | | |
+|[ RemoveFirst](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_type .markdown#removefirst-zero-engine)| | | |
+|[ RemoveSwap](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_type .markdown#removeswap-void)| | | |
+|[ Reserve](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_type .markdown#reserve-void)| | | |
+|[ Resize](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_type .markdown#resize-void)| | | |
+|[ Set](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_type .markdown#set-void)| | | |
+|[ Sort](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_type .markdown#sort-void)| | | |
 
 
  #  Properties
@@ -36,7 +36,7 @@
 
 
 ---  
- #  Capacity : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  Capacity : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
  `read-only`
 
@@ -46,7 +46,7 @@
 
 
 ---  
- #  Count : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  Count : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
  `read-only`
 
@@ -56,7 +56,7 @@
 
 
 ---  
- #  LastIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  LastIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
  `read-only`
 
@@ -75,7 +75,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[anyhandle](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/anyhandle.markdown)| |
+> |p0|[anyhandle](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/anyhandle.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Add(p0 : AnyHandle)
 > ``` 
@@ -87,7 +87,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)| |
+> |p0|[boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Add(p0 : Boolean)
 > ``` 
@@ -99,7 +99,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[boolean2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean2.markdown)| |
+> |p0|[boolean2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Add(p0 : Boolean2)
 > ``` 
@@ -111,7 +111,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[boolean3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean3.markdown)| |
+> |p0|[boolean3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Add(p0 : Boolean3)
 > ``` 
@@ -123,7 +123,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[boolean4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean4.markdown)| |
+> |p0|[boolean4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Add(p0 : Boolean4)
 > ``` 
@@ -135,7 +135,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[byte](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/byte.markdown)| |
+> |p0|[byte](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/byte.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Add(p0 : Byte)
 > ``` 
@@ -147,7 +147,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)| |
+> |p0|[cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Add(p0 : Cog)
 > ``` 
@@ -171,7 +171,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doubleinteger.markdown)| |
+> |p0|[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/doubleinteger.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Add(p0 : DoubleInteger)
 > ``` 
@@ -183,7 +183,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[doublereal](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doublereal.markdown)| |
+> |p0|[doublereal](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/doublereal.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Add(p0 : DoubleReal)
 > ``` 
@@ -195,7 +195,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |p0|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Add(p0 : Integer)
 > ``` 
@@ -207,7 +207,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[integer2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer2.markdown)| |
+> |p0|[integer2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Add(p0 : Integer2)
 > ``` 
@@ -219,7 +219,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[integer3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer3.markdown)| |
+> |p0|[integer3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Add(p0 : Integer3)
 > ``` 
@@ -231,7 +231,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[integer4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer4.markdown)| |
+> |p0|[integer4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Add(p0 : Integer4)
 > ``` 
@@ -255,7 +255,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[quaternion](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/quaternion.markdown)| |
+> |p0|[quaternion](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/quaternion.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Add(p0 : Quaternion)
 > ``` 
@@ -267,7 +267,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)| |
+> |p0|[real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Add(p0 : Real)
 > ``` 
@@ -279,7 +279,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)| |
+> |p0|[real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Add(p0 : Real2)
 > ``` 
@@ -291,7 +291,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)| |
+> |p0|[real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Add(p0 : Real3)
 > ``` 
@@ -303,7 +303,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)| |
+> |p0|[real4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Add(p0 : Real4)
 > ``` 
@@ -315,7 +315,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
+> |p0|[string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Add(p0 : String)
 > ``` 
@@ -627,7 +627,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Array[Type](size : Integer)
 > ``` 
@@ -641,7 +641,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Array[Type](size : Integer)
 > ``` 
@@ -655,7 +655,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Array[Type](size : Integer)
 > ``` 
@@ -669,7 +669,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Array[Type](size : Integer)
 > ``` 
@@ -683,7 +683,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Array[Type](size : Integer)
 > ``` 
@@ -697,7 +697,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Array[Type](size : Integer)
 > ``` 
@@ -711,7 +711,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Array[Type](size : Integer)
 > ``` 
@@ -725,7 +725,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Array[Type](size : Integer)
 > ``` 
@@ -739,7 +739,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Array[Type](size : Integer)
 > ``` 
@@ -753,7 +753,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Array[Type](size : Integer)
 > ``` 
@@ -767,7 +767,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Array[Type](size : Integer)
 > ``` 
@@ -781,7 +781,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Array[Type](size : Integer)
 > ``` 
@@ -795,7 +795,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Array[Type](size : Integer)
 > ``` 
@@ -809,7 +809,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Array[Type](size : Integer)
 > ``` 
@@ -823,7 +823,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Array[Type](size : Integer)
 > ``` 
@@ -837,7 +837,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Array[Type](size : Integer)
 > ``` 
@@ -851,7 +851,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Array[Type](size : Integer)
 > ``` 
@@ -865,7 +865,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Array[Type](size : Integer)
 > ``` 
@@ -879,7 +879,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Array[Type](size : Integer)
 > ``` 
@@ -893,7 +893,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Array[Type](size : Integer)
 > ``` 
@@ -907,7 +907,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Array[Type](size : Integer)
 > ``` 
@@ -921,7 +921,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Array[Type](size : Integer)
 > ``` 
@@ -935,8 +935,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |defaultValue|[anyhandle](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/anyhandle.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |defaultValue|[anyhandle](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/anyhandle.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Array[Type](size : Integer, defaultValue : AnyHandle)
 > ``` 
@@ -950,8 +950,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |defaultValue|[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |defaultValue|[boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Array[Type](size : Integer, defaultValue : Boolean)
 > ``` 
@@ -965,8 +965,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |defaultValue|[boolean2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean2.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |defaultValue|[boolean2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Array[Type](size : Integer, defaultValue : Boolean2)
 > ``` 
@@ -980,8 +980,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |defaultValue|[boolean3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean3.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |defaultValue|[boolean3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Array[Type](size : Integer, defaultValue : Boolean3)
 > ``` 
@@ -995,8 +995,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |defaultValue|[boolean4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean4.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |defaultValue|[boolean4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Array[Type](size : Integer, defaultValue : Boolean4)
 > ``` 
@@ -1010,8 +1010,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |defaultValue|[byte](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/byte.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |defaultValue|[byte](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/byte.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Array[Type](size : Integer, defaultValue : Byte)
 > ``` 
@@ -1025,8 +1025,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |defaultValue|[cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |defaultValue|[cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Array[Type](size : Integer, defaultValue : Cog)
 > ``` 
@@ -1040,7 +1040,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > |defaultValue|delegate()| |
 > ``` lang=cpp, name=Zilch
 > function Array[Type](size : Integer, defaultValue : delegate())
@@ -1055,8 +1055,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |defaultValue|[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doubleinteger.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |defaultValue|[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/doubleinteger.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Array[Type](size : Integer, defaultValue : DoubleInteger)
 > ``` 
@@ -1070,8 +1070,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |defaultValue|[doublereal](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doublereal.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |defaultValue|[doublereal](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/doublereal.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Array[Type](size : Integer, defaultValue : DoubleReal)
 > ``` 
@@ -1085,8 +1085,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |defaultValue|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |defaultValue|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Array[Type](size : Integer, defaultValue : Integer)
 > ``` 
@@ -1100,8 +1100,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |defaultValue|[integer2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer2.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |defaultValue|[integer2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Array[Type](size : Integer, defaultValue : Integer2)
 > ``` 
@@ -1115,8 +1115,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |defaultValue|[integer3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer3.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |defaultValue|[integer3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Array[Type](size : Integer, defaultValue : Integer3)
 > ``` 
@@ -1130,8 +1130,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |defaultValue|[integer4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer4.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |defaultValue|[integer4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Array[Type](size : Integer, defaultValue : Integer4)
 > ``` 
@@ -1145,7 +1145,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > |defaultValue|Key| |
 > ``` lang=cpp, name=Zilch
 > function Array[Type](size : Integer, defaultValue : Key)
@@ -1160,8 +1160,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |defaultValue|[quaternion](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/quaternion.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |defaultValue|[quaternion](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/quaternion.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Array[Type](size : Integer, defaultValue : Quaternion)
 > ``` 
@@ -1175,8 +1175,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |defaultValue|[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |defaultValue|[real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Array[Type](size : Integer, defaultValue : Real)
 > ``` 
@@ -1190,8 +1190,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |defaultValue|[real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |defaultValue|[real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Array[Type](size : Integer, defaultValue : Real2)
 > ``` 
@@ -1205,8 +1205,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |defaultValue|[real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |defaultValue|[real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Array[Type](size : Integer, defaultValue : Real3)
 > ``` 
@@ -1220,8 +1220,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |defaultValue|[real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |defaultValue|[real4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Array[Type](size : Integer, defaultValue : Real4)
 > ``` 
@@ -1235,8 +1235,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |defaultValue|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |defaultValue|[string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Array[Type](size : Integer, defaultValue : String)
 > ``` 
@@ -1250,7 +1250,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > |defaultValue|T| |
 > ``` lang=cpp, name=Zilch
 > function Array[Type](size : Integer, defaultValue : T)
@@ -1500,7 +1500,7 @@
 
 
 ---  
- #  Copy : Array[[integer2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer2.markdown)]
+ #  Copy : Array[[integer2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer2.markdown)]
 
 > 
 > |Name|Type|Description|
@@ -1511,7 +1511,7 @@
 
 
 ---  
- #  Copy : Array[[boolean4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean4.markdown)]
+ #  Copy : Array[[boolean4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean4.markdown)]
 
 > 
 > |Name|Type|Description|
@@ -1522,7 +1522,7 @@
 
 
 ---  
- #  Copy : Array[[cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)]
+ #  Copy : Array[[cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)]
 
 > 
 > |Name|Type|Description|
@@ -1533,7 +1533,7 @@
 
 
 ---  
- #  Copy : Array[[integer4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer4.markdown)]
+ #  Copy : Array[[integer4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer4.markdown)]
 
 > 
 > |Name|Type|Description|
@@ -1544,7 +1544,7 @@
 
 
 ---  
- #  Copy : Array[[byte](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/byte.markdown)]
+ #  Copy : Array[[byte](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/byte.markdown)]
 
 > 
 > |Name|Type|Description|
@@ -1555,7 +1555,7 @@
 
 
 ---  
- #  Copy : Array[[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)]
+ #  Copy : Array[[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)]
 
 > 
 > |Name|Type|Description|
@@ -1566,7 +1566,7 @@
 
 
 ---  
- #  Copy : Array[[anyhandle](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/anyhandle.markdown)]
+ #  Copy : Array[[anyhandle](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/anyhandle.markdown)]
 
 > 
 > |Name|Type|Description|
@@ -1588,7 +1588,7 @@
 
 
 ---  
- #  Copy : Array[[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)]
+ #  Copy : Array[[string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)]
 
 > 
 > |Name|Type|Description|
@@ -1599,7 +1599,7 @@
 
 
 ---  
- #  Copy : Array[[real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)]
+ #  Copy : Array[[real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real3.markdown)]
 
 > 
 > |Name|Type|Description|
@@ -1610,7 +1610,7 @@
 
 
 ---  
- #  Copy : Array[[real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)]
+ #  Copy : Array[[real4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real4.markdown)]
 
 > 
 > |Name|Type|Description|
@@ -1621,7 +1621,7 @@
 
 
 ---  
- #  Copy : Array[[type](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/type.markdown)]
+ #  Copy : Array[[type](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/type.markdown)]
 
 > 
 > |Name|Type|Description|
@@ -1632,7 +1632,7 @@
 
 
 ---  
- #  Copy : Array[[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)]
+ #  Copy : Array[[real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)]
 
 > 
 > |Name|Type|Description|
@@ -1643,7 +1643,7 @@
 
 
 ---  
- #  Copy : Array[[quaternion](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/quaternion.markdown)]
+ #  Copy : Array[[quaternion](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/quaternion.markdown)]
 
 > 
 > |Name|Type|Description|
@@ -1654,7 +1654,7 @@
 
 
 ---  
- #  Copy : Array[[boolean3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean3.markdown)]
+ #  Copy : Array[[boolean3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean3.markdown)]
 
 > 
 > |Name|Type|Description|
@@ -1665,7 +1665,7 @@
 
 
 ---  
- #  Copy : Array[[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doubleinteger.markdown)]
+ #  Copy : Array[[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/doubleinteger.markdown)]
 
 > 
 > |Name|Type|Description|
@@ -1676,7 +1676,7 @@
 
 
 ---  
- #  Copy : Array[[integer3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer3.markdown)]
+ #  Copy : Array[[integer3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer3.markdown)]
 
 > 
 > |Name|Type|Description|
@@ -1698,7 +1698,7 @@
 
 
 ---  
- #  Copy : Array[[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)]
+ #  Copy : Array[[boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)]
 
 > 
 > |Name|Type|Description|
@@ -1709,7 +1709,7 @@
 
 
 ---  
- #  Copy : Array[[real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)]
+ #  Copy : Array[[real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)]
 
 > 
 > |Name|Type|Description|
@@ -1720,7 +1720,7 @@
 
 
 ---  
- #  Copy : Array[[doublereal](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doublereal.markdown)]
+ #  Copy : Array[[doublereal](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/doublereal.markdown)]
 
 > 
 > |Name|Type|Description|
@@ -1731,7 +1731,7 @@
 
 
 ---  
- #  Copy : Array[[boolean2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean2.markdown)]
+ #  Copy : Array[[boolean2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean2.markdown)]
 
 > 
 > |Name|Type|Description|
@@ -1742,91 +1742,91 @@
 
 
 ---  
- #  FindFirstIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  FindFirstIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[anyhandle](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/anyhandle.markdown)| |
+> |value|[anyhandle](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/anyhandle.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function FindFirstIndex(value : AnyHandle) : Integer
 > ``` 
 
 
 ---  
- #  FindFirstIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  FindFirstIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)| |
+> |value|[boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function FindFirstIndex(value : Boolean) : Integer
 > ``` 
 
 
 ---  
- #  FindFirstIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  FindFirstIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[boolean2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean2.markdown)| |
+> |value|[boolean2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function FindFirstIndex(value : Boolean2) : Integer
 > ``` 
 
 
 ---  
- #  FindFirstIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  FindFirstIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[boolean3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean3.markdown)| |
+> |value|[boolean3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function FindFirstIndex(value : Boolean3) : Integer
 > ``` 
 
 
 ---  
- #  FindFirstIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  FindFirstIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[boolean4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean4.markdown)| |
+> |value|[boolean4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function FindFirstIndex(value : Boolean4) : Integer
 > ``` 
 
 
 ---  
- #  FindFirstIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  FindFirstIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[byte](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/byte.markdown)| |
+> |value|[byte](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/byte.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function FindFirstIndex(value : Byte) : Integer
 > ``` 
 
 
 ---  
- #  FindFirstIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  FindFirstIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)| |
+> |value|[cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function FindFirstIndex(value : Cog) : Integer
 > ``` 
 
 
 ---  
- #  FindFirstIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  FindFirstIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
@@ -1838,79 +1838,79 @@
 
 
 ---  
- #  FindFirstIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  FindFirstIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doubleinteger.markdown)| |
+> |value|[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/doubleinteger.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function FindFirstIndex(value : DoubleInteger) : Integer
 > ``` 
 
 
 ---  
- #  FindFirstIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  FindFirstIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[doublereal](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doublereal.markdown)| |
+> |value|[doublereal](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/doublereal.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function FindFirstIndex(value : DoubleReal) : Integer
 > ``` 
 
 
 ---  
- #  FindFirstIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  FindFirstIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |value|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function FindFirstIndex(value : Integer) : Integer
 > ``` 
 
 
 ---  
- #  FindFirstIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  FindFirstIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[integer2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer2.markdown)| |
+> |value|[integer2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function FindFirstIndex(value : Integer2) : Integer
 > ``` 
 
 
 ---  
- #  FindFirstIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  FindFirstIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[integer3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer3.markdown)| |
+> |value|[integer3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function FindFirstIndex(value : Integer3) : Integer
 > ``` 
 
 
 ---  
- #  FindFirstIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  FindFirstIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[integer4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer4.markdown)| |
+> |value|[integer4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function FindFirstIndex(value : Integer4) : Integer
 > ``` 
 
 
 ---  
- #  FindFirstIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  FindFirstIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
@@ -1922,79 +1922,79 @@
 
 
 ---  
- #  FindFirstIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  FindFirstIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[quaternion](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/quaternion.markdown)| |
+> |value|[quaternion](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/quaternion.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function FindFirstIndex(value : Quaternion) : Integer
 > ``` 
 
 
 ---  
- #  FindFirstIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  FindFirstIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)| |
+> |value|[real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function FindFirstIndex(value : Real) : Integer
 > ``` 
 
 
 ---  
- #  FindFirstIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  FindFirstIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)| |
+> |value|[real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function FindFirstIndex(value : Real2) : Integer
 > ``` 
 
 
 ---  
- #  FindFirstIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  FindFirstIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)| |
+> |value|[real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function FindFirstIndex(value : Real3) : Integer
 > ``` 
 
 
 ---  
- #  FindFirstIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  FindFirstIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)| |
+> |value|[real4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function FindFirstIndex(value : Real4) : Integer
 > ``` 
 
 
 ---  
- #  FindFirstIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  FindFirstIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
+> |value|[string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function FindFirstIndex(value : String) : Integer
 > ``` 
 
 
 ---  
- #  FindFirstIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  FindFirstIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
@@ -2011,91 +2011,91 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Get(index : Integer) : Key
 > ``` 
 
 
 ---  
- #  Get : [quaternion](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/quaternion.markdown)
+ #  Get : [quaternion](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/quaternion.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Get(index : Integer) : Quaternion
 > ``` 
 
 
 ---  
- #  Get : [cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
+ #  Get : [cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Get(index : Integer) : Cog
 > ``` 
 
 
 ---  
- #  Get : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  Get : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Get(index : Integer) : Real2
 > ``` 
 
 
 ---  
- #  Get : [real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)
+ #  Get : [real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real3.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Get(index : Integer) : Real3
 > ``` 
 
 
 ---  
- #  Get : [boolean2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean2.markdown)
+ #  Get : [boolean2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean2.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Get(index : Integer) : Boolean2
 > ``` 
 
 
 ---  
- #  Get : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  Get : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Get(index : Integer) : Real
 > ``` 
 
 
 ---  
- #  Get : [integer4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer4.markdown)
+ #  Get : [integer4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer4.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Get(index : Integer) : Integer4
 > ``` 
@@ -2107,139 +2107,139 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Get(index : Integer) : delegate()
 > ``` 
 
 
 ---  
- #  Get : [byte](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/byte.markdown)
+ #  Get : [byte](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/byte.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Get(index : Integer) : Byte
 > ``` 
 
 
 ---  
- #  Get : [doublereal](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doublereal.markdown)
+ #  Get : [doublereal](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/doublereal.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Get(index : Integer) : DoubleReal
 > ``` 
 
 
 ---  
- #  Get : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  Get : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Get(index : Integer) : Integer
 > ``` 
 
 
 ---  
- #  Get : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
+ #  Get : [string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Get(index : Integer) : String
 > ``` 
 
 
 ---  
- #  Get : [real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)
+ #  Get : [real4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real4.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Get(index : Integer) : Real4
 > ``` 
 
 
 ---  
- #  Get : [boolean3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean3.markdown)
+ #  Get : [boolean3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean3.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Get(index : Integer) : Boolean3
 > ``` 
 
 
 ---  
- #  Get : [doubleinteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doubleinteger.markdown)
+ #  Get : [doubleinteger](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/doubleinteger.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Get(index : Integer) : DoubleInteger
 > ``` 
 
 
 ---  
- #  Get : [boolean4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean4.markdown)
+ #  Get : [boolean4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean4.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Get(index : Integer) : Boolean4
 > ``` 
 
 
 ---  
- #  Get : [integer2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer2.markdown)
+ #  Get : [integer2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer2.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Get(index : Integer) : Integer2
 > ``` 
 
 
 ---  
- #  Get : [integer3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer3.markdown)
+ #  Get : [integer3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer3.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Get(index : Integer) : Integer3
 > ``` 
 
 
 ---  
- #  Get : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  Get : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Get(index : Integer) : Boolean
 > ``` 
@@ -2251,19 +2251,19 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Get(index : Integer) : T
 > ``` 
 
 
 ---  
- #  Get : [anyhandle](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/anyhandle.markdown)
+ #  Get : [anyhandle](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/anyhandle.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Get(index : Integer) : AnyHandle
 > ``` 
@@ -2275,8 +2275,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |value|[anyhandle](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/anyhandle.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |value|[anyhandle](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/anyhandle.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Insert(index : Integer, value : AnyHandle)
 > ``` 
@@ -2288,8 +2288,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |value|[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |value|[boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Insert(index : Integer, value : Boolean)
 > ``` 
@@ -2301,8 +2301,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |value|[boolean2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean2.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |value|[boolean2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Insert(index : Integer, value : Boolean2)
 > ``` 
@@ -2314,8 +2314,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |value|[boolean3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean3.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |value|[boolean3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Insert(index : Integer, value : Boolean3)
 > ``` 
@@ -2327,8 +2327,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |value|[boolean4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean4.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |value|[boolean4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Insert(index : Integer, value : Boolean4)
 > ``` 
@@ -2340,8 +2340,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |value|[byte](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/byte.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |value|[byte](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/byte.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Insert(index : Integer, value : Byte)
 > ``` 
@@ -2353,8 +2353,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |value|[cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |value|[cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Insert(index : Integer, value : Cog)
 > ``` 
@@ -2366,7 +2366,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > |value|delegate()| |
 > ``` lang=cpp, name=Zilch
 > function Insert(index : Integer, value : delegate())
@@ -2379,8 +2379,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |value|[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doubleinteger.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |value|[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/doubleinteger.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Insert(index : Integer, value : DoubleInteger)
 > ``` 
@@ -2392,8 +2392,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |value|[doublereal](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doublereal.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |value|[doublereal](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/doublereal.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Insert(index : Integer, value : DoubleReal)
 > ``` 
@@ -2405,8 +2405,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |value|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |value|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Insert(index : Integer, value : Integer)
 > ``` 
@@ -2418,8 +2418,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |value|[integer2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer2.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |value|[integer2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Insert(index : Integer, value : Integer2)
 > ``` 
@@ -2431,8 +2431,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |value|[integer3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer3.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |value|[integer3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Insert(index : Integer, value : Integer3)
 > ``` 
@@ -2444,8 +2444,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |value|[integer4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer4.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |value|[integer4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Insert(index : Integer, value : Integer4)
 > ``` 
@@ -2457,7 +2457,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > |value|Key| |
 > ``` lang=cpp, name=Zilch
 > function Insert(index : Integer, value : Key)
@@ -2470,8 +2470,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |value|[quaternion](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/quaternion.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |value|[quaternion](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/quaternion.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Insert(index : Integer, value : Quaternion)
 > ``` 
@@ -2483,8 +2483,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |value|[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |value|[real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Insert(index : Integer, value : Real)
 > ``` 
@@ -2496,8 +2496,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |value|[real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |value|[real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Insert(index : Integer, value : Real2)
 > ``` 
@@ -2509,8 +2509,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |value|[real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |value|[real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Insert(index : Integer, value : Real3)
 > ``` 
@@ -2522,8 +2522,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |value|[real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |value|[real4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Insert(index : Integer, value : Real4)
 > ``` 
@@ -2535,8 +2535,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |value|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |value|[string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Insert(index : Integer, value : String)
 > ``` 
@@ -2548,7 +2548,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > |value|T| |
 > ``` lang=cpp, name=Zilch
 > function Insert(index : Integer, value : T)
@@ -2556,7 +2556,7 @@
 
 
 ---  
- #  Pop : [integer4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer4.markdown)
+ #  Pop : [integer4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer4.markdown)
 
 > 
 > |Name|Type|Description|
@@ -2567,7 +2567,7 @@
 
 
 ---  
- #  Pop : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
+ #  Pop : [string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)
 
 > 
 > |Name|Type|Description|
@@ -2578,7 +2578,7 @@
 
 
 ---  
- #  Pop : [boolean2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean2.markdown)
+ #  Pop : [boolean2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean2.markdown)
 
 > 
 > |Name|Type|Description|
@@ -2611,7 +2611,7 @@
 
 
 ---  
- #  Pop : [real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)
+ #  Pop : [real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real3.markdown)
 
 > 
 > |Name|Type|Description|
@@ -2633,7 +2633,7 @@
 
 
 ---  
- #  Pop : [doublereal](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doublereal.markdown)
+ #  Pop : [doublereal](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/doublereal.markdown)
 
 > 
 > |Name|Type|Description|
@@ -2644,7 +2644,7 @@
 
 
 ---  
- #  Pop : [real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)
+ #  Pop : [real4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real4.markdown)
 
 > 
 > |Name|Type|Description|
@@ -2655,7 +2655,7 @@
 
 
 ---  
- #  Pop : [integer3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer3.markdown)
+ #  Pop : [integer3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer3.markdown)
 
 > 
 > |Name|Type|Description|
@@ -2666,7 +2666,7 @@
 
 
 ---  
- #  Pop : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  Pop : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
 > 
 > |Name|Type|Description|
@@ -2677,7 +2677,7 @@
 
 
 ---  
- #  Pop : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  Pop : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
@@ -2688,7 +2688,7 @@
 
 
 ---  
- #  Pop : [boolean3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean3.markdown)
+ #  Pop : [boolean3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean3.markdown)
 
 > 
 > |Name|Type|Description|
@@ -2699,7 +2699,7 @@
 
 
 ---  
- #  Pop : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  Pop : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
@@ -2710,7 +2710,7 @@
 
 
 ---  
- #  Pop : [anyhandle](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/anyhandle.markdown)
+ #  Pop : [anyhandle](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/anyhandle.markdown)
 
 > 
 > |Name|Type|Description|
@@ -2721,7 +2721,7 @@
 
 
 ---  
- #  Pop : [boolean4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean4.markdown)
+ #  Pop : [boolean4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean4.markdown)
 
 > 
 > |Name|Type|Description|
@@ -2732,7 +2732,7 @@
 
 
 ---  
- #  Pop : [cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
+ #  Pop : [cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)
 
 > 
 > |Name|Type|Description|
@@ -2743,7 +2743,7 @@
 
 
 ---  
- #  Pop : [doubleinteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doubleinteger.markdown)
+ #  Pop : [doubleinteger](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/doubleinteger.markdown)
 
 > 
 > |Name|Type|Description|
@@ -2754,7 +2754,7 @@
 
 
 ---  
- #  Pop : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  Pop : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > 
 > |Name|Type|Description|
@@ -2765,7 +2765,7 @@
 
 
 ---  
- #  Pop : [integer2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer2.markdown)
+ #  Pop : [integer2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer2.markdown)
 
 > 
 > |Name|Type|Description|
@@ -2776,7 +2776,7 @@
 
 
 ---  
- #  Pop : [byte](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/byte.markdown)
+ #  Pop : [byte](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/byte.markdown)
 
 > 
 > |Name|Type|Description|
@@ -2787,7 +2787,7 @@
 
 
 ---  
- #  Pop : [quaternion](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/quaternion.markdown)
+ #  Pop : [quaternion](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/quaternion.markdown)
 
 > 
 > |Name|Type|Description|
@@ -2803,7 +2803,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[anyhandle](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/anyhandle.markdown)| |
+> |p0|[anyhandle](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/anyhandle.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Push(p0 : AnyHandle)
 > ``` 
@@ -2815,7 +2815,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)| |
+> |p0|[boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Push(p0 : Boolean)
 > ``` 
@@ -2827,7 +2827,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[boolean2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean2.markdown)| |
+> |p0|[boolean2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Push(p0 : Boolean2)
 > ``` 
@@ -2839,7 +2839,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[boolean3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean3.markdown)| |
+> |p0|[boolean3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Push(p0 : Boolean3)
 > ``` 
@@ -2851,7 +2851,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[boolean4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean4.markdown)| |
+> |p0|[boolean4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Push(p0 : Boolean4)
 > ``` 
@@ -2863,7 +2863,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[byte](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/byte.markdown)| |
+> |p0|[byte](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/byte.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Push(p0 : Byte)
 > ``` 
@@ -2875,7 +2875,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)| |
+> |p0|[cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Push(p0 : Cog)
 > ``` 
@@ -2899,7 +2899,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doubleinteger.markdown)| |
+> |p0|[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/doubleinteger.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Push(p0 : DoubleInteger)
 > ``` 
@@ -2911,7 +2911,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[doublereal](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doublereal.markdown)| |
+> |p0|[doublereal](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/doublereal.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Push(p0 : DoubleReal)
 > ``` 
@@ -2923,7 +2923,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |p0|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Push(p0 : Integer)
 > ``` 
@@ -2935,7 +2935,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[integer2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer2.markdown)| |
+> |p0|[integer2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Push(p0 : Integer2)
 > ``` 
@@ -2947,7 +2947,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[integer3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer3.markdown)| |
+> |p0|[integer3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Push(p0 : Integer3)
 > ``` 
@@ -2959,7 +2959,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[integer4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer4.markdown)| |
+> |p0|[integer4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Push(p0 : Integer4)
 > ``` 
@@ -2983,7 +2983,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[quaternion](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/quaternion.markdown)| |
+> |p0|[quaternion](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/quaternion.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Push(p0 : Quaternion)
 > ``` 
@@ -2995,7 +2995,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)| |
+> |p0|[real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Push(p0 : Real)
 > ``` 
@@ -3007,7 +3007,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)| |
+> |p0|[real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Push(p0 : Real2)
 > ``` 
@@ -3019,7 +3019,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)| |
+> |p0|[real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Push(p0 : Real3)
 > ``` 
@@ -3031,7 +3031,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)| |
+> |p0|[real4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Push(p0 : Real4)
 > ``` 
@@ -3043,7 +3043,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
+> |p0|[string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Push(p0 : String)
 > ``` 
@@ -3062,13 +3062,13 @@
 
 
 ---  
- #  Range : ArrayRange[[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)]
+ #  Range : ArrayRange[[real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)]
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |start|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |count|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |start|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |count|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Range(start : Integer, count : Integer) : ArrayRange[Real]
 > ``` 
@@ -3080,60 +3080,60 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |start|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |count|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |start|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |count|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Range(start : Integer, count : Integer) : ArrayRange
 > ``` 
 
 
 ---  
- #  Range : ArrayRange[[integer3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer3.markdown)]
+ #  Range : ArrayRange[[integer3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer3.markdown)]
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |start|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |count|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |start|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |count|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Range(start : Integer, count : Integer) : ArrayRange[Integer3]
 > ``` 
 
 
 ---  
- #  Range : ArrayRange[[doublereal](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doublereal.markdown)]
+ #  Range : ArrayRange[[doublereal](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/doublereal.markdown)]
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |start|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |count|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |start|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |count|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Range(start : Integer, count : Integer) : ArrayRange[DoubleReal]
 > ``` 
 
 
 ---  
- #  Range : ArrayRange[[real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)]
+ #  Range : ArrayRange[[real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real3.markdown)]
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |start|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |count|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |start|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |count|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Range(start : Integer, count : Integer) : ArrayRange[Real3]
 > ``` 
 
 
 ---  
- #  Range : ArrayRange[[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)]
+ #  Range : ArrayRange[[boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)]
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |start|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |count|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |start|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |count|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Range(start : Integer, count : Integer) : ArrayRange[Boolean]
 > ``` 
@@ -3145,164 +3145,164 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |start|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |count|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |start|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |count|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Range(start : Integer, count : Integer) : ArrayRange[any]
 > ``` 
 
 
 ---  
- #  Range : ArrayRange[[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)]
+ #  Range : ArrayRange[[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)]
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |start|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |count|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |start|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |count|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Range(start : Integer, count : Integer) : ArrayRange[Integer]
 > ``` 
 
 
 ---  
- #  Range : ArrayRange[[byte](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/byte.markdown)]
+ #  Range : ArrayRange[[byte](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/byte.markdown)]
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |start|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |count|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |start|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |count|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Range(start : Integer, count : Integer) : ArrayRange[Byte]
 > ``` 
 
 
 ---  
- #  Range : ArrayRange[[boolean3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean3.markdown)]
+ #  Range : ArrayRange[[boolean3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean3.markdown)]
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |start|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |count|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |start|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |count|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Range(start : Integer, count : Integer) : ArrayRange[Boolean3]
 > ``` 
 
 
 ---  
- #  Range : ArrayRange[[cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)]
+ #  Range : ArrayRange[[cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)]
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |start|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |count|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |start|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |count|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Range(start : Integer, count : Integer) : ArrayRange[Cog]
 > ``` 
 
 
 ---  
- #  Range : ArrayRange[[real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)]
+ #  Range : ArrayRange[[real4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real4.markdown)]
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |start|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |count|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |start|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |count|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Range(start : Integer, count : Integer) : ArrayRange[Real4]
 > ``` 
 
 
 ---  
- #  Range : ArrayRange[[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doubleinteger.markdown)]
+ #  Range : ArrayRange[[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/doubleinteger.markdown)]
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |start|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |count|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |start|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |count|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Range(start : Integer, count : Integer) : ArrayRange[DoubleInteger]
 > ``` 
 
 
 ---  
- #  Range : ArrayRange[[anyhandle](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/anyhandle.markdown)]
+ #  Range : ArrayRange[[anyhandle](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/anyhandle.markdown)]
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |start|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |count|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |start|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |count|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Range(start : Integer, count : Integer) : ArrayRange[AnyHandle]
 > ``` 
 
 
 ---  
- #  Range : ArrayRange[[real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)]
+ #  Range : ArrayRange[[real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)]
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |start|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |count|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |start|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |count|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Range(start : Integer, count : Integer) : ArrayRange[Real2]
 > ``` 
 
 
 ---  
- #  Range : ArrayRange[[boolean2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean2.markdown)]
+ #  Range : ArrayRange[[boolean2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean2.markdown)]
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |start|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |count|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |start|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |count|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Range(start : Integer, count : Integer) : ArrayRange[Boolean2]
 > ``` 
 
 
 ---  
- #  Range : ArrayRange[[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)]
+ #  Range : ArrayRange[[string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)]
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |start|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |count|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |start|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |count|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Range(start : Integer, count : Integer) : ArrayRange[String]
 > ``` 
 
 
 ---  
- #  Range : ArrayRange[[integer2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer2.markdown)]
+ #  Range : ArrayRange[[integer2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer2.markdown)]
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |start|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |count|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |start|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |count|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Range(start : Integer, count : Integer) : ArrayRange[Integer2]
 > ``` 
 
 
 ---  
- #  Range : ArrayRange[[integer4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer4.markdown)]
+ #  Range : ArrayRange[[integer4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer4.markdown)]
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |start|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |count|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |start|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |count|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Range(start : Integer, count : Integer) : ArrayRange[Integer4]
 > ``` 
@@ -3314,125 +3314,125 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |start|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |count|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |start|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |count|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Range(start : Integer, count : Integer) : ArrayRange[delegate()]
 > ``` 
 
 
 ---  
- #  Range : ArrayRange[[quaternion](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/quaternion.markdown)]
+ #  Range : ArrayRange[[quaternion](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/quaternion.markdown)]
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |start|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |count|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |start|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |count|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Range(start : Integer, count : Integer) : ArrayRange[Quaternion]
 > ``` 
 
 
 ---  
- #  Range : ArrayRange[[boolean4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean4.markdown)]
+ #  Range : ArrayRange[[boolean4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean4.markdown)]
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |start|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |count|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |start|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |count|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Range(start : Integer, count : Integer) : ArrayRange[Boolean4]
 > ``` 
 
 
 ---  
- #  RemoveAll : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  RemoveAll : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[anyhandle](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/anyhandle.markdown)| |
+> |value|[anyhandle](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/anyhandle.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveAll(value : AnyHandle) : Integer
 > ``` 
 
 
 ---  
- #  RemoveAll : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  RemoveAll : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)| |
+> |value|[boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveAll(value : Boolean) : Integer
 > ``` 
 
 
 ---  
- #  RemoveAll : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  RemoveAll : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[boolean2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean2.markdown)| |
+> |value|[boolean2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveAll(value : Boolean2) : Integer
 > ``` 
 
 
 ---  
- #  RemoveAll : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  RemoveAll : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[boolean3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean3.markdown)| |
+> |value|[boolean3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveAll(value : Boolean3) : Integer
 > ``` 
 
 
 ---  
- #  RemoveAll : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  RemoveAll : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[boolean4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean4.markdown)| |
+> |value|[boolean4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveAll(value : Boolean4) : Integer
 > ``` 
 
 
 ---  
- #  RemoveAll : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  RemoveAll : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[byte](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/byte.markdown)| |
+> |value|[byte](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/byte.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveAll(value : Byte) : Integer
 > ``` 
 
 
 ---  
- #  RemoveAll : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  RemoveAll : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)| |
+> |value|[cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveAll(value : Cog) : Integer
 > ``` 
 
 
 ---  
- #  RemoveAll : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  RemoveAll : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
@@ -3444,79 +3444,79 @@
 
 
 ---  
- #  RemoveAll : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  RemoveAll : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doubleinteger.markdown)| |
+> |value|[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/doubleinteger.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveAll(value : DoubleInteger) : Integer
 > ``` 
 
 
 ---  
- #  RemoveAll : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  RemoveAll : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[doublereal](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doublereal.markdown)| |
+> |value|[doublereal](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/doublereal.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveAll(value : DoubleReal) : Integer
 > ``` 
 
 
 ---  
- #  RemoveAll : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  RemoveAll : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |value|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveAll(value : Integer) : Integer
 > ``` 
 
 
 ---  
- #  RemoveAll : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  RemoveAll : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[integer2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer2.markdown)| |
+> |value|[integer2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveAll(value : Integer2) : Integer
 > ``` 
 
 
 ---  
- #  RemoveAll : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  RemoveAll : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[integer3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer3.markdown)| |
+> |value|[integer3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveAll(value : Integer3) : Integer
 > ``` 
 
 
 ---  
- #  RemoveAll : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  RemoveAll : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[integer4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer4.markdown)| |
+> |value|[integer4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveAll(value : Integer4) : Integer
 > ``` 
 
 
 ---  
- #  RemoveAll : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  RemoveAll : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
@@ -3528,79 +3528,79 @@
 
 
 ---  
- #  RemoveAll : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  RemoveAll : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[quaternion](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/quaternion.markdown)| |
+> |value|[quaternion](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/quaternion.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveAll(value : Quaternion) : Integer
 > ``` 
 
 
 ---  
- #  RemoveAll : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  RemoveAll : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)| |
+> |value|[real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveAll(value : Real) : Integer
 > ``` 
 
 
 ---  
- #  RemoveAll : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  RemoveAll : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)| |
+> |value|[real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveAll(value : Real2) : Integer
 > ``` 
 
 
 ---  
- #  RemoveAll : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  RemoveAll : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)| |
+> |value|[real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveAll(value : Real3) : Integer
 > ``` 
 
 
 ---  
- #  RemoveAll : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  RemoveAll : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)| |
+> |value|[real4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveAll(value : Real4) : Integer
 > ``` 
 
 
 ---  
- #  RemoveAll : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  RemoveAll : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
+> |value|[string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveAll(value : String) : Integer
 > ``` 
 
 
 ---  
- #  RemoveAll : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  RemoveAll : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
@@ -3617,7 +3617,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveAt(index : Integer)
 > ``` 
@@ -3629,7 +3629,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveAt(index : Integer)
 > ``` 
@@ -3641,7 +3641,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveAt(index : Integer)
 > ``` 
@@ -3653,7 +3653,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveAt(index : Integer)
 > ``` 
@@ -3665,7 +3665,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveAt(index : Integer)
 > ``` 
@@ -3677,7 +3677,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveAt(index : Integer)
 > ``` 
@@ -3689,7 +3689,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveAt(index : Integer)
 > ``` 
@@ -3701,7 +3701,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveAt(index : Integer)
 > ``` 
@@ -3713,7 +3713,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveAt(index : Integer)
 > ``` 
@@ -3725,7 +3725,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveAt(index : Integer)
 > ``` 
@@ -3737,7 +3737,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveAt(index : Integer)
 > ``` 
@@ -3749,7 +3749,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveAt(index : Integer)
 > ``` 
@@ -3761,7 +3761,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveAt(index : Integer)
 > ``` 
@@ -3773,7 +3773,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveAt(index : Integer)
 > ``` 
@@ -3785,7 +3785,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveAt(index : Integer)
 > ``` 
@@ -3797,7 +3797,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveAt(index : Integer)
 > ``` 
@@ -3809,7 +3809,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveAt(index : Integer)
 > ``` 
@@ -3821,7 +3821,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveAt(index : Integer)
 > ``` 
@@ -3833,7 +3833,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveAt(index : Integer)
 > ``` 
@@ -3845,7 +3845,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveAt(index : Integer)
 > ``` 
@@ -3857,7 +3857,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveAt(index : Integer)
 > ``` 
@@ -3869,98 +3869,98 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveAt(index : Integer)
 > ``` 
 
 
 ---  
- #  RemoveFirst : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  RemoveFirst : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[anyhandle](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/anyhandle.markdown)| |
+> |value|[anyhandle](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/anyhandle.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveFirst(value : AnyHandle) : Boolean
 > ``` 
 
 
 ---  
- #  RemoveFirst : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  RemoveFirst : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)| |
+> |value|[boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveFirst(value : Boolean) : Boolean
 > ``` 
 
 
 ---  
- #  RemoveFirst : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  RemoveFirst : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[boolean2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean2.markdown)| |
+> |value|[boolean2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveFirst(value : Boolean2) : Boolean
 > ``` 
 
 
 ---  
- #  RemoveFirst : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  RemoveFirst : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[boolean3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean3.markdown)| |
+> |value|[boolean3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveFirst(value : Boolean3) : Boolean
 > ``` 
 
 
 ---  
- #  RemoveFirst : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  RemoveFirst : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[boolean4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean4.markdown)| |
+> |value|[boolean4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveFirst(value : Boolean4) : Boolean
 > ``` 
 
 
 ---  
- #  RemoveFirst : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  RemoveFirst : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[byte](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/byte.markdown)| |
+> |value|[byte](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/byte.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveFirst(value : Byte) : Boolean
 > ``` 
 
 
 ---  
- #  RemoveFirst : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  RemoveFirst : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)| |
+> |value|[cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveFirst(value : Cog) : Boolean
 > ``` 
 
 
 ---  
- #  RemoveFirst : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  RemoveFirst : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
@@ -3972,79 +3972,79 @@
 
 
 ---  
- #  RemoveFirst : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  RemoveFirst : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doubleinteger.markdown)| |
+> |value|[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/doubleinteger.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveFirst(value : DoubleInteger) : Boolean
 > ``` 
 
 
 ---  
- #  RemoveFirst : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  RemoveFirst : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[doublereal](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doublereal.markdown)| |
+> |value|[doublereal](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/doublereal.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveFirst(value : DoubleReal) : Boolean
 > ``` 
 
 
 ---  
- #  RemoveFirst : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  RemoveFirst : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |value|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveFirst(value : Integer) : Boolean
 > ``` 
 
 
 ---  
- #  RemoveFirst : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  RemoveFirst : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[integer2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer2.markdown)| |
+> |value|[integer2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveFirst(value : Integer2) : Boolean
 > ``` 
 
 
 ---  
- #  RemoveFirst : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  RemoveFirst : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[integer3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer3.markdown)| |
+> |value|[integer3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveFirst(value : Integer3) : Boolean
 > ``` 
 
 
 ---  
- #  RemoveFirst : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  RemoveFirst : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[integer4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer4.markdown)| |
+> |value|[integer4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveFirst(value : Integer4) : Boolean
 > ``` 
 
 
 ---  
- #  RemoveFirst : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  RemoveFirst : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
@@ -4056,79 +4056,79 @@
 
 
 ---  
- #  RemoveFirst : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  RemoveFirst : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[quaternion](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/quaternion.markdown)| |
+> |value|[quaternion](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/quaternion.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveFirst(value : Quaternion) : Boolean
 > ``` 
 
 
 ---  
- #  RemoveFirst : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  RemoveFirst : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)| |
+> |value|[real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveFirst(value : Real) : Boolean
 > ``` 
 
 
 ---  
- #  RemoveFirst : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  RemoveFirst : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)| |
+> |value|[real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveFirst(value : Real2) : Boolean
 > ``` 
 
 
 ---  
- #  RemoveFirst : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  RemoveFirst : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)| |
+> |value|[real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveFirst(value : Real3) : Boolean
 > ``` 
 
 
 ---  
- #  RemoveFirst : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  RemoveFirst : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)| |
+> |value|[real4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveFirst(value : Real4) : Boolean
 > ``` 
 
 
 ---  
- #  RemoveFirst : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  RemoveFirst : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |value|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
+> |value|[string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveFirst(value : String) : Boolean
 > ``` 
 
 
 ---  
- #  RemoveFirst : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  RemoveFirst : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
@@ -4145,7 +4145,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveSwap(index : Integer)
 > ``` 
@@ -4157,7 +4157,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveSwap(index : Integer)
 > ``` 
@@ -4169,7 +4169,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveSwap(index : Integer)
 > ``` 
@@ -4181,7 +4181,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveSwap(index : Integer)
 > ``` 
@@ -4193,7 +4193,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveSwap(index : Integer)
 > ``` 
@@ -4205,7 +4205,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveSwap(index : Integer)
 > ``` 
@@ -4217,7 +4217,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveSwap(index : Integer)
 > ``` 
@@ -4229,7 +4229,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveSwap(index : Integer)
 > ``` 
@@ -4241,7 +4241,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveSwap(index : Integer)
 > ``` 
@@ -4253,7 +4253,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveSwap(index : Integer)
 > ``` 
@@ -4265,7 +4265,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveSwap(index : Integer)
 > ``` 
@@ -4277,7 +4277,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveSwap(index : Integer)
 > ``` 
@@ -4289,7 +4289,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveSwap(index : Integer)
 > ``` 
@@ -4301,7 +4301,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveSwap(index : Integer)
 > ``` 
@@ -4313,7 +4313,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveSwap(index : Integer)
 > ``` 
@@ -4325,7 +4325,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveSwap(index : Integer)
 > ``` 
@@ -4337,7 +4337,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveSwap(index : Integer)
 > ``` 
@@ -4349,7 +4349,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveSwap(index : Integer)
 > ``` 
@@ -4361,7 +4361,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveSwap(index : Integer)
 > ``` 
@@ -4373,7 +4373,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveSwap(index : Integer)
 > ``` 
@@ -4385,7 +4385,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveSwap(index : Integer)
 > ``` 
@@ -4397,7 +4397,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveSwap(index : Integer)
 > ``` 
@@ -4409,7 +4409,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |capacity|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |capacity|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Reserve(capacity : Integer)
 > ``` 
@@ -4421,7 +4421,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |capacity|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |capacity|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Reserve(capacity : Integer)
 > ``` 
@@ -4433,7 +4433,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |capacity|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |capacity|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Reserve(capacity : Integer)
 > ``` 
@@ -4445,7 +4445,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |capacity|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |capacity|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Reserve(capacity : Integer)
 > ``` 
@@ -4457,7 +4457,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |capacity|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |capacity|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Reserve(capacity : Integer)
 > ``` 
@@ -4469,7 +4469,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |capacity|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |capacity|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Reserve(capacity : Integer)
 > ``` 
@@ -4481,7 +4481,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |capacity|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |capacity|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Reserve(capacity : Integer)
 > ``` 
@@ -4493,7 +4493,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |capacity|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |capacity|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Reserve(capacity : Integer)
 > ``` 
@@ -4505,7 +4505,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |capacity|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |capacity|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Reserve(capacity : Integer)
 > ``` 
@@ -4517,7 +4517,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |capacity|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |capacity|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Reserve(capacity : Integer)
 > ``` 
@@ -4529,7 +4529,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |capacity|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |capacity|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Reserve(capacity : Integer)
 > ``` 
@@ -4541,7 +4541,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |capacity|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |capacity|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Reserve(capacity : Integer)
 > ``` 
@@ -4553,7 +4553,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |capacity|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |capacity|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Reserve(capacity : Integer)
 > ``` 
@@ -4565,7 +4565,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |capacity|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |capacity|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Reserve(capacity : Integer)
 > ``` 
@@ -4577,7 +4577,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |capacity|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |capacity|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Reserve(capacity : Integer)
 > ``` 
@@ -4589,7 +4589,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |capacity|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |capacity|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Reserve(capacity : Integer)
 > ``` 
@@ -4601,7 +4601,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |capacity|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |capacity|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Reserve(capacity : Integer)
 > ``` 
@@ -4613,7 +4613,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |capacity|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |capacity|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Reserve(capacity : Integer)
 > ``` 
@@ -4625,7 +4625,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |capacity|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |capacity|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Reserve(capacity : Integer)
 > ``` 
@@ -4637,7 +4637,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |capacity|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |capacity|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Reserve(capacity : Integer)
 > ``` 
@@ -4649,7 +4649,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |capacity|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |capacity|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Reserve(capacity : Integer)
 > ``` 
@@ -4661,7 +4661,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |capacity|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |capacity|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Reserve(capacity : Integer)
 > ``` 
@@ -4673,7 +4673,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Resize(size : Integer)
 > ``` 
@@ -4685,7 +4685,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Resize(size : Integer)
 > ``` 
@@ -4697,7 +4697,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Resize(size : Integer)
 > ``` 
@@ -4709,7 +4709,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Resize(size : Integer)
 > ``` 
@@ -4721,7 +4721,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Resize(size : Integer)
 > ``` 
@@ -4733,7 +4733,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Resize(size : Integer)
 > ``` 
@@ -4745,7 +4745,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Resize(size : Integer)
 > ``` 
@@ -4757,7 +4757,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Resize(size : Integer)
 > ``` 
@@ -4769,7 +4769,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Resize(size : Integer)
 > ``` 
@@ -4781,7 +4781,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Resize(size : Integer)
 > ``` 
@@ -4793,7 +4793,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Resize(size : Integer)
 > ``` 
@@ -4805,7 +4805,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Resize(size : Integer)
 > ``` 
@@ -4817,7 +4817,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Resize(size : Integer)
 > ``` 
@@ -4829,7 +4829,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Resize(size : Integer)
 > ``` 
@@ -4841,7 +4841,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Resize(size : Integer)
 > ``` 
@@ -4853,7 +4853,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Resize(size : Integer)
 > ``` 
@@ -4865,7 +4865,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Resize(size : Integer)
 > ``` 
@@ -4877,7 +4877,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Resize(size : Integer)
 > ``` 
@@ -4889,7 +4889,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Resize(size : Integer)
 > ``` 
@@ -4901,7 +4901,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Resize(size : Integer)
 > ``` 
@@ -4913,7 +4913,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Resize(size : Integer)
 > ``` 
@@ -4925,7 +4925,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Resize(size : Integer)
 > ``` 
@@ -4937,8 +4937,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |defaultValue|[anyhandle](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/anyhandle.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |defaultValue|[anyhandle](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/anyhandle.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Resize(size : Integer, defaultValue : AnyHandle)
 > ``` 
@@ -4950,8 +4950,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |defaultValue|[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |defaultValue|[boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Resize(size : Integer, defaultValue : Boolean)
 > ``` 
@@ -4963,8 +4963,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |defaultValue|[boolean2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean2.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |defaultValue|[boolean2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Resize(size : Integer, defaultValue : Boolean2)
 > ``` 
@@ -4976,8 +4976,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |defaultValue|[boolean3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean3.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |defaultValue|[boolean3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Resize(size : Integer, defaultValue : Boolean3)
 > ``` 
@@ -4989,8 +4989,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |defaultValue|[boolean4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean4.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |defaultValue|[boolean4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Resize(size : Integer, defaultValue : Boolean4)
 > ``` 
@@ -5002,8 +5002,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |defaultValue|[byte](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/byte.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |defaultValue|[byte](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/byte.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Resize(size : Integer, defaultValue : Byte)
 > ``` 
@@ -5015,8 +5015,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |defaultValue|[cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |defaultValue|[cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Resize(size : Integer, defaultValue : Cog)
 > ``` 
@@ -5028,7 +5028,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > |defaultValue|delegate()| |
 > ``` lang=cpp, name=Zilch
 > function Resize(size : Integer, defaultValue : delegate())
@@ -5041,8 +5041,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |defaultValue|[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doubleinteger.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |defaultValue|[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/doubleinteger.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Resize(size : Integer, defaultValue : DoubleInteger)
 > ``` 
@@ -5054,8 +5054,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |defaultValue|[doublereal](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doublereal.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |defaultValue|[doublereal](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/doublereal.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Resize(size : Integer, defaultValue : DoubleReal)
 > ``` 
@@ -5067,8 +5067,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |defaultValue|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |defaultValue|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Resize(size : Integer, defaultValue : Integer)
 > ``` 
@@ -5080,8 +5080,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |defaultValue|[integer2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer2.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |defaultValue|[integer2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Resize(size : Integer, defaultValue : Integer2)
 > ``` 
@@ -5093,8 +5093,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |defaultValue|[integer3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer3.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |defaultValue|[integer3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Resize(size : Integer, defaultValue : Integer3)
 > ``` 
@@ -5106,8 +5106,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |defaultValue|[integer4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer4.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |defaultValue|[integer4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Resize(size : Integer, defaultValue : Integer4)
 > ``` 
@@ -5119,7 +5119,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > |defaultValue|Key| |
 > ``` lang=cpp, name=Zilch
 > function Resize(size : Integer, defaultValue : Key)
@@ -5132,8 +5132,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |defaultValue|[quaternion](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/quaternion.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |defaultValue|[quaternion](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/quaternion.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Resize(size : Integer, defaultValue : Quaternion)
 > ``` 
@@ -5145,8 +5145,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |defaultValue|[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |defaultValue|[real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Resize(size : Integer, defaultValue : Real)
 > ``` 
@@ -5158,8 +5158,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |defaultValue|[real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |defaultValue|[real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Resize(size : Integer, defaultValue : Real2)
 > ``` 
@@ -5171,8 +5171,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |defaultValue|[real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |defaultValue|[real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Resize(size : Integer, defaultValue : Real3)
 > ``` 
@@ -5184,8 +5184,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |defaultValue|[real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |defaultValue|[real4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Resize(size : Integer, defaultValue : Real4)
 > ``` 
@@ -5197,8 +5197,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |defaultValue|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |defaultValue|[string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Resize(size : Integer, defaultValue : String)
 > ``` 
@@ -5210,7 +5210,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |size|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > |defaultValue|T| |
 > ``` lang=cpp, name=Zilch
 > function Resize(size : Integer, defaultValue : T)
@@ -5223,8 +5223,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |value|[anyhandle](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/anyhandle.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |value|[anyhandle](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/anyhandle.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Set(index : Integer, value : AnyHandle)
 > ``` 
@@ -5236,8 +5236,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |value|[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |value|[boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Set(index : Integer, value : Boolean)
 > ``` 
@@ -5249,8 +5249,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |value|[boolean2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean2.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |value|[boolean2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Set(index : Integer, value : Boolean2)
 > ``` 
@@ -5262,8 +5262,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |value|[boolean3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean3.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |value|[boolean3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Set(index : Integer, value : Boolean3)
 > ``` 
@@ -5275,8 +5275,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |value|[boolean4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean4.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |value|[boolean4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Set(index : Integer, value : Boolean4)
 > ``` 
@@ -5288,8 +5288,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |value|[byte](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/byte.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |value|[byte](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/byte.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Set(index : Integer, value : Byte)
 > ``` 
@@ -5301,8 +5301,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |value|[cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |value|[cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Set(index : Integer, value : Cog)
 > ``` 
@@ -5314,7 +5314,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > |value|delegate()| |
 > ``` lang=cpp, name=Zilch
 > function Set(index : Integer, value : delegate())
@@ -5327,8 +5327,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |value|[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doubleinteger.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |value|[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/doubleinteger.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Set(index : Integer, value : DoubleInteger)
 > ``` 
@@ -5340,8 +5340,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |value|[doublereal](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doublereal.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |value|[doublereal](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/doublereal.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Set(index : Integer, value : DoubleReal)
 > ``` 
@@ -5353,8 +5353,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |value|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |value|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Set(index : Integer, value : Integer)
 > ``` 
@@ -5366,8 +5366,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |value|[integer2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer2.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |value|[integer2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Set(index : Integer, value : Integer2)
 > ``` 
@@ -5379,8 +5379,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |value|[integer3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer3.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |value|[integer3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Set(index : Integer, value : Integer3)
 > ``` 
@@ -5392,8 +5392,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |value|[integer4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer4.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |value|[integer4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Set(index : Integer, value : Integer4)
 > ``` 
@@ -5405,7 +5405,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > |value|Key| |
 > ``` lang=cpp, name=Zilch
 > function Set(index : Integer, value : Key)
@@ -5418,8 +5418,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |value|[quaternion](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/quaternion.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |value|[quaternion](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/quaternion.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Set(index : Integer, value : Quaternion)
 > ``` 
@@ -5431,8 +5431,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |value|[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |value|[real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Set(index : Integer, value : Real)
 > ``` 
@@ -5444,8 +5444,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |value|[real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |value|[real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Set(index : Integer, value : Real2)
 > ``` 
@@ -5457,8 +5457,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |value|[real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |value|[real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Set(index : Integer, value : Real3)
 > ``` 
@@ -5470,8 +5470,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |value|[real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |value|[real4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Set(index : Integer, value : Real4)
 > ``` 
@@ -5483,8 +5483,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
-> |value|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |value|[string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Set(index : Integer, value : String)
 > ``` 
@@ -5496,7 +5496,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > |value|T| |
 > ``` lang=cpp, name=Zilch
 > function Set(index : Integer, value : T)
@@ -5509,7 +5509,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |compare|delegate(left:any,right:any):[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)| |
+> |compare|delegate(left:any,right:any):[boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Sort(compare : delegate(left:any,right:any):Boolean)
 > ``` 
@@ -5521,7 +5521,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |compare|delegate(left:any,right:any):[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |compare|delegate(left:any,right:any):[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Sort(compare : delegate(left:any,right:any):Integer)
 > ``` 
@@ -5533,7 +5533,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |compare|delegate(left:[anyhandle](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/anyhandle.markdown),right:[anyhandle](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/anyhandle.markdown)):[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)| |
+> |compare|delegate(left:[anyhandle](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/anyhandle.markdown),right:[anyhandle](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/anyhandle.markdown)):[boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Sort(compare : delegate(left:AnyHandle,right:AnyHandle):Boolean)
 > ``` 
@@ -5545,7 +5545,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |compare|delegate(left:[anyhandle](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/anyhandle.markdown),right:[anyhandle](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/anyhandle.markdown)):[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |compare|delegate(left:[anyhandle](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/anyhandle.markdown),right:[anyhandle](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/anyhandle.markdown)):[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Sort(compare : delegate(left:AnyHandle,right:AnyHandle):Integer)
 > ``` 
@@ -5557,7 +5557,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |compare|delegate(left:[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown),right:[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)):[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)| |
+> |compare|delegate(left:[boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown),right:[boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)):[boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Sort(compare : delegate(left:Boolean,right:Boolean):Boolean)
 > ``` 
@@ -5569,7 +5569,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |compare|delegate(left:[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown),right:[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)):[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |compare|delegate(left:[boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown),right:[boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)):[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Sort(compare : delegate(left:Boolean,right:Boolean):Integer)
 > ``` 
@@ -5581,7 +5581,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |compare|delegate(left:[boolean2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean2.markdown),right:[boolean2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean2.markdown)):[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)| |
+> |compare|delegate(left:[boolean2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean2.markdown),right:[boolean2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean2.markdown)):[boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Sort(compare : delegate(left:Boolean2,right:Boolean2):Boolean)
 > ``` 
@@ -5593,7 +5593,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |compare|delegate(left:[boolean2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean2.markdown),right:[boolean2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean2.markdown)):[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |compare|delegate(left:[boolean2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean2.markdown),right:[boolean2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean2.markdown)):[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Sort(compare : delegate(left:Boolean2,right:Boolean2):Integer)
 > ``` 
@@ -5605,7 +5605,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |compare|delegate(left:[boolean3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean3.markdown),right:[boolean3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean3.markdown)):[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)| |
+> |compare|delegate(left:[boolean3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean3.markdown),right:[boolean3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean3.markdown)):[boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Sort(compare : delegate(left:Boolean3,right:Boolean3):Boolean)
 > ``` 
@@ -5617,7 +5617,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |compare|delegate(left:[boolean3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean3.markdown),right:[boolean3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean3.markdown)):[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |compare|delegate(left:[boolean3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean3.markdown),right:[boolean3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean3.markdown)):[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Sort(compare : delegate(left:Boolean3,right:Boolean3):Integer)
 > ``` 
@@ -5629,7 +5629,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |compare|delegate(left:[boolean4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean4.markdown),right:[boolean4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean4.markdown)):[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)| |
+> |compare|delegate(left:[boolean4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean4.markdown),right:[boolean4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean4.markdown)):[boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Sort(compare : delegate(left:Boolean4,right:Boolean4):Boolean)
 > ``` 
@@ -5641,7 +5641,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |compare|delegate(left:[boolean4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean4.markdown),right:[boolean4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean4.markdown)):[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |compare|delegate(left:[boolean4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean4.markdown),right:[boolean4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean4.markdown)):[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Sort(compare : delegate(left:Boolean4,right:Boolean4):Integer)
 > ``` 
@@ -5653,7 +5653,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |compare|delegate(left:[byte](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/byte.markdown),right:[byte](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/byte.markdown)):[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)| |
+> |compare|delegate(left:[byte](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/byte.markdown),right:[byte](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/byte.markdown)):[boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Sort(compare : delegate(left:Byte,right:Byte):Boolean)
 > ``` 
@@ -5665,7 +5665,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |compare|delegate(left:[byte](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/byte.markdown),right:[byte](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/byte.markdown)):[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |compare|delegate(left:[byte](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/byte.markdown),right:[byte](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/byte.markdown)):[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Sort(compare : delegate(left:Byte,right:Byte):Integer)
 > ``` 
@@ -5677,7 +5677,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |compare|delegate(left:[cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown),right:[cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)):[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)| |
+> |compare|delegate(left:[cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown),right:[cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)):[boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Sort(compare : delegate(left:Cog,right:Cog):Boolean)
 > ``` 
@@ -5689,7 +5689,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |compare|delegate(left:[cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown),right:[cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)):[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |compare|delegate(left:[cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown),right:[cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)):[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Sort(compare : delegate(left:Cog,right:Cog):Integer)
 > ``` 
@@ -5701,7 +5701,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |compare|delegate(left:delegate(),right:delegate()):[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)| |
+> |compare|delegate(left:delegate(),right:delegate()):[boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Sort(compare : delegate(left:delegate(),right:delegate()):Boolean)
 > ``` 
@@ -5713,7 +5713,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |compare|delegate(left:delegate(),right:delegate()):[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |compare|delegate(left:delegate(),right:delegate()):[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Sort(compare : delegate(left:delegate(),right:delegate()):Integer)
 > ``` 
@@ -5725,7 +5725,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |compare|delegate(left:[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doubleinteger.markdown),right:[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doubleinteger.markdown)):[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)| |
+> |compare|delegate(left:[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/doubleinteger.markdown),right:[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/doubleinteger.markdown)):[boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Sort(compare : delegate(left:DoubleInteger,right:DoubleInteger):Boolean)
 > ``` 
@@ -5737,7 +5737,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |compare|delegate(left:[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doubleinteger.markdown),right:[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doubleinteger.markdown)):[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |compare|delegate(left:[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/doubleinteger.markdown),right:[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/doubleinteger.markdown)):[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Sort(compare : delegate(left:DoubleInteger,right:DoubleInteger):Integer)
 > ``` 
@@ -5749,7 +5749,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |compare|delegate(left:[doublereal](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doublereal.markdown),right:[doublereal](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doublereal.markdown)):[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)| |
+> |compare|delegate(left:[doublereal](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/doublereal.markdown),right:[doublereal](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/doublereal.markdown)):[boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Sort(compare : delegate(left:DoubleReal,right:DoubleReal):Boolean)
 > ``` 
@@ -5761,7 +5761,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |compare|delegate(left:[doublereal](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doublereal.markdown),right:[doublereal](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doublereal.markdown)):[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |compare|delegate(left:[doublereal](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/doublereal.markdown),right:[doublereal](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/doublereal.markdown)):[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Sort(compare : delegate(left:DoubleReal,right:DoubleReal):Integer)
 > ``` 
@@ -5773,7 +5773,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |compare|delegate(left:[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown),right:[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)):[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)| |
+> |compare|delegate(left:[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown),right:[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)):[boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Sort(compare : delegate(left:Integer,right:Integer):Boolean)
 > ``` 
@@ -5785,7 +5785,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |compare|delegate(left:[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown),right:[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)):[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |compare|delegate(left:[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown),right:[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)):[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Sort(compare : delegate(left:Integer,right:Integer):Integer)
 > ``` 
@@ -5797,7 +5797,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |compare|delegate(left:[integer2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer2.markdown),right:[integer2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer2.markdown)):[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)| |
+> |compare|delegate(left:[integer2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer2.markdown),right:[integer2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer2.markdown)):[boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Sort(compare : delegate(left:Integer2,right:Integer2):Boolean)
 > ``` 
@@ -5809,7 +5809,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |compare|delegate(left:[integer2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer2.markdown),right:[integer2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer2.markdown)):[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |compare|delegate(left:[integer2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer2.markdown),right:[integer2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer2.markdown)):[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Sort(compare : delegate(left:Integer2,right:Integer2):Integer)
 > ``` 
@@ -5821,7 +5821,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |compare|delegate(left:[integer3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer3.markdown),right:[integer3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer3.markdown)):[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)| |
+> |compare|delegate(left:[integer3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer3.markdown),right:[integer3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer3.markdown)):[boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Sort(compare : delegate(left:Integer3,right:Integer3):Boolean)
 > ``` 
@@ -5833,7 +5833,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |compare|delegate(left:[integer3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer3.markdown),right:[integer3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer3.markdown)):[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |compare|delegate(left:[integer3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer3.markdown),right:[integer3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer3.markdown)):[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Sort(compare : delegate(left:Integer3,right:Integer3):Integer)
 > ``` 
@@ -5845,7 +5845,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |compare|delegate(left:[integer4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer4.markdown),right:[integer4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer4.markdown)):[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)| |
+> |compare|delegate(left:[integer4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer4.markdown),right:[integer4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer4.markdown)):[boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Sort(compare : delegate(left:Integer4,right:Integer4):Boolean)
 > ``` 
@@ -5857,7 +5857,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |compare|delegate(left:[integer4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer4.markdown),right:[integer4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer4.markdown)):[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |compare|delegate(left:[integer4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer4.markdown),right:[integer4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer4.markdown)):[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Sort(compare : delegate(left:Integer4,right:Integer4):Integer)
 > ``` 
@@ -5869,7 +5869,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |compare|delegate(left:Key,right:Key):[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)| |
+> |compare|delegate(left:Key,right:Key):[boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Sort(compare : delegate(left:Key,right:Key):Boolean)
 > ``` 
@@ -5881,7 +5881,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |compare|delegate(left:Key,right:Key):[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |compare|delegate(left:Key,right:Key):[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Sort(compare : delegate(left:Key,right:Key):Integer)
 > ``` 
@@ -5893,7 +5893,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |compare|delegate(left:[quaternion](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/quaternion.markdown),right:[quaternion](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/quaternion.markdown)):[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)| |
+> |compare|delegate(left:[quaternion](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/quaternion.markdown),right:[quaternion](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/quaternion.markdown)):[boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Sort(compare : delegate(left:Quaternion,right:Quaternion):Boolean)
 > ``` 
@@ -5905,7 +5905,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |compare|delegate(left:[quaternion](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/quaternion.markdown),right:[quaternion](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/quaternion.markdown)):[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |compare|delegate(left:[quaternion](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/quaternion.markdown),right:[quaternion](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/quaternion.markdown)):[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Sort(compare : delegate(left:Quaternion,right:Quaternion):Integer)
 > ``` 
@@ -5917,7 +5917,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |compare|delegate(left:[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown),right:[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)):[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)| |
+> |compare|delegate(left:[real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown),right:[real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)):[boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Sort(compare : delegate(left:Real,right:Real):Boolean)
 > ``` 
@@ -5929,7 +5929,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |compare|delegate(left:[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown),right:[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)):[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |compare|delegate(left:[real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown),right:[real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)):[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Sort(compare : delegate(left:Real,right:Real):Integer)
 > ``` 
@@ -5941,7 +5941,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |compare|delegate(left:[real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown),right:[real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)):[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)| |
+> |compare|delegate(left:[real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown),right:[real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)):[boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Sort(compare : delegate(left:Real2,right:Real2):Boolean)
 > ``` 
@@ -5953,7 +5953,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |compare|delegate(left:[real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown),right:[real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)):[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |compare|delegate(left:[real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown),right:[real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)):[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Sort(compare : delegate(left:Real2,right:Real2):Integer)
 > ``` 
@@ -5965,7 +5965,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |compare|delegate(left:[real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown),right:[real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)):[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)| |
+> |compare|delegate(left:[real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real3.markdown),right:[real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real3.markdown)):[boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Sort(compare : delegate(left:Real3,right:Real3):Boolean)
 > ``` 
@@ -5977,7 +5977,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |compare|delegate(left:[real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown),right:[real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)):[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |compare|delegate(left:[real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real3.markdown),right:[real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real3.markdown)):[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Sort(compare : delegate(left:Real3,right:Real3):Integer)
 > ``` 
@@ -5989,7 +5989,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |compare|delegate(left:[real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown),right:[real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)):[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)| |
+> |compare|delegate(left:[real4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real4.markdown),right:[real4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real4.markdown)):[boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Sort(compare : delegate(left:Real4,right:Real4):Boolean)
 > ``` 
@@ -6001,7 +6001,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |compare|delegate(left:[real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown),right:[real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)):[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |compare|delegate(left:[real4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real4.markdown),right:[real4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real4.markdown)):[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Sort(compare : delegate(left:Real4,right:Real4):Integer)
 > ``` 
@@ -6013,7 +6013,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |compare|delegate(left:[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown),right:[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)):[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)| |
+> |compare|delegate(left:[string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown),right:[string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)):[boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Sort(compare : delegate(left:String,right:String):Boolean)
 > ``` 
@@ -6025,7 +6025,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |compare|delegate(left:[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown),right:[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)):[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |compare|delegate(left:[string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown),right:[string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)):[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Sort(compare : delegate(left:String,right:String):Integer)
 > ``` 

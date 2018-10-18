@@ -6,14 +6,14 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ Duration](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/animation.markdown#duration-zero-engine-doc)|Resource| |
+| |[ Duration](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/animation.markdown#duration-zero-engine-doc)|Resource| |
 
 
  #  Properties
 
 
 ---  
- #  Duration : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  Duration : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
  `read-only`
 

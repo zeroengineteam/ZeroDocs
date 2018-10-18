@@ -6,7 +6,7 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/forceeffect.markdown#forceeffect-void)| |[basicdirectioneffect](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/basicdirectioneffect.markdown)| |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/forceeffect.markdown#forceeffect-void)| |[basicdirectioneffect](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/basicdirectioneffect.markdown)| |
 
 
  #  Properties

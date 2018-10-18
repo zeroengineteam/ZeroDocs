@@ -6,16 +6,16 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ RuntimeClone](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/material.markdown#runtimeclone-zero-engine)|[ CompositionLabel](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/material.markdown#compositionlabel-zero-en)|[dataresource](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/dataresource.markdown)| |
-| |[ ReferencedByList](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/material.markdown#referencedbylist-zero-en)| | |
-| |[ RenderGroups](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/material.markdown#rendergroups-zero-engine)| | |
+|[ RuntimeClone](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/material.markdown#runtimeclone-zero-engine)|[ CompositionLabel](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/material.markdown#compositionlabel-zero-en)|[dataresource](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/dataresource.markdown)| |
+| |[ ReferencedByList](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/material.markdown#referencedbylist-zero-en)| | |
+| |[ RenderGroups](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/material.markdown#rendergroups-zero-engine)| | |
 
 
  #  Properties
 
 
 ---  
- #  CompositionLabel : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  CompositionLabel : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
  `read-only`
 
@@ -25,7 +25,7 @@
 
 
 ---  
- #  ReferencedByList : [rendergrouplist](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/rendergrouplist.markdown)
+ #  ReferencedByList : [rendergrouplist](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/rendergrouplist.markdown)
 
  `read-only`
 
@@ -35,7 +35,7 @@
 
 
 ---  
- #  RenderGroups : [rendergrouplist](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/rendergrouplist.markdown)
+ #  RenderGroups : [rendergrouplist](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/rendergrouplist.markdown)
 
  `read-only`
 
@@ -49,7 +49,7 @@
 
 
 ---  
- #  RuntimeClone : [material](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/material.markdown)
+ #  RuntimeClone : [material](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/material.markdown)
 
 > Creates an anonymous copy that can be independently modified, destroyed when all references are gone.
 > |Name|Type|Description|

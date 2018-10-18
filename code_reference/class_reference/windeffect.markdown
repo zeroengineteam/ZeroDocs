@@ -6,17 +6,17 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/windeffect.markdown#windeffect-void)|[ LocalSpaceDirection](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/windeffect.markdown#localspacedirection-zero)|[physicseffect](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/physicseffect.markdown)| |
-| |[ WindDirection](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/windeffect.markdown#winddirection-zero-engin)| | |
-| |[ WindSpeed](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/windeffect.markdown#windspeed-zero-engine-do)| | |
-| |[ WorldWindDirection](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/windeffect.markdown#worldwinddirection-zero)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/windeffect.markdown#windeffect-void)|[ LocalSpaceDirection](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/windeffect.markdown#localspacedirection-zero)|[physicseffect](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/physicseffect.markdown)| |
+| |[ WindDirection](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/windeffect.markdown#winddirection-zero-engin)| | |
+| |[ WindSpeed](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/windeffect.markdown#windspeed-zero-engine-do)| | |
+| |[ WorldWindDirection](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/windeffect.markdown#worldwinddirection-zero)| | |
 
 
  #  Properties
 
 
 ---  
- #  LocalSpaceDirection : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  LocalSpaceDirection : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > Determines if the wind's direction is a local or world-space vector.
 > ``` lang=cpp, name=Zilch
@@ -24,7 +24,7 @@
 
 
 ---  
- #  WindDirection : [real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)
+ #  WindDirection : [real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real3.markdown)
 
 > The direction that the wind is blowing.
 > ``` lang=cpp, name=Zilch
@@ -32,7 +32,7 @@
 
 
 ---  
- #  WindSpeed : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  WindSpeed : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > The speed that the wind is blowing.
 > ``` lang=cpp, name=Zilch
@@ -40,7 +40,7 @@
 
 
 ---  
- #  WorldWindDirection : [real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)
+ #  WorldWindDirection : [real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real3.markdown)
 
  `read-only`
 

@@ -1,4 +1,4 @@
-A function is a named block of code (with its own [scope](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/variables_and_data_types.markdown#scope) that performs a task. Ideally, one function should perform just one task. A function may return a value of a specific [type](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/variables_and_data_types.markdown) based on the operation performed in the function or it may return nothing at all. Functions can also take in values of a specific type, which are called parameters, that are used and/or changed by the operation of the function.
+A function is a named block of code (with its own [scope](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/variables_and_data_types.markdown#scope) that performs a task. Ideally, one function should perform just one task. A function may return a value of a specific [type](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/variables_and_data_types.markdown) based on the operation performed in the function or it may return nothing at all. Functions can also take in values of a specific type, which are called parameters, that are used and/or changed by the operation of the function.
 
 Functions are declared using the **function** keyword:
 ```lang=csharp, name=Function Declaration
@@ -24,7 +24,7 @@ function MyFunctionName(param1: MyParamType1, param2: MyParamType2) : MyReturnTy
 There are a number of important rules that functions in Zilch must follow. If these rules are not followed, an error will be thrown, as can be seen in the examples below. 
 
  ## No Global Functions
-Zilch **does not support** global functions. They must be contained within the scope of either a [class](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/classes.markdown) or [struct](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/structs.markdown). Thus, the above would actually be encased like this:
+Zilch **does not support** global functions. They must be contained within the scope of either a [class](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/classes.markdown) or [struct](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/structs.markdown). Thus, the above would actually be encased like this:
 
 ```lang=csharp, name=Function Defined Within a Class
 class MyClassName
@@ -140,11 +140,11 @@ If we look at the possible logical flows of the `FunctionThatReturns` it should 
 
  # Related Materials
  ## Manual
-- [attributes](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/attributes.markdown)
-- [classes](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/classes.markdown)
-- [variables_and_data_types](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/variables_and_data_types.markdown)
-- [classes](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/classes.markdown)
-- [structs](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/structs.markdown)
+- [attributes](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/attributes.markdown)
+- [classes](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/classes.markdown)
+- [variables_and_data_types](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/variables_and_data_types.markdown)
+- [classes](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/classes.markdown)
+- [structs](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/structs.markdown)
  
 
  

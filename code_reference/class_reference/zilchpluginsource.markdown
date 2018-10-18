@@ -4,13 +4,13 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Clean](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/zilchpluginsource.markdown#clean-void)| |[dataresource](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/dataresource.markdown)| |
-|[ CompileDebug](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/zilchpluginsource.markdown#compiledebug-void)| | | |
-|[ CompileRelease](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/zilchpluginsource.markdown#compilerelease-void)| | | |
-|[ CopyPluginDependencies](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/zilchpluginsource.markdown#copyplugindependencies-v)| | | |
-|[ InstallIdeTools](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/zilchpluginsource.markdown#installidetools-void)| | | |
-|[ OpenDirectory](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/zilchpluginsource.markdown#opendirectory-void)| | | |
-|[ OpenIde](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/zilchpluginsource.markdown#openide-void)| | | |
+|[ Clean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/zilchpluginsource.markdown#clean-void)| |[dataresource](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/dataresource.markdown)| |
+|[ CompileDebug](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/zilchpluginsource.markdown#compiledebug-void)| | | |
+|[ CompileRelease](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/zilchpluginsource.markdown#compilerelease-void)| | | |
+|[ CopyPluginDependencies](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/zilchpluginsource.markdown#copyplugindependencies-v)| | | |
+|[ InstallIdeTools](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/zilchpluginsource.markdown#installidetools-void)| | | |
+|[ OpenDirectory](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/zilchpluginsource.markdown#opendirectory-void)| | | |
+|[ OpenIde](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/zilchpluginsource.markdown#openide-void)| | | |
 
 
  #  Properties

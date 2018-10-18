@@ -4,18 +4,18 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ InterpolateAllBands](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/equalizernode.markdown#interpolateallbands-void)|[ Band1Gain](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/equalizernode.markdown#band1gain-zero-engine-do)|[soundnode](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/soundnode.markdown)| |
-| |[ Band2Gain](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/equalizernode.markdown#band2gain-zero-engine-do)| | |
-| |[ Band3Gain](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/equalizernode.markdown#band3gain-zero-engine-do)| | |
-| |[ HighPassGain](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/equalizernode.markdown#highpassgain-zero-engine)| | |
-| |[ LowPassGain](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/equalizernode.markdown#lowpassgain-zero-engine)| | |
+|[ InterpolateAllBands](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/equalizernode.markdown#interpolateallbands-void)|[ Band1Gain](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/equalizernode.markdown#band1gain-zero-engine-do)|[soundnode](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/soundnode.markdown)| |
+| |[ Band2Gain](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/equalizernode.markdown#band2gain-zero-engine-do)| | |
+| |[ Band3Gain](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/equalizernode.markdown#band3gain-zero-engine-do)| | |
+| |[ HighPassGain](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/equalizernode.markdown#highpassgain-zero-engine)| | |
+| |[ LowPassGain](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/equalizernode.markdown#lowpassgain-zero-engine)| | |
 
 
  #  Properties
 
 
 ---  
- #  Band1Gain : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  Band1Gain : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > The volume adjustment applied to frequencies within the band centered at 150 Hz in the node's input. Values above 1.0 will boost these frequencies while values less than 1.0 will reduce them.
 > ``` lang=cpp, name=Zilch
@@ -23,7 +23,7 @@
 
 
 ---  
- #  Band2Gain : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  Band2Gain : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > The volume adjustment applied to frequencies within the band centered at 600 Hz in the node's input. Values above 1.0 will boost these frequencies while values less than 1.0 will reduce them.
 > ``` lang=cpp, name=Zilch
@@ -31,7 +31,7 @@
 
 
 ---  
- #  Band3Gain : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  Band3Gain : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > The volume adjustment applied to frequencies within the band centered at 2500 Hz in the node's input. Values above 1.0 will boost these frequencies while values less than 1.0 will reduce them.
 > ``` lang=cpp, name=Zilch
@@ -39,7 +39,7 @@
 
 
 ---  
- #  HighPassGain : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  HighPassGain : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > The volume adjustment applied to frequencies above 5000 Hz in the node's input. Values above 1.0 will boost these frequencies while values less than 1.0 will reduce them.
 > ``` lang=cpp, name=Zilch
@@ -47,7 +47,7 @@
 
 
 ---  
- #  LowPassGain : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  LowPassGain : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > The volume adjustment applied to frequencies below 80 Hz in the node's input. Values above 1.0 will boost these frequencies while values less than 1.0 will reduce them.
 > ``` lang=cpp, name=Zilch
@@ -64,12 +64,12 @@
 > Sets the volume adjustment of all bands (the parameters in order are low pass, band 1, band 2, band 3, high pass) over the number of seconds passed in as the final parameter.
 > |Name|Type|Description|
 > |---|---|---|
-> |lowPass|[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)| |
-> |band1|[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)| |
-> |band2|[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)| |
-> |band3|[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)| |
-> |highPass|[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)| |
-> |timeToInterpolate|[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)| |
+> |lowPass|[real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)| |
+> |band1|[real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)| |
+> |band2|[real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)| |
+> |band3|[real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)| |
+> |highPass|[real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)| |
+> |timeToInterpolate|[real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function InterpolateAllBands(lowPass : Real, band1 : Real, band2 : Real, band3 : Real, highPass : Real, timeToInterpolate : Real)
 > ``` 

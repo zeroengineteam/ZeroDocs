@@ -2,22 +2,22 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ AutoFocus](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/animationsettings.markdown#autofocus-zero-engine-do)| | |
-| |[ AutoKey](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/animationsettings.markdown#autokey-zero-engine-docu)| | |
-| |[ EditFps](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/animationsettings.markdown#editfps-zero-engine-docu)| | |
-| |[ OnionSkinning](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/animationsettings.markdown#onionskinning-zero-engin)| | |
-| |[ PlaybackSpeed](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/animationsettings.markdown#playbackspeed-zero-engin)| | |
-| |[ PreviewMode](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/animationsettings.markdown#previewmode-zero-engine)| | |
-| |[ SnappingX](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/animationsettings.markdown#snappingx-zero-engine-do)| | |
-| |[ SnappingY](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/animationsettings.markdown#snappingy-zero-engine-do)| | |
-| |[ TimeDisplay](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/animationsettings.markdown#timedisplay-zero-engine)| | |
+| |[ AutoFocus](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/animationsettings.markdown#autofocus-zero-engine-do)| | |
+| |[ AutoKey](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/animationsettings.markdown#autokey-zero-engine-docu)| | |
+| |[ EditFps](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/animationsettings.markdown#editfps-zero-engine-docu)| | |
+| |[ OnionSkinning](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/animationsettings.markdown#onionskinning-zero-engin)| | |
+| |[ PlaybackSpeed](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/animationsettings.markdown#playbackspeed-zero-engin)| | |
+| |[ PreviewMode](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/animationsettings.markdown#previewmode-zero-engine)| | |
+| |[ SnappingX](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/animationsettings.markdown#snappingx-zero-engine-do)| | |
+| |[ SnappingY](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/animationsettings.markdown#snappingy-zero-engine-do)| | |
+| |[ TimeDisplay](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/animationsettings.markdown#timedisplay-zero-engine)| | |
 
 
  #  Properties
 
 
 ---  
- #  AutoFocus : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  AutoFocus : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -25,7 +25,7 @@
 
 
 ---  
- #  AutoKey : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  AutoKey : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -33,7 +33,7 @@
 
 
 ---  
- #  EditFps : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  EditFps : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -41,7 +41,7 @@
 
 
 ---  
- #  OnionSkinning : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  OnionSkinning : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -49,7 +49,7 @@
 
 
 ---  
- #  PlaybackSpeed : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  PlaybackSpeed : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -57,7 +57,7 @@
 
 
 ---  
- #  PreviewMode : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  PreviewMode : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -65,7 +65,7 @@
 
 
 ---  
- #  SnappingX : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  SnappingX : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -73,7 +73,7 @@
 
 
 ---  
- #  SnappingY : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  SnappingY : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -81,7 +81,7 @@
 
 
 ---  
- #  TimeDisplay : [TimeDisplay](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#timedisplay)
+ #  TimeDisplay : [TimeDisplay](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#timedisplay)
 
 > 
 > ``` lang=cpp, name=Zilch

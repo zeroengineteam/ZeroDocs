@@ -2,17 +2,17 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ MoveNext](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netuserrange.markdown#movenext-void)|[ All](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netuserrange.markdown#all-zero-engine-document)| | |
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netuserrange.markdown#netuserrange-void)|[ Current](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netuserrange.markdown#current-zero-engine-docu)| | |
-| |[ IsEmpty](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netuserrange.markdown#isempty-zero-engine-docu)| | |
-| |[ IsNotEmpty](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netuserrange.markdown#isnotempty-zero-engine-d)| | |
+|[ MoveNext](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netuserrange.markdown#movenext-void)|[ All](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netuserrange.markdown#all-zero-engine-document)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netuserrange.markdown#netuserrange-void)|[ Current](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netuserrange.markdown#current-zero-engine-docu)| | |
+| |[ IsEmpty](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netuserrange.markdown#isempty-zero-engine-docu)| | |
+| |[ IsNotEmpty](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netuserrange.markdown#isnotempty-zero-engine-d)| | |
 
 
  #  Properties
 
 
 ---  
- #  All : [netuserrange](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netuserrange.markdown)
+ #  All : [netuserrange](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netuserrange.markdown)
 
  `read-only`
 
@@ -22,7 +22,7 @@
 
 
 ---  
- #  Current : [cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
+ #  Current : [cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)
 
  `read-only`
 
@@ -32,7 +32,7 @@
 
 
 ---  
- #  IsEmpty : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  IsEmpty : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -42,7 +42,7 @@
 
 
 ---  
- #  IsNotEmpty : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  IsNotEmpty : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -87,7 +87,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[netuserrange](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netuserrange.markdown)| |
+> |p0|[netuserrange](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netuserrange.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function NetUserRange(p0 : NetUserRange)
 > ``` 

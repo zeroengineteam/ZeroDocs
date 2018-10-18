@@ -4,18 +4,18 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ Finished](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/gizmoevent.markdown#finished-zero-engine-doc)|[event](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/event.markdown)|[gizmoupdateevent](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/gizmoupdateevent.markdown)|
-| |[ Gizmo](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/gizmoevent.markdown#gizmo-zero-engine-docume)| |[objecttransformgizmoevent](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/objecttransformgizmoevent.markdown)|
-| |[ OperationQueue](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/gizmoevent.markdown#operationqueue-zero-engi)| | |
-| |[ Source](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/gizmoevent.markdown#source-zero-engine-docum)| | |
-| |[ ViewportMouseEvent](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/gizmoevent.markdown#viewportmouseevent-zero)| | |
+| |[ Finished](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/gizmoevent.markdown#finished-zero-engine-doc)|[event](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/event.markdown)|[gizmoupdateevent](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/gizmoupdateevent.markdown)|
+| |[ Gizmo](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/gizmoevent.markdown#gizmo-zero-engine-docume)| |[objecttransformgizmoevent](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/objecttransformgizmoevent.markdown)|
+| |[ OperationQueue](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/gizmoevent.markdown#operationqueue-zero-engi)| | |
+| |[ Source](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/gizmoevent.markdown#source-zero-engine-docum)| | |
+| |[ ViewportMouseEvent](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/gizmoevent.markdown#viewportmouseevent-zero)| | |
 
 
  #  Properties
 
 
 ---  
- #  Finished : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  Finished : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -25,7 +25,7 @@
 
 
 ---  
- #  Gizmo : [cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
+ #  Gizmo : [cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)
 
  `read-only`
 
@@ -35,7 +35,7 @@
 
 
 ---  
- #  OperationQueue : [operationqueue](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/operationqueue.markdown)
+ #  OperationQueue : [operationqueue](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/operationqueue.markdown)
 
  `read-only`
 
@@ -45,7 +45,7 @@
 
 
 ---  
- #  Source : [component](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/component.markdown)
+ #  Source : [component](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/component.markdown)
 
  `read-only`
 
@@ -55,7 +55,7 @@
 
 
 ---  
- #  ViewportMouseEvent : [viewportmouseevent](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/viewportmouseevent.markdown)
+ #  ViewportMouseEvent : [viewportmouseevent](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/viewportmouseevent.markdown)
 
  `read-only`
 

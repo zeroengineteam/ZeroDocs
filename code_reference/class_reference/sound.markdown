@@ -6,15 +6,15 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ Channels](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/sound.markdown#channels-zero-engine-doc)|Resource| |
-| |[ Length](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/sound.markdown#length-zero-engine-docum)| | |
+| |[ Channels](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/sound.markdown#channels-zero-engine-doc)|Resource| |
+| |[ Length](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/sound.markdown#length-zero-engine-docum)| | |
 
 
  #  Properties
 
 
 ---  
- #  Channels : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  Channels : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
  `read-only`
 
@@ -24,7 +24,7 @@
 
 
 ---  
- #  Length : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  Length : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
  `read-only`
 

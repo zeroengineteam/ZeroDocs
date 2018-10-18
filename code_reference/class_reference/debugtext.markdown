@@ -2,23 +2,23 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/debugtext.markdown#debugtext-void)|[ Centered](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/debugtext.markdown#centered-zero-engine-doc)| | |
-| |[ Color](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/debugtext.markdown#color-zero-engine-docume)| | |
-| |[ OnTop](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/debugtext.markdown#ontop-zero-engine-docume)| | |
-| |[ Position](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/debugtext.markdown#position-zero-engine-doc)| | |
-| |[ Rotation](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/debugtext.markdown#rotation-zero-engine-doc)| | |
-| |[ Text](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/debugtext.markdown#text-zero-engine-documen)| | |
-| |[ TextHeight](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/debugtext.markdown#textheight-zero-engine-d)| | |
-| |[ ViewAligned](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/debugtext.markdown#viewaligned-zero-engine)| | |
-| |[ ViewScaled](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/debugtext.markdown#viewscaled-zero-engine-d)| | |
-| |[ ViewScaleOffset](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/debugtext.markdown#viewscaleoffset-zero-eng)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/debugtext.markdown#debugtext-void)|[ Centered](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/debugtext.markdown#centered-zero-engine-doc)| | |
+| |[ Color](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/debugtext.markdown#color-zero-engine-docume)| | |
+| |[ OnTop](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/debugtext.markdown#ontop-zero-engine-docume)| | |
+| |[ Position](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/debugtext.markdown#position-zero-engine-doc)| | |
+| |[ Rotation](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/debugtext.markdown#rotation-zero-engine-doc)| | |
+| |[ Text](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/debugtext.markdown#text-zero-engine-documen)| | |
+| |[ TextHeight](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/debugtext.markdown#textheight-zero-engine-d)| | |
+| |[ ViewAligned](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/debugtext.markdown#viewaligned-zero-engine)| | |
+| |[ ViewScaled](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/debugtext.markdown#viewscaled-zero-engine-d)| | |
+| |[ ViewScaleOffset](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/debugtext.markdown#viewscaleoffset-zero-eng)| | |
 
 
  #  Properties
 
 
 ---  
- #  Centered : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  Centered : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -26,7 +26,7 @@
 
 
 ---  
- #  Color : [real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)
+ #  Color : [real4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real4.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -34,7 +34,7 @@
 
 
 ---  
- #  OnTop : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  OnTop : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -42,7 +42,7 @@
 
 
 ---  
- #  Position : [real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)
+ #  Position : [real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real3.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -50,7 +50,7 @@
 
 
 ---  
- #  Rotation : [quaternion](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/quaternion.markdown)
+ #  Rotation : [quaternion](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/quaternion.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -58,7 +58,7 @@
 
 
 ---  
- #  Text : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
+ #  Text : [string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -66,7 +66,7 @@
 
 
 ---  
- #  TextHeight : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  TextHeight : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -74,7 +74,7 @@
 
 
 ---  
- #  ViewAligned : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  ViewAligned : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -82,7 +82,7 @@
 
 
 ---  
- #  ViewScaled : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  ViewScaled : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -90,7 +90,7 @@
 
 
 ---  
- #  ViewScaleOffset : [real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)
+ #  ViewScaleOffset : [real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real3.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -122,9 +122,9 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |position|[real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)| |
-> |textHeight|[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)| |
-> |text|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
+> |position|[real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real3.markdown)| |
+> |textHeight|[real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)| |
+> |text|[string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function DebugText(position : Real3, textHeight : Real, text : String)
 > ``` 

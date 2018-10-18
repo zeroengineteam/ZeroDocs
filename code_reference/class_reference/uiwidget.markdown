@@ -4,69 +4,69 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ CastPoint](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#castpoint-zero-engine-do)|[ AbsoluteMinSize](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#absoluteminsize-zero-eng)|[uiwidgetcomponenthierarchy](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidgetcomponenthierarchy.markdown)|[uirootwidget](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uirootwidget.markdown)|
-|[ CastRect](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#castrect-zero-engine-doc)|[ Active](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#active-zero-engine-docum)| | |
-|[ LoseFocus](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#losefocus-void)|[ CanTakeFocus](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#cantakefocus-zero-engine)| | |
-|[ MarkAsNeedsUpdate](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#markasneedsupdate-void)|[ ClipChildren](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#clipchildren-zero-engine)| | |
-|[ SetLocalLocation](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#setlocallocation-void)|[ DockMode](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#dockmode-zero-engine-doc)| | |
-|[ SetWorldLocation](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#setworldlocation-void)|[ FlexSize](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#flexsize-zero-engine-doc)| | |
-|[ SizeToContents](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#sizetocontents-void)|[ HasFocus](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#hasfocus-zero-engine-doc)| | |
-|[ TabJump](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#tabjump-zero-engine-docu)|[ HierarchyColor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#hierarchycolor-zero-engi)| | |
-|[ TabJumpDirection](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#tabjumpdirection-void)|[ HierarchyHasFocus](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#hierarchyhasfocus-zero-e)| | |
-|[ TakeFocus](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#takefocus-void)|[ HorizontalAlignment](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#horizontalalignment-zero)| | |
-|[ TransformPoint](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#transformpoint-zero-engi)|[ InLayout](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#inlayout-zero-engine-doc)| | |
-|[ TransformPointInverse](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#transformpointinverse-ze)|[ Interactive](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#interactive-zero-engine)| | |
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#uiwidget-void)|[ LocalBottom](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#localbottom-zero-engine)| | |
-|[ Update](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#update-void)|[ LocalBottomCenter](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#localbottomcenter-zero-e)| | |
-| |[ LocalBottomLeft](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#localbottomleft-zero-eng)| | |
-| |[ LocalBottomRight](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#localbottomright-zero-en)| | |
-| |[ LocalCenter](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#localcenter-zero-engine)| | |
-| |[ LocalCenterLeft](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#localcenterleft-zero-eng)| | |
-| |[ LocalCenterRight](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#localcenterright-zero-en)| | |
-| |[ LocalColor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#localcolor-zero-engine-d)| | |
-| |[ LocalLeft](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#localleft-zero-engine-do)| | |
-| |[ LocalRectangle](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#localrectangle-zero-engi)| | |
-| |[ LocalRight](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#localright-zero-engine-d)| | |
-| |[ LocalTop](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#localtop-zero-engine-doc)| | |
-| |[ LocalTopCenter](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#localtopcenter-zero-engi)| | |
-| |[ LocalTopLeft](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#localtopleft-zero-engine)| | |
-| |[ LocalTopRight](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#localtopright-zero-engin)| | |
-| |[ LocalTranslation](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#localtranslation-zero-en)| | |
-| |[ MarginBottom](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#marginbottom-zero-engine)| | |
-| |[ MarginLeft](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#marginleft-zero-engine-d)| | |
-| |[ MarginRight](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#marginright-zero-engine)| | |
-| |[ MarginTop](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#margintop-zero-engine-do)| | |
-| |[ MouseOver](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#mouseover-zero-engine-do)| | |
-| |[ MouseOverHierarchy](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#mouseoverhierarchy-zero)| | |
-| |[ OnTop](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#ontop-zero-engine-docume)| | |
-| |[ Root](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#root-zero-engine-documen)| | |
-| |[ Size](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#size-zero-engine-documen)| | |
-| |[ SizePolicyX](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#sizepolicyx-zero-engine)| | |
-| |[ SizePolicyY](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#sizepolicyy-zero-engine)| | |
-| |[ VerticalAlignment](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#verticalalignment-zero-e)| | |
-| |[ Visible](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#visible-zero-engine-docu)| | |
-| |[ WorldBottom](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#worldbottom-zero-engine)| | |
-| |[ WorldBottomCenter](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#worldbottomcenter-zero-e)| | |
-| |[ WorldBottomLeft](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#worldbottomleft-zero-eng)| | |
-| |[ WorldBottomRight](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#worldbottomright-zero-en)| | |
-| |[ WorldCenter](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#worldcenter-zero-engine)| | |
-| |[ WorldCenterLeft](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#worldcenterleft-zero-eng)| | |
-| |[ WorldCenterRight](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#worldcenterright-zero-en)| | |
-| |[ WorldLeft](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#worldleft-zero-engine-do)| | |
-| |[ WorldRectangle](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#worldrectangle-zero-engi)| | |
-| |[ WorldRight](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#worldright-zero-engine-d)| | |
-| |[ WorldTop](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#worldtop-zero-engine-doc)| | |
-| |[ WorldTopCenter](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#worldtopcenter-zero-engi)| | |
-| |[ WorldTopLeft](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#worldtopleft-zero-engine)| | |
-| |[ WorldTopRight](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#worldtopright-zero-engin)| | |
-| |[ WorldTranslation](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown#worldtranslation-zero-en)| | |
+|[ CastPoint](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#castpoint-zero-engine-do)|[ AbsoluteMinSize](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#absoluteminsize-zero-eng)|[uiwidgetcomponenthierarchy](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidgetcomponenthierarchy.markdown)|[uirootwidget](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uirootwidget.markdown)|
+|[ CastRect](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#castrect-zero-engine-doc)|[ Active](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#active-zero-engine-docum)| | |
+|[ LoseFocus](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#losefocus-void)|[ CanTakeFocus](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#cantakefocus-zero-engine)| | |
+|[ MarkAsNeedsUpdate](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#markasneedsupdate-void)|[ ClipChildren](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#clipchildren-zero-engine)| | |
+|[ SetLocalLocation](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#setlocallocation-void)|[ DockMode](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#dockmode-zero-engine-doc)| | |
+|[ SetWorldLocation](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#setworldlocation-void)|[ FlexSize](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#flexsize-zero-engine-doc)| | |
+|[ SizeToContents](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#sizetocontents-void)|[ HasFocus](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#hasfocus-zero-engine-doc)| | |
+|[ TabJump](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#tabjump-zero-engine-docu)|[ HierarchyColor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#hierarchycolor-zero-engi)| | |
+|[ TabJumpDirection](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#tabjumpdirection-void)|[ HierarchyHasFocus](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#hierarchyhasfocus-zero-e)| | |
+|[ TakeFocus](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#takefocus-void)|[ HorizontalAlignment](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#horizontalalignment-zero)| | |
+|[ TransformPoint](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#transformpoint-zero-engi)|[ InLayout](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#inlayout-zero-engine-doc)| | |
+|[ TransformPointInverse](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#transformpointinverse-ze)|[ Interactive](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#interactive-zero-engine)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#uiwidget-void)|[ LocalBottom](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#localbottom-zero-engine)| | |
+|[ Update](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#update-void)|[ LocalBottomCenter](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#localbottomcenter-zero-e)| | |
+| |[ LocalBottomLeft](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#localbottomleft-zero-eng)| | |
+| |[ LocalBottomRight](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#localbottomright-zero-en)| | |
+| |[ LocalCenter](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#localcenter-zero-engine)| | |
+| |[ LocalCenterLeft](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#localcenterleft-zero-eng)| | |
+| |[ LocalCenterRight](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#localcenterright-zero-en)| | |
+| |[ LocalColor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#localcolor-zero-engine-d)| | |
+| |[ LocalLeft](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#localleft-zero-engine-do)| | |
+| |[ LocalRectangle](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#localrectangle-zero-engi)| | |
+| |[ LocalRight](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#localright-zero-engine-d)| | |
+| |[ LocalTop](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#localtop-zero-engine-doc)| | |
+| |[ LocalTopCenter](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#localtopcenter-zero-engi)| | |
+| |[ LocalTopLeft](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#localtopleft-zero-engine)| | |
+| |[ LocalTopRight](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#localtopright-zero-engin)| | |
+| |[ LocalTranslation](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#localtranslation-zero-en)| | |
+| |[ MarginBottom](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#marginbottom-zero-engine)| | |
+| |[ MarginLeft](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#marginleft-zero-engine-d)| | |
+| |[ MarginRight](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#marginright-zero-engine)| | |
+| |[ MarginTop](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#margintop-zero-engine-do)| | |
+| |[ MouseOver](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#mouseover-zero-engine-do)| | |
+| |[ MouseOverHierarchy](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#mouseoverhierarchy-zero)| | |
+| |[ OnTop](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#ontop-zero-engine-docume)| | |
+| |[ Root](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#root-zero-engine-documen)| | |
+| |[ Size](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#size-zero-engine-documen)| | |
+| |[ SizePolicyX](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#sizepolicyx-zero-engine)| | |
+| |[ SizePolicyY](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#sizepolicyy-zero-engine)| | |
+| |[ VerticalAlignment](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#verticalalignment-zero-e)| | |
+| |[ Visible](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#visible-zero-engine-docu)| | |
+| |[ WorldBottom](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#worldbottom-zero-engine)| | |
+| |[ WorldBottomCenter](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#worldbottomcenter-zero-e)| | |
+| |[ WorldBottomLeft](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#worldbottomleft-zero-eng)| | |
+| |[ WorldBottomRight](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#worldbottomright-zero-en)| | |
+| |[ WorldCenter](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#worldcenter-zero-engine)| | |
+| |[ WorldCenterLeft](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#worldcenterleft-zero-eng)| | |
+| |[ WorldCenterRight](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#worldcenterright-zero-en)| | |
+| |[ WorldLeft](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#worldleft-zero-engine-do)| | |
+| |[ WorldRectangle](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#worldrectangle-zero-engi)| | |
+| |[ WorldRight](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#worldright-zero-engine-d)| | |
+| |[ WorldTop](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#worldtop-zero-engine-doc)| | |
+| |[ WorldTopCenter](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#worldtopcenter-zero-engi)| | |
+| |[ WorldTopLeft](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#worldtopleft-zero-engine)| | |
+| |[ WorldTopRight](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#worldtopright-zero-engin)| | |
+| |[ WorldTranslation](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown#worldtranslation-zero-en)| | |
 
 
  #  Properties
 
 
 ---  
- #  AbsoluteMinSize : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  AbsoluteMinSize : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
 > The minimum size this widget has to be when being laid out.
 > ``` lang=cpp, name=Zilch
@@ -74,7 +74,7 @@
 
 
 ---  
- #  Active : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  Active : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > Active getter / setter.
 > ``` lang=cpp, name=Zilch
@@ -82,7 +82,7 @@
 
 
 ---  
- #  CanTakeFocus : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  CanTakeFocus : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -90,7 +90,7 @@
 
 
 ---  
- #  ClipChildren : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  ClipChildren : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -98,7 +98,7 @@
 
 
 ---  
- #  DockMode : [UiDockMode](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#uidockmode)
+ #  DockMode : [UiDockMode](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#uidockmode)
 
 > Used in the dock layout.
 > ``` lang=cpp, name=Zilch
@@ -106,7 +106,7 @@
 
 
 ---  
- #  FlexSize : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  FlexSize : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
 > Flex size used in conjunction with mSizePolicy (if FlexSize is set).
 > ``` lang=cpp, name=Zilch
@@ -114,7 +114,7 @@
 
 
 ---  
- #  HasFocus : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  HasFocus : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -124,7 +124,7 @@
 
 
 ---  
- #  HierarchyColor : [real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)
+ #  HierarchyColor : [real4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real4.markdown)
 
 > Color that cascades down to children.
 > ``` lang=cpp, name=Zilch
@@ -132,7 +132,7 @@
 
 
 ---  
- #  HierarchyHasFocus : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  HierarchyHasFocus : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -142,7 +142,7 @@
 
 
 ---  
- #  HorizontalAlignment : [UiHorizontalAlignment](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#uihorizontalalignment)
+ #  HorizontalAlignment : [UiHorizontalAlignment](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#uihorizontalalignment)
 
 > Alignments used to shift widgets when in a layout.
 > ``` lang=cpp, name=Zilch
@@ -150,7 +150,7 @@
 
 
 ---  
- #  InLayout : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  InLayout : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > If true, we will be ignored when our parent updates the layout. Disable this if you want to manually place this widget.
 > ``` lang=cpp, name=Zilch
@@ -158,7 +158,7 @@
 
 
 ---  
- #  Interactive : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  Interactive : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -166,7 +166,7 @@
 
 
 ---  
- #  LocalBottom : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  LocalBottom : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -174,7 +174,7 @@
 
 
 ---  
- #  LocalBottomCenter : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  LocalBottomCenter : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -182,7 +182,7 @@
 
 
 ---  
- #  LocalBottomLeft : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  LocalBottomLeft : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -190,7 +190,7 @@
 
 
 ---  
- #  LocalBottomRight : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  LocalBottomRight : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -198,7 +198,7 @@
 
 
 ---  
- #  LocalCenter : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  LocalCenter : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -206,7 +206,7 @@
 
 
 ---  
- #  LocalCenterLeft : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  LocalCenterLeft : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -214,7 +214,7 @@
 
 
 ---  
- #  LocalCenterRight : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  LocalCenterRight : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -222,7 +222,7 @@
 
 
 ---  
- #  LocalColor : [real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)
+ #  LocalColor : [real4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real4.markdown)
 
 > Color that does not cascade to children. It is, however, affected by the parents color.
 > ``` lang=cpp, name=Zilch
@@ -230,7 +230,7 @@
 
 
 ---  
- #  LocalLeft : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  LocalLeft : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -238,7 +238,7 @@
 
 
 ---  
- #  LocalRectangle : [rectangle](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/rectangle.markdown)
+ #  LocalRectangle : [rectangle](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/rectangle.markdown)
 
 > Returns our rect relative to parent. The origin of this Rect is bottom left.
 > ``` lang=cpp, name=Zilch
@@ -246,7 +246,7 @@
 
 
 ---  
- #  LocalRight : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  LocalRight : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -254,7 +254,7 @@
 
 
 ---  
- #  LocalTop : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  LocalTop : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -262,7 +262,7 @@
 
 
 ---  
- #  LocalTopCenter : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  LocalTopCenter : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -270,7 +270,7 @@
 
 
 ---  
- #  LocalTopLeft : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  LocalTopLeft : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -278,7 +278,7 @@
 
 
 ---  
- #  LocalTopRight : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  LocalTopRight : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -286,7 +286,7 @@
 
 
 ---  
- #  LocalTranslation : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  LocalTranslation : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
 > Local Translation relative to parent.
 > ``` lang=cpp, name=Zilch
@@ -294,7 +294,7 @@
 
 
 ---  
- #  MarginBottom : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  MarginBottom : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -302,7 +302,7 @@
 
 
 ---  
- #  MarginLeft : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  MarginLeft : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -310,7 +310,7 @@
 
 
 ---  
- #  MarginRight : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  MarginRight : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -318,7 +318,7 @@
 
 
 ---  
- #  MarginTop : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  MarginTop : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -326,7 +326,7 @@
 
 
 ---  
- #  MouseOver : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  MouseOver : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -336,7 +336,7 @@
 
 
 ---  
- #  MouseOverHierarchy : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  MouseOverHierarchy : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -346,7 +346,7 @@
 
 
 ---  
- #  OnTop : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  OnTop : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -354,7 +354,7 @@
 
 
 ---  
- #  Root : [uirootwidget](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uirootwidget.markdown)
+ #  Root : [uirootwidget](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uirootwidget.markdown)
 
  `read-only`
 
@@ -364,7 +364,7 @@
 
 
 ---  
- #  Size : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  Size : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
 > Size getter / setter. This acts as a shortcut to the Area Component.
 > ``` lang=cpp, name=Zilch
@@ -372,7 +372,7 @@
 
 
 ---  
- #  SizePolicyX : [UiSizePolicy](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#uisizepolicy)
+ #  SizePolicyX : [UiSizePolicy](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#uisizepolicy)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -380,7 +380,7 @@
 
 
 ---  
- #  SizePolicyY : [UiSizePolicy](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#uisizepolicy)
+ #  SizePolicyY : [UiSizePolicy](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#uisizepolicy)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -388,7 +388,7 @@
 
 
 ---  
- #  VerticalAlignment : [UiVerticalAlignment](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#uiverticalalignment)
+ #  VerticalAlignment : [UiVerticalAlignment](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#uiverticalalignment)
 
 > Alignments used to shift widgets when in a layout.
 > ``` lang=cpp, name=Zilch
@@ -396,7 +396,7 @@
 
 
 ---  
- #  Visible : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  Visible : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -404,7 +404,7 @@
 
 
 ---  
- #  WorldBottom : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  WorldBottom : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -412,7 +412,7 @@
 
 
 ---  
- #  WorldBottomCenter : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  WorldBottomCenter : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -420,7 +420,7 @@
 
 
 ---  
- #  WorldBottomLeft : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  WorldBottomLeft : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -428,7 +428,7 @@
 
 
 ---  
- #  WorldBottomRight : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  WorldBottomRight : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -436,7 +436,7 @@
 
 
 ---  
- #  WorldCenter : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  WorldCenter : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -444,7 +444,7 @@
 
 
 ---  
- #  WorldCenterLeft : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  WorldCenterLeft : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -452,7 +452,7 @@
 
 
 ---  
- #  WorldCenterRight : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  WorldCenterRight : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -460,7 +460,7 @@
 
 
 ---  
- #  WorldLeft : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  WorldLeft : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -468,7 +468,7 @@
 
 
 ---  
- #  WorldRectangle : [rectangle](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/rectangle.markdown)
+ #  WorldRectangle : [rectangle](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/rectangle.markdown)
 
 > Returns our world rect. The origin of this Rect is bottom left.
 > ``` lang=cpp, name=Zilch
@@ -476,7 +476,7 @@
 
 
 ---  
- #  WorldRight : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  WorldRight : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -484,7 +484,7 @@
 
 
 ---  
- #  WorldTop : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  WorldTop : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -492,7 +492,7 @@
 
 
 ---  
- #  WorldTopCenter : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  WorldTopCenter : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -500,7 +500,7 @@
 
 
 ---  
- #  WorldTopLeft : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  WorldTopLeft : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -508,7 +508,7 @@
 
 
 ---  
- #  WorldTopRight : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  WorldTopRight : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -516,7 +516,7 @@
 
 
 ---  
- #  WorldTranslation : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  WorldTranslation : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
 > Translation in world space.
 > ``` lang=cpp, name=Zilch
@@ -528,28 +528,28 @@
 
 
 ---  
- #  CastPoint : [uiwidget](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown)
+ #  CastPoint : [uiwidget](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown)
 
 > Finds the Widget at the given point. All Widgets bellow and including the 'ignore' widget will not be included. The ignore was added for trying to find the widget underneath a dragging window. The window is directly under the mouse, so we want to ignore it.
 > |Name|Type|Description|
 > |---|---|---|
-> |worldPoint|[real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)| |
-> |ignore|[uiwidget](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown)| |
-> |interactiveOnly|[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)| |
+> |worldPoint|[real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)| |
+> |ignore|[uiwidget](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown)| |
+> |interactiveOnly|[boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function CastPoint(worldPoint : Real2, ignore : UiWidget, interactiveOnly : Boolean) : UiWidget
 > ``` 
 
 
 ---  
- #  CastRect : [uiwidgetcastresultsrange](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidgetcastresultsrange.markdown)
+ #  CastRect : [uiwidgetcastresultsrange](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidgetcastresultsrange.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |worldRect|[rectangle](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/rectangle.markdown)| |
-> |ignore|[uiwidget](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown)| |
-> |interactiveOnly|[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)| |
+> |worldRect|[rectangle](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/rectangle.markdown)| |
+> |ignore|[uiwidget](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown)| |
+> |interactiveOnly|[boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function CastRect(worldRect : Rectangle, ignore : UiWidget, interactiveOnly : Boolean) : UiWidgetCastResultsRange
 > ``` 
@@ -583,8 +583,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |location|[Location](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#location)| |
-> |localTranslation|[real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)| |
+> |location|[Location](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#location)| |
+> |localTranslation|[real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function SetLocalLocation(location : Location, localTranslation : Real2)
 > ``` 
@@ -596,8 +596,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |location|[Location](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#location)| |
-> |worldTranslation|[real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)| |
+> |location|[Location](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#location)| |
+> |worldTranslation|[real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function SetWorldLocation(location : Location, worldTranslation : Real2)
 > ``` 
@@ -615,12 +615,12 @@
 
 
 ---  
- #  TabJump : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  TabJump : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > Changes focus to the next applicable widget in the direction based on the key pressed in the given keyboard event.
 > |Name|Type|Description|
 > |---|---|---|
-> |e|[keyboardevent](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/keyboardevent.markdown)| |
+> |e|[keyboardevent](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/keyboardevent.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function TabJump(e : KeyboardEvent) : Boolean
 > ``` 
@@ -632,7 +632,7 @@
 > Changes focus to the next applicable widget in the given direction.
 > |Name|Type|Description|
 > |---|---|---|
-> |direction|[UiFocusDirection](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#uifocusdirection)| |
+> |direction|[UiFocusDirection](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#uifocusdirection)| |
 > ``` lang=cpp, name=Zilch
 > function TabJumpDirection(direction : UiFocusDirection)
 > ``` 
@@ -650,24 +650,24 @@
 
 
 ---  
- #  TransformPoint : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  TransformPoint : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
 > Transforms a local point into world space.
 > |Name|Type|Description|
 > |---|---|---|
-> |localPosition|[real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)| |
+> |localPosition|[real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function TransformPoint(localPosition : Real2) : Real2
 > ``` 
 
 
 ---  
- #  TransformPointInverse : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  TransformPointInverse : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
 > Transforms a world point into this Widget's local space. Note, this is not the same space as LocalTranslation. LocalTranslation is in this Widget's parent space.
 > |Name|Type|Description|
 > |---|---|---|
-> |worldPosition|[real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)| |
+> |worldPosition|[real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function TransformPointInverse(worldPosition : Real2) : Real2
 > ``` 
@@ -692,7 +692,7 @@
 > Handles the updating of this Widget and the child Widgets. Once called, it will update the internal TransformUpdateState.
 > |Name|Type|Description|
 > |---|---|---|
-> |e|[uitransformupdateevent](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uitransformupdateevent.markdown)| |
+> |e|[uitransformupdateevent](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uitransformupdateevent.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Update(e : UiTransformUpdateEvent)
 > ``` 

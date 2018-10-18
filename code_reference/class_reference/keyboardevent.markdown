@@ -6,23 +6,23 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ AltPressed](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/keyboardevent.markdown#altpressed-zero-engine-d)|[event](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/event.markdown)| |
-| |[ CtrlPressed](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/keyboardevent.markdown#ctrlpressed-zero-engine)| | |
-| |[ HandledEvent](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/keyboardevent.markdown#handledevent-zero-engine)| | |
-| |[ Key](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/keyboardevent.markdown#key-zero-engine-document)| | |
-| |[ Keyboard](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/keyboardevent.markdown#keyboard-zero-engine-doc)| | |
-| |[ ModifierPressed](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/keyboardevent.markdown#modifierpressed-zero-eng)| | |
-| |[ OsKey](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/keyboardevent.markdown#oskey-zero-engine-docume)| | |
-| |[ ShiftPressed](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/keyboardevent.markdown#shiftpressed-zero-engine)| | |
-| |[ SpacePressed](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/keyboardevent.markdown#spacepressed-zero-engine)| | |
-| |[ State](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/keyboardevent.markdown#state-zero-engine-docume)| | |
+| |[ AltPressed](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/keyboardevent.markdown#altpressed-zero-engine-d)|[event](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/event.markdown)| |
+| |[ CtrlPressed](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/keyboardevent.markdown#ctrlpressed-zero-engine)| | |
+| |[ HandledEvent](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/keyboardevent.markdown#handledevent-zero-engine)| | |
+| |[ Key](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/keyboardevent.markdown#key-zero-engine-document)| | |
+| |[ Keyboard](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/keyboardevent.markdown#keyboard-zero-engine-doc)| | |
+| |[ ModifierPressed](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/keyboardevent.markdown#modifierpressed-zero-eng)| | |
+| |[ OsKey](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/keyboardevent.markdown#oskey-zero-engine-docume)| | |
+| |[ ShiftPressed](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/keyboardevent.markdown#shiftpressed-zero-engine)| | |
+| |[ SpacePressed](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/keyboardevent.markdown#spacepressed-zero-engine)| | |
+| |[ State](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/keyboardevent.markdown#state-zero-engine-docume)| | |
 
 
  #  Properties
 
 
 ---  
- #  AltPressed : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  AltPressed : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -30,7 +30,7 @@
 
 
 ---  
- #  CtrlPressed : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  CtrlPressed : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -38,7 +38,7 @@
 
 
 ---  
- #  HandledEvent : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  HandledEvent : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -46,7 +46,7 @@
 
 
 ---  
- #  Key : [Keys](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#keys)
+ #  Key : [Keys](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#keys)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -54,7 +54,7 @@
 
 
 ---  
- #  Keyboard : [keyboard](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/keyboard.markdown)
+ #  Keyboard : [keyboard](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/keyboard.markdown)
 
  `read-only`
 
@@ -64,7 +64,7 @@
 
 
 ---  
- #  ModifierPressed : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  ModifierPressed : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -74,7 +74,7 @@
 
 
 ---  
- #  OsKey : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  OsKey : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -82,7 +82,7 @@
 
 
 ---  
- #  ShiftPressed : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  ShiftPressed : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -90,7 +90,7 @@
 
 
 ---  
- #  SpacePressed : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  SpacePressed : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -98,7 +98,7 @@
 
 
 ---  
- #  State : [KeyState](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#keystate)
+ #  State : [KeyState](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#keystate)
 
 > 
 > ``` lang=cpp, name=Zilch

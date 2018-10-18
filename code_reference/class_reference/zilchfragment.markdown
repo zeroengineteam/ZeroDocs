@@ -4,7 +4,7 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| | |[zilchdocumentresource](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/zilchdocumentresource.markdown)| |
+| | |[zilchdocumentresource](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/zilchdocumentresource.markdown)| |
 
 
  #  Properties

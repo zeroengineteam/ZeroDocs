@@ -2,16 +2,16 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/plane.markdown#plane-void)|[ Data](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/plane.markdown#data-zero-engine-documen)| | |
-|[ Set](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/plane.markdown#set-void)|[ Distance](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/plane.markdown#distance-zero-engine-doc)| | |
-| |[ Normal](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/plane.markdown#normal-zero-engine-docum)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/plane.markdown#plane-void)|[ Data](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/plane.markdown#data-zero-engine-documen)| | |
+|[ Set](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/plane.markdown#set-void)|[ Distance](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/plane.markdown#distance-zero-engine-doc)| | |
+| |[ Normal](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/plane.markdown#normal-zero-engine-docum)| | |
 
 
  #  Properties
 
 
 ---  
- #  Data : [real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)
+ #  Data : [real4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real4.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -19,7 +19,7 @@
 
 
 ---  
- #  Distance : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  Distance : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
  `read-only`
 
@@ -29,7 +29,7 @@
 
 
 ---  
- #  Normal : [real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)
+ #  Normal : [real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real3.markdown)
 
  `read-only`
 
@@ -63,7 +63,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[plane](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/plane.markdown)| |
+> |p0|[plane](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/plane.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Plane(p0 : Plane)
 > ``` 
@@ -77,8 +77,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |normal|[real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)| |
-> |point|[real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)| |
+> |normal|[real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real3.markdown)| |
+> |point|[real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Plane(normal : Real3, point : Real3)
 > ``` 
@@ -92,7 +92,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |data|[real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)| |
+> |data|[real4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Plane(data : Real4)
 > ``` 
@@ -104,8 +104,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |normal|[real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)| |
-> |point|[real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)| |
+> |normal|[real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real3.markdown)| |
+> |point|[real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Set(normal : Real3, point : Real3)
 > ``` 
@@ -117,7 +117,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |data|[real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)| |
+> |data|[real4](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Set(data : Real4)
 > ``` 

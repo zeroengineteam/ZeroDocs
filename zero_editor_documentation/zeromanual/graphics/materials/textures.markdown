@@ -1,8 +1,8 @@
-[ Textures  ](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texture.markdown) are a special type of image used to render 3D graphics. It's commonly mapped to [ meshes ](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/models/mesh.markdown), [ particles ](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/tutorials/graphics/particles.markdown) and surfaces and it controls different aspects of rendering through colors, normals and masks and more.
+[ Textures  ](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/texture.markdown) are a special type of image used to render 3D graphics. It's commonly mapped to [ meshes ](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/models/mesh.markdown), [ particles ](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/tutorials/graphics/particles.markdown) and surfaces and it controls different aspects of rendering through colors, normals and masks and more.
 
 Textures are not a final picture of the object; they are inputs that, when combined with lighting and other visual effects, produce a variety of graphical results. One of the most important aspects of textures is the ability to be drawn at different sizes efficiently. This is accomplished through [Mipmapping ](http://en.wikipedia.org/wiki/Mipmap) and anisotropic filtering.
 
-For information on importing textures, see [adding_textures_and_sprites](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/adding_assets/adding_textures_and_sprites.markdown).
+For information on importing textures, see [adding_textures_and_sprites](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/adding_assets/adding_textures_and_sprites.markdown).
 
 NOTE: Zero only supports images up to 4096 x 4096 pixels. If a larger image is imported, Zero will clamp it down to its maximum size.
 
@@ -30,16 +30,16 @@ The Texture Builder is a collection of settings used to convert your image file 
 
  ## Compression
 
-By default, Zero performs an operation called [block_compression](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/adding_assets/block_compression.markdown) on all textures. While this can reduce image quality it greatly reduces memory usage allowing it to be rendered faster. This setting should not be disable unless color accuracy is extremely important. For more information on this topic we recommend [this article ](http://www.reedbeta.com/blog/2012/02/12/understanding-bcn-texture-compression-formats/).
+By default, Zero performs an operation called [block_compression](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/adding_assets/block_compression.markdown) on all textures. While this can reduce image quality it greatly reduces memory usage allowing it to be rendered faster. This setting should not be disable unless color accuracy is extremely important. For more information on this topic we recommend [this article ](http://www.reedbeta.com/blog/2012/02/12/understanding-bcn-texture-compression-formats/).
 
 ---
 
  # Related Materials
  ## Manual
-- [adding_textures_and_sprites](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/adding_assets/adding_textures_and_sprites.markdown)
-- [mesh](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/models/mesh.markdown)
-- [particles](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/tutorials/graphics/particles.markdown)
+- [adding_textures_and_sprites](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/adding_assets/adding_textures_and_sprites.markdown)
+- [mesh](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/models/mesh.markdown)
+- [particles](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/tutorials/graphics/particles.markdown)
  ## Code Reference
-- [texture](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texture.markdown)  
+- [texture](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/texture.markdown)  
 
  

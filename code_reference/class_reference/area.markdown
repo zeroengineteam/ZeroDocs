@@ -4,52 +4,52 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/area.markdown#area-void)|[ BottomCenter](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/area.markdown#bottomcenter-zero-engine)|[component](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/component.markdown)| |
-|[ GetLocalLocation](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/area.markdown#getlocallocation-zero-en)|[ BottomLeft](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/area.markdown#bottomleft-zero-engine-d)| | |
-|[ GetWorldLocation](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/area.markdown#getworldlocation-zero-en)|[ BottomRight](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/area.markdown#bottomright-zero-engine)| | |
-|[ LocalOffsetOf](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/area.markdown#localoffsetof-zero-engin)|[ Center](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/area.markdown#center-zero-engine-docum)| | |
-|[ SetLocalLocation](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/area.markdown#setlocallocation-void)|[ CenterLeft](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/area.markdown#centerleft-zero-engine-d)| | |
-|[ SetWorldLocation](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/area.markdown#setworldlocation-void)|[ CenterRight](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/area.markdown#centerright-zero-engine)| | |
-| |[ LocalBottom](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/area.markdown#localbottom-zero-engine)| | |
-| |[ LocalBottomCenter](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/area.markdown#localbottomcenter-zero-e)| | |
-| |[ LocalBottomLeft](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/area.markdown#localbottomleft-zero-eng)| | |
-| |[ LocalBottomRight](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/area.markdown#localbottomright-zero-en)| | |
-| |[ LocalCenter](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/area.markdown#localcenter-zero-engine)| | |
-| |[ LocalCenterLeft](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/area.markdown#localcenterleft-zero-eng)| | |
-| |[ LocalCenterRight](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/area.markdown#localcenterright-zero-en)| | |
-| |[ LocalLeft](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/area.markdown#localleft-zero-engine-do)| | |
-| |[ LocalRectangle](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/area.markdown#localrectangle-zero-engi)| | |
-| |[ LocalRight](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/area.markdown#localright-zero-engine-d)| | |
-| |[ LocalTop](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/area.markdown#localtop-zero-engine-doc)| | |
-| |[ LocalTopCenter](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/area.markdown#localtopcenter-zero-engi)| | |
-| |[ LocalTopLeft](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/area.markdown#localtopleft-zero-engine)| | |
-| |[ LocalTopRight](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/area.markdown#localtopright-zero-engin)| | |
-| |[ Origin](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/area.markdown#origin-zero-engine-docum)| | |
-| |[ Size](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/area.markdown#size-zero-engine-documen)| | |
-| |[ TopCenter](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/area.markdown#topcenter-zero-engine-do)| | |
-| |[ TopLeft](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/area.markdown#topleft-zero-engine-docu)| | |
-| |[ TopRight](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/area.markdown#topright-zero-engine-doc)| | |
-| |[ WorldBottom](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/area.markdown#worldbottom-zero-engine)| | |
-| |[ WorldBottomCenter](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/area.markdown#worldbottomcenter-zero-e)| | |
-| |[ WorldBottomLeft](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/area.markdown#worldbottomleft-zero-eng)| | |
-| |[ WorldBottomRight](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/area.markdown#worldbottomright-zero-en)| | |
-| |[ WorldCenter](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/area.markdown#worldcenter-zero-engine)| | |
-| |[ WorldCenterLeft](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/area.markdown#worldcenterleft-zero-eng)| | |
-| |[ WorldCenterRight](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/area.markdown#worldcenterright-zero-en)| | |
-| |[ WorldLeft](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/area.markdown#worldleft-zero-engine-do)| | |
-| |[ WorldRectangle](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/area.markdown#worldrectangle-zero-engi)| | |
-| |[ WorldRight](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/area.markdown#worldright-zero-engine-d)| | |
-| |[ WorldTop](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/area.markdown#worldtop-zero-engine-doc)| | |
-| |[ WorldTopCenter](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/area.markdown#worldtopcenter-zero-engi)| | |
-| |[ WorldTopLeft](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/area.markdown#worldtopleft-zero-engine)| | |
-| |[ WorldTopRight](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/area.markdown#worldtopright-zero-engin)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/area.markdown#area-void)|[ BottomCenter](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/area.markdown#bottomcenter-zero-engine)|[component](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/component.markdown)| |
+|[ GetLocalLocation](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/area.markdown#getlocallocation-zero-en)|[ BottomLeft](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/area.markdown#bottomleft-zero-engine-d)| | |
+|[ GetWorldLocation](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/area.markdown#getworldlocation-zero-en)|[ BottomRight](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/area.markdown#bottomright-zero-engine)| | |
+|[ LocalOffsetOf](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/area.markdown#localoffsetof-zero-engin)|[ Center](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/area.markdown#center-zero-engine-docum)| | |
+|[ SetLocalLocation](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/area.markdown#setlocallocation-void)|[ CenterLeft](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/area.markdown#centerleft-zero-engine-d)| | |
+|[ SetWorldLocation](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/area.markdown#setworldlocation-void)|[ CenterRight](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/area.markdown#centerright-zero-engine)| | |
+| |[ LocalBottom](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/area.markdown#localbottom-zero-engine)| | |
+| |[ LocalBottomCenter](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/area.markdown#localbottomcenter-zero-e)| | |
+| |[ LocalBottomLeft](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/area.markdown#localbottomleft-zero-eng)| | |
+| |[ LocalBottomRight](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/area.markdown#localbottomright-zero-en)| | |
+| |[ LocalCenter](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/area.markdown#localcenter-zero-engine)| | |
+| |[ LocalCenterLeft](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/area.markdown#localcenterleft-zero-eng)| | |
+| |[ LocalCenterRight](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/area.markdown#localcenterright-zero-en)| | |
+| |[ LocalLeft](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/area.markdown#localleft-zero-engine-do)| | |
+| |[ LocalRectangle](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/area.markdown#localrectangle-zero-engi)| | |
+| |[ LocalRight](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/area.markdown#localright-zero-engine-d)| | |
+| |[ LocalTop](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/area.markdown#localtop-zero-engine-doc)| | |
+| |[ LocalTopCenter](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/area.markdown#localtopcenter-zero-engi)| | |
+| |[ LocalTopLeft](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/area.markdown#localtopleft-zero-engine)| | |
+| |[ LocalTopRight](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/area.markdown#localtopright-zero-engin)| | |
+| |[ Origin](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/area.markdown#origin-zero-engine-docum)| | |
+| |[ Size](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/area.markdown#size-zero-engine-documen)| | |
+| |[ TopCenter](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/area.markdown#topcenter-zero-engine-do)| | |
+| |[ TopLeft](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/area.markdown#topleft-zero-engine-docu)| | |
+| |[ TopRight](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/area.markdown#topright-zero-engine-doc)| | |
+| |[ WorldBottom](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/area.markdown#worldbottom-zero-engine)| | |
+| |[ WorldBottomCenter](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/area.markdown#worldbottomcenter-zero-e)| | |
+| |[ WorldBottomLeft](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/area.markdown#worldbottomleft-zero-eng)| | |
+| |[ WorldBottomRight](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/area.markdown#worldbottomright-zero-en)| | |
+| |[ WorldCenter](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/area.markdown#worldcenter-zero-engine)| | |
+| |[ WorldCenterLeft](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/area.markdown#worldcenterleft-zero-eng)| | |
+| |[ WorldCenterRight](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/area.markdown#worldcenterright-zero-en)| | |
+| |[ WorldLeft](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/area.markdown#worldleft-zero-engine-do)| | |
+| |[ WorldRectangle](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/area.markdown#worldrectangle-zero-engi)| | |
+| |[ WorldRight](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/area.markdown#worldright-zero-engine-d)| | |
+| |[ WorldTop](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/area.markdown#worldtop-zero-engine-doc)| | |
+| |[ WorldTopCenter](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/area.markdown#worldtopcenter-zero-engi)| | |
+| |[ WorldTopLeft](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/area.markdown#worldtopleft-zero-engine)| | |
+| |[ WorldTopRight](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/area.markdown#worldtopright-zero-engin)| | |
 
 
  #  Properties
 
 
 ---  
- #  BottomCenter : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  BottomCenter : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
  `read-only`
 
@@ -59,7 +59,7 @@
 
 
 ---  
- #  BottomLeft : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  BottomLeft : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
  `read-only`
 
@@ -69,7 +69,7 @@
 
 
 ---  
- #  BottomRight : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  BottomRight : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
  `read-only`
 
@@ -79,7 +79,7 @@
 
 
 ---  
- #  Center : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  Center : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
  `read-only`
 
@@ -89,7 +89,7 @@
 
 
 ---  
- #  CenterLeft : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  CenterLeft : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
  `read-only`
 
@@ -99,7 +99,7 @@
 
 
 ---  
- #  CenterRight : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  CenterRight : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
  `read-only`
 
@@ -109,7 +109,7 @@
 
 
 ---  
- #  LocalBottom : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  LocalBottom : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -117,7 +117,7 @@
 
 
 ---  
- #  LocalBottomCenter : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  LocalBottomCenter : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
  `read-only`
 
@@ -127,7 +127,7 @@
 
 
 ---  
- #  LocalBottomLeft : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  LocalBottomLeft : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
  `read-only`
 
@@ -137,7 +137,7 @@
 
 
 ---  
- #  LocalBottomRight : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  LocalBottomRight : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
  `read-only`
 
@@ -147,7 +147,7 @@
 
 
 ---  
- #  LocalCenter : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  LocalCenter : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
  `read-only`
 
@@ -157,7 +157,7 @@
 
 
 ---  
- #  LocalCenterLeft : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  LocalCenterLeft : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
  `read-only`
 
@@ -167,7 +167,7 @@
 
 
 ---  
- #  LocalCenterRight : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  LocalCenterRight : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
  `read-only`
 
@@ -177,7 +177,7 @@
 
 
 ---  
- #  LocalLeft : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  LocalLeft : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -185,7 +185,7 @@
 
 
 ---  
- #  LocalRectangle : [rectangle](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/rectangle.markdown)
+ #  LocalRectangle : [rectangle](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/rectangle.markdown)
 
 > Rectangle representing the area relative to parent.
 > ``` lang=cpp, name=Zilch
@@ -193,7 +193,7 @@
 
 
 ---  
- #  LocalRight : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  LocalRight : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -201,7 +201,7 @@
 
 
 ---  
- #  LocalTop : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  LocalTop : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -209,7 +209,7 @@
 
 
 ---  
- #  LocalTopCenter : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  LocalTopCenter : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
  `read-only`
 
@@ -219,7 +219,7 @@
 
 
 ---  
- #  LocalTopLeft : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  LocalTopLeft : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
  `read-only`
 
@@ -229,7 +229,7 @@
 
 
 ---  
- #  LocalTopRight : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  LocalTopRight : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
  `read-only`
 
@@ -239,7 +239,7 @@
 
 
 ---  
- #  Origin : [Location](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#location)
+ #  Origin : [Location](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#location)
 
 > Location of the Origin of the Area.
 > ``` lang=cpp, name=Zilch
@@ -247,7 +247,7 @@
 
 
 ---  
- #  Size : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  Size : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
 > Size of the Area.
 > ``` lang=cpp, name=Zilch
@@ -255,7 +255,7 @@
 
 
 ---  
- #  TopCenter : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  TopCenter : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
  `read-only`
 
@@ -265,7 +265,7 @@
 
 
 ---  
- #  TopLeft : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  TopLeft : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
  `read-only`
 
@@ -275,7 +275,7 @@
 
 
 ---  
- #  TopRight : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  TopRight : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
  `read-only`
 
@@ -285,7 +285,7 @@
 
 
 ---  
- #  WorldBottom : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  WorldBottom : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -293,7 +293,7 @@
 
 
 ---  
- #  WorldBottomCenter : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  WorldBottomCenter : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
  `read-only`
 
@@ -303,7 +303,7 @@
 
 
 ---  
- #  WorldBottomLeft : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  WorldBottomLeft : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
  `read-only`
 
@@ -313,7 +313,7 @@
 
 
 ---  
- #  WorldBottomRight : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  WorldBottomRight : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
  `read-only`
 
@@ -323,7 +323,7 @@
 
 
 ---  
- #  WorldCenter : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  WorldCenter : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
  `read-only`
 
@@ -333,7 +333,7 @@
 
 
 ---  
- #  WorldCenterLeft : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  WorldCenterLeft : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
  `read-only`
 
@@ -343,7 +343,7 @@
 
 
 ---  
- #  WorldCenterRight : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  WorldCenterRight : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
  `read-only`
 
@@ -353,7 +353,7 @@
 
 
 ---  
- #  WorldLeft : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  WorldLeft : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -361,7 +361,7 @@
 
 
 ---  
- #  WorldRectangle : [rectangle](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/rectangle.markdown)
+ #  WorldRectangle : [rectangle](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/rectangle.markdown)
 
 > Rectangle representing the area in world space.
 > ``` lang=cpp, name=Zilch
@@ -369,7 +369,7 @@
 
 
 ---  
- #  WorldRight : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  WorldRight : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -377,7 +377,7 @@
 
 
 ---  
- #  WorldTop : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  WorldTop : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -385,7 +385,7 @@
 
 
 ---  
- #  WorldTopCenter : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  WorldTopCenter : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
  `read-only`
 
@@ -395,7 +395,7 @@
 
 
 ---  
- #  WorldTopLeft : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  WorldTopLeft : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
  `read-only`
 
@@ -405,7 +405,7 @@
 
 
 ---  
- #  WorldTopRight : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  WorldTopRight : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
  `read-only`
 
@@ -432,36 +432,36 @@
 
 
 ---  
- #  GetLocalLocation : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  GetLocalLocation : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |location|[Location](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#location)| |
+> |location|[Location](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#location)| |
 > ``` lang=cpp, name=Zilch
 > function GetLocalLocation(location : Location) : Real2
 > ``` 
 
 
 ---  
- #  GetWorldLocation : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  GetWorldLocation : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |location|[Location](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#location)| |
+> |location|[Location](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#location)| |
 > ``` lang=cpp, name=Zilch
 > function GetWorldLocation(location : Location) : Real2
 > ``` 
 
 
 ---  
- #  LocalOffsetOf : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
+ #  LocalOffsetOf : [real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)
 
 > Offset of the given location in local space.
 > |Name|Type|Description|
 > |---|---|---|
-> |location|[Location](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#location)| |
+> |location|[Location](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#location)| |
 > ``` lang=cpp, name=Zilch
 > function LocalOffsetOf(location : Location) : Real2
 > ``` 
@@ -473,8 +473,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |location|[Location](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#location)| |
-> |localTranslation|[real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)| |
+> |location|[Location](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#location)| |
+> |localTranslation|[real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function SetLocalLocation(location : Location, localTranslation : Real2)
 > ``` 
@@ -486,8 +486,8 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |location|[Location](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#location)| |
-> |worldTranslation|[real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)| |
+> |location|[Location](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#location)| |
+> |worldTranslation|[real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function SetWorldLocation(location : Location, worldTranslation : Real2)
 > ``` 

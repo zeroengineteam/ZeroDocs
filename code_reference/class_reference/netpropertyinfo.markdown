@@ -4,17 +4,17 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ Component](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netpropertyinfo.markdown#component-zero-engine-do)|[safeid32](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/safeid32.markdown)| |
-| |[ NetChannelConfig](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netpropertyinfo.markdown#netchannelconfig-zero-en)| | |
-| |[ NetPropertyConfig](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netpropertyinfo.markdown#netpropertyconfig-zero-e)| | |
-| |[ Property](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netpropertyinfo.markdown#property-zero-engine-doc)| | |
+| |[ Component](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netpropertyinfo.markdown#component-zero-engine-do)|[safeid32](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/safeid32.markdown)| |
+| |[ NetChannelConfig](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netpropertyinfo.markdown#netchannelconfig-zero-en)| | |
+| |[ NetPropertyConfig](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netpropertyinfo.markdown#netpropertyconfig-zero-e)| | |
+| |[ Property](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netpropertyinfo.markdown#property-zero-engine-doc)| | |
 
 
  #  Properties
 
 
 ---  
- #  Component : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
+ #  Component : [string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)
 
  `read-only`
 
@@ -24,7 +24,7 @@
 
 
 ---  
- #  NetChannelConfig : [netchannelconfig](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netchannelconfig.markdown)
+ #  NetChannelConfig : [netchannelconfig](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netchannelconfig.markdown)
 
 > Network channel configuration resource.
 > ``` lang=cpp, name=Zilch
@@ -32,7 +32,7 @@
 
 
 ---  
- #  NetPropertyConfig : [netpropertyconfig](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netpropertyconfig.markdown)
+ #  NetPropertyConfig : [netpropertyconfig](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netpropertyconfig.markdown)
 
 > Network property configuration resource.
 > ``` lang=cpp, name=Zilch
@@ -40,7 +40,7 @@
 
 
 ---  
- #  Property : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
+ #  Property : [string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)
 
  `read-only`
 

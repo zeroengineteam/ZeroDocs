@@ -1,8 +1,8 @@
-**ColorGradiant** is a [resources](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/architecture/resources.markdown) that allows the user to make a custom color gradient. The gradient may then be sampled from and applied as a color to any object that has a component with a color property.
+**ColorGradiant** is a [resources](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/architecture/resources.markdown) that allows the user to make a custom color gradient. The gradient may then be sampled from and applied as a color to any object that has a component with a color property.
 
  # Using ColorGradient
  ## Creating a ColorGradient
-A new ColorGradient may be created through the [Add a Resource](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/resourceadding.markdown) window:
+A new ColorGradient may be created through the [Add a Resource](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/resourceadding.markdown) window:
 
 
 
@@ -87,7 +87,7 @@ class GradDemo : ZilchComponent
 The above code-block accomplishes the following things:
 
  - Initially, it sets the color of the Sprite to the value sampled at `0` on the ColorGradient.
- - It then calls a function-- `InterpolateValue()` --that uses an Action to interpolate the [Real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown) variable Value from 0 - 1 over the course of three seconds.
+ - It then calls a function-- `InterpolateValue()` --that uses an Action to interpolate the [Real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown) variable Value from 0 - 1 over the course of three seconds.
  - Finally, the `VertexColor` property on the Sprite component is updated every frame by the value sampled from `ColorGrad` using `Value`
 
 In the following demonstration, another, smaller Sprite has been added behind the first Sprite to show how the change in Alpha value affects the appearance of the Sprite:
@@ -101,12 +101,12 @@ In the following demonstration, another, smaller Sprite has been added behind th
 
  # Related Materials
  ## Manual Pages
-- [resources](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/architecture/resources.markdown)
-- [resourceadding](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/resourceadding.markdown)
+- [resources](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/architecture/resources.markdown)
+- [resourceadding](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/resourceadding.markdown)
  ## Reference Pages
-- [colorgradient](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/colorgradient.markdown)
-- [Sprite](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/Sprite.markdown) 
-- [Material](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/Material.markdown) 
+- [colorgradient](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/colorgradient.markdown)
+- [Sprite](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Sprite.markdown) 
+- [Material](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Material.markdown) 
 
  
 

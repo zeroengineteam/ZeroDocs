@@ -1,4 +1,4 @@
-The [BuoyancyEffect](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/BuoyancyEffect.markdown) component applies a [buoyancy force](https://en.wikipedia.org/wiki/Buoyancy ) to an object. Buoyancy is approximately defined as: 
+The [BuoyancyEffect](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/BuoyancyEffect.markdown) component applies a [buoyancy force](https://en.wikipedia.org/wiki/Buoyancy ) to an object. Buoyancy is approximately defined as: 
 
 (NOTE) F = -G * (V/p)
 
@@ -10,11 +10,11 @@ BuoyancyEffect can only be applied as a Region effect.
 ---
  #  Related Materials
  ##  Manual
-- [physicseffectsandregions.markdown](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/physics/physicseffectsandregions.markdown)
+- [physicseffectsandregions.markdown](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/physicseffectsandregions.markdown)
 
  ##  Reference
-- [BuoyancyEffect](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/BuoyancyEffect.markdown)
-- [PhysicsEffect](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/PhysicsEffect.markdown)
-- [Region](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/Region.markdown) 
+- [BuoyancyEffect](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/BuoyancyEffect.markdown)
+- [PhysicsEffect](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/PhysicsEffect.markdown)
+- [Region](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Region.markdown) 
 
  

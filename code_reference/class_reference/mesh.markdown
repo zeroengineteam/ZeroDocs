@@ -6,18 +6,18 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ CreateRuntime](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/mesh.markdown#createruntime-zero-engin)|[ Indices](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/mesh.markdown#indices-zero-engine-docu)|Resource| |
-|[ RuntimeClone](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/mesh.markdown#runtimeclone-zero-engine)|[ PrimitiveType](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/mesh.markdown#primitivetype-zero-engin)| | |
-|[ Upload](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/mesh.markdown#upload-void)|[ Vertices](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/mesh.markdown#vertices-zero-engine-doc)| | |
-|[ UploadNoRayCastInfo](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/mesh.markdown#uploadnoraycastinfo-void)| | | |
-|[ UploadNoRayCastInfoOrAabb](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/mesh.markdown#uploadnoraycastinfooraab)| | | |
+|[ CreateRuntime](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/mesh.markdown#createruntime-zero-engin)|[ Indices](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/mesh.markdown#indices-zero-engine-docu)|Resource| |
+|[ RuntimeClone](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/mesh.markdown#runtimeclone-zero-engine)|[ PrimitiveType](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/mesh.markdown#primitivetype-zero-engin)| | |
+|[ Upload](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/mesh.markdown#upload-void)|[ Vertices](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/mesh.markdown#vertices-zero-engine-doc)| | |
+|[ UploadNoRayCastInfo](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/mesh.markdown#uploadnoraycastinfo-void)| | | |
+|[ UploadNoRayCastInfoOrAabb](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/mesh.markdown#uploadnoraycastinfooraab)| | | |
 
 
  #  Properties
 
 
 ---  
- #  Indices : [indexbuffer](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/indexbuffer.markdown)
+ #  Indices : [indexbuffer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/indexbuffer.markdown)
 
  `read-only`
 
@@ -27,7 +27,7 @@
 
 
 ---  
- #  PrimitiveType : [PrimitiveType](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#primitivetype)
+ #  PrimitiveType : [PrimitiveType](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#primitivetype)
 
 > The type of primitives to be made with the vertex data.
 > ``` lang=cpp, name=Zilch
@@ -35,7 +35,7 @@
 
 
 ---  
- #  Vertices : [vertexbuffer](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/vertexbuffer.markdown)
+ #  Vertices : [vertexbuffer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/vertexbuffer.markdown)
 
  `read-only`
 
@@ -49,7 +49,7 @@
 
 
 ---  
- #  CreateRuntime : [mesh](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/mesh.markdown)
+ #  CreateRuntime : [mesh](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/mesh.markdown)
 
  `static`
 
@@ -62,7 +62,7 @@
 
 
 ---  
- #  RuntimeClone : [mesh](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/mesh.markdown)
+ #  RuntimeClone : [mesh](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/mesh.markdown)
 
 > Creates a clone of this Mesh. As a clone is expected to be modified, an upload function must be called before this mesh can be used.
 > |Name|Type|Description|

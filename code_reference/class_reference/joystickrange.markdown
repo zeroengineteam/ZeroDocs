@@ -2,17 +2,17 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/joystickrange.markdown#joystickrange-void)|[ All](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/joystickrange.markdown#all-zero-engine-document)| | |
-|[ MoveNext](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/joystickrange.markdown#movenext-void)|[ Current](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/joystickrange.markdown#current-zero-engine-docu)| | |
-| |[ IsEmpty](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/joystickrange.markdown#isempty-zero-engine-docu)| | |
-| |[ IsNotEmpty](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/joystickrange.markdown#isnotempty-zero-engine-d)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/joystickrange.markdown#joystickrange-void)|[ All](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/joystickrange.markdown#all-zero-engine-document)| | |
+|[ MoveNext](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/joystickrange.markdown#movenext-void)|[ Current](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/joystickrange.markdown#current-zero-engine-docu)| | |
+| |[ IsEmpty](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/joystickrange.markdown#isempty-zero-engine-docu)| | |
+| |[ IsNotEmpty](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/joystickrange.markdown#isnotempty-zero-engine-d)| | |
 
 
  #  Properties
 
 
 ---  
- #  All : [joystickrange](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/joystickrange.markdown)
+ #  All : [joystickrange](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/joystickrange.markdown)
 
  `read-only`
 
@@ -22,7 +22,7 @@
 
 
 ---  
- #  Current : [joystick](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/joystick.markdown)
+ #  Current : [joystick](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/joystick.markdown)
 
  `read-only`
 
@@ -32,7 +32,7 @@
 
 
 ---  
- #  IsEmpty : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  IsEmpty : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -42,7 +42,7 @@
 
 
 ---  
- #  IsNotEmpty : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  IsNotEmpty : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -76,7 +76,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[joystickrange](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/joystickrange.markdown)| |
+> |p0|[joystickrange](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/joystickrange.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function JoystickRange(p0 : JoystickRange)
 > ``` 

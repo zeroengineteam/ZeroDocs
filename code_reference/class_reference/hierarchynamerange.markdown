@@ -2,17 +2,17 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/hierarchynamerange.markdown#hierarchynamerange-void)|[ All](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/hierarchynamerange.markdown#all-zero-engine-document)| | |
-|[ MoveNext](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/hierarchynamerange.markdown#movenext-void)|[ Current](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/hierarchynamerange.markdown#current-zero-engine-docu)| | |
-| |[ IsEmpty](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/hierarchynamerange.markdown#isempty-zero-engine-docu)| | |
-| |[ IsNotEmpty](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/hierarchynamerange.markdown#isnotempty-zero-engine-d)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/hierarchynamerange.markdown#hierarchynamerange-void)|[ All](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/hierarchynamerange.markdown#all-zero-engine-document)| | |
+|[ MoveNext](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/hierarchynamerange.markdown#movenext-void)|[ Current](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/hierarchynamerange.markdown#current-zero-engine-docu)| | |
+| |[ IsEmpty](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/hierarchynamerange.markdown#isempty-zero-engine-docu)| | |
+| |[ IsNotEmpty](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/hierarchynamerange.markdown#isnotempty-zero-engine-d)| | |
 
 
  #  Properties
 
 
 ---  
- #  All : [hierarchynamerange](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/hierarchynamerange.markdown)
+ #  All : [hierarchynamerange](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/hierarchynamerange.markdown)
 
  `read-only`
 
@@ -22,7 +22,7 @@
 
 
 ---  
- #  Current : [cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
+ #  Current : [cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)
 
  `read-only`
 
@@ -32,7 +32,7 @@
 
 
 ---  
- #  IsEmpty : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  IsEmpty : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -42,7 +42,7 @@
 
 
 ---  
- #  IsNotEmpty : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  IsNotEmpty : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -76,7 +76,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[hierarchynamerange](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/hierarchynamerange.markdown)| |
+> |p0|[hierarchynamerange](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/hierarchynamerange.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function HierarchyNameRange(p0 : HierarchyNameRange)
 > ``` 

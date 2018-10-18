@@ -37,7 +37,7 @@ public:
   // Any data you wish to put here
 };
 ```
-Notice that this class uses the `ZeroDeclareType` macro. This means that it is important that we use the counterpart `ZeroDefineType` within the cpp, and that we must absolutely be sure to call `BindBase` on Event as well as `InitializeMetaOfType(FlagEvent)` elsewhere in the initialization portion of our code. See [meta_binding](https://github.com/zeroengineteam/ZeroDocs/zero_source_documentation/meta_binding.markdown) for more details.
+Notice that this class uses the `ZeroDeclareType` macro. This means that it is important that we use the counterpart `ZeroDefineType` within the cpp, and that we must absolutely be sure to call `BindBase` on Event as well as `InitializeMetaOfType(FlagEvent)` elsewhere in the initialization portion of our code. See [meta_binding](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_source_documentation/meta_binding.markdown) for more details.
 
 ```
 ZeroDefineType(FlagEvent);

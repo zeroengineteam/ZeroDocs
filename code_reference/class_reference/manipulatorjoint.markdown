@@ -6,16 +6,16 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/manipulatorjoint.markdown#manipulatorjoint-void)|[ LocalPoint](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/manipulatorjoint.markdown#localpoint-zero-engine-d)|[joint](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/joint.markdown)| |
-| |[ TargetPoint](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/manipulatorjoint.markdown#targetpoint-zero-engine)| | |
-| |[ WorldPoint](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/manipulatorjoint.markdown#worldpoint-zero-engine-d)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/manipulatorjoint.markdown#manipulatorjoint-void)|[ LocalPoint](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/manipulatorjoint.markdown#localpoint-zero-engine-d)|[joint](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/joint.markdown)| |
+| |[ TargetPoint](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/manipulatorjoint.markdown#targetpoint-zero-engine)| | |
+| |[ WorldPoint](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/manipulatorjoint.markdown#worldpoint-zero-engine-d)| | |
 
 
  #  Properties
 
 
 ---  
- #  LocalPoint : [real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)
+ #  LocalPoint : [real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real3.markdown)
 
 > The local space point on the object that the joint is connected to.
 > ``` lang=cpp, name=Zilch
@@ -23,7 +23,7 @@
 
 
 ---  
- #  TargetPoint : [real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)
+ #  TargetPoint : [real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real3.markdown)
 
 > The point in world space that the object's point is being moved towards.
 > ``` lang=cpp, name=Zilch
@@ -31,7 +31,7 @@
 
 
 ---  
- #  WorldPoint : [real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)
+ #  WorldPoint : [real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real3.markdown)
 
 > The world space point on the object that the joint is connected to.
 > ``` lang=cpp, name=Zilch

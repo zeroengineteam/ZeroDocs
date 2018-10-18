@@ -6,17 +6,17 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/gizmo.markdown#gizmo-void)|[ Active](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/gizmo.markdown#active-zero-engine-docum)|[component](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/component.markdown)| |
-| |[ EditingObject](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/gizmo.markdown#editingobject-zero-engin)| | |
-| |[ ForwardEventsToChildren](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/gizmo.markdown#forwardeventstochildren)| | |
-| |[ MouseOver](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/gizmo.markdown#mouseover-zero-engine-do)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/gizmo.markdown#gizmo-void)|[ Active](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/gizmo.markdown#active-zero-engine-docum)|[component](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/component.markdown)| |
+| |[ EditingObject](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/gizmo.markdown#editingobject-zero-engin)| | |
+| |[ ForwardEventsToChildren](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/gizmo.markdown#forwardeventstochildren)| | |
+| |[ MouseOver](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/gizmo.markdown#mouseover-zero-engine-do)| | |
 
 
  #  Properties
 
 
 ---  
- #  Active : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  Active : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > If set to false, it will not receive input events.
 > ``` lang=cpp, name=Zilch
@@ -24,7 +24,7 @@
 
 
 ---  
- #  EditingObject : [cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
+ #  EditingObject : [cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)
 
  `read-only`
 
@@ -34,7 +34,7 @@
 
 
 ---  
- #  ForwardEventsToChildren : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  ForwardEventsToChildren : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > You may want to manually forward the input events to specific children.
 > ``` lang=cpp, name=Zilch
@@ -42,7 +42,7 @@
 
 
 ---  
- #  MouseOver : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  MouseOver : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 

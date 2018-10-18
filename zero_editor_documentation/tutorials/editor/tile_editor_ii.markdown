@@ -1,4 +1,4 @@
-This lesson covers some of the more advanced features of Zero Engine's Tile Editor tool. The [ previous lesson](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/tutorials/editor/tile_editor.markdown) covers the basics.
+This lesson covers some of the more advanced features of Zero Engine's Tile Editor tool. The [ previous lesson](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/tutorials/editor/tile_editor.markdown) covers the basics.
 
 
  #  Learning Objectives
@@ -11,7 +11,7 @@ This lesson covers some of the more advanced features of Zero Engine's Tile Edit
  #  Level Setup
 
 
-- Reopen the TileEditor zero project project from the [ previous tutorial](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/tutorials/editor/tile_editor.markdown)
+- Reopen the TileEditor zero project project from the [ previous tutorial](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/tutorials/editor/tile_editor.markdown)
 
 
  #  Tile Archetypes
@@ -19,11 +19,11 @@ This lesson covers some of the more advanced features of Zero Engine's Tile Edit
 
 When you place tiles with the TileEditor2D tool, they are not created as individual game objects. Instead, they are placed into a tilemap, which allows multiple tiles to be merged into a single cog, saving memory and processing time. As a result, tile archetypes are used a bit differently than conventional archetypes.
 
-When the engine creates a merged tilemap object, it is always given a [ MultiSprite](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/multisprite.markdown) component, so you don't necessarily need to put one on your tile archetype. If you do, though, the resultant merged tilemap will use the settings specified by your archetype's MultiSprite. Similarly, a merged tilemap object optionally has a [ MeshCollider](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/physics/colliders/meshcollider.markdown) component, so you only need to give a tile archetype that component if you want the merged tilemap to use the settings from the MeshCollider for your archetype.
+When the engine creates a merged tilemap object, it is always given a [ MultiSprite](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/multisprite.markdown) component, so you don't necessarily need to put one on your tile archetype. If you do, though, the resultant merged tilemap will use the settings specified by your archetype's MultiSprite. Similarly, a merged tilemap object optionally has a [ MeshCollider](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/colliders/meshcollider.markdown) component, so you only need to give a tile archetype that component if you want the merged tilemap to use the settings from the MeshCollider for your archetype.
 
 Let's create a tile archetype with some custom game logic and add it to our level.
 
-- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ Add Resource](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/resourceadding.markdown)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ Add Resource](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/resourceadding.markdown)
  - Create a ZilchScript resource using the Component template template and name it `ReloadLevelOnCollisionStarted`
 - Update the `ReloadLevelOnCollisionStarted` script to the following:
 
@@ -44,15 +44,15 @@ class ReloadLevelOnCollisionStarted : ZilchComponent
 
 This component will cause the level to be reloaded if the player character (or, really, anything at all) comes in contact with it. We can use it to create "deadly" tiles.
 
-- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ CreateTransform](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#createtransform)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ CreateTransform](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#createtransform)
 - In the `Properties Window`
  - Rename Transform object to `DeadlyTile`
- - [ Add Component](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown) : [ MeshCollider](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/physics/colliders/meshcollider.markdown)
- - Under [ MeshCollider](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/physics/colliders/meshcollider.markdown)
+ - [ Add Component](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown) : [ MeshCollider](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/colliders/meshcollider.markdown)
+ - Under [ MeshCollider](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/colliders/meshcollider.markdown)
   - Set Ghost checkBox to `true`
- - [ Add Component](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown) : `ReloadLevelOnCollisionStarted`
+ - [ Add Component](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown) : `ReloadLevelOnCollisionStarted`
  - Set Archetype  to `DeadlyTile`
-- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ Delete](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#delete) the DeadlyTile object
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ Delete](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#delete) the DeadlyTile object
 
 This new archetype can now be used with the TileEditor2D tool with any sprite source in the project.
 
@@ -76,7 +76,7 @@ With ShowArchetype checkBox enabled, the editor will show the name of the archet
 ![image](https://media.githubusercontent.com/media/zeroengineteam/ZeroFiles/master/doc_files/108820.png)
 
 
-- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ PlayGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#playgame)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ PlayGame](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#playgame)
 
 
 
@@ -104,7 +104,7 @@ Observe how the colliders on each object use meshes that are dynamically generat
 ![image](https://media.githubusercontent.com/media/zeroengineteam/ZeroFiles/master/doc_files/108927.png)
 
 
-- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ StopGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#stopgame)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ StopGame](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#stopgame)
 
 Let's move on.
 
@@ -112,7 +112,7 @@ Let's move on.
  #  Tile Collision
 
 
-So far, every tile we've placed has used a simple box-shaped collider. The TileEditor2D tool isn't limited to just boxes, though. It can use any [ PhysicsMesh](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/physicsmesh.markdown) as its collision shape. Zero Engine comes with a set of common ramps and boxes to be used with tilemaps.
+So far, every tile we've placed has used a simple box-shaped collider. The TileEditor2D tool isn't limited to just boxes, though. It can use any [ PhysicsMesh](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/physicsmesh.markdown) as its collision shape. Zero Engine comes with a set of common ramps and boxes to be used with tilemaps.
 
 - Download the following tile sheet:
   ![SimpleTriangleTiles](https://media.githubusercontent.com/media/zeroengineteam/ZeroFiles/master/doc_files/108937.png)
@@ -237,7 +237,7 @@ Let's use both palettes to create a new level.
 
 (NOTE) **TiledDrawing:** Watch what happens when you `left-click and drag` in the tile palette view to select multiple tiles, and then paint with them. Then, set the TileEditor2D tool's TiledDrawing checkBox property to `true` and then paint again. See the difference? TiledDrawing checkBox is great for preserving a specific configuration of tiles that you have laid out in the palette, but it also works with a brush committed with the Selection sub-tool! ![TiledDrawing Demonstration](https://media.githubusercontent.com/media/zeroengineteam/ZeroFiles/master/doc_files/108992.gif)
 
-- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ Add Resource](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/resourceadding.markdown)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ Add Resource](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/resourceadding.markdown)
  - Create a Level resource using the {nav icon=clone, name=2D Level} template and name it `OtherLevel`
 - Select the {nav icon=pencil, name=TileEditor2D} tool
 - In the `Level Window`
@@ -255,14 +255,14 @@ Let's use both palettes to create a new level.
   - `Left-click and drag` `SweptPlayer2D` into the `Level Window`
 - In the `Properties Window`
  - Configure the `SweptController` component's properties as desired
-- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ PlayGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#playgame)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ PlayGame](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#playgame)
 
 
 
 ![Final Tiled Game](https://media.githubusercontent.com/media/zeroengineteam/ZeroFiles/master/doc_files/109010.gif)
 
 
-- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ StopGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#stopgame)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ StopGame](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#stopgame)
 
 
  #  On Your Own
@@ -303,20 +303,20 @@ Experiment with placing multiple layered tilemaps to help add visual flair to yo
  ##  Tutorials
 
 
-- [sprite_animations](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/tutorials/graphics/sprite_animations.markdown)
-- [the_market](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/tutorials/external_zero_engine_tools/the_market.markdown)
-- [swept_character](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/tutorials/gameplay/swept_character.markdown)
-- [tile_editor_ii](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/tutorials/editor/tile_editor_ii.markdown)
+- [sprite_animations](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/tutorials/graphics/sprite_animations.markdown)
+- [the_market](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/tutorials/external_zero_engine_tools/the_market.markdown)
+- [swept_character](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/tutorials/gameplay/swept_character.markdown)
+- [tile_editor_ii](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/tutorials/editor/tile_editor_ii.markdown)
 
 
  ##  Manual
 
 
-- [commands](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown)
-- [spriteimporter](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/sprites/spriteimporter.markdown)
-- [spritesourceeditor](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/sprites/spritesourceeditor.markdown)
-- [resourceadding](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/resourceadding.markdown)
-- [archetype_basics](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/architecture/archetypes/archetype_basics.markdown)
+- [commands](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown)
+- [spriteimporter](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/sprites/spriteimporter.markdown)
+- [spritesourceeditor](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/sprites/spritesourceeditor.markdown)
+- [resourceadding](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/resourceadding.markdown)
+- [archetype_basics](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/architecture/archetypes/archetype_basics.markdown)
 
 
  ##  Reference
@@ -325,23 +325,23 @@ Experiment with placing multiple layered tilemaps to help add visual flair to yo
  ###  Commands
 
 
-- [ PlayGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#playgame)
-- [ StopGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#stopgame)
-- [ CreateTransform](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#createtransform)
-- [ Delete](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#delete)
+- [ PlayGame](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#playgame)
+- [ StopGame](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#stopgame)
+- [ CreateTransform](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#createtransform)
+- [ Delete](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#delete)
 
 
  ###  Classes
 
 
-- [multisprite](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/multisprite.markdown)
-- [physicsmesh](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/physicsmesh.markdown)
+- [multisprite](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/multisprite.markdown)
+- [physicsmesh](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/physicsmesh.markdown)
 
 
  ###  Events
 
 
-- [ CollisionStarted](https://github.com/zeroengineteam/ZeroDocs/code_reference/event_reference.markdown#collisionstarted)
+- [ CollisionStarted](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/event_reference.markdown#collisionstarted)
 
 
  ##  Development Task

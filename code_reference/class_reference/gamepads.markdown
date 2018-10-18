@@ -4,16 +4,16 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ GetGamePad](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/gamepads.markdown#getgamepad-zero-engine-d)|[ MaxGamepadCount](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/gamepads.markdown#maxgamepadcount-zero-eng)|[eventobject](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/eventobject.markdown)| |
-|[ PauseVibration](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/gamepads.markdown#pausevibration-void)| | | |
-|[ ResumeVibration](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/gamepads.markdown#resumevibration-void)| | | |
+|[ GetGamePad](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/gamepads.markdown#getgamepad-zero-engine-d)|[ MaxGamepadCount](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/gamepads.markdown#maxgamepadcount-zero-eng)|[eventobject](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/eventobject.markdown)| |
+|[ PauseVibration](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/gamepads.markdown#pausevibration-void)| | | |
+|[ ResumeVibration](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/gamepads.markdown#resumevibration-void)| | | |
 
 
  #  Properties
 
 
 ---  
- #  MaxGamepadCount : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  MaxGamepadCount : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
  `read-only`
 
@@ -27,12 +27,12 @@
 
 
 ---  
- #  GetGamePad : [gamepad](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/gamepad.markdown)
+ #  GetGamePad : [gamepad](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/gamepad.markdown)
 
 > Get the gamepad for a given index from [0, GamepadCount].
 > |Name|Type|Description|
 > |---|---|---|
-> |gamepadIndex|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |gamepadIndex|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function GetGamePad(gamepadIndex : Integer) : Gamepad
 > ``` 

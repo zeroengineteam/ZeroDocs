@@ -2,18 +2,18 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ AutoDetermineSamples](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/smoothsharpentool.markdown#autodeterminesamples-zer)|[heightmanipulationtool](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/heightmanipulationtool.markdown)| |
-| |[ RandomSampleDistance](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/smoothsharpentool.markdown#randomsampledistance-zer)| | |
-| |[ RandomSamples](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/smoothsharpentool.markdown#randomsamples-zero-engin)| | |
-| |[ Strength](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/smoothsharpentool.markdown#strength-zero-engine-doc)| | |
-| |[ UniformSamples](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/smoothsharpentool.markdown#uniformsamples-zero-engi)| | |
+| |[ AutoDetermineSamples](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/smoothsharpentool.markdown#autodeterminesamples-zer)|[heightmanipulationtool](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/heightmanipulationtool.markdown)| |
+| |[ RandomSampleDistance](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/smoothsharpentool.markdown#randomsampledistance-zer)| | |
+| |[ RandomSamples](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/smoothsharpentool.markdown#randomsamples-zero-engin)| | |
+| |[ Strength](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/smoothsharpentool.markdown#strength-zero-engine-doc)| | |
+| |[ UniformSamples](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/smoothsharpentool.markdown#uniformsamples-zero-engi)| | |
 
 
  #  Properties
 
 
 ---  
- #  AutoDetermineSamples : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  AutoDetermineSamples : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -21,7 +21,7 @@
 
 
 ---  
- #  RandomSampleDistance : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  RandomSampleDistance : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -29,7 +29,7 @@
 
 
 ---  
- #  RandomSamples : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  RandomSamples : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -37,7 +37,7 @@
 
 
 ---  
- #  Strength : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  Strength : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -45,7 +45,7 @@
 
 
 ---  
- #  UniformSamples : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  UniformSamples : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch

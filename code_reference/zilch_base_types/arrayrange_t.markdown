@@ -2,10 +2,10 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/arrayrange_t .markdown#arrayrange-t-void)|[ All](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/arrayrange_t .markdown#all-zero-engine-document)| | |
-|[ MoveNext](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/arrayrange_t .markdown#movenext-void)|[ Current](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/arrayrange_t .markdown#current-t)| | |
-|[ Reset](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/arrayrange_t .markdown#reset-void)|[ IsEmpty](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/arrayrange_t .markdown#isempty-zero-engine-docu)| | |
-| |[ IsNotEmpty](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/arrayrange_t .markdown#isnotempty-zero-engine-d)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/arrayrange_t .markdown#arrayrange-t-void)|[ All](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/arrayrange_t .markdown#all-zero-engine-document)| | |
+|[ MoveNext](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/arrayrange_t .markdown#movenext-void)|[ Current](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/arrayrange_t .markdown#current-t)| | |
+|[ Reset](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/arrayrange_t .markdown#reset-void)|[ IsEmpty](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/arrayrange_t .markdown#isempty-zero-engine-docu)| | |
+| |[ IsNotEmpty](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/arrayrange_t .markdown#isnotempty-zero-engine-d)| | |
 
 
  #  Properties
@@ -32,7 +32,7 @@
 
 
 ---  
- #  IsEmpty : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  IsEmpty : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -42,7 +42,7 @@
 
 
 ---  
- #  IsNotEmpty : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  IsNotEmpty : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 

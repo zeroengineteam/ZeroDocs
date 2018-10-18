@@ -4,15 +4,15 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ Active](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/microphoneinputnode.markdown#active-zero-engine-docum)|[soundnode](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/soundnode.markdown)| |
-| |[ Volume](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/microphoneinputnode.markdown#volume-zero-engine-docum)| | |
+| |[ Active](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/microphoneinputnode.markdown#active-zero-engine-docum)|[soundnode](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/soundnode.markdown)| |
+| |[ Volume](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/microphoneinputnode.markdown#volume-zero-engine-docum)| | |
 
 
  #  Properties
 
 
 ---  
- #  Active : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  Active : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > Microphone input will only be played while the Active property is set to True.
 > ``` lang=cpp, name=Zilch
@@ -20,7 +20,7 @@
 
 
 ---  
- #  Volume : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  Volume : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > The volume modifier applied to all audio data received from the microphone.
 > ``` lang=cpp, name=Zilch

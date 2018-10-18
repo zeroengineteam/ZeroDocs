@@ -1,6 +1,6 @@
 Sometimes a physics object will seem to get stuck on a smooth surface. This is often caused by an issue known as edge-catching. This issue is most common when creating a player.
 
-In a game, the ground is often piece-wise, i.e. made of a collection of individual pieces. In this example, assume that the ground is a collection of boxes. Now a rotation locked player is implemented with a [BoxCollider](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/physics/physicstroubleshooting/Colliders/BoxCollider.markdown) to move via simple velocity changes (velocity is the drawn arrow). 
+In a game, the ground is often piece-wise, i.e. made of a collection of individual pieces. In this example, assume that the ground is a collection of boxes. Now a rotation locked player is implemented with a [BoxCollider](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/physicstroubleshooting/Colliders/BoxCollider.markdown) to move via simple velocity changes (velocity is the drawn arrow). 
 
 
 
@@ -63,7 +63,7 @@ Now physics resolves collisions and puts the red box right back where it started
 
 Unfortunately there is no perfect generic solution to the edge catching problem. There are two main approaches to work around the problem:
 
-**Change your collision:** The root issue here is that a seam does exist. One way to fix this is to remove the seam by merging the surface's collision. It's near impossible to remove all seams in a game though, and it is often more practical to change the player's collision shape. Commonly, a player uses a [CapsuleCollider](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/physics/physicstroubleshooting/Colliders/CapsuleCollider.markdown) instead of a [BoxCollider](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/physics/physicstroubleshooting/Colliders/BoxCollider.markdown) to avoid seams.
+**Change your collision:** The root issue here is that a seam does exist. One way to fix this is to remove the seam by merging the surface's collision. It's near impossible to remove all seams in a game though, and it is often more practical to change the player's collision shape. Commonly, a player uses a [CapsuleCollider](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/physicstroubleshooting/Colliders/CapsuleCollider.markdown) instead of a [BoxCollider](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/physicstroubleshooting/Colliders/BoxCollider.markdown) to avoid seams.
 
 
 
@@ -77,23 +77,23 @@ While this method mostly fixes edge catching, it tends to produce small bumps wh
 
 There's two issues with the swept controller.
  # It's more computationally expensive. This isn't an issue for a few number of objects, such as the player, but wouldn't be practical for every object.
- # It only works with Kinematic objects. Using the swept controller means manually translating the player and not working through velocity and forces. This swept object will no longer react to [PhysicsEffects](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/physics/physicstroubleshooting/PhysicsEffectsAndRegions.markdown), collision resolution won't do anything, and Joints won't affect it. For some games this may make the SweptController impractical.
+ # It only works with Kinematic objects. Using the swept controller means manually translating the player and not working through velocity and forces. This swept object will no longer react to [PhysicsEffects](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/physicstroubleshooting/PhysicsEffectsAndRegions.markdown), collision resolution won't do anything, and Joints won't affect it. For some games this may make the SweptController impractical.
 
 ---
  #  Related Materials
  ##  Manual
-- [physicstroubleshooting.markdown](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/physics/physicstroubleshooting.markdown)
-- [PhysicsSpace.markdown](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/physics/physicstroubleshooting/PhysicsSpace.markdown)
-- [Colliders.markdown](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/physics/physicstroubleshooting/Colliders.markdown)
-- [BoxCollider.markdown](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/physics/physicstroubleshooting/Colliders/BoxCollider.markdown)
-- [CapsuleCollider.markdown](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/physics/physicstroubleshooting/Colliders/CapsuleCollider.markdown)
-- [PhysicsEffectsAndRegions.markdown](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/physics/physicstroubleshooting/PhysicsEffectsAndRegions.markdown)
+- [physicstroubleshooting.markdown](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/physicstroubleshooting.markdown)
+- [PhysicsSpace.markdown](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/physicstroubleshooting/PhysicsSpace.markdown)
+- [Colliders.markdown](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/physicstroubleshooting/Colliders.markdown)
+- [BoxCollider.markdown](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/physicstroubleshooting/Colliders/BoxCollider.markdown)
+- [CapsuleCollider.markdown](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/physicstroubleshooting/Colliders/CapsuleCollider.markdown)
+- [PhysicsEffectsAndRegions.markdown](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/physicstroubleshooting/PhysicsEffectsAndRegions.markdown)
  ##  Reference
-- [PhysicsSpace](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/PhysicsSpace.markdown)
-- [Collider](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/Collider.markdown)
-- [BoxCollider](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/BoxCollider.markdown)
-- [CapsuleCollider](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/CapsuleCollider.markdown)
-- [PhysicsEffect](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/PhysicsEffect.markdown)
-- [Region](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/Region.markdown) 
+- [PhysicsSpace](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/PhysicsSpace.markdown)
+- [Collider](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Collider.markdown)
+- [BoxCollider](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/BoxCollider.markdown)
+- [CapsuleCollider](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/CapsuleCollider.markdown)
+- [PhysicsEffect](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/PhysicsEffect.markdown)
+- [Region](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Region.markdown) 
 
  

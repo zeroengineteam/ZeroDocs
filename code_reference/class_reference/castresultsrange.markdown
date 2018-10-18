@@ -2,17 +2,17 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/castresultsrange.markdown#castresultsrange-void)|[ All](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/castresultsrange.markdown#all-zero-engine-document)| | |
-|[ MoveNext](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/castresultsrange.markdown#movenext-void)|[ Current](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/castresultsrange.markdown#current-zero-engine-docu)| | |
-| |[ IsEmpty](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/castresultsrange.markdown#isempty-zero-engine-docu)| | |
-| |[ IsNotEmpty](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/castresultsrange.markdown#isnotempty-zero-engine-d)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/castresultsrange.markdown#castresultsrange-void)|[ All](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/castresultsrange.markdown#all-zero-engine-document)| | |
+|[ MoveNext](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/castresultsrange.markdown#movenext-void)|[ Current](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/castresultsrange.markdown#current-zero-engine-docu)| | |
+| |[ IsEmpty](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/castresultsrange.markdown#isempty-zero-engine-docu)| | |
+| |[ IsNotEmpty](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/castresultsrange.markdown#isnotempty-zero-engine-d)| | |
 
 
  #  Properties
 
 
 ---  
- #  All : [castresultsrange](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/castresultsrange.markdown)
+ #  All : [castresultsrange](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/castresultsrange.markdown)
 
  `read-only`
 
@@ -22,7 +22,7 @@
 
 
 ---  
- #  Current : [castresult](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/castresult.markdown)
+ #  Current : [castresult](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/castresult.markdown)
 
  `read-only`
 
@@ -32,7 +32,7 @@
 
 
 ---  
- #  IsEmpty : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  IsEmpty : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -42,7 +42,7 @@
 
 
 ---  
- #  IsNotEmpty : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  IsNotEmpty : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -76,7 +76,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[castresultsrange](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/castresultsrange.markdown)| |
+> |p0|[castresultsrange](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/castresultsrange.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function CastResultsRange(p0 : CastResultsRange)
 > ``` 

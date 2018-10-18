@@ -6,14 +6,14 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ GameSession](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netgamestarted.markdown#gamesession-zero-engine)|[event](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/event.markdown)| |
+| |[ GameSession](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netgamestarted.markdown#gamesession-zero-engine)|[event](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/event.markdown)| |
 
 
  #  Properties
 
 
 ---  
- #  GameSession : [gamesession](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/gamesession.markdown)
+ #  GameSession : [gamesession](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/gamesession.markdown)
 
  `read-only`
 

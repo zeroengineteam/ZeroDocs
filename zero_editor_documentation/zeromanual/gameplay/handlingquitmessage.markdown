@@ -1,4 +1,4 @@
-Quit Messages are sent by the engine to quit out of a game by closing Game window. This happens by default when the `esc` (escape) key is pressed in game. Using the [ GameRequestQuit  ](https://github.com/zeroengineteam/ZeroDocs/code_reference/event_reference.markdown#gamerequestquit) event, however, gives the user control over the `esc` key press (which is otherwise inaccessible by Keyboard events). When connecting to the `GameRequestQuit` event, the user may assign any activity to the `esc` key that they wish. 
+Quit Messages are sent by the engine to quit out of a game by closing Game window. This happens by default when the `esc` (escape) key is pressed in game. Using the [ GameRequestQuit  ](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/event_reference.markdown#gamerequestquit) event, however, gives the user control over the `esc` key press (which is otherwise inaccessible by Keyboard events). When connecting to the `GameRequestQuit` event, the user may assign any activity to the `esc` key that they wish. 
 
  # Common Uses
  - Using the `esc` key to pause the game
@@ -17,7 +17,7 @@ Zero.Connect(this.GameSession, Events.GameRequestQuit, this.OnGameRequestQuit);
 ```
 
  ## The GameRequestQuit Response Function
-The `GameRequestQuit` event is of type [GameEvent](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/code_reference/class_reference/GameEvent.markdown)  that includes a few properties that can be used inside the response function. The most notable of these, for the purposes of removing the game-exiting functionality, is `event.Handled`. `Handled` is a boolean that if set to `true`, tells the engine that the behavior for the `esc` key will now **be handled** by the code inside the response function. If `event.Handled` is left `false`, the event would persist to be handled by the engine (once again performing the default behavior of closing the `Game Window` *after* your response function completed).
+The `GameRequestQuit` event is of type [GameEvent](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/class_reference/GameEvent.markdown)  that includes a few properties that can be used inside the response function. The most notable of these, for the purposes of removing the game-exiting functionality, is `event.Handled`. `Handled` is a boolean that if set to `true`, tells the engine that the behavior for the `esc` key will now **be handled** by the code inside the response function. If `event.Handled` is left `false`, the event would persist to be handled by the engine (once again performing the default behavior of closing the `Game Window` *after* your response function completed).
 The following will code-block will show how the response function can create alternate behavior for the `esc` key while still allowing for game-quitting functionality:
 
 ```
@@ -59,11 +59,11 @@ class GameQuitTest : ZilchComponent
 
  # Related Materials
  ## Manual Pages
-- [Events and Connections](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/ZeroManual/Scripting/EventsAndConnections.markdown)
+- [Events and Connections](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Scripting/EventsAndConnections.markdown)
 
  ## Code Reference
-- [GameEvent](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/code_reference/class_reference/GameEvent.markdown) 
-- [ GameRequestQuit  ](https://github.com/zeroengineteam/ZeroDocs/code_reference/event_reference.markdown#gamerequestquit)
+- [GameEvent](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/class_reference/GameEvent.markdown) 
+- [ GameRequestQuit  ](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/event_reference.markdown#gamerequestquit)
 
  
 

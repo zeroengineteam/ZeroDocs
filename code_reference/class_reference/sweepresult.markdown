@@ -4,20 +4,20 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/sweepresult.markdown#sweepresult-void)|[ OtherCollider](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/sweepresult.markdown#othercollider-zero-engin)| | |
-| |[ OtherObject](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/sweepresult.markdown#otherobject-zero-engine)| | |
-| |[ Penetration](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/sweepresult.markdown#penetration-zero-engine)| | |
-| |[ Time](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/sweepresult.markdown#time-zero-engine-documen)| | |
-| |[ WorldNormalTowardsOther](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/sweepresult.markdown#worldnormaltowardsother)| | |
-| |[ WorldNormalTowardsSelf](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/sweepresult.markdown#worldnormaltowardsself-z)| | |
-| |[ WorldPoint](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/sweepresult.markdown#worldpoint-zero-engine-d)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/sweepresult.markdown#sweepresult-void)|[ OtherCollider](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/sweepresult.markdown#othercollider-zero-engin)| | |
+| |[ OtherObject](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/sweepresult.markdown#otherobject-zero-engine)| | |
+| |[ Penetration](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/sweepresult.markdown#penetration-zero-engine)| | |
+| |[ Time](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/sweepresult.markdown#time-zero-engine-documen)| | |
+| |[ WorldNormalTowardsOther](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/sweepresult.markdown#worldnormaltowardsother)| | |
+| |[ WorldNormalTowardsSelf](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/sweepresult.markdown#worldnormaltowardsself-z)| | |
+| |[ WorldPoint](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/sweepresult.markdown#worldpoint-zero-engine-d)| | |
 
 
  #  Properties
 
 
 ---  
- #  OtherCollider : [collider](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/collider.markdown)
+ #  OtherCollider : [collider](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/collider.markdown)
 
  `read-only`
 
@@ -27,7 +27,7 @@
 
 
 ---  
- #  OtherObject : [cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
+ #  OtherObject : [cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)
 
  `read-only`
 
@@ -37,7 +37,7 @@
 
 
 ---  
- #  Penetration : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  Penetration : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
  `read-only`
 
@@ -47,7 +47,7 @@
 
 
 ---  
- #  Time : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  Time : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
  `read-only`
 
@@ -57,7 +57,7 @@
 
 
 ---  
- #  WorldNormalTowardsOther : [real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)
+ #  WorldNormalTowardsOther : [real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real3.markdown)
 
  `read-only`
 
@@ -67,7 +67,7 @@
 
 
 ---  
- #  WorldNormalTowardsSelf : [real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)
+ #  WorldNormalTowardsSelf : [real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real3.markdown)
 
  `read-only`
 
@@ -77,7 +77,7 @@
 
 
 ---  
- #  WorldPoint : [real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)
+ #  WorldPoint : [real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real3.markdown)
 
  `read-only`
 
@@ -111,7 +111,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[sweepresult](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/sweepresult.markdown)| |
+> ||[sweepresult](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/sweepresult.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function SweepResult( : SweepResult)
 > ``` 

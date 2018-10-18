@@ -2,17 +2,17 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ Author](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/contentpackage.markdown#author-zero-engine-docum)|[eventobject](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/eventobject.markdown)| |
-| |[ Description](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/contentpackage.markdown#description-zero-engine)| | |
-| |[ Name](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/contentpackage.markdown#name-zero-engine-documen)| | |
-| |[ Tags](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/contentpackage.markdown#tags-zero-engine-documen)| | |
+| |[ Author](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/contentpackage.markdown#author-zero-engine-docum)|[eventobject](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/eventobject.markdown)| |
+| |[ Description](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/contentpackage.markdown#description-zero-engine)| | |
+| |[ Name](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/contentpackage.markdown#name-zero-engine-documen)| | |
+| |[ Tags](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/contentpackage.markdown#tags-zero-engine-documen)| | |
 
 
  #  Properties
 
 
 ---  
- #  Author : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
+ #  Author : [string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -20,7 +20,7 @@
 
 
 ---  
- #  Description : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
+ #  Description : [string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -28,7 +28,7 @@
 
 
 ---  
- #  Name : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
+ #  Name : [string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -36,7 +36,7 @@
 
 
 ---  
- #  Tags : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
+ #  Tags : [string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch

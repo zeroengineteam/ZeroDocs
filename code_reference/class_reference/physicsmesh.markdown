@@ -6,9 +6,9 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ CreateRuntime](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/physicsmesh.markdown#createruntime-zero-engin)| |[genericphysicsmesh](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/genericphysicsmesh.markdown)| |
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/physicsmesh.markdown#physicsmesh-void)| | | |
-|[ RuntimeClone](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/physicsmesh.markdown#runtimeclone-zero-engine)| | | |
+|[ CreateRuntime](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/physicsmesh.markdown#createruntime-zero-engin)| |[genericphysicsmesh](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/genericphysicsmesh.markdown)| |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/physicsmesh.markdown#physicsmesh-void)| | | |
+|[ RuntimeClone](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/physicsmesh.markdown#runtimeclone-zero-engine)| | | |
 
 
  #  Properties
@@ -19,7 +19,7 @@
 
 
 ---  
- #  CreateRuntime : [physicsmesh](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/physicsmesh.markdown)
+ #  CreateRuntime : [physicsmesh](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/physicsmesh.markdown)
 
  `static`
 
@@ -45,7 +45,7 @@
 
 
 ---  
- #  RuntimeClone : [physicsmesh](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/physicsmesh.markdown)
+ #  RuntimeClone : [physicsmesh](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/physicsmesh.markdown)
 
 > Creates a clone of this mesh for run-time modifications.
 > |Name|Type|Description|

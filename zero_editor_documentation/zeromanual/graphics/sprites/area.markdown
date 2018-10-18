@@ -1,4 +1,4 @@
-The [Area](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/Area.markdown) Component is a very powerful tool when working with [Sprites](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/sprites/sprite.markdown) or [SpriteTexts](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/sprites/spritetext.markdown), allowing for the manipulation of sizes without losing visual acuity. It is able to work in conjunction with the [SpriteSourceEditor](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/sprites/spritesourceeditor.markdown) in order to define the Area that the Sprite or SpriteText cover.
+The [Area](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Area.markdown) Component is a very powerful tool when working with [Sprites](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/sprites/sprite.markdown) or [SpriteTexts](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/sprites/spritetext.markdown), allowing for the manipulation of sizes without losing visual acuity. It is able to work in conjunction with the [SpriteSourceEditor](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/sprites/spritesourceeditor.markdown) in order to define the Area that the Sprite or SpriteText cover.
 
  # Nine-Slicing Sprites
 Often when scaling Sprites (particularly UI sprites) the edges of the sprite will be stretched causing undesirable results as can be seen here:
@@ -53,7 +53,7 @@ This will allow the Area component to properly adjust and repeat the image as Si
 
  # Organizing Text
 
-By utilizing the Area Component alongside the [SpriteText](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/sprites/spritetext.markdown) componet, it becomes possible to gain a large amount of control over how the SpriteText is displayed.
+By utilizing the Area Component alongside the [SpriteText](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/sprites/spritetext.markdown) componet, it becomes possible to gain a large amount of control over how the SpriteText is displayed.
 
 Adding the Area Component will give the ability to define the area the text is displayed in, while retaining the alignment set in the SpriteText component. It also will use word wrapping to make sure no text spills outside of the defined area.
 
@@ -64,13 +64,13 @@ Adding the Area Component will give the ability to define the area the text is d
 
  # Related Materials
  ## Manual Pages
-- [sprite](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/sprites/sprite.markdown)
-- [spritetext](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/sprites/spritetext.markdown)
-- [spritesourceeditor](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/sprites/spritesourceeditor.markdown)
+- [sprite](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/sprites/sprite.markdown)
+- [spritetext](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/sprites/spritetext.markdown)
+- [spritesourceeditor](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/sprites/spritesourceeditor.markdown)
 
  ## Reference Pages
-- [Area](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/Area.markdown)
-- [Sprite](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/Sprite.markdown) 
-- [SpriteText](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/SpriteText.markdown) 
+- [Area](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Area.markdown)
+- [Sprite](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Sprite.markdown) 
+- [SpriteText](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/SpriteText.markdown) 
 
  

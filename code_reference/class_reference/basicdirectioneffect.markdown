@@ -6,17 +6,17 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ Direction](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/basicdirectioneffect.markdown#direction-zero-engine-do)|[physicseffect](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/physicseffect.markdown)|[forceeffect](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/forceeffect.markdown)|
-| |[ LocalSpaceDirection](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/basicdirectioneffect.markdown#localspacedirection-zero)| |[gravityeffect](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/gravityeffect.markdown)|
-| |[ Strength](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/basicdirectioneffect.markdown#strength-zero-engine-doc)| | |
-| |[ WorldDirection](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/basicdirectioneffect.markdown#worlddirection-zero-engi)| | |
+| |[ Direction](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/basicdirectioneffect.markdown#direction-zero-engine-do)|[physicseffect](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/physicseffect.markdown)|[forceeffect](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/forceeffect.markdown)|
+| |[ LocalSpaceDirection](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/basicdirectioneffect.markdown#localspacedirection-zero)| |[gravityeffect](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/gravityeffect.markdown)|
+| |[ Strength](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/basicdirectioneffect.markdown#strength-zero-engine-doc)| | |
+| |[ WorldDirection](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/basicdirectioneffect.markdown#worlddirection-zero-engi)| | |
 
 
  #  Properties
 
 
 ---  
- #  Direction : [real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)
+ #  Direction : [real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real3.markdown)
 
 > The direction that the effect will be applied in (may be in local or world space depending on the LocalSpaceDirection property).
 > ``` lang=cpp, name=Zilch
@@ -24,7 +24,7 @@
 
 
 ---  
- #  LocalSpaceDirection : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  LocalSpaceDirection : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > Determines if the direction that the effect is applied is in local or world space. This vector is normalized when calculating forces.
 > ``` lang=cpp, name=Zilch
@@ -32,7 +32,7 @@
 
 
 ---  
- #  Strength : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+ #  Strength : [real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
 
 > The magnitude of the force to apply.
 > ``` lang=cpp, name=Zilch
@@ -40,7 +40,7 @@
 
 
 ---  
- #  WorldDirection : [real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)
+ #  WorldDirection : [real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real3.markdown)
 
  `read-only`
 

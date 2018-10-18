@@ -1,4 +1,4 @@
-[ Array](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_t.markdown) is a templated Zilch type used to represent an ordered list. An array is a *container* class: it contains other objects. The type of object it contains is specified between square brackets when the array is declared:
+[ Array](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_t.markdown) is a templated Zilch type used to represent an ordered list. An array is a *container* class: it contains other objects. The type of object it contains is specified between square brackets when the array is declared:
 
 ```lang=csharp, name=Array Declaration Example
 var recentPositions = Array[Real3]();
@@ -60,7 +60,7 @@ quick
 {the, quick, polka-dotted, fox}
 ```
 
-Attempting to access a negative index or an index that is greater than or equal to the array's [Count](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/arrays/.markdown#array-size) will throw a Zilch exception.
+Attempting to access a negative index or an index that is greater than or equal to the array's [Count](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/arrays/.markdown#array-size) will throw a Zilch exception.
 
  #  Adding to and Removing from Arrays
 
@@ -68,7 +68,7 @@ Zilch arrays are //dynamic//: that is, the number of elements in an array is not
 
  ##  Adding
 
-The most basic way to add an element to an array is with the [ Add](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_t.markdown#add-void) method, which puts the element at the end of the array:
+The most basic way to add an element to an array is with the [ Add](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_t.markdown#add-void) method, which puts the element at the end of the array:
 
 ```lang=csharp, name=Add Example
 var greetings = Array[String]()
@@ -87,9 +87,9 @@ Console.WriteLine(greetings);
 {hello, bonjour, yo, howdy}
 ```
 
-The [ Push](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_t.markdown#push-void) method is functionally identical to Add for arrays, and they may be used interchangeably.
+The [ Push](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_t.markdown#push-void) method is functionally identical to Add for arrays, and they may be used interchangeably.
 
-Adding to the end is generally the fastest way of adding to an array, but it is possible to insert an element at any valid position within an array via the [ Insert](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_t.markdown#insert-void) method:
+Adding to the end is generally the fastest way of adding to an array, but it is possible to insert an element at any valid position within an array via the [ Insert](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_t.markdown#insert-void) method:
 
 ```lang=csharp, name=Insert Example
 var digitsOfE = Array[Integer]() { 2, 7, 1, 2, 8 };
@@ -107,7 +107,7 @@ NOTE: Insert is less efficient than Add because it requires all the elements fol
 
  ##  Removing
 
-The most basic way to remove an element from an array is with the [ Pop](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_t.markdown#pop-zero-engine-document) method, which shrinks the array by one from the end:
+The most basic way to remove an element from an array is with the [ Pop](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_t.markdown#pop-zero-engine-document) method, which shrinks the array by one from the end:
 
 ```lang=csharp, name=Pop Example
 var taskList = Array[String]()
@@ -127,7 +127,7 @@ Console.WriteLine(taskList);
 {make the game fun, UI overhaul, create placeholder SFX}
 ```
 
-As with adding, removing from the end is fast, but it is also possible to remove an element at an arbitrary valid index via the [ RemoveAt](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_t.markdown#removeat-void) and [ RemoveSwap](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_t.markdown#removeswap-void) methods.
+As with adding, removing from the end is fast, but it is also possible to remove an element at an arbitrary valid index via the [ RemoveAt](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_t.markdown#removeat-void) and [ RemoveSwap](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_t.markdown#removeswap-void) methods.
 
 **RemoveAt** removes the element that is found at the given index, and preserves the order of the remaining elements:
 
@@ -177,7 +177,7 @@ Console.WriteLine(animals);
 
 Though RemoveSwap does not preserve element order, it is essentially just as efficient as Pop.
 
-It is also possible to remove a known element with an unknown index. [ RemoveFirst](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_t.markdown#removefirst-zero-engine) finds an array's first element that matches the given value and then removes it, preserving the order of the remaining elements:
+It is also possible to remove a known element with an unknown index. [ RemoveFirst](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_t.markdown#removefirst-zero-engine) finds an array's first element that matches the given value and then removes it, preserving the order of the remaining elements:
 
 ```lang=csharp, name=RemoveFirst Example
 var data = Array[Integer]()
@@ -198,7 +198,7 @@ Console.WriteLine(data);
 {0, 4, 1, 2}
 ```
 
-To find and remove *all* elements that match a given value, use the [ RemoveAll](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_t.markdown#removeall-zero-engine-do) method:
+To find and remove *all* elements that match a given value, use the [ RemoveAll](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_t.markdown#removeall-zero-engine-do) method:
 
 ```lang=csharp, name=RemoveAll Example
 var waterfowl = Array[String]()
@@ -221,7 +221,7 @@ Console.WriteLine(waterfowl);
 
 NOTE: Both RemoveFirst and RemoveAll require searching the array and comparing each element with the given value, which makes them even slower than RemoveAt. In certain situations, such as a deeply nested loop, or when element comparison is slow, this performance difference may be significant.
 
-Finally, to remove all of the elements from an array, use the [ Clear](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_t.markdown#clear-void) method:
+Finally, to remove all of the elements from an array, use the [ Clear](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_t.markdown#clear-void) method:
 
 ```lang=csharp, name=Clear Example 1
 var inventory = Array[String]()
@@ -269,7 +269,7 @@ array1 after Clear: {1.61803, 2.71828, 3.14159}
 
  #  Reference Type
 
-In Zilch, **Array** is a //reference type//. Be aware of this when making copies. When setting one array variable to equal another existing array using the assignment operator, `=`, a copy is not constructed; rather, the first just ends up pointing to the second. In such a case, modifying the array through one of the two references will appear to modify both, because they are in fact one array. To create a copy, the [ Copy](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_t.markdown#copy-array-t) method should be used:
+In Zilch, **Array** is a //reference type//. Be aware of this when making copies. When setting one array variable to equal another existing array using the assignment operator, `=`, a copy is not constructed; rather, the first just ends up pointing to the second. In such a case, modifying the array through one of the two references will appear to modify both, because they are in fact one array. To create a copy, the [ Copy](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_t.markdown#copy-array-t) method should be used:
 
 ```lang=csharp, name=Array Reference Type Example
 var firstExample = Array[Integer]() { 0, 1, 2, 3, 4, 5, 6, 7 };
@@ -301,11 +301,11 @@ secondExample, after copy and clear:  {7, 6, 5, 4, 3, 2, 1, 0}
 
  #  Looping Over Arrays
 
-As arrays are ordered sequences of objects, they lend themselves naturally to use in [ loops](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/looping.markdown): in each loop iteration, the next element of the array can be accessed, modified, copied, etc.
+As arrays are ordered sequences of objects, they lend themselves naturally to use in [ loops](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/looping.markdown): in each loop iteration, the next element of the array can be accessed, modified, copied, etc.
 
  ##  For Loops
 
-The most basic way to loop over an array is by using a [ for loop](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/looping.markdown#for-loop). This takes advantage of the fact that an array contains its [ Count](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_t.markdown#count-zero-engine-docume), or number of elements, as a property:
+The most basic way to loop over an array is by using a [ for loop](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/looping.markdown#for-loop). This takes advantage of the fact that an array contains its [ Count](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_t.markdown#count-zero-engine-docume), or number of elements, as a property:
 
 ```lang=csharp, name=For Loop Example
 var numbers = Array[Integer]() { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, };
@@ -335,7 +335,7 @@ Squares:
 
  ##  For Each Loops
 
-Another way to iterate through an array is to use a [ foreach loop](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/looping.markdown#for-each-loop):
+Another way to iterate through an array is to use a [ foreach loop](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/looping.markdown#for-each-loop):
 
 ```lang=csharp, name=For Each Loop Example
 var numbers = Array[Integer]() { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, };
@@ -363,7 +363,7 @@ Cubes:
 
  #  Array Size
 
-A Zilch array keeps track of two different size-related properties: [ Count](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_t.markdown#count-zero-engine-docume) and [ Capacity](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_t.markdown#capacity-zero-engine-doc). When an array is initialized, it is allotted just enough memory to store the given number of elements. If an element is added when it doesn't have enough allocated space for another one, the array is automatically expanded so that it can fit more elements. An array's **Count** is the number of elements that have been added to it (or were placed there on initialization); its **Capacity** is the number of elements that could possibly fit in it before it needs to grow again:
+A Zilch array keeps track of two different size-related properties: [ Count](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_t.markdown#count-zero-engine-docume) and [ Capacity](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_t.markdown#capacity-zero-engine-doc). When an array is initialized, it is allotted just enough memory to store the given number of elements. If an element is added when it doesn't have enough allocated space for another one, the array is automatically expanded so that it can fit more elements. An array's **Count** is the number of elements that have been added to it (or were placed there on initialization); its **Capacity** is the number of elements that could possibly fit in it before it needs to grow again:
 
 ```lang=csharp, name=Count and Capacity Example
 var array = Array[Integer]();
@@ -390,13 +390,13 @@ Count: 9 | Capacity: 9
 Count: 10 | Capacity: 13
 ```
 
-NOTE: If an element can be added to an array without it having to grow, it can be done very quickly, but expanding an array is potentially costly. In certain situations, such as a deeply nested loop, it may be beneficial to consider an array's Capacity before adding to it. Likewise, if the desired maximum size of an array is known ahead of time, space can be pre-allocated without adding any elements using the [ Reserve](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_t.markdown#reserve-void) method.
+NOTE: If an element can be added to an array without it having to grow, it can be done very quickly, but expanding an array is potentially costly. In certain situations, such as a deeply nested loop, it may be beneficial to consider an array's Capacity before adding to it. Likewise, if the desired maximum size of an array is known ahead of time, space can be pre-allocated without adding any elements using the [ Reserve](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_t.markdown#reserve-void) method.
 
  #  Sorting Arrays
 
-Zilch arrays may be sorted using the [ Sort](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_t.markdown#sort-void) method. Sorting an array may put it in, say, increasing or decreasing order, in the case of an array of Integer or another numeric type, or in alphabetical order, in the case of a String array, or some other order via some more abstract or complex set of criteria.
+Zilch arrays may be sorted using the [ Sort](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_t.markdown#sort-void) method. Sorting an array may put it in, say, increasing or decreasing order, in the case of an array of Integer or another numeric type, or in alphabetical order, in the case of a String array, or some other order via some more abstract or complex set of criteria.
 
-**Sort** sorts an array using the given comparison function. In many cases, this is something the user creates, though some types, such as [ String](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown), provide static functions that can be used with the Sort method:
+**Sort** sorts an array using the given comparison function. In many cases, this is something the user creates, though some types, such as [ String](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown), provide static functions that can be used with the Sort method:
 
 ```lang=csharp, name=String Sorting Example
 var strings = Array[String]();
@@ -523,37 +523,37 @@ Note that the `CompareNameLengthsThenAlpha` function sorts Adventurers in ascend
 
  ##  All
 
-[ All](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_t.markdown#all-arrayrange-t-key-rea) converts the array into an ArrayRange. In Zilch, Arrays can be implicitly cast to ArrayRanges, so it is typically not necessary to use this property.
+[ All](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_t.markdown#all-arrayrange-t-key-rea) converts the array into an ArrayRange. In Zilch, Arrays can be implicitly cast to ArrayRanges, so it is typically not necessary to use this property.
 
  ##  Count and Capacity
 
-[ Count](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_t.markdown#count-zero-engine-docume) and [ Capacity](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_t.markdown#capacity-zero-engine-doc) get the number of elements in the array, and its potential capacity to hold elements, respectively. They are discussed in detail [above](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/arrays/.markdown#array-size).
+[ Count](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_t.markdown#count-zero-engine-docume) and [ Capacity](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_t.markdown#capacity-zero-engine-doc) get the number of elements in the array, and its potential capacity to hold elements, respectively. They are discussed in detail [above](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/arrays/.markdown#array-size).
 
  ##  LastIndex
 
-[ LastIndex](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_t.markdown#lastindex-zero-engine-do) gets the index of the last element in the array. It is always one less than Count (even when Count is 0).
+[ LastIndex](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_t.markdown#lastindex-zero-engine-do) gets the index of the last element in the array. It is always one less than Count (even when Count is 0).
 
  #  Array Methods
 
  ##  Add, Push, and Insert
 
-The [ Add](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_t.markdown#add-void) method expands an array so that the given element is the last item in it. The [ Push](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_t.markdown#push-void) method is identical to Add, and exists only for legacy purposes. The [ Insert](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_t.markdown#insert-void) method expands an array so that the given element is at the given index in it.
+The [ Add](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_t.markdown#add-void) method expands an array so that the given element is the last item in it. The [ Push](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_t.markdown#push-void) method is identical to Add, and exists only for legacy purposes. The [ Insert](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_t.markdown#insert-void) method expands an array so that the given element is at the given index in it.
 
-All of these methods are discussed in detail [above](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/arrays/.markdown#adding).
+All of these methods are discussed in detail [above](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/arrays/.markdown#adding).
 
  ##  Pop, RemoveAt, RemoveSwap, RemoveFirst, RemoveAll, and Clear
 
-The [ Pop](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_t.markdown#pop-any) method removes the last item from an array. The [ RemoveAt](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_t.markdown#removeat-void) method removes from an array the element found at the given index. The [ RemoveSwap](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_t.markdown#removeswap-void) method removes from an array the element found at the given index and swaps the last item in the array to that newly-vacated index. The [ RemoveFirst](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_t.markdown#removefirst-zero-engine) method removes from an array the first element that matches the given object. The [ RemoveAll](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_t.markdown#removeall-zero-engine-do) method removes from an array every element that matches the given object. The [ Clear](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_t.markdown#clear-void) method removes all the elements from an array.
+The [ Pop](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_t.markdown#pop-any) method removes the last item from an array. The [ RemoveAt](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_t.markdown#removeat-void) method removes from an array the element found at the given index. The [ RemoveSwap](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_t.markdown#removeswap-void) method removes from an array the element found at the given index and swaps the last item in the array to that newly-vacated index. The [ RemoveFirst](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_t.markdown#removefirst-zero-engine) method removes from an array the first element that matches the given object. The [ RemoveAll](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_t.markdown#removeall-zero-engine-do) method removes from an array every element that matches the given object. The [ Clear](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_t.markdown#clear-void) method removes all the elements from an array.
 
-All of these methods are discussed in detail [above](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/arrays/.markdown#removing).
+All of these methods are discussed in detail [above](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/arrays/.markdown#removing).
 
  ##  Copy
 
-The [ Copy](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_t.markdown#copy-array-t) method returns a new array that is a copy of the original. This method should be used to create a clone of an array that is to be modified separately without affecting the original. Because **Array** is a reference type, this cannot be done merely with the assignment operator, as shown [above](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/arrays/.markdown#reference-type).
+The [ Copy](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_t.markdown#copy-array-t) method returns a new array that is a copy of the original. This method should be used to create a clone of an array that is to be modified separately without affecting the original. Because **Array** is a reference type, this cannot be done merely with the assignment operator, as shown [above](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/arrays/.markdown#reference-type).
 
  ##  FindFirstIndex
 
-The [ FindFirstIndex](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_t.markdown#findfirstindex-zero-engi) method returns the index of the first occurrence in an array of a given object. This method compares value types by comparing their data, and it compares reference types by comparing their handles. If the given object is not found, it returns `-1`:
+The [ FindFirstIndex](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_t.markdown#findfirstindex-zero-engi) method returns the index of the first occurrence in an array of a given object. This method compares value types by comparing their data, and it compares reference types by comparing their handles. If the given object is not found, it returns `-1`:
 
 ```lang=csharp, name=FindFirstIndex Example
 var valueType0 = Integer2(1, 2);
@@ -579,7 +579,7 @@ Console.WriteLine(arrayOfReferenceType.FindFirstIndex(referenceType1));
 
  ##  Get and Set
 
-The [ Get](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_t.markdown#get-zero-engine-document) method returns the array element at the given index. The [ Set](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_t.markdown#set-void) method writes the given object to the given index. These methods are called when the **indexing operator**, `[]`, is used:
+The [ Get](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_t.markdown#get-zero-engine-document) method returns the array element at the given index. The [ Set](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_t.markdown#set-void) method writes the given object to the given index. These methods are called when the **indexing operator**, `[]`, is used:
 
 ```lang=chsarp, name=Get Example
 var aStates = Array[String]() { "alabama", "nebraska", "arizona", "kansas" };
@@ -598,7 +598,7 @@ arizona
 
  ##  Range
 
-The [ Range](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_t.markdown#range-arrayrange-t) method returns an ArrayRange containing the specified range of elements, beginning with the given start index and including the given element count:
+The [ Range](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_t.markdown#range-arrayrange-t) method returns an ArrayRange containing the specified range of elements, beginning with the given start index and including the given element count:
 
 ```lang=csharp, name=Range Example
 var primes = Array[Integer]() { 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, };  // etc.
@@ -619,7 +619,7 @@ foreach (var prime in primeSubset)
 
  ##  Resize and Reserve
 
-The [ Resize](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_t.markdown#resize-void) method resizes an array so that its new Count is the given value. If the given count value is greater than the array's old Count, then new elements are constructed and added to the end of the array. This method can take an optional default value parameter, which is used to set the value of these new elements; if this is not specified, then the type default for the type stored in the array will be used instead:
+The [ Resize](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_t.markdown#resize-void) method resizes an array so that its new Count is the given value. If the given count value is greater than the array's old Count, then new elements are constructed and added to the end of the array. This method can take an optional default value parameter, which is used to set the value of these new elements; if this is not specified, then the type default for the type stored in the array will be used instead:
 
 ```lang=csharp, name=Resize Example 1
 var iceCreamServings = Array[String]()
@@ -656,25 +656,25 @@ Console.WriteLine(cubes);
 {0, 1, 8, 27}
 ```
 
-As with all cases of changing an array's size, if Resize raises an array's Count past its Capacity, more space is allocated to accommodate its new size. Since this can affect performance in certain situations, it may be beneficial to change an array's Capacity before any resizing is done. The [ Reserve](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_t.markdown#reserve-void) method sets an array's Capacity to the given value, allocating more space as necessary.
+As with all cases of changing an array's size, if Resize raises an array's Count past its Capacity, more space is allocated to accommodate its new size. Since this can affect performance in certain situations, it may be beneficial to change an array's Capacity before any resizing is done. The [ Reserve](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_t.markdown#reserve-void) method sets an array's Capacity to the given value, allocating more space as necessary.
 
  ##  Sort
 
-The [ Sort](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_t.markdown#sort-void) method sorts an array using the given comparison function. Typically, this is something the user provides, though some types, such as [ String](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown), provide static functions that can be used with the Sort method. Array sorting is discussed in depth [above](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/arrays/.markdown#sorting-arrays).
+The [ Sort](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_t.markdown#sort-void) method sorts an array using the given comparison function. Typically, this is something the user provides, though some types, such as [ String](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown), provide static functions that can be used with the Sort method. Array sorting is discussed in depth [above](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/arrays/.markdown#sorting-arrays).
 
  #  Related Materials
 
  ##  Manual
 
-- [ Strings](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/strings.markdown)
-- [ Classes and Structs](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/classes.markdown)
-- [ Looping](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/looping.markdown)
+- [ Strings](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/strings.markdown)
+- [ Classes and Structs](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/classes.markdown)
+- [ Looping](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/looping.markdown)
 
  ##  Code Reference
 
-- [ Array](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_t.markdown)
-- [ Integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
-- [ Real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
-- [ String](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown) 
+- [ Array](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/array_t.markdown)
+- [ Integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
+- [ Real](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real.markdown)
+- [ String](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown) 
 
  

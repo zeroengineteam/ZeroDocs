@@ -4,18 +4,18 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/samplersettings.markdown#samplersettings-void)|[ AddressingX](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/samplersettings.markdown#addressingx-zero-engine)| | |
-| |[ AddressingY](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/samplersettings.markdown#addressingy-zero-engine)| | |
-| |[ CompareFunc](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/samplersettings.markdown#comparefunc-zero-engine)| | |
-| |[ CompareMode](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/samplersettings.markdown#comparemode-zero-engine)| | |
-| |[ Filtering](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/samplersettings.markdown#filtering-zero-engine-do)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/samplersettings.markdown#samplersettings-void)|[ AddressingX](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/samplersettings.markdown#addressingx-zero-engine)| | |
+| |[ AddressingY](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/samplersettings.markdown#addressingy-zero-engine)| | |
+| |[ CompareFunc](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/samplersettings.markdown#comparefunc-zero-engine)| | |
+| |[ CompareMode](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/samplersettings.markdown#comparemode-zero-engine)| | |
+| |[ Filtering](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/samplersettings.markdown#filtering-zero-engine-do)| | |
 
 
  #  Properties
 
 
 ---  
- #  AddressingX : [TextureAddressing](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#textureaddressing)
+ #  AddressingX : [TextureAddressing](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#textureaddressing)
 
 > How to treat uv coordinates outside of [0, 1] along the Texture's width.
 > ``` lang=cpp, name=Zilch
@@ -23,7 +23,7 @@
 
 
 ---  
- #  AddressingY : [TextureAddressing](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#textureaddressing)
+ #  AddressingY : [TextureAddressing](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#textureaddressing)
 
 > How to treat uv coordinates outside of [0, 1] along the Texture's height.
 > ``` lang=cpp, name=Zilch
@@ -31,7 +31,7 @@
 
 
 ---  
- #  CompareFunc : [TextureCompareFunc](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#texturecomparefunc)
+ #  CompareFunc : [TextureCompareFunc](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#texturecomparefunc)
 
 > Which method of comparison should be used if CompareMode is set to Enable.
 > ``` lang=cpp, name=Zilch
@@ -39,7 +39,7 @@
 
 
 ---  
- #  CompareMode : [TextureCompareMode](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#texturecomparemode)
+ #  CompareMode : [TextureCompareMode](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#texturecomparemode)
 
 > If sampling in hardware should perform comparison instead of fetching. Requires using SamplerShadow2d in the shader.
 > ``` lang=cpp, name=Zilch
@@ -47,7 +47,7 @@
 
 
 ---  
- #  Filtering : [TextureFiltering](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#texturefiltering)
+ #  Filtering : [TextureFiltering](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#texturefiltering)
 
 > How samples should be blended under minification/magnification.
 > ``` lang=cpp, name=Zilch

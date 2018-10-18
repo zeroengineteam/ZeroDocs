@@ -1,9 +1,9 @@
-The [ PanningNode ](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/panningnode.markdown) collects audio data from all of its inputs and applies a volume modification to the left and right channels separately. 
+The [ PanningNode ](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/panningnode.markdown) collects audio data from all of its inputs and applies a volume modification to the left and right channels separately. 
 
  # Common Uses
 
 - Moving sounds from left to right and right to left (such as an ambient wind sound)
-- Positioning sounds without using a [SoundEmitter ](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/audio/soundnode/soundemitter.markdown)
+- Positioning sounds without using a [SoundEmitter ](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/audio/soundnode/soundemitter.markdown)
 
  # Using the PanningNode
 
@@ -80,9 +80,9 @@ class MovingNoise : ZilchComponent
 ---
  # Related Materials
  ## Manual
-- [soudnode_overview](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/audio/soundnode/soudnode_overview.markdown)
+- [soudnode_overview](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/audio/soundnode/soudnode_overview.markdown)
 
  ## Code Reference
-- [ PanningNode ](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/panningnode.markdown) 
+- [ PanningNode ](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/panningnode.markdown) 
 
  

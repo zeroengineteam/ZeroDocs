@@ -6,7 +6,7 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/sphericalparticleemitter.markdown#sphericalparticleemitter)| |[particleemittershared](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/particleemittershared.markdown)| |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/sphericalparticleemitter.markdown#sphericalparticleemitter)| |[particleemittershared](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/particleemittershared.markdown)| |
 
 
  #  Properties

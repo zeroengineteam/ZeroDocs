@@ -6,15 +6,15 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netspace.markdown#netspace-void)|[ NetObjectCount](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netspace.markdown#netobjectcount-zero-engi)|[netobject](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown)| |
-| |[ NetUserCount](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netspace.markdown#netusercount-zero-engine)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netspace.markdown#netspace-void)|[ NetObjectCount](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netspace.markdown#netobjectcount-zero-engi)|[netobject](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown)| |
+| |[ NetUserCount](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netspace.markdown#netusercount-zero-engine)| | |
 
 
  #  Properties
 
 
 ---  
- #  NetObjectCount : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  NetObjectCount : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
  `read-only`
 
@@ -24,7 +24,7 @@
 
 
 ---  
- #  NetUserCount : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  NetUserCount : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
  `read-only`
 

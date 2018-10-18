@@ -1,6 +1,6 @@
 
  # Deferred Renderer
-The Deferred Renderer is the default, [pbr](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/physically_based_rendering.markdown)-based renderer that most users will use.  This renderer uses the attributes of pbr found on [materials](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/materials/materials_overview.markdown) to create the final scene we see in the game.  The renderer can be found as a component of the default object named "Renderer" in the Objects window.  It also utilizes [bloom.markdown](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/renderer/bloom.markdown) and [Screen Space Ambient Occlusion](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/renderer/ssao.markdown) if the two components, `name=bloom` and `name=SSAO`, are found on the same object.  The DeferredRenderer has the {nav name=[RunInEditor]} attribute on its class, so the renderer can be used in the level editor.
+The Deferred Renderer is the default, [pbr](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/physically_based_rendering.markdown)-based renderer that most users will use.  This renderer uses the attributes of pbr found on [materials](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/materials/materials_overview.markdown) to create the final scene we see in the game.  The renderer can be found as a component of the default object named "Renderer" in the Objects window.  It also utilizes [bloom.markdown](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/renderer/bloom.markdown) and [Screen Space Ambient Occlusion](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/renderer/ssao.markdown) if the two components, `name=bloom` and `name=SSAO`, are found on the same object.  The DeferredRenderer has the {nav name=[RunInEditor]} attribute on its class, so the renderer can be used in the level editor.
 
 
 
@@ -29,7 +29,7 @@ IndirectIntensity : A multiplier for the ammount of indirect lighting to apply. 
 ToneMap checkBox: Toggle applying tone mapping.
 
  # Forward Renderer
-The `ForwardRenderer` is similar to the `DeferredRenderer`, except the forward renderer only supports a maximum of one [directional light](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/lighting/direct_lighting/directional_light.markdown).  There's a performance gain when switching from deferred to forward rendering, and it comes from reducing the number of render passes.  Not only will one light be taken into consideration when rendering, but lighting is computed in the same render pass that a {icon university}[[zero_engine_documentation/zero_editor_documentation/zeromanual/graphics/models/model_component/|model's]] geometry is computed.  In addition, there is no GeometryDebug drop-down menu on the `ForwardRenderer` since there's no geometry pass.
+The `ForwardRenderer` is similar to the `DeferredRenderer`, except the forward renderer only supports a maximum of one [directional light](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/lighting/direct_lighting/directional_light.markdown).  There's a performance gain when switching from deferred to forward rendering, and it comes from reducing the number of render passes.  Not only will one light be taken into consideration when rendering, but lighting is computed in the same render pass that a {icon university}[[zero_engine_documentation/zero_editor_documentation/zeromanual/graphics/models/model_component/|model's]] geometry is computed.  In addition, there is no GeometryDebug drop-down menu on the `ForwardRenderer` since there's no geometry pass.
 
 
 
@@ -63,7 +63,7 @@ Each fragment on a surface samples from a texture to get Albedo, Roughness, or M
 When analyzing how light bounces off a surface, we can categorize the light as either diffuse or specular.  Each photon on it's own follows one behavior or the other, but when many photons hit a surface, we view the surface as a weighted distribution of specular and diffuse.  These properties aren't directly edited, but are a result of the other PBR material inputs.  Specular light refers to photons that reflect off a surface.  Diffuse light is scattered off a surface in every direction, a result of subsurface scattering.  Both of these elements can be enabled and disabled with ShowDiffuse checkBox and ShowSpecular checkBox
 
  # Direct and Indirect Light
-[Indirect Lighting](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/lighting/indirect_lighting.markdown) comes from using Image Based Lighting on the skybox in the scene.  The skybox is a background texture, defined by Skybox texture, that wraps around the world.  It represents things that are so far away, that they are only effected by rotation of the camera, and not translation.  For example, if you see a mountain in the distance, looking downwards causes the mountain to move up with respect to you.  If you sidestep to the right, the mountain remains static.
+[Indirect Lighting](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/lighting/indirect_lighting.markdown) comes from using Image Based Lighting on the skybox in the scene.  The skybox is a background texture, defined by Skybox texture, that wraps around the world.  It represents things that are so far away, that they are only effected by rotation of the camera, and not translation.  For example, if you see a mountain in the distance, looking downwards causes the mountain to move up with respect to you.  If you sidestep to the right, the mountain remains static.
 
 
 
@@ -81,9 +81,9 @@ Using tone mapping, we convert our linear light into a gamma range.  Small color
 
  # Related Material
  ## Manual
-- [Direct Lighting](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/lighting/direct_lighting.markdown)
-- [Indirect Lighting](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/lighting/indirect_lighting.markdown)
-- [model_component](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/models/model_component.markdown)
-- [physically_based_rendering](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/physically_based_rendering.markdown) 
+- [Direct Lighting](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/lighting/direct_lighting.markdown)
+- [Indirect Lighting](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/lighting/indirect_lighting.markdown)
+- [model_component](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/models/model_component.markdown)
+- [physically_based_rendering](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/physically_based_rendering.markdown) 
 
  

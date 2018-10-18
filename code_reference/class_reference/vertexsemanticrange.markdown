@@ -2,17 +2,17 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ MoveNext](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/vertexsemanticrange.markdown#movenext-void)|[ All](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/vertexsemanticrange.markdown#all-zero-engine-document)| | |
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/vertexsemanticrange.markdown#vertexsemanticrange-void)|[ Current](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/vertexsemanticrange.markdown#current-zero-engine-docu)| | |
-| |[ IsEmpty](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/vertexsemanticrange.markdown#isempty-zero-engine-docu)| | |
-| |[ IsNotEmpty](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/vertexsemanticrange.markdown#isnotempty-zero-engine-d)| | |
+|[ MoveNext](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/vertexsemanticrange.markdown#movenext-void)|[ All](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/vertexsemanticrange.markdown#all-zero-engine-document)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/vertexsemanticrange.markdown#vertexsemanticrange-void)|[ Current](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/vertexsemanticrange.markdown#current-zero-engine-docu)| | |
+| |[ IsEmpty](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/vertexsemanticrange.markdown#isempty-zero-engine-docu)| | |
+| |[ IsNotEmpty](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/vertexsemanticrange.markdown#isnotempty-zero-engine-d)| | |
 
 
  #  Properties
 
 
 ---  
- #  All : [vertexsemanticrange](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/vertexsemanticrange.markdown)
+ #  All : [vertexsemanticrange](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/vertexsemanticrange.markdown)
 
  `read-only`
 
@@ -22,7 +22,7 @@
 
 
 ---  
- #  Current : [VertexSemantic](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#vertexsemantic)
+ #  Current : [VertexSemantic](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#vertexsemantic)
 
  `read-only`
 
@@ -32,7 +32,7 @@
 
 
 ---  
- #  IsEmpty : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  IsEmpty : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -42,7 +42,7 @@
 
 
 ---  
- #  IsNotEmpty : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  IsNotEmpty : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -87,7 +87,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[vertexsemanticrange](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/vertexsemanticrange.markdown)| |
+> |p0|[vertexsemanticrange](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/vertexsemanticrange.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function VertexSemanticRange(p0 : VertexSemanticRange)
 > ``` 

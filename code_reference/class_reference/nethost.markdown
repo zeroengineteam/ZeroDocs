@@ -4,19 +4,19 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ BasicHostInfo](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/nethost.markdown#basichostinfo-zero-engin)|[safeid32](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/safeid32.markdown)| |
-| |[ ExtraHostInfo](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/nethost.markdown#extrahostinfo-zero-engin)| | |
-| |[ IpAddress](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/nethost.markdown#ipaddress-zero-engine-do)| | |
-| |[ Latency](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/nethost.markdown#latency-zero-engine-docu)| | |
-| |[ Network](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/nethost.markdown#network-zero-engine-docu)| | |
-| |[ RoundTripTime](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/nethost.markdown#roundtriptime-zero-engin)| | |
+| |[ BasicHostInfo](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/nethost.markdown#basichostinfo-zero-engin)|[safeid32](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/safeid32.markdown)| |
+| |[ ExtraHostInfo](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/nethost.markdown#extrahostinfo-zero-engin)| | |
+| |[ IpAddress](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/nethost.markdown#ipaddress-zero-engine-do)| | |
+| |[ Latency](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/nethost.markdown#latency-zero-engine-docu)| | |
+| |[ Network](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/nethost.markdown#network-zero-engine-docu)| | |
+| |[ RoundTripTime](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/nethost.markdown#roundtriptime-zero-engin)| | |
 
 
  #  Properties
 
 
 ---  
- #  BasicHostInfo : [eventbundle](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/eventbundle.markdown)
+ #  BasicHostInfo : [eventbundle](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/eventbundle.markdown)
 
  `read-only`
 
@@ -26,7 +26,7 @@
 
 
 ---  
- #  ExtraHostInfo : [eventbundle](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/eventbundle.markdown)
+ #  ExtraHostInfo : [eventbundle](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/eventbundle.markdown)
 
  `read-only`
 
@@ -36,7 +36,7 @@
 
 
 ---  
- #  IpAddress : [ipaddress](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/ipaddress.markdown)
+ #  IpAddress : [ipaddress](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/ipaddress.markdown)
 
  `read-only`
 
@@ -46,7 +46,7 @@
 
 
 ---  
- #  Latency : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  Latency : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
  `read-only`
 
@@ -56,7 +56,7 @@
 
 
 ---  
- #  Network : [Network](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#network)
+ #  Network : [Network](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#network)
 
  `read-only`
 
@@ -66,7 +66,7 @@
 
 
 ---  
- #  RoundTripTime : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  RoundTripTime : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
  `read-only`
 

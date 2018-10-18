@@ -1,4 +1,4 @@
-The [ VolumeNode ](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/volumenode.markdown) collects audio data from all of its inputs and applies a volume modification to the samples before passing them off to its output nodes.
+The [ VolumeNode ](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/volumenode.markdown) collects audio data from all of its inputs and applies a volume modification to the samples before passing them off to its output nodes.
 
  # Common Uses
 
@@ -19,9 +19,9 @@ The `AudioInterpolationDone` event will be sent when a volume interpolation has 
 ---
  # Related Materials
  ## Manual
-- [soudnode_overview](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/audio/soundnode/soudnode_overview.markdown)
+- [soudnode_overview](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/audio/soundnode/soudnode_overview.markdown)
 
  ## Code Reference
-- [ VolumeNode ](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/volumenode.markdown) 
+- [ VolumeNode ](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/volumenode.markdown) 
 
  

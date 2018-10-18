@@ -4,25 +4,25 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texteditorconfig.markdown#texteditorconfig-void)|[ AutoCompleteOnEnter](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texteditorconfig.markdown#autocompleteonenter-zero)|[component](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/component.markdown)| |
-| |[ CodeFolding](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texteditorconfig.markdown#codefolding-zero-engine)| | |
-| |[ ColorScheme](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texteditorconfig.markdown#colorscheme-zero-engine)| | |
-| |[ ConfidentAutoCompleteOnSymbols](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texteditorconfig.markdown#confidentautocompleteons)| | |
-| |[ FontSize](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texteditorconfig.markdown#fontsize-zero-engine-doc)| | |
-| |[ HighlightPartialTextMatch](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texteditorconfig.markdown#highlightpartialtextmatc)| | |
-| |[ KeywordAndTypeCompletion](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texteditorconfig.markdown#keywordandtypecompletion)| | |
-| |[ LineNumbers](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texteditorconfig.markdown#linenumbers-zero-engine)| | |
-| |[ LocalWordCompletion](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texteditorconfig.markdown#localwordcompletion-zero)| | |
-| |[ ShowWhiteSpace](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texteditorconfig.markdown#showwhitespace-zero-engi)| | |
-| |[ TabWidth](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texteditorconfig.markdown#tabwidth-zero-engine-doc)| | |
-| |[ TextMatchHighlighting](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texteditorconfig.markdown#textmatchhighlighting-ze)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/texteditorconfig.markdown#texteditorconfig-void)|[ AutoCompleteOnEnter](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/texteditorconfig.markdown#autocompleteonenter-zero)|[component](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/component.markdown)| |
+| |[ CodeFolding](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/texteditorconfig.markdown#codefolding-zero-engine)| | |
+| |[ ColorScheme](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/texteditorconfig.markdown#colorscheme-zero-engine)| | |
+| |[ ConfidentAutoCompleteOnSymbols](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/texteditorconfig.markdown#confidentautocompleteons)| | |
+| |[ FontSize](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/texteditorconfig.markdown#fontsize-zero-engine-doc)| | |
+| |[ HighlightPartialTextMatch](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/texteditorconfig.markdown#highlightpartialtextmatc)| | |
+| |[ KeywordAndTypeCompletion](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/texteditorconfig.markdown#keywordandtypecompletion)| | |
+| |[ LineNumbers](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/texteditorconfig.markdown#linenumbers-zero-engine)| | |
+| |[ LocalWordCompletion](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/texteditorconfig.markdown#localwordcompletion-zero)| | |
+| |[ ShowWhiteSpace](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/texteditorconfig.markdown#showwhitespace-zero-engi)| | |
+| |[ TabWidth](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/texteditorconfig.markdown#tabwidth-zero-engine-doc)| | |
+| |[ TextMatchHighlighting](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/texteditorconfig.markdown#textmatchhighlighting-ze)| | |
 
 
  #  Properties
 
 
 ---  
- #  AutoCompleteOnEnter : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  AutoCompleteOnEnter : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -30,7 +30,7 @@
 
 
 ---  
- #  CodeFolding : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  CodeFolding : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -38,7 +38,7 @@
 
 
 ---  
- #  ColorScheme : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
+ #  ColorScheme : [string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -46,7 +46,7 @@
 
 
 ---  
- #  ConfidentAutoCompleteOnSymbols : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  ConfidentAutoCompleteOnSymbols : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -54,7 +54,7 @@
 
 
 ---  
- #  FontSize : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  FontSize : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -62,7 +62,7 @@
 
 
 ---  
- #  HighlightPartialTextMatch : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  HighlightPartialTextMatch : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -70,7 +70,7 @@
 
 
 ---  
- #  KeywordAndTypeCompletion : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  KeywordAndTypeCompletion : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -78,7 +78,7 @@
 
 
 ---  
- #  LineNumbers : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  LineNumbers : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -86,7 +86,7 @@
 
 
 ---  
- #  LocalWordCompletion : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  LocalWordCompletion : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -94,7 +94,7 @@
 
 
 ---  
- #  ShowWhiteSpace : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  ShowWhiteSpace : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -102,7 +102,7 @@
 
 
 ---  
- #  TabWidth : [TabWidth](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#tabwidth)
+ #  TabWidth : [TabWidth](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#tabwidth)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -110,7 +110,7 @@
 
 
 ---  
- #  TextMatchHighlighting : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  TextMatchHighlighting : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch

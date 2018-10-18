@@ -2,17 +2,17 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/memberrange.markdown#memberrange-void)|[ All](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/memberrange.markdown#all-zero-engine-document)| | |
-|[ MoveNext](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/memberrange.markdown#movenext-void)|[ Current](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/memberrange.markdown#current-zero-engine-docu)| | |
-| |[ IsEmpty](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/memberrange.markdown#isempty-zero-engine-docu)| | |
-| |[ IsNotEmpty](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/memberrange.markdown#isnotempty-zero-engine-d)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/memberrange.markdown#memberrange-void)|[ All](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/memberrange.markdown#all-zero-engine-document)| | |
+|[ MoveNext](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/memberrange.markdown#movenext-void)|[ Current](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/memberrange.markdown#current-zero-engine-docu)| | |
+| |[ IsEmpty](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/memberrange.markdown#isempty-zero-engine-docu)| | |
+| |[ IsNotEmpty](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/memberrange.markdown#isnotempty-zero-engine-d)| | |
 
 
  #  Properties
 
 
 ---  
- #  All : [memberrange](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/memberrange.markdown)
+ #  All : [memberrange](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/memberrange.markdown)
 
  `read-only`
 
@@ -22,7 +22,7 @@
 
 
 ---  
- #  Current : [member](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/member.markdown)
+ #  Current : [member](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/member.markdown)
 
  `read-only`
 
@@ -32,7 +32,7 @@
 
 
 ---  
- #  IsEmpty : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  IsEmpty : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -42,7 +42,7 @@
 
 
 ---  
- #  IsNotEmpty : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  IsNotEmpty : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -76,7 +76,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[memberrange](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/memberrange.markdown)| |
+> |p0|[memberrange](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/memberrange.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function MemberRange(p0 : MemberRange)
 > ``` 

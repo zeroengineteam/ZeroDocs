@@ -4,18 +4,18 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ BlockType](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/collisionfilterblock.markdown#blocktype-zero-engine-do)|[safeid32object](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/safeid32object.markdown)|[collisionendblock](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/collisionendblock.markdown)|
-| |[ EventOverride](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/collisionfilterblock.markdown#eventoverride-zero-engin)| |[collisionpersistedblock](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/collisionpersistedblock.markdown)|
-| |[ SendEventsToA](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/collisionfilterblock.markdown#sendeventstoa-zero-engin)| |[collisionstartblock](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/collisionstartblock.markdown)|
-| |[ SendEventsToB](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/collisionfilterblock.markdown#sendeventstob-zero-engin)| |[presolveblock](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/presolveblock.markdown)|
-| |[ SendEventsToSpace](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/collisionfilterblock.markdown#sendeventstospace-zero-e)| | |
+| |[ BlockType](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/collisionfilterblock.markdown#blocktype-zero-engine-do)|[safeid32object](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/safeid32object.markdown)|[collisionendblock](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/collisionendblock.markdown)|
+| |[ EventOverride](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/collisionfilterblock.markdown#eventoverride-zero-engin)| |[collisionpersistedblock](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/collisionpersistedblock.markdown)|
+| |[ SendEventsToA](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/collisionfilterblock.markdown#sendeventstoa-zero-engin)| |[collisionstartblock](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/collisionstartblock.markdown)|
+| |[ SendEventsToB](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/collisionfilterblock.markdown#sendeventstob-zero-engin)| |[presolveblock](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/presolveblock.markdown)|
+| |[ SendEventsToSpace](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/collisionfilterblock.markdown#sendeventstospace-zero-e)| | |
 
 
  #  Properties
 
 
 ---  
- #  BlockType : [CollisionFilterBlockType](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#collisionfilterblocktype)
+ #  BlockType : [CollisionFilterBlockType](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#collisionfilterblocktype)
 
  `read-only`
 
@@ -25,7 +25,7 @@
 
 
 ---  
- #  EventOverride : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
+ #  EventOverride : [string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)
 
 > What event name to send out when this block triggers. If left empty the default name will be used (e.g. GroupCollisionStarted).
 > ``` lang=cpp, name=Zilch
@@ -33,7 +33,7 @@
 
 
 ---  
- #  SendEventsToA : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  SendEventsToA : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > Does the first object in the filter get this event type sent to it?
 > ``` lang=cpp, name=Zilch
@@ -41,7 +41,7 @@
 
 
 ---  
- #  SendEventsToB : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  SendEventsToB : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > Does the second object in the filter get this event type sent to it?
 > ``` lang=cpp, name=Zilch
@@ -49,7 +49,7 @@
 
 
 ---  
- #  SendEventsToSpace : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  SendEventsToSpace : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > Does the active space of the objects get this event type sent to it?
 > ``` lang=cpp, name=Zilch

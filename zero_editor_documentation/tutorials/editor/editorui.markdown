@@ -11,11 +11,11 @@ For example:
 
 
 > - In the `Object Window`
->  - [Select](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/selectobject.markdown) the Player object object
+>  - [Select](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/selectobject.markdown) the Player object object
 > - In the `Properties Window`
->  - [Add Component](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown):
->  [RigidBody](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/rigidbody.markdown)
->  - Under [RigidBody](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/rigidbody.markdown)
+>  - [Add Component](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown):
+>  [RigidBody](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/rigidbody.markdown)
+>  - Under [RigidBody](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/rigidbody.markdown)
 >   - Set AllowSleep button to `false`
 
 
@@ -33,7 +33,7 @@ Each level of indentation represents a subsection of the window you are already 
 
 
 will be shortened to:
-    - [Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/ZeroManual/Editor/EditorCommands/Commands.markdown): [CreateSprite](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#createsprite)
+    - [Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Editor/EditorCommands/Commands.markdown): [CreateSprite](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#createsprite)
 
 This significantly reduces the amount of reading, and while still providing a reference to the full process should you need a refresher.
 
@@ -53,10 +53,10 @@ It is recommended that you create a new project. If this is the first time you h
  - Enter a Project Folder directory (if the default is not sufficient) by either typing or left clicking the browse button on the right of the field.
  - Left Click the `Create Project` button
 
-Alternatively, you can create a new project from within the editor by using [Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/ZeroManual/Editor/EditorCommands/Commands.markdown) : [New Project](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#newproject)
+Alternatively, you can create a new project from within the editor by using [Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Editor/EditorCommands/Commands.markdown) : [New Project](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#newproject)
 
 NOTE:   
- [Commands](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/ZeroManual/Editor/EditorCommands/Commands.markdown) represent all actions you can perform as a user in the Zero Editor. Page numbers are listed throughout the lesson for refreshing your knowledge on how to do common essential tasks. View how to enter Commands in Zero by going to the page number provided in the tutorial!
+ [Commands](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Editor/EditorCommands/Commands.markdown) represent all actions you can perform as a user in the Zero Editor. Page numbers are listed throughout the lesson for refreshing your knowledge on how to do common essential tasks. View how to enter Commands in Zero by going to the page number provided in the tutorial!
 
  # Windows Overview
 
@@ -132,11 +132,11 @@ NOTE: **Component** is a chunk of functionality or small bucket of data. An obje
 ![image](https://media.githubusercontent.com/media/zeroengineteam/ZeroFiles/master/doc_files/47221.png)
 
 
-Anything you add to the game using [Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/ZeroManual/Editor/EditorCommands/Commands.markdown) : [Add](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/resourceadding.markdown) or through drag-and-drop importing is stored as a resource. All resources added to your project can be found in the `Library Window`. You'll learn more details about resources in future lessons.
+Anything you add to the game using [Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Editor/EditorCommands/Commands.markdown) : [Add](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/resourceadding.markdown) or through drag-and-drop importing is stored as a resource. All resources added to your project can be found in the `Library Window`. You'll learn more details about resources in future lessons.
 
  # Search Window
 
-This powerful tool allows you to search nearly anything within the editor. Perhaps its most important use is executing [Commands](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/ZeroManual/Editor/EditorCommands/Commands.markdown).
+This powerful tool allows you to search nearly anything within the editor. Perhaps its most important use is executing [Commands](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Editor/EditorCommands/Commands.markdown).
 
 
 
@@ -192,7 +192,7 @@ NOTE: To be "in" a window requires that the window has "focus". To gain focus yo
   - Press `Ctrl + Delete` to clear the console
 - In the `Level Window`
   - Press `Space`
- - Type the [Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/ZeroManual/Editor/EditorCommands/Commands.markdown) : [SaveProject](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#saveproject)
+ - Type the [Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Editor/EditorCommands/Commands.markdown) : [SaveProject](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#saveproject)
  - Press `Enter`
 A message telling you the project was saved is displayed in the `Console Window`.
 When console output is referenced in future lessons it will be shown like this:
@@ -206,12 +206,12 @@ Saved : Project and all scripts saved.
  # Game Window
 
 The `Game Window` is where your game actually runs inside the Zero Engine editor. You can test or play your game (or specific levels) here without having to create an executable. 
-- [Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/ZeroManual/Editor/EditorCommands/Commands.markdown): [ PlayGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#playgame)
+- [Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Editor/EditorCommands/Commands.markdown): [ PlayGame](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#playgame)
 
 There are multiple ways to run the game in the editor.
  - Press key `F5` on the keyboard 
  - Press the Play button button in the `Tool Bar`
- - [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ PlayGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#playgame)
+ - [ Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ PlayGame](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#playgame)
  - `Project Menu  > Play Game`
 
 The `Game Window` tab should appear in a tab next to the Level Window tab:
@@ -227,7 +227,7 @@ The `Game Window` should not show anything but a blank screen right now because 
 
 
 -  Close the `Game Window` by pressing the `X` button on the Game tab
-- You can also press `Esc` or use [Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/ZeroManual/Editor/EditorCommands/Commands.markdown): [ StopGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#stopgame)
+- You can also press `Esc` or use [Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Editor/EditorCommands/Commands.markdown): [ StopGame](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#stopgame)
   It is a good practice to close your game window promptly. Editing levels while the `Game Window` is open can cause erratic behavior, undefined behavior, or errors. 
 - Click on the Level tab to return to the `Level Window`
 
@@ -280,30 +280,30 @@ You may have noticed that you can play, pause, step through, and stop your game 
 ![menubar](https://media.githubusercontent.com/media/zeroengineteam/ZeroFiles/master/doc_files/1436.png)
 
 The menu bar includes commands for project manipulation and exporting your game under `File`, quick create options for getting things on the screen fast under `Create`, and the ability to reopen closed windows via `Windows`.
-See [Executing Commands](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/ZeroManual/Editor/EditorCommands/Commands.markdown) for information.
+See [Executing Commands](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Editor/EditorCommands/Commands.markdown) for information.
 
  # Related Materials
 
  ## Manual
-- [Components](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/architecture/components.markdown)
-- [ Zilch User Documentation](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero.markdown)
+- [Components](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/architecture/components.markdown)
+- [ Zilch User Documentation](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero.markdown)
 
  ##  Tutorials
-- [BasicComponents](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/tutorials/architecture/BasicComponents.markdown)
-- [CustomComponents](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/tutorials/scripting/CustomComponents.markdown)
+- [BasicComponents](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/tutorials/architecture/BasicComponents.markdown)
+- [CustomComponents](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/tutorials/scripting/CustomComponents.markdown)
 
  ## Reference
  ### Classes
-- [Transform](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/Transform.markdown)
-- [Sprite](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/Sprite.markdown)
-- [ZilchScript](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/ZilchScript.markdown)
-- [ Console](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/console.markdown)
+- [Transform](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Transform.markdown)
+- [Sprite](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Sprite.markdown)
+- [ZilchScript](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/ZilchScript.markdown)
+- [ Console](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/console.markdown)
 
  ### Commands
-- [ PlayGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#playgame)
-- [ StopGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#stopgame)
-- [New Project](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#newproject)
-- [SaveProject](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#saveproject)
+- [ PlayGame](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#playgame)
+- [ StopGame](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#stopgame)
+- [New Project](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#newproject)
+- [SaveProject](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#saveproject)
  
 
  

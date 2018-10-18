@@ -2,15 +2,15 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Get](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/indexedhalfedgemeshedgearray.markdown#get-zero-engine-document)|[ All](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/indexedhalfedgemeshedgearray.markdown#all-zero-engine-document)|[safeid32object](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/safeid32object.markdown)| |
-| |[ Count](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/indexedhalfedgemeshedgearray.markdown#count-zero-engine-docume)| | |
+|[ Get](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/indexedhalfedgemeshedgearray.markdown#get-zero-engine-document)|[ All](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/indexedhalfedgemeshedgearray.markdown#all-zero-engine-document)|[safeid32object](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/safeid32object.markdown)| |
+| |[ Count](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/indexedhalfedgemeshedgearray.markdown#count-zero-engine-docume)| | |
 
 
  #  Properties
 
 
 ---  
- #  All : [indexedhalfedgemeshedgearrayrange](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/indexedhalfedgemeshedgearrayrange.markdown)
+ #  All : [indexedhalfedgemeshedgearrayrange](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/indexedhalfedgemeshedgearrayrange.markdown)
 
  `read-only`
 
@@ -20,7 +20,7 @@
 
 
 ---  
- #  Count : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  Count : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
  `read-only`
 
@@ -34,12 +34,12 @@
 
 
 ---  
- #  Get : [indexedhalfedge](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/indexedhalfedge.markdown)
+ #  Get : [indexedhalfedge](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/indexedhalfedge.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> ||[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Get( : Integer) : IndexedHalfEdge
 > ``` 

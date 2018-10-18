@@ -2,7 +2,7 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/wheeljoint2dblock.markdown#wheeljoint2dblock-void)| |[constraintconfigblock](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/constraintconfigblock.markdown)| |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/wheeljoint2dblock.markdown#wheeljoint2dblock-void)| |[constraintconfigblock](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/constraintconfigblock.markdown)| |
 
 
  #  Properties

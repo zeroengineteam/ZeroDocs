@@ -2,10 +2,10 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| | |[referencecountedeventobject](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/referencecountedeventobject.markdown)|[cogmetaserialization](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cogmetaserialization.markdown)|
-| | | |[cogpathmetaserialization](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cogpathmetaserialization.markdown)|
+| | |[referencecountedeventobject](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/referencecountedeventobject.markdown)|[cogmetaserialization](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cogmetaserialization.markdown)|
+| | | |[cogpathmetaserialization](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cogpathmetaserialization.markdown)|
 | | | |EnumMetaSerialization|
-| | | |[metastringserialization](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/metastringserialization.markdown)|
+| | | |[metastringserialization](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/metastringserialization.markdown)|
 | | | |PrimitiveMetaSerializationBoolean|
 | | | |PrimitiveMetaSerializationInteger|
 | | | |PrimitiveMetaSerializationInteger2|
@@ -20,7 +20,7 @@
 | | | |PrimitiveMetaSerializationReal3|
 | | | |PrimitiveMetaSerializationReal4|
 | | | |PrimitiveMetaSerializationString|
-| | | |[resourcemetaserialization](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/resourcemetaserialization.markdown)|
+| | | |[resourcemetaserialization](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/resourcemetaserialization.markdown)|
 
 
  #  Properties

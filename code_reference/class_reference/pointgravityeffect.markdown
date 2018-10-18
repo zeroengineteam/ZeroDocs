@@ -6,7 +6,7 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/pointgravityeffect.markdown#pointgravityeffect-void)| |[basicpointeffect](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/basicpointeffect.markdown)| |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/pointgravityeffect.markdown#pointgravityeffect-void)| |[basicpointeffect](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/basicpointeffect.markdown)| |
 
 
  #  Properties

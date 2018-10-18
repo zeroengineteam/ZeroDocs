@@ -1,9 +1,9 @@
-This section covers the basics of memory management in Zilch. Specifically, the topics covered include: [Types of Memory Storage](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/memory_management.markdown#types-of-memory-storage), [#allocating-memory](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/memory_management.markdown#allocating-memory), and [#freeing-memory](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/memory_management.markdown#freeing-memory)
+This section covers the basics of memory management in Zilch. Specifically, the topics covered include: [Types of Memory Storage](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/memory_management.markdown#types-of-memory-storage), [#allocating-memory](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/memory_management.markdown#allocating-memory), and [#freeing-memory](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/memory_management.markdown#freeing-memory)
 
  # Types of Memory Storage
  ## By-Value
 
-There are two main types of storage, `by-value` and `by-reference` (or `by-ref` for short). `By-value` is stored on the local stack and the storage is cleaned up once it goes out of scope. When passed into a function it copies data `by-value`. [Structs](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/structs.markdown) and primitives are `by-value`.
+There are two main types of storage, `by-value` and `by-reference` (or `by-ref` for short). `By-value` is stored on the local stack and the storage is cleaned up once it goes out of scope. When passed into a function it copies data `by-value`. [Structs](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/structs.markdown) and primitives are `by-value`.
 
 ```lang=csharp, name=By-Value Storage in a Struct
 struct ByValue
@@ -47,7 +47,7 @@ ID: 1111111
 ```
 
  ## By-Reference
-`By-reference` is stored on the heap and the storage is cleaned up once there are no longer references to it, or the handle is explicitly deleted in code. When passed into a [function](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/functions.markdown) it copies it `by-reference`. [Classes](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/classes.markdown) and structs promoted with the `ref` keyword are `by-reference`.
+`By-reference` is stored on the heap and the storage is cleaned up once there are no longer references to it, or the handle is explicitly deleted in code. When passed into a [function](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/functions.markdown) it copies it `by-reference`. [Classes](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/classes.markdown) and structs promoted with the `ref` keyword are `by-reference`.
 
  ### By-Ref Storage in a Struct and a Class
 
@@ -145,7 +145,7 @@ NOTE: A `by-ref` type can be set to null, but a `by-value` type cannot.
 
  ## Creating variables `by-value` and `by-ref`
  ### Local
-When working with by-value types that have constructors, such as structs or more complex stack primitive data types, the [keyword](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/keywords.markdown) **local** may be used:
+When working with by-value types that have constructors, such as structs or more complex stack primitive data types, the [keyword](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/keywords.markdown) **local** may be used:
 
 ```lang=csharp
 var up: Real3 = local Real3(0.0, 1.0, 0.0);
@@ -210,7 +210,7 @@ class MyClass
 }
 ```
 
-A class or struct may possess one or more constructors. Like [functions](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/functions.markdown) they can be overloaded via their [named_parameters](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/named_parameters.markdown). Special syntax is also used when constructing a derived class, see [inheritance](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/inheritance.markdown) for more.
+A class or struct may possess one or more constructors. Like [functions](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/functions.markdown) they can be overloaded via their [named_parameters](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/named_parameters.markdown). Special syntax is also used when constructing a derived class, see [inheritance](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/inheritance.markdown) for more.
 
  # Freeing Memory
 
@@ -282,7 +282,7 @@ Zilch does not have a full-fledged garbage collector, but it does have ref-count
   // abc, bca, and cab will leak.
 ```
 
-2. [delegates](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/delegates.markdown) containing an instance member function hold the `this` handle to the object, and thus will keep ref-counted objects alive.
+2. [delegates](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/delegates.markdown) containing an instance member function hold the `this` handle to the object, and thus will keep ref-counted objects alive.
 ```lang=csharp, name=Examples of Delegate Leaking
 class Utility
 {
@@ -469,12 +469,12 @@ Destructors allow you to do any necessary clean up on your part, such as free me
 
  # Related Materials
  ## Manual
-- [Classes](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/classes.markdown)
-- [Structs](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/structs.markdown)
-- [Functions](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/functions.markdown)
-- [Keywords](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/keywords.markdown)
-- [named_parameters](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/named_parameters.markdown)
-- [inheritance](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/inheritance.markdown)
-- [delegates](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/delegates.markdown) 
+- [Classes](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/classes.markdown)
+- [Structs](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/structs.markdown)
+- [Functions](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/functions.markdown)
+- [Keywords](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/keywords.markdown)
+- [named_parameters](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/named_parameters.markdown)
+- [inheritance](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/inheritance.markdown)
+- [delegates](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/delegates.markdown) 
 
  

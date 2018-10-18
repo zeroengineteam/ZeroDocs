@@ -1,8 +1,8 @@
-If a MIDI device is connected when the Zero Engine starts up it will listen for messages from that device and send corresponding [ MidiEvents ](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/midievent.markdown). It does not keep track of device changes, so if a MIDI keyboard is plugged in after the editor or the game is running it won't respond to that device.
+If a MIDI device is connected when the Zero Engine starts up it will listen for messages from that device and send corresponding [ MidiEvents ](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/midievent.markdown). It does not keep track of device changes, so if a MIDI keyboard is plugged in after the editor or the game is running it won't respond to that device.
 
  # Common Uses
 
-- Using a synthesizer created with the [AdditiveSynthNode ](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/audio/soundnode/additivesynthnode.markdown)
+- Using a synthesizer created with the [AdditiveSynthNode ](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/audio/soundnode/additivesynthnode.markdown)
 - Alternate game input and control 
 
  # Using the MIDI Events
@@ -36,10 +36,10 @@ The following events will be sent whenever a corresponding MIDI message is recei
 
  ## Manual
 
-- [AdditiveSynthNode ](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/audio/soundnode/additivesynthnode.markdown)
+- [AdditiveSynthNode ](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/audio/soundnode/additivesynthnode.markdown)
 
  ## Reference
 
-- [ MIDIEvent ](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/midievent.markdown) 
+- [ MIDIEvent ](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/midievent.markdown) 
 
  

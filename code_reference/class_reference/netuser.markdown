@@ -6,18 +6,18 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ AddedByPeer](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netuser.markdown#addedbypeer-zero-engine)|[ AddedByMyPeer](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netuser.markdown#addedbymypeer-zero-engin)|[netobject](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netobject.markdown)| |
-|[ FindOwnedNetObjectByName](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netuser.markdown#findownednetobjectbyname)|[ NetPeerId](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netuser.markdown#netpeerid-zero-engine-do)| | |
-|[ FindOwnedNetObjectByNameInSpace](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netuser.markdown#findownednetobjectbyname)|[ NetUserId](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netuser.markdown#netuserid-zero-engine-do)| | |
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netuser.markdown#netuser-void)|[ OwnedNetObjectCount](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netuser.markdown#ownednetobjectcount-zero)| | |
-|[ ReleaseOwnedNetObjects](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netuser.markdown#releaseownednetobjects-v)|[ OwnedNetObjects](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netuser.markdown#ownednetobjects-zero-eng)| | |
+|[ AddedByPeer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netuser.markdown#addedbypeer-zero-engine)|[ AddedByMyPeer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netuser.markdown#addedbymypeer-zero-engin)|[netobject](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netobject.markdown)| |
+|[ FindOwnedNetObjectByName](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netuser.markdown#findownednetobjectbyname)|[ NetPeerId](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netuser.markdown#netpeerid-zero-engine-do)| | |
+|[ FindOwnedNetObjectByNameInSpace](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netuser.markdown#findownednetobjectbyname)|[ NetUserId](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netuser.markdown#netuserid-zero-engine-do)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netuser.markdown#netuser-void)|[ OwnedNetObjectCount](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netuser.markdown#ownednetobjectcount-zero)| | |
+|[ ReleaseOwnedNetObjects](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netuser.markdown#releaseownednetobjects-v)|[ OwnedNetObjects](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/netuser.markdown#ownednetobjects-zero-eng)| | |
 
 
  #  Properties
 
 
 ---  
- #  AddedByMyPeer : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  AddedByMyPeer : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -27,7 +27,7 @@
 
 
 ---  
- #  NetPeerId : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  NetPeerId : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
  `read-only`
 
@@ -37,7 +37,7 @@
 
 
 ---  
- #  NetUserId : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  NetUserId : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
  `read-only`
 
@@ -47,7 +47,7 @@
 
 
 ---  
- #  OwnedNetObjectCount : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  OwnedNetObjectCount : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
  `read-only`
 
@@ -57,7 +57,7 @@
 
 
 ---  
- #  OwnedNetObjects : [coghashsetrange](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/coghashsetrange.markdown)
+ #  OwnedNetObjects : [coghashsetrange](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/coghashsetrange.markdown)
 
  `read-only`
 
@@ -71,37 +71,37 @@
 
 
 ---  
- #  AddedByPeer : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  AddedByPeer : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > Returns true if the user was added by the specified peer, else false.
 > |Name|Type|Description|
 > |---|---|---|
-> |netPeerId|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |netPeerId|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function AddedByPeer(netPeerId : Integer) : Boolean
 > ``` 
 
 
 ---  
- #  FindOwnedNetObjectByName : [cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
+ #  FindOwnedNetObjectByName : [cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)
 
 > Finds a net object with the given name owned by this user in any space, else nullptr.
 > |Name|Type|Description|
 > |---|---|---|
-> |name|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
+> |name|[string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function FindOwnedNetObjectByName(name : String) : Cog
 > ``` 
 
 
 ---  
- #  FindOwnedNetObjectByNameInSpace : [cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
+ #  FindOwnedNetObjectByNameInSpace : [cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)
 
 > Finds a net object with the given name owned by this user in the specified space, else nullptr.
 > |Name|Type|Description|
 > |---|---|---|
-> |name|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
-> |space|[space](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/space.markdown)| |
+> |name|[string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)| |
+> |space|[space](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/space.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function FindOwnedNetObjectByNameInSpace(name : String, space : Space) : Cog
 > ``` 

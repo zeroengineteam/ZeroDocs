@@ -2,7 +2,7 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/generatedarchetype.markdown#generatedarchetype-void)| |[contentcomponent](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/contentcomponent.markdown)| |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/generatedarchetype.markdown#generatedarchetype-void)| |[contentcomponent](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/contentcomponent.markdown)| |
 
 
  #  Properties

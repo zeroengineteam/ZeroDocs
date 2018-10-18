@@ -6,15 +6,15 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/fixedanglejoint.markdown#fixedanglejoint-void)|[ LocalBasisA](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/fixedanglejoint.markdown#localbasisa-zero-engine)|[joint](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/joint.markdown)| |
-| |[ LocalBasisB](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/fixedanglejoint.markdown#localbasisb-zero-engine)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/fixedanglejoint.markdown#fixedanglejoint-void)|[ LocalBasisA](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/fixedanglejoint.markdown#localbasisa-zero-engine)|[joint](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/joint.markdown)| |
+| |[ LocalBasisB](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/fixedanglejoint.markdown#localbasisb-zero-engine)| | |
 
 
  #  Properties
 
 
 ---  
- #  LocalBasisA : [quaternion](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/quaternion.markdown)
+ #  LocalBasisA : [quaternion](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/quaternion.markdown)
 
 > The local space reference frame of object A . This frame is transformed to world space and then aligned with object B s frame . 
 > ``` lang=cpp, name=Zilch
@@ -22,7 +22,7 @@
 
 
 ---  
- #  LocalBasisB : [quaternion](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/quaternion.markdown)
+ #  LocalBasisB : [quaternion](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/quaternion.markdown)
 
 > The local space reference frame of object B . This frame is transformed to world space and then aligned with object A s frame . 
 > ``` lang=cpp, name=Zilch

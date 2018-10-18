@@ -4,51 +4,51 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ AddComponentByName](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#addcomponentbyname-zero)|[ Actions](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#actions-zero-engine-docu)|Object|[gamesession](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/gamesession.markdown)|
-|[ AddComponentByType](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#addcomponentbytype-zero)|[ Archetype](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#archetype-zero-engine-do)| |[space](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/space.markdown)|
-|[ AttachTo](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#attachto-zero-engine-doc)|[ BaseArchetype](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#basearchetype-zero-engin)| | |
-|[ AttachToPreserveLocal](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#attachtopreservelocal-ze)|[ ChildCount](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#childcount-zero-engine-d)| | |
-|[ ClearArchetype](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#cleararchetype-void)|[ Children](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#children-zero-engine-doc)| | |
-|[ Clone](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#clone-zero-engine-docume)|[ ComponentCount](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#componentcount-zero-engi)| | |
-|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#cog-void)|[ EditorViewportHidden](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#editorviewporthidden-zer)| | |
-|[ DebugDraw](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#debugdraw-void)|[ GameSession](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#gamesession-zero-engine)| | |
-|[ Destroy](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#destroy-void)|[ LevelSettings](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#levelsettings-zero-engin)| | |
-|[ Detach](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#detach-void)|[ Locked](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#locked-zero-engine-docum)| | |
-|[ DetachPreserveLocal](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#detachpreservelocal-void)|[ MarkedForDestruction](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#markedfordestruction-zer)| | |
-|[ DispatchDown](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#dispatchdown-void)|[ Name](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#name-zero-engine-documen)| | |
-|[ DispatchEvent](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#dispatchevent-void)|[ ObjectViewHidden](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#objectviewhidden-zero-en)| | |
-|[ DispatchUp](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#dispatchup-void)|[ Parent](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#parent-zero-engine-docum)| | |
-|[ FindAllChildrenByName](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#findallchildrenbyname-ze)|[ Persistent](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#persistent-zero-engine-d)| | |
-|[ FindChildByName](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#findchildbyname-zero-eng)|[ RuntimeId](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#runtimeid-zero-engine-do)| | |
-|[ FindDirectChildByName](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#finddirectchildbyname-ze)|[ Space](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#space-zero-engine-docume)| | |
-|[ FindNearestArchetype](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#findnearestarchetype-zer)|[ Transient](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#transient-zero-engine-do)| | |
-|[ FindNextInOrder](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#findnextinorder-zero-eng)| | | |
-|[ FindNextSibling](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#findnextsibling-zero-eng)| | | |
-|[ FindPreviousInOrder](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#findpreviousinorder-zero)| | | |
-|[ FindPreviousSibling](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#findprevioussibling-zero)| | | |
-|[ FindRoot](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#findroot-zero-engine-doc)| | | |
-|[ FindRootArchetype](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#findrootarchetype-zero-e)| | | |
-|[ GetComponentByIndex](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#getcomponentbyindex-zero)| | | |
-|[ GetComponentByName](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#getcomponentbyname-zero)| | | |
-|[ GetComponentIndex](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#getcomponentindex-zero-e)| | | |
-|[ IsAncestorOf](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#isancestorof-zero-engine)| | | |
-|[ IsDescendant](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#isdescendant-zero-engine)| | | |
-|[ IsDescendantOf](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#isdescendantof-zero-engi)| | | |
-|[ IsModifiedFromArchetype](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#ismodifiedfromarchetype)| | | |
-|[ PlaceAfterSibling](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#placeaftersibling-void)| | | |
-|[ PlaceBeforeSibling](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#placebeforesibling-void)| | | |
-|[ RemoveComponentByName](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#removecomponentbyname-ze)| | | |
-|[ RemoveComponentByType](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#removecomponentbytype-ze)| | | |
-|[ ReplaceChild](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#replacechild-void)| | | |
-|[ SanitizeName](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#sanitizename-zero-engine)| | | |
-|[ UploadToArchetype](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown#uploadtoarchetype-void)| | | |
+|[ AddComponentByName](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#addcomponentbyname-zero)|[ Actions](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#actions-zero-engine-docu)|Object|[gamesession](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/gamesession.markdown)|
+|[ AddComponentByType](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#addcomponentbytype-zero)|[ Archetype](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#archetype-zero-engine-do)| |[space](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/space.markdown)|
+|[ AttachTo](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#attachto-zero-engine-doc)|[ BaseArchetype](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#basearchetype-zero-engin)| | |
+|[ AttachToPreserveLocal](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#attachtopreservelocal-ze)|[ ChildCount](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#childcount-zero-engine-d)| | |
+|[ ClearArchetype](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#cleararchetype-void)|[ Children](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#children-zero-engine-doc)| | |
+|[ Clone](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#clone-zero-engine-docume)|[ ComponentCount](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#componentcount-zero-engi)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#cog-void)|[ EditorViewportHidden](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#editorviewporthidden-zer)| | |
+|[ DebugDraw](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#debugdraw-void)|[ GameSession](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#gamesession-zero-engine)| | |
+|[ Destroy](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#destroy-void)|[ LevelSettings](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#levelsettings-zero-engin)| | |
+|[ Detach](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#detach-void)|[ Locked](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#locked-zero-engine-docum)| | |
+|[ DetachPreserveLocal](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#detachpreservelocal-void)|[ MarkedForDestruction](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#markedfordestruction-zer)| | |
+|[ DispatchDown](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#dispatchdown-void)|[ Name](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#name-zero-engine-documen)| | |
+|[ DispatchEvent](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#dispatchevent-void)|[ ObjectViewHidden](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#objectviewhidden-zero-en)| | |
+|[ DispatchUp](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#dispatchup-void)|[ Parent](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#parent-zero-engine-docum)| | |
+|[ FindAllChildrenByName](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#findallchildrenbyname-ze)|[ Persistent](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#persistent-zero-engine-d)| | |
+|[ FindChildByName](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#findchildbyname-zero-eng)|[ RuntimeId](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#runtimeid-zero-engine-do)| | |
+|[ FindDirectChildByName](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#finddirectchildbyname-ze)|[ Space](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#space-zero-engine-docume)| | |
+|[ FindNearestArchetype](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#findnearestarchetype-zer)|[ Transient](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#transient-zero-engine-do)| | |
+|[ FindNextInOrder](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#findnextinorder-zero-eng)| | | |
+|[ FindNextSibling](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#findnextsibling-zero-eng)| | | |
+|[ FindPreviousInOrder](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#findpreviousinorder-zero)| | | |
+|[ FindPreviousSibling](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#findprevioussibling-zero)| | | |
+|[ FindRoot](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#findroot-zero-engine-doc)| | | |
+|[ FindRootArchetype](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#findrootarchetype-zero-e)| | | |
+|[ GetComponentByIndex](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#getcomponentbyindex-zero)| | | |
+|[ GetComponentByName](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#getcomponentbyname-zero)| | | |
+|[ GetComponentIndex](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#getcomponentindex-zero-e)| | | |
+|[ IsAncestorOf](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#isancestorof-zero-engine)| | | |
+|[ IsDescendant](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#isdescendant-zero-engine)| | | |
+|[ IsDescendantOf](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#isdescendantof-zero-engi)| | | |
+|[ IsModifiedFromArchetype](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#ismodifiedfromarchetype)| | | |
+|[ PlaceAfterSibling](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#placeaftersibling-void)| | | |
+|[ PlaceBeforeSibling](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#placebeforesibling-void)| | | |
+|[ RemoveComponentByName](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#removecomponentbyname-ze)| | | |
+|[ RemoveComponentByType](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#removecomponentbytype-ze)| | | |
+|[ ReplaceChild](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#replacechild-void)| | | |
+|[ SanitizeName](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#sanitizename-zero-engine)| | | |
+|[ UploadToArchetype](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown#uploadtoarchetype-void)| | | |
 
 
  #  Properties
 
 
 ---  
- #  Actions : [actions](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/actions.markdown)
+ #  Actions : [actions](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/actions.markdown)
 
  `read-only`
 
@@ -58,7 +58,7 @@
 
 
 ---  
- #  Archetype : [archetype](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/archetype.markdown)
+ #  Archetype : [archetype](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/archetype.markdown)
 
 > Getter / setter for Archetype.
 > ``` lang=cpp, name=Zilch
@@ -66,7 +66,7 @@
 
 
 ---  
- #  BaseArchetype : [archetype](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/archetype.markdown)
+ #  BaseArchetype : [archetype](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/archetype.markdown)
 
  `read-only`
 
@@ -76,7 +76,7 @@
 
 
 ---  
- #  ChildCount : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  ChildCount : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
  `read-only`
 
@@ -86,7 +86,7 @@
 
 
 ---  
- #  Children : [hierarchylistrange](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/hierarchylistrange.markdown)
+ #  Children : [hierarchylistrange](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/hierarchylistrange.markdown)
 
  `read-only`
 
@@ -96,7 +96,7 @@
 
 
 ---  
- #  ComponentCount : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  ComponentCount : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
  `read-only`
 
@@ -106,7 +106,7 @@
 
 
 ---  
- #  EditorViewportHidden : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  EditorViewportHidden : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > Hidden from view used for editor.
 > ``` lang=cpp, name=Zilch
@@ -114,7 +114,7 @@
 
 
 ---  
- #  GameSession : [gamesession](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/gamesession.markdown)
+ #  GameSession : [gamesession](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/gamesession.markdown)
 
  `read-only`
 
@@ -124,7 +124,7 @@
 
 
 ---  
- #  LevelSettings : [cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
+ #  LevelSettings : [cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)
 
  `read-only`
 
@@ -134,7 +134,7 @@
 
 
 ---  
- #  Locked : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  Locked : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > Not able to be modified or selected in the viewport.
 > ``` lang=cpp, name=Zilch
@@ -142,7 +142,7 @@
 
 
 ---  
- #  MarkedForDestruction : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  MarkedForDestruction : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -152,7 +152,7 @@
 
 
 ---  
- #  Name : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
+ #  Name : [string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)
 
 > Name of the Object.
 > ``` lang=cpp, name=Zilch
@@ -160,7 +160,7 @@
 
 
 ---  
- #  ObjectViewHidden : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  ObjectViewHidden : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > If the object needs to not show up in the object view.
 > ``` lang=cpp, name=Zilch
@@ -168,7 +168,7 @@
 
 
 ---  
- #  Parent : [cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
+ #  Parent : [cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)
 
  `read-only`
 
@@ -178,7 +178,7 @@
 
 
 ---  
- #  Persistent : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  Persistent : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > Object will not be destroyed on level load or change.
 > ``` lang=cpp, name=Zilch
@@ -186,7 +186,7 @@
 
 
 ---  
- #  RuntimeId : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  RuntimeId : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
  `read-only`
 
@@ -196,7 +196,7 @@
 
 
 ---  
- #  Space : [space](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/space.markdown)
+ #  Space : [space](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/space.markdown)
 
  `read-only`
 
@@ -206,7 +206,7 @@
 
 
 ---  
- #  Transient : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  Transient : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > Object will not be saved.
 > ``` lang=cpp, name=Zilch
@@ -218,48 +218,48 @@
 
 
 ---  
- #  AddComponentByName : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  AddComponentByName : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > Add a component by name.
 > |Name|Type|Description|
 > |---|---|---|
-> |name|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
+> |name|[string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function AddComponentByName(name : String) : Boolean
 > ``` 
 
 
 ---  
- #  AddComponentByType : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  AddComponentByType : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > Add a component of the given type.
 > |Name|Type|Description|
 > |---|---|---|
-> |componentType|[boundtype](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boundtype.markdown)| |
+> |componentType|[boundtype](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boundtype.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function AddComponentByType(componentType : BoundType) : Boolean
 > ``` 
 
 
 ---  
- #  AttachTo : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  AttachTo : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > Attach to a parent object and compute the new transform so that the objects are relative.
 > |Name|Type|Description|
 > |---|---|---|
-> |parent|[cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)| |
+> |parent|[cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function AttachTo(parent : Cog) : Boolean
 > ``` 
 
 
 ---  
- #  AttachToPreserveLocal : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  AttachToPreserveLocal : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > Attach to a parent object.
 > |Name|Type|Description|
 > |---|---|---|
-> |parent|[cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)| |
+> |parent|[cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function AttachToPreserveLocal(parent : Cog) : Boolean
 > ``` 
@@ -277,7 +277,7 @@
 
 
 ---  
- #  Clone : [cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
+ #  Clone : [cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)
 
 > Clones this cog. The cloned object will be parented to this objects parent (if it exists).
 > |Name|Type|Description|
@@ -350,8 +350,8 @@
 > Dispatches an event down the tree on all children recursively (pre-order traversal)
 > |Name|Type|Description|
 > |---|---|---|
-> |eventId|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
-> |event|[event](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/event.markdown)| |
+> |eventId|[string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)| |
+> |event|[event](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/event.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function DispatchDown(eventId : String, event : Event)
 > ``` 
@@ -363,8 +363,8 @@
 > Dispatches an event on this object.
 > |Name|Type|Description|
 > |---|---|---|
-> |eventId|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
-> |event|[event](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/event.markdown)| |
+> |eventId|[string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)| |
+> |event|[event](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/event.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function DispatchEvent(eventId : String, event : Event)
 > ``` 
@@ -376,51 +376,51 @@
 > Dispatches an event up the tree on each parent recursively (pre-order traversal)
 > |Name|Type|Description|
 > |---|---|---|
-> |eventId|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
-> |event|[event](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/event.markdown)| |
+> |eventId|[string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)| |
+> |event|[event](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/event.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function DispatchUp(eventId : String, event : Event)
 > ``` 
 
 
 ---  
- #  FindAllChildrenByName : [hierarchynamerange](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/hierarchynamerange.markdown)
+ #  FindAllChildrenByName : [hierarchynamerange](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/hierarchynamerange.markdown)
 
 > Returns a range of all children with the given name.
 > |Name|Type|Description|
 > |---|---|---|
-> |name|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
+> |name|[string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function FindAllChildrenByName(name : String) : HierarchyNameRange
 > ``` 
 
 
 ---  
- #  FindChildByName : [cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
+ #  FindChildByName : [cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)
 
 > Depth first search of all children.
 > |Name|Type|Description|
 > |---|---|---|
-> |name|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
+> |name|[string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function FindChildByName(name : String) : Cog
 > ``` 
 
 
 ---  
- #  FindDirectChildByName : [cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
+ #  FindDirectChildByName : [cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)
 
 > Checks only direct children.
 > |Name|Type|Description|
 > |---|---|---|
-> |name|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
+> |name|[string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function FindDirectChildByName(name : String) : Cog
 > ``` 
 
 
 ---  
- #  FindNearestArchetype : [cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
+ #  FindNearestArchetype : [cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)
 
 > Same as FindNearestParentArchetype except that it includes this Cog.
 > |Name|Type|Description|
@@ -431,7 +431,7 @@
 
 
 ---  
- #  FindNextInOrder : [cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
+ #  FindNextInOrder : [cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)
 
 > Finds the next Cog in depth first post-order.
 > |Name|Type|Description|
@@ -442,7 +442,7 @@
 
 
 ---  
- #  FindNextSibling : [cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
+ #  FindNextSibling : [cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)
 
 > Returns the sibling Cog after this in the parents child list. Returns null if it's the last child. If the Cog doesn't have a parent, it will return the Cog after it in the Space.
 > |Name|Type|Description|
@@ -453,7 +453,7 @@
 
 
 ---  
- #  FindPreviousInOrder : [cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
+ #  FindPreviousInOrder : [cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)
 
 > Finds the previous Cog in reverse depth first post-order (the opposite of FindNextInOrder).
 > |Name|Type|Description|
@@ -464,7 +464,7 @@
 
 
 ---  
- #  FindPreviousSibling : [cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
+ #  FindPreviousSibling : [cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)
 
 > Returns the sibling Cog before this in the parents child list. Returns null if it's the first child. If the Cog doesn't have a parent, it will return the Cog before it in the Space.
 > |Name|Type|Description|
@@ -475,7 +475,7 @@
 
 
 ---  
- #  FindRoot : [cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
+ #  FindRoot : [cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)
 
 > Searches up the hierarchy for the root Cog.
 > |Name|Type|Description|
@@ -486,7 +486,7 @@
 
 
 ---  
- #  FindRootArchetype : [cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
+ #  FindRootArchetype : [cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)
 
 > Finds the top most Archetype in the Hierarchy.
 > |Name|Type|Description|
@@ -497,79 +497,79 @@
 
 
 ---  
- #  GetComponentByIndex : [component](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/component.markdown)
+ #  GetComponentByIndex : [component](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/component.markdown)
 
 > Returns the Component at the given index.
 > |Name|Type|Description|
 > |---|---|---|
-> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |index|[integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function GetComponentByIndex(index : Integer) : Component
 > ``` 
 
 
 ---  
- #  GetComponentByName : [component](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/component.markdown)
+ #  GetComponentByName : [component](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/component.markdown)
 
 > Finds the Components with the given type name.
 > |Name|Type|Description|
 > |---|---|---|
-> |componentTypeName|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
+> |componentTypeName|[string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function GetComponentByName(componentTypeName : String) : Component
 > ``` 
 
 
 ---  
- #  GetComponentIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+ #  GetComponentIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/integer.markdown)
 
 > Finds the index of the given Component type. Returns uint max if the Component didn't exist.
 > |Name|Type|Description|
 > |---|---|---|
-> |componentType|[boundtype](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boundtype.markdown)| |
+> |componentType|[boundtype](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boundtype.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function GetComponentIndex(componentType : BoundType) : Integer
 > ``` 
 
 
 ---  
- #  IsAncestorOf : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  IsAncestorOf : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > Returns whether or not we are an ancestor of the given Cog.
 > |Name|Type|Description|
 > |---|---|---|
-> |descendant|[cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)| |
+> |descendant|[cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function IsAncestorOf(descendant : Cog) : Boolean
 > ``` 
 
 
 ---  
- #  IsDescendant : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  IsDescendant : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > Returns whether or not the given cog is a descendant of us.
 > |Name|Type|Description|
 > |---|---|---|
-> |cog|[cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)| |
+> |cog|[cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function IsDescendant(cog : Cog) : Boolean
 > ``` 
 
 
 ---  
- #  IsDescendantOf : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  IsDescendantOf : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > Returns whether or not we are a descendant of the given Cog.
 > |Name|Type|Description|
 > |---|---|---|
-> |ancestor|[cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)| |
+> |ancestor|[cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function IsDescendantOf(ancestor : Cog) : Boolean
 > ``` 
 
 
 ---  
- #  IsModifiedFromArchetype : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  IsModifiedFromArchetype : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > Returns whether or not we have any local modifications from our Archetype. This does not account for properties with LocalModificationOverride (such as Transform modifications).
 > |Name|Type|Description|
@@ -585,7 +585,7 @@
 > Moves this Cog after the given sibling. Assumes they have the same parent.
 > |Name|Type|Description|
 > |---|---|---|
-> |sibling|[cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)| |
+> |sibling|[cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function PlaceAfterSibling(sibling : Cog)
 > ``` 
@@ -597,31 +597,31 @@
 > Moves this Cog before the given sibling. Assumes they have the same parent.
 > |Name|Type|Description|
 > |---|---|---|
-> |sibling|[cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)| |
+> |sibling|[cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function PlaceBeforeSibling(sibling : Cog)
 > ``` 
 
 
 ---  
- #  RemoveComponentByName : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  RemoveComponentByName : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > Remove a component by name. Returns true if the component existed.
 > |Name|Type|Description|
 > |---|---|---|
-> |typeName|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
+> |typeName|[string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveComponentByName(typeName : String) : Boolean
 > ``` 
 
 
 ---  
- #  RemoveComponentByType : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+ #  RemoveComponentByType : [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)
 
 > Remove a component by type. Returns true if the component existed.
 > |Name|Type|Description|
 > |---|---|---|
-> |componentType|[boundtype](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boundtype.markdown)| |
+> |componentType|[boundtype](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boundtype.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveComponentByType(componentType : BoundType) : Boolean
 > ``` 
@@ -633,22 +633,22 @@
 > Places the new child at the same place as the old child in the Hierarchy. This detaches but does not destroy the old child.
 > |Name|Type|Description|
 > |---|---|---|
-> |oldChild|[cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)| |
-> |newChild|[cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)| |
+> |oldChild|[cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)| |
+> |newChild|[cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function ReplaceChild(oldChild : Cog, newChild : Cog)
 > ``` 
 
 
 ---  
- #  SanitizeName : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
+ #  SanitizeName : [string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)
 
  `static`
 
 > Cleans an object name of invalid runes.
 > |Name|Type|Description|
 > |---|---|---|
-> |newName|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
+> |newName|[string](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function SanitizeName(newName : String) : String
 > ``` 

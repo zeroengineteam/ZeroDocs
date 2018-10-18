@@ -35,7 +35,7 @@ Once it has been opened, a window will appear at the bottom of the Editor :
 
  # AnimationGraph Component
 
-Before animating an object's properties using the Animator, the [AnimationGraph](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/animationgraph.markdown) component must first be added to that object. This tells Zero that this object's properties are now able to be animated as well as how fast it should be played. The `AnimationGraph` component is added to an object the same as any other component or by clicking on the highlighted text at the bottom of the screen:
+Before animating an object's properties using the Animator, the [AnimationGraph](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/animationgraph.markdown) component must first be added to that object. This tells Zero that this object's properties are now able to be animated as well as how fast it should be played. The `AnimationGraph` component is added to an object the same as any other component or by clicking on the highlighted text at the bottom of the screen:
 
 
 ![AddAnimationGraph](https://media.githubusercontent.com/media/zeroengineteam/ZeroFiles/master/doc_files/47608.png)
@@ -56,7 +56,7 @@ This can also be done by clicking on the highlighted text at the bottom of the s
 ![CreateNewAnimation](https://media.githubusercontent.com/media/zeroengineteam/ZeroFiles/master/doc_files/47612.png)
 
 
-The object should now have a new [SimpleAnimation](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/simpleanimation.markdown) component. 
+The object should now have a new [SimpleAnimation](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/simpleanimation.markdown) component. 
 
  # SimpleAnimation Component
 
@@ -167,8 +167,8 @@ Finally, set the playmode to loop.
 
  ## Code Reference
 
-- [AnimationGraph](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/animationgraph.markdown)
-- [SimpleAnimation](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/simpleanimation.markdown)
+- [AnimationGraph](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/animationgraph.markdown)
+- [SimpleAnimation](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/simpleanimation.markdown)
  
 
  

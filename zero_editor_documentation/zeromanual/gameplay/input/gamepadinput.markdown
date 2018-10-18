@@ -1,4 +1,4 @@
-[Gamepads](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/gamepad.markdown) are very useful tools for any game project. They often offer a more comfortable method of controlling a game, especially if two or more players are intended to play at the same time. As well as being an alternate method of control, Gamepads can also make use of vibration as a method of feedback.
+[Gamepads](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/gamepad.markdown) are very useful tools for any game project. They often offer a more comfortable method of controlling a game, especially if two or more players are intended to play at the same time. As well as being an alternate method of control, Gamepads can also make use of vibration as a method of feedback.
 
  # Common Uses
  - Provides a alternative method of control to Keyboard and Mouse inputs
@@ -57,7 +57,7 @@ function OnLogicUpdate(event : UpdateEvent)
 Since the thumbsticks return a Real2 at a range from `-1` to `1`, this can easily be translated into creating movement on a 2D plane. Keep in mind this example does not use the `RightStick`, only the `LeftStick`. 
 
  ## Button Input
-Similar to [Mouse Input](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/gameplay/input/mouseinput.markdown), assigning logic to the various buttons on the Gamepad can be Frame Based or Event Based. Both have their strengths and weaknesses; determining which approach is better for a specific project should be decided on a case by case basis. 
+Similar to [Mouse Input](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/gameplay/input/mouseinput.markdown), assigning logic to the various buttons on the Gamepad can be Frame Based or Event Based. Both have their strengths and weaknesses; determining which approach is better for a specific project should be decided on a case by case basis. 
 
  ## Frame Based Button Input
 The example given above is Frame Based, and the reason for that is simple: Frame Based Input from a Gamepad works best when there will be sustained action, such as when a thumbstick is held down to move a player character. This same logic applies to buttons as well. 
@@ -189,7 +189,7 @@ function Initialize(init : CogInitializer)
 Simply change the PlayerIndex of an object to assign it to Gamepad One, Gamepad Two, etc. Keep in mind, however, that the GamePad index starts at `0`, so the index for GamePad One would be `0`, GamePad Two would be `1`, Three `2`, and so on.
 
  # Properties of Gamepad and Object Events
-All of the events associated with the Gamepad are [GamepadEvents](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/gamepadevent.markdown), with the exception of [GamepadUpdated](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/gamepadevent.markdown), which is an [ObjectEvent](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/objectevent.markdown). As all the others are the same type of event, they all share the same properties that can be accessed when the event is dispatched. `ObjectEvents` themselves can access the Gamepad that dispatched the event by using  `ObjectEvent`, which `GamepadEvents` likewise has access to with `GamepadEvent.Gamepad`.
+All of the events associated with the Gamepad are [GamepadEvents](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/gamepadevent.markdown), with the exception of [GamepadUpdated](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/gamepadevent.markdown), which is an [ObjectEvent](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/objectevent.markdown). As all the others are the same type of event, they all share the same properties that can be accessed when the event is dispatched. `ObjectEvents` themselves can access the Gamepad that dispatched the event by using  `ObjectEvent`, which `GamepadEvents` likewise has access to with `GamepadEvent.Gamepad`.
 
 IMPORTANT: As of the time of the creation of this page, `ObjectEvent.Source` returns a null pointer rather than the Gamepad that dispatched the event. 
 
@@ -230,13 +230,13 @@ function OnGamepadStickFlicked(event : GamepadEvent)
 
  # Related Materials
  ## Manual
-- [Mouse Input](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/gameplay/input/mouseinput.markdown)
+- [Mouse Input](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/gameplay/input/mouseinput.markdown)
 
  ## Code Reference
-- [Gamepad](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/Gamepad.markdown) 
-- [Gamepads](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/Gamepads.markdown) 
-- [Real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown) 
-- [ObjectEvent](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/ObjectEvent.markdown) 
-- [GamepadEvent](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/gamepadevent.markdown) 
+- [Gamepad](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Gamepad.markdown) 
+- [Gamepads](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Gamepads.markdown) 
+- [Real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown) 
+- [ObjectEvent](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/ObjectEvent.markdown) 
+- [GamepadEvent](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/gamepadevent.markdown) 
 
  
