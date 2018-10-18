@@ -9,7 +9,7 @@ NOTE: **Recommended Reading**  This section covers topics that may not have been
  - Easier text swapping
 
  # Using a TextBlock
-Adding Text using the TextBlock requires two elements: a TextBlock resource and a [SpriteText](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/SpriteText.markdown) component. To get the text from the TextBlock into the SpriteText you will need a component like this
+Adding Text using the TextBlock requires two elements: a TextBlock resource and a [SpriteText](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/spritetext.markdown) component. To get the text from the TextBlock into the SpriteText you will need a component like this
 
 ```lang=csharp
 [RunInEditor]
@@ -74,6 +74,6 @@ The `Area` component can help solve this problem. While SpriteTextBlock keeps th
 
  ## Reference Pages
 - [textblock](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/textblock.markdown)
-- [SpriteText](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/SpriteText.markdown)  
+- [SpriteText](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/spritetext.markdown)  
 
  

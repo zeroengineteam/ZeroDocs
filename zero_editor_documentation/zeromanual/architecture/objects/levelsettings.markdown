@@ -8,7 +8,7 @@ The LevelSettings object is a [Cog](https://github.com/zeroengineteam/ZeroDocs/b
 
  ## Accessing the LevelSettings Object In Editor
 
-NOTE: **Initialization Order** Notice that because the LevelSettings object is always the first object in the [Object Window](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Editor/EditorUI.markdown) (and cannot be reordered) it will always be the first object to be created and initialized when the level is loaded into the Space. This can be very useful when implementing logic which depends on being initialized before related components on other objects in the level.
+NOTE: **Initialization Order** Notice that because the LevelSettings object is always the first object in the [Object Window](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorui.markdown) (and cannot be reordered) it will always be the first object to be created and initialized when the level is loaded into the Space. This can be very useful when implementing logic which depends on being initialized before related components on other objects in the level.
 
 
 The LevelSettings object will always be the first object in the Object Window making it easy to find in editor.
@@ -56,7 +56,7 @@ class ExampleComponent : ZilchComponent
 
 
  ### GravityEffect & DragEffect
-Physics Effects are built in components that implement a piece of common physics-based functionality such as the [GravityEffect](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/physicseffectsandregions/forceeffect.markdown) or the [DragEffect](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/DragEffect.markdown) components that are attached to the LevelSettings by default. Each physics effect component may perform the logic on different spatial scopes depending on which object is attached to. When a physics effect component is attached to the LevelSettings object it is applied to all objects in that level. This allows one to implement level wide effects with any of the built in physics effects as is done by default with GravityEffect and DragEffect.
+Physics Effects are built in components that implement a piece of common physics-based functionality such as the [GravityEffect](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/physicseffectsandregions/forceeffect.markdown) or the [DragEffect](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/drageffect.markdown) components that are attached to the LevelSettings by default. Each physics effect component may perform the logic on different spatial scopes depending on which object is attached to. When a physics effect component is attached to the LevelSettings object it is applied to all objects in that level. This allows one to implement level wide effects with any of the built in physics effects as is done by default with GravityEffect and DragEffect.
 
  ### GridDraw
 The [griddraw](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/griddraw.markdown) component is a simple debug drawing component. It uses Zero's buit in GridDraw component is a simple debug drawing component. It uses Zero's buit in [debugdrawing](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/scripting/debugdrawing.markdown) to create a customizable unit grid in the Level Window.
@@ -81,14 +81,14 @@ While the above example may not be applicable to all games, it demonstrates the 
  # Related Materials
  ## Manual Pages
 - [Cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/architecture/cogs.markdown)
-- [Editor UI](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Editor/EditorUI.markdown)
-- [Debug Drawing](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Scripting/DebugDrawing.markdown)
+- [Editor UI](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorui.markdown)
+- [Debug Drawing](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/scripting/debugdrawing.markdown)
 - [physics effects](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/physicseffectsandregions.markdown)
 
  ## Code Reference
-- [GravityEffect](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/GravityEffect.markdown) 
-- [DragEffect](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/DragEffect.markdown) 
-- [GridDraw](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/GridDraw.markdown) 
+- [GravityEffect](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/gravityeffect.markdown) 
+- [DragEffect](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/drageffect.markdown) 
+- [GridDraw](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/griddraw.markdown) 
  
 
  

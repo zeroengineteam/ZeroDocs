@@ -173,9 +173,9 @@ Verifying that your code behaves as intended is a critical part of programming a
 
  ## Reference
  ### Classes
-- [Transform](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Transform.markdown)
-- [Sprite](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Sprite.markdown)
-- [ZilchScript](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/ZilchScript.markdown)
+- [Transform](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/transform.markdown)
+- [Sprite](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/sprite.markdown)
+- [ZilchScript](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/zilchscript.markdown)
 - [ Console](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/console.markdown)
 - [ Add Resource](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/resourceadding.markdown)
 
@@ -184,9 +184,9 @@ Verifying that your code behaves as intended is a critical part of programming a
 - [ StopGame](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#stopgame)
 
  ##  Tutorials
-- [CustomComponents](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/tutorials/scripting/CustomComponents.markdown)
-- [Variables](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/tutorials/scripting/Variables.markdown)
-- [Functions](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/tutorials/scripting/Functions.markdown)
+- [CustomComponents](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/tutorials/scripting/customcomponents.markdown)
+- [Variables](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/tutorials/scripting/variables.markdown)
+- [Functions](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/tutorials/scripting/functions.markdown)
  
 
  

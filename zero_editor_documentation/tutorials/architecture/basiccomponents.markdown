@@ -302,7 +302,7 @@ Let's take a look at our final result:
 - [ CreateSpriteText](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#createspritetext)
 
  ###  Classes
-- [Sprite](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Sprite.markdown)
+- [Sprite](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/sprite.markdown)
 - [transform](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/transform.markdown)
 - [rigidbody](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/rigidbody.markdown)
 - [collider](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/collider.markdown)
@@ -310,6 +310,6 @@ Let's take a look at our final result:
 - [spherecollider](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/spherecollider.markdown)
 - [cylindercollider](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cylindercollider.markdown)
 - [capsulecollider](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/capsulecollider.markdown)
-- [SpriteText](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/SpriteText.markdown) 
+- [SpriteText](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/spritetext.markdown) 
 
  

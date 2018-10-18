@@ -4,12 +4,12 @@ This page introduces the Zero Engine editor and user interface. It covers editor
 ## Create a New Project
 
 (NOTE)**COMMANDS:**  
-[Commands](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Editor/EditorCommands/Commands.markdown) represent all actions you can perform as a user in the Zero Editor (such as [CreateSpriteText](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#createspritetext), [BackupProject](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#backupproject), and [ExportGame](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#exportgame)).  Links are used throughout the lesson for refreshing your knowledge on how to do common essential tasks. View how to enter Commands in Zero by following the link provided in the tutorial!
+[Commands](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) represent all actions you can perform as a user in the Zero Editor (such as [CreateSpriteText](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#createspritetext), [BackupProject](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#backupproject), and [ExportGame](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#exportgame)).  Links are used throughout the lesson for refreshing your knowledge on how to do common essential tasks. View how to enter Commands in Zero by following the link provided in the tutorial!
 
-It is recommended that you create a new project. If this is the first time you have run the Zero Engine you will already be in the Projects screen and can simply type in a name for your project.  If you are not on the new Projects screen, you can access it using the Project menu.  See the section [The Zero Launcher](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Editor/Launcher.markdown)) for more information.
+It is recommended that you create a new project. If this is the first time you have run the Zero Engine you will already be in the Projects screen and can simply type in a name for your project.  If you are not on the new Projects screen, you can access it using the Project menu.  See the section [The Zero Launcher](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/launcher.markdown)) for more information.
 
 To create a new project follow these steps:
-* [Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Editor/EditorCommands/Commands.markdown) : [NewProject](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#newproject)
+* [Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [NewProject](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#newproject)
 
 
 
@@ -123,7 +123,7 @@ The objects in the `Objects Window` can be searched for by name using the search
 ## Other Windows and Bars
 
 ###Search Window
-This powerful tool allows you to search for various things within the editor.  It also has several other uses such as selecting objects, opening archetypes, viewing properties, etc., that are accessible from here. For example, if you wanted to quickly access a script file, you can just open the search view and type in the name of the script to find it and begin editing.  Another important use of the `Zero Search Window` is for performing commands. See [Commands](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Editor/EditorCommands/Commands.markdown) for more information.
+This powerful tool allows you to search for various things within the editor.  It also has several other uses such as selecting objects, opening archetypes, viewing properties, etc., that are accessible from here. For example, if you wanted to quickly access a script file, you can just open the search view and type in the name of the script to find it and begin editing.  Another important use of the `Zero Search Window` is for performing commands. See [Commands](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) for more information.
 
 
 
@@ -153,7 +153,7 @@ To be "in" a window requires that the window has "focus". To gain focus you need
 ### Game Window
 
 The `Game Window` is where your game actually runs inside the editor. You can test or play your game (or specific levels) here without having to create an executable. 
-* [Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Editor/EditorCommands/Commands.markdown): [PlayGame](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#playgame)
+* [Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown): [PlayGame](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#playgame)
 
 The `Game Window` should appear with its tab next to the `Level Window` tab:
 
@@ -162,7 +162,7 @@ The `Game Window` should appear with its tab next to the `Level Window` tab:
 
 
 * Close the `Game Window` by pressing the `X button` on the Game tab
-* You can also press `Esc` or use [Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Editor/EditorCommands/Commands.markdown): [StopGame](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#stopgame)
+* You can also press `Esc` or use [Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown): [StopGame](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#stopgame)
 
 WARNING:
 It is a good practice to close the game window while editing levels.  There are some assets in the Zero Engine that can be changed by scripts running in the game session.
@@ -220,7 +220,7 @@ The `Zero Search Window` can be used to reopen closed windows and tabs.  Once re
 
  ## Related Materials
  ### Manual
-- [The Zero Launcher](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Editor/Launcher.markdown)
+- [The Zero Launcher](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/launcher.markdown)
 - [Components](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/architecture/components.markdown)
 - [Resource](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/architecture/resources.markdown)
 

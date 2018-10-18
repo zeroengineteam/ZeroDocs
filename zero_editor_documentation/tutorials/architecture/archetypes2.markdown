@@ -61,7 +61,7 @@ class MovementLogic : ZilchComponent
 ![Movement](https://media.githubusercontent.com/media/zeroengineteam/ZeroFiles/master/doc_files/90547.gif)
 
 
-- [ Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ Stop Game](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Editor/EditorCommands/StopGame.markdown)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ Stop Game](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/stopgame.markdown)
 
  # Archetype Creation
 
@@ -133,7 +133,7 @@ class ShootingLogic : ZilchComponent
 ![Shooting](https://media.githubusercontent.com/media/zeroengineteam/ZeroFiles/master/doc_files/90561.gif)
 
 
-- [ Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ Stop the Game](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Editor/EditorCommands/StopGame.markdown)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ Stop the Game](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/stopgame.markdown)
 
 Let's take a closer look inside the `ShootingLogic`'s LogicUpdate function:
 
@@ -160,14 +160,14 @@ Let's take a closer look inside the `ShootingLogic`'s LogicUpdate function:
 - [ COGs](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/architecture/cogs/gameobjectsconcept.markdown)
 - [ Archetypes](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/architecture/archetypes.markdown)
 - [ Play the Game](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/runthegame.markdown)
-- [ Stop the Game](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Editor/EditorCommands/StopGame.markdown)
+- [ Stop the Game](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/stopgame.markdown)
 - [ Add Resource](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/resourceadding.markdown)
 
  ## Reference
  ### Classes
-- [Transform](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Transform.markdown)
-- [Sprite](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Sprite.markdown)
-- [Cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Cog.markdown)
+- [Transform](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/transform.markdown)
+- [Sprite](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/sprite.markdown)
+- [Cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)
 - [Sprite](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/sprite.markdown)
 - [RigidBody](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/rigidbody.markdown)
 - [GravityEffect](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/gravityeffect.markdown)

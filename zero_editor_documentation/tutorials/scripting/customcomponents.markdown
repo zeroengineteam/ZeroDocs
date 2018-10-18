@@ -126,7 +126,7 @@ Your code should look like this:
 *The Sprite object has turned red*
 
 
-These instructions are telling the **owner** of this component (the Sprite object object) to set its [Sprite](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Sprite.markdown) component's VertexColor  property to red. This topic will be covered in more detail in the [ Variables](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/tutorials/scripting/variables.markdown) tutorial.
+These instructions are telling the **owner** of this component (the Sprite object object) to set its [Sprite](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/sprite.markdown) component's VertexColor  property to red. This topic will be covered in more detail in the [ Variables](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/tutorials/scripting/variables.markdown) tutorial.
 
 - [Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ StopGame](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#stopgame)
 

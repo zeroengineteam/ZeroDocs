@@ -131,10 +131,10 @@ If done correctly, you should notice the sound getting quieter as the Square obj
  ### Classes
 - [Sound](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/sound.markdown)
 - [SoundCue](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/soundcue.markdown)
-- [Transform](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Transform.markdown)
-- [SoundEmitter](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/SoundEmitter.markdown)
-- [SimpleSound](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/SimpleSound.markdown)
-- [SoundListener](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/SoundListener.markdown)
+- [Transform](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/transform.markdown)
+- [SoundEmitter](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/soundemitter.markdown)
+- [SimpleSound](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/simplesound.markdown)
+- [SoundListener](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/soundlistener.markdown)
 - [RigidBody](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/rigidbody.markdown)
 
  ### Commands

@@ -1,4 +1,4 @@
-A [PhysicsMaterial](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/PhysicsMaterial.markdown) describes material properties to use for a [Collider](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/Colliders.markdown). These properties affect how collisions are resolved between collider types.
+A [PhysicsMaterial](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/physicsmaterial.markdown) describes material properties to use for a [Collider](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/colliders.markdown). These properties affect how collisions are resolved between collider types.
 
 Some PhysicsMaterial properties are used to define the surface of an object. In reality, these surface properties are not defined per object, but per object pair. The physics system computes a combined value for these properties as an approximation of the real life values.
 
@@ -34,12 +34,12 @@ FrictionImportance  determines which object's friction should be used in collisi
 
  #  Related Materials
  ##  Manual
-- [RigidBody.markdown](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/RigidBody.markdown)
-- [Colliders.markdown](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/Colliders.markdown)
+- [rigidbody.markdown](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/rigidbody.markdown)
+- [colliders.markdown](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/colliders.markdown)
  ##  Reference
-- [PhysicsMaterial](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/PhysicsMaterial.markdown)
-- [RigidBody](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/RigidBody.markdown)
-- [Collider](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Collider.markdown)
+- [PhysicsMaterial](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/physicsmaterial.markdown)
+- [RigidBody](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/rigidbody.markdown)
+- [Collider](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/collider.markdown)
  
 
  

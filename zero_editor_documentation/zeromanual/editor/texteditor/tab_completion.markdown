@@ -46,11 +46,11 @@ Occasionally when using the code editor, the user may find that class types that
 
  # Related Materials
  ## Manual Pages
-- [Text Editor Hotkeys](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Editor/TextEditor/TextEditorHotkeys.markdown)
-- [Text Editor Config](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Editor/TextEditor/TextEditorConfig.markdown)
+- [Text Editor Hotkeys](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/texteditor/texteditorhotkeys.markdown)
+- [Text Editor Config](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/texteditor/texteditorconfig.markdown)
 
  ## Code Reference
-- [TextEditorConfig](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/class_reference/TextEditorConfig.markdown) 
+- [TextEditorConfig](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/class_reference/texteditorconfig.markdown) 
 
  ## Tasks
 - T442 

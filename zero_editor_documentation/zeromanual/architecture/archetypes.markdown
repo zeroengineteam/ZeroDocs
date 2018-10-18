@@ -2,7 +2,7 @@ An Archetype [ Resource ](https://github.com/zeroengineteam/ZeroDocs/blob/master
 
  # [archetype_basics](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/architecture/archetypes/archetype_basics.markdown)
 
- # [Nested_Archetypes](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/architecture/archetypes/Nested_Archetypes.markdown) (Documentation Coming Soon)
+ # [Nested_Archetypes](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/architecture/archetypes/nested_archetypes.markdown) (Documentation Coming Soon)
 
  # [archetype_inheritance](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/architecture/archetypes/archetype_inheritance.markdown) (Documentation Coming Soon) 
 

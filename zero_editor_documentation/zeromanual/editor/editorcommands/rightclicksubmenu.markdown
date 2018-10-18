@@ -17,7 +17,7 @@ Right-clicking on a Tag in the Library window will only give a single option, `A
 ![image](https://media.githubusercontent.com/media/zeroengineteam/ZeroFiles/master/doc_files/47149.png)
 
 
-Left-clicking on this option will act the same as if that [Tag](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Editor/Tags.markdown) was typed into the Search function, or if the Tag was double left-clicked: the Library Window will show any Resources with the selected Tag. 
+Left-clicking on this option will act the same as if that [Tag](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/tags.markdown) was typed into the Search function, or if the Tag was double left-clicked: the Library Window will show any Resources with the selected Tag. 
 
 
 
@@ -96,7 +96,7 @@ When right-clicking on an open tab in the Editor Window, three options are given
  # Related Materials
 
  ## Manual
-- [Tags](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Editor/Tags.markdown)
+- [Tags](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/tags.markdown)
 
  ## Reference
 - [code_reference](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference.markdown) 

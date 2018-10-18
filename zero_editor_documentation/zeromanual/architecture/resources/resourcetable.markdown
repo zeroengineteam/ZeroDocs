@@ -1,4 +1,4 @@
-[ResourceTable](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/ResourceTable.markdown) is a resource that stores a collection of entries of a certain resource type for sampling during run-time. Sampling can be performed through three different interfaces: array, hashmap, and a [ weighted table](https://github.com/zeroengineteam/ZeroDocs/blob/master.markdown#weightedtable-interface).
+[ResourceTable](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/resourcetable.markdown) is a resource that stores a collection of entries of a certain resource type for sampling during run-time. Sampling can be performed through three different interfaces: array, hashmap, and a [ weighted table](https://github.com/zeroengineteam/ZeroDocs/blob/master.markdown#weightedtable-interface).
 
 
 
@@ -12,7 +12,7 @@ ResourceTable entries are composed of three items:
  - **Value**: The actual resource/string of the entry.
  - **Weight**: The weight to use when randomly sampling the table. See the [ WeightedTable Interface](https://github.com/zeroengineteam/ZeroDocs/blob/master.markdown#weightedtable-interface) section below for details.
 
-All sampling functions for a ResourceTable return a [ResourceTableEntry](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/ResourceTableEntry.markdown). In addition to the above listed properties, the stored resource can also be looked up via the `Resource` property. Note: This must be casted to the correct resource type.
+All sampling functions for a ResourceTable return a [ResourceTableEntry](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/resourcetableentry.markdown). In addition to the above listed properties, the stored resource can also be looked up via the `Resource` property. Note: This must be casted to the correct resource type.
 
  #  Array Interface
 
@@ -86,9 +86,9 @@ Additionally, ResourceTable exposes the `SampleIndex` function which returns the
 
  #  Related Materials
  ##  Reference
- [ResourceTable](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/ResourceTable.markdown)
- [ResourceTableEntry](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/ResourceTableEntry.markdown)
- [Archetype](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Archetype.markdown)
- [RandomContext](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/RandomContext.markdown) 
+ [ResourceTable](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/resourcetable.markdown)
+ [ResourceTableEntry](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/resourcetableentry.markdown)
+ [Archetype](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/archetype.markdown)
+ [RandomContext](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/randomcontext.markdown) 
 
  

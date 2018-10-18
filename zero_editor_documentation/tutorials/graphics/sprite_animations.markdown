@@ -173,15 +173,15 @@ class PlayerAnimationController : ZilchComponent
  # Related Materials
 
  ## Manual
-- [Sprite](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Graphics/Sprites/Sprite.markdown)
-- [Sprite Source Editor](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Graphics/Sprites/SpriteSourceEditor.markdown)
-- [Sprite Importer](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Graphics/Sprites/SpriteImporter.markdown)
+- [Sprite](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/sprites/sprite.markdown)
+- [Sprite Source Editor](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/sprites/spritesourceeditor.markdown)
+- [Sprite Importer](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/sprites/spriteimporter.markdown)
 
  ## Code Reference
  ### Classes
-- [Transform](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Transform.markdown)
-- [Sprite](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Sprite.markdown)
-- [Cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Cog.markdown)
+- [Transform](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/transform.markdown)
+- [Sprite](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/sprite.markdown)
+- [Cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)
 - [spritesource](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/spritesource.markdown)
 
  ### Commands

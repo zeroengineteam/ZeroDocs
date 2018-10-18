@@ -6,7 +6,7 @@ This guide is meant for those who are already familiar with another programming 
 - [Enums ](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/enums.markdown)
 - [Flags ](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/flags.markdown)
 - [Get-Sets](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/properties.markdown)
-- [Property Delegates ](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/property_Delegates.markdown)
+- [Property Delegates ](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/property_delegates.markdown)
 - [Swizzle](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/swizzle.markdown)
 
  # Containers
@@ -31,7 +31,7 @@ This guide is meant for those who are already familiar with another programming 
 
  # Memory
 - [Memory Management ](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/memory_management.markdown)
-- [Construct By-Value Vs By-Ref (Local Vs New) ](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/constructByValueVsByRef.markdown)
+- [Construct By-Value Vs By-Ref (Local Vs New) ](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/constructbyvaluevsbyref.markdown)
 
  # Misc
 - [Attributes ](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/attributes.markdown)

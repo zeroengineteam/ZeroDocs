@@ -26,7 +26,7 @@ There are two types of events in the Zero Engine: built-in events and custom eve
  - Under [Sprite](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/sprite.markdown)
   - Set VertexColor  to `[R:0, G:170, B:255, A:1.00]`
  - [Add Component](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown) : [RigidBody](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/rigidbody.markdown)
- - [Add Component](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown) : [BoxCollider](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/BoxCollider.markdown)
+ - [Add Component](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown) : [BoxCollider](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/boxcollider.markdown)
 - [ Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ Add Resource](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/resourceadding.markdown)
  - Create a ZilchScript resource using the Component template template and name it `PlayerMovement`
 
@@ -133,7 +133,7 @@ There are three main [Collision events](https://github.com/zeroengineteam/ZeroDo
  - Under [Sprite](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/sprite.markdown)
   - Set VertexColor  to `[R: 255, G: 0, B: 0, A;1.00]`
   - Set SpriteSource enum to `Circle`
- - [Add Component](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown) : [BoxCollider](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/BoxCollider.markdown)
+ - [Add Component](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown) : [BoxCollider](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/boxcollider.markdown)
 
 Now we need to create another component that will destroy the player cog in response to the collision event.
 
@@ -228,7 +228,7 @@ Now we can see the particle system object being created in our event response fu
 - [drageffect](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/drageffect.markdown)
 - [sprite](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/sprite.markdown)
 - [rigidbody](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/rigidbody.markdown)
-- [BoxCollider](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/BoxCollider.markdown)
+- [BoxCollider](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/boxcollider.markdown)
 - [updateevent](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/updateevent.markdown)
 - [zero](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/zero.markdown)
 - [mouseevent](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/mouseevent.markdown)

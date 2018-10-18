@@ -106,7 +106,7 @@ NOTE: The `UiWidget` component's `VerticalAlignment` and `HorizontalAlignment` p
 
 
 - [Select](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/selectobject.markdown) : Title object
-- [Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Editor/EditorCommands/Commands.markdown) : [ Duplicate](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#duplicate)
+- [Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ Duplicate](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#duplicate)
 - [Select](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/selectobject.markdown) : the new copy of Title object
 - In the `Properties Window`
  - Rename the copy of Title object to `Subtitle`
@@ -130,7 +130,7 @@ NOTE: The `UiWidget` component's `VerticalAlignment` and `HorizontalAlignment` p
 
 
 - [Select](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/selectobject.markdown) : Subtitle object
-- [Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Editor/EditorCommands/Commands.markdown) : [ Duplicate](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#duplicate)
+- [Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ Duplicate](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#duplicate)
 - In the `Properties Window`
  - Rename the copy of Subtitle object to `StartText`
  - Under [ UiWidget](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/uiwidget.markdown)
@@ -820,7 +820,7 @@ The game is now complete. Clicking on the title screen leads to the main menu; t
  ##  Tutorials
 - [hierarchies](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/tutorials/architecture/hierarchies.markdown)
  ##  Manual
-- [LauncherNewProject](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Editor/EditorCommands/LauncherNewProject.markdown)
+- [LauncherNewProject](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/launchernewproject.markdown)
 - [selectobject](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/selectobject.markdown)
 - [commands](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown)
 - [resourceadding](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/resourceadding.markdown)

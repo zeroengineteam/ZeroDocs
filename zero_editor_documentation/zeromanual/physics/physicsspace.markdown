@@ -11,7 +11,7 @@ Another important run-time feature of the PhysicsSpace is allowing object pairs 
  ##  Important Properties
 There are two important properties to help control behavior of the physics system:
   - {nav icon=check-square-o, name="Mode2d"} sets a global state that determines if objects behave in 2d, i.e. they cannot move along the z-axis and they can only rotate about the z-axis. Individual {icon university}[[../RigidBody | RigidBody's]] can override this if desired.
-  - {nav icon=pencil-square-o, name="CollisionTable"} lets the user specify CollisionGroup pairs and how [Colliders.markdown](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/Colliders.markdown) with these groups should interact with collision. This is the most efficient way to setup collision filtering so as to not resolve collisions or receive events.
+  - {nav icon=pencil-square-o, name="CollisionTable"} lets the user specify CollisionGroup pairs and how [colliders.markdown](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/colliders.markdown) with these groups should interact with collision. This is the most efficient way to setup collision filtering so as to not resolve collisions or receive events.
  
  ##  Advanced Properties
 Additionaly, there are several other properties on the physics space that are for more advanced users.
@@ -29,17 +29,17 @@ A common issue during development is to have two objects not collide when the us
  ##  Related Materials
  ###  Manual
  - [physicscasting.markdown](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/physicscasting.markdown)
- - [RigidBody.markdown](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/RigidBody.markdown)
- - [Colliders.markdown](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/Colliders.markdown)
+ - [rigidbody.markdown](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/rigidbody.markdown)
+ - [colliders.markdown](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/colliders.markdown)
  - [collisiongroupsandtables.markdown](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/collisionoverview/collisiongroupsandtables.markdown)
  - [whyaretheynotcolliding.markdown](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/physicstroubleshooting/whyaretheynotcolliding.markdown)
  - [physicssolverconfig.markdown](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/physicssolverconfig.markdown)
 
  ###  Reference
- - [Collider](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Collider.markdown)
- - [PhysicsSpace](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/PhysicsSpace.markdown)
- - [RigidBody](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/RigidBody.markdown)
- - [CollisionTable](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/CollisionTable.markdown)
- - [CollisionGroup](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/CollisionGroup.markdown) 
+ - [Collider](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/collider.markdown)
+ - [PhysicsSpace](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/physicsspace.markdown)
+ - [RigidBody](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/rigidbody.markdown)
+ - [CollisionTable](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/collisiontable.markdown)
+ - [CollisionGroup](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/collisiongroup.markdown) 
 
  

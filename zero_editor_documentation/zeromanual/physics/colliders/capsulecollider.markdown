@@ -1,8 +1,8 @@
-[CapsuleCollider](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/CapsuleCollider.markdown) defines a [capsule](https://en.wikipedia.org/wiki/Capsule_(geometry) ) shape for collision. The base size of the capsule is determined by the Radius  and Height  properties. Scale is applied afterwards to determine the final capsule's size.
+[CapsuleCollider](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/capsulecollider.markdown) defines a [capsule](https://en.wikipedia.org/wiki/Capsule_(geometry) ) shape for collision. The base size of the capsule is determined by the Radius  and Height  properties. Scale is applied afterwards to determine the final capsule's size.
 
-Capsules are often used as a combination of [cylinders](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/colliders/CylinderCollider.markdown) and [ellipsoids](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/colliders/EllipsoidCollider.markdown) for collision, primarily for long thin shapes.  An ellipsoid tends to be undesired when stretched on one axis due its curved sides. A cylinder fixes this but loses the curved caps of the ellipsoid. A capsule combines these by having a cylinder that can be scaled in one axis while containing smooth edge caps.
+Capsules are often used as a combination of [cylinders](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/colliders/cylindercollider.markdown) and [ellipsoids](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/colliders/ellipsoidcollider.markdown) for collision, primarily for long thin shapes.  An ellipsoid tends to be undesired when stretched on one axis due its curved sides. A cylinder fixes this but loses the curved caps of the ellipsoid. A capsule combines these by having a cylinder that can be scaled in one axis while containing smooth edge caps.
 
-Capsules are also commonly used for a player. The player's height can be scaled without affecting its width. Additionally, the curved caps help to avoid [edge catching](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/colliders/PhysicsTroubleshooting/EdgeCatching.markdown) issues.
+Capsules are also commonly used for a player. The player's height can be scaled without affecting its width. Additionally, the curved caps help to avoid [edge catching](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/colliders/physicstroubleshooting/edgecatching.markdown) issues.
 
 (NOTE) **Recommended Reading:** The [Collider](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/colliders.markdown) page should be read before this page.
 
@@ -44,15 +44,15 @@ This mode is often desired when a model is attached to a cog that should match t
  #  Related Materials
  ##  Manual
 - [colliders.markdown](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/colliders.markdown)
-- [CylinderCollider.markdown](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/colliders/CylinderCollider.markdown)
-- [EllipsoidCollider.markdown](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/colliders/EllipsoidCollider.markdown)
-- [EdgeCatching.markdown](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/colliders/PhysicsTroubleshooting/EdgeCatching.markdown)
+- [cylindercollider.markdown](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/colliders/cylindercollider.markdown)
+- [ellipsoidcollider.markdown](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/colliders/ellipsoidcollider.markdown)
+- [edgecatching.markdown](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/colliders/physicstroubleshooting/edgecatching.markdown)
 
  ##  Reference
-- [CapsuleCollider](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/CapsuleCollider.markdown)
-- [CylinderCollider](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/CylinderCollider.markdown)
-- [EllipsoidCollider](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/EllipsoidCollider.markdown)
-- [Collider](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Collider.markdown)
+- [CapsuleCollider](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/capsulecollider.markdown)
+- [CylinderCollider](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cylindercollider.markdown)
+- [EllipsoidCollider](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/ellipsoidcollider.markdown)
+- [Collider](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/collider.markdown)
  
 
  

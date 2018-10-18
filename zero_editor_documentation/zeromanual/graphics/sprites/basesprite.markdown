@@ -1,7 +1,7 @@
 While not being a class that is directly accessed by the User, both the Sprite class and the [SpriteText](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/sprites/spritetext.markdown) class inherit directly from the BaseSprite class, making it an important class on its own. Any of the Properties of the BaseSprite class can be directly used by either Sprites or SpriteText, changing many of the visual aspects of the Object. 
 
  # Using the Color Picker
-The base color of a  [Sprite](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/class_reference/Sprite.markdown)  can be changed in several different methods:
+The base color of a  [Sprite](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/class_reference/sprite.markdown)  can be changed in several different methods:
 
  - Entering the Hex Code of the desired color into the Color Picker. For example, `FF0000` for Red. 
  - Click and Drag the Eye Dropper tool onto the desired color on screen.
@@ -53,14 +53,14 @@ When using alpha blending, a renderpass must be performed with the appropriate b
  # Related Materials
  ## Manual
 
-- {icon university}[[[Sprite](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/class_reference/Sprite.markdown)
+- {icon university}[[[Sprite](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/class_reference/sprite.markdown)
 - [spritetext](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/sprites/spritetext.markdown)
 - [DeferredRenderer](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/renderer.markdown)
 - [RenderGroup](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/rendergroups.markdown)
 - [Material](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/materials/materials_overview.markdown)
 
  ## Code Reference
-- [Sprite](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/class_reference/Sprite.markdown)
+- [Sprite](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/class_reference/sprite.markdown)
 - [BaseSprite Code Reference](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/class_reference/basesprite.markdown) 
 
  

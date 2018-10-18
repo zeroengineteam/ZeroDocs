@@ -60,7 +60,7 @@ if, else if, else, ==, <, >, <=, >=, ||, &&, !, !=
  ## [Functions](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/tutorials/scripting/functions.markdown)
 Parameters, Return Types, Calling functions on other components
 
- ## [ Keyboard Input](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/Tutorials/Gameplay/Input1.markdown) 
+ ## [ Keyboard Input](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/tutorials/gameplay/input1.markdown) 
 Querying Keyboard State, Dynamic Character Controller
 
  ## [Loops](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/tutorials/scripting/loops.markdown) 

@@ -21,7 +21,7 @@ There are many different properties that may be modified such as where to set th
  [Block Compression](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/adding_assets/block_compression.markdown)
 
  ## Reference
- [SpriteSource](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/class_reference/SpriteSource.markdown) 
- [Sprite](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/class_reference/Sprite.markdown)  
+ [SpriteSource](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/class_reference/spritesource.markdown) 
+ [Sprite](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/class_reference/sprite.markdown)  
 
  

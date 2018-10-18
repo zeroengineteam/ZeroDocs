@@ -1,4 +1,4 @@
-The [Path](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/class_reference/Path.markdown) resource is used as a base for the [LevelPath](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/gameplay/levelpath.markdown) component. 
+The [Path](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/class_reference/path.markdown) resource is used as a base for the [LevelPath](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/gameplay/levelpath.markdown) component. 
 
 
 ## Using a Path
@@ -14,8 +14,8 @@ The Path resource on its own has no accessible functions. Instead a LevelPath co
 
 ### Reference Pages
 
-[Path](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/class_reference/Path.markdown) 
-[LevelPath](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/class_reference/LevelPath.markdown) 
+[Path](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/class_reference/path.markdown) 
+[LevelPath](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/class_reference/levelpath.markdown) 
  
 
  

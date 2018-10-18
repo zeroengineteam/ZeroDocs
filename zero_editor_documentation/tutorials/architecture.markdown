@@ -25,7 +25,7 @@ RNGs, Dice Rolls, Seeding, Random Distribution, % operator
 Spawning Archetypes, Accessing new object properties
 
 
- ## [Level](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/tutorials/architecture/Levels.markdown) #beginner_iii 
+ ## [Level](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/tutorials/architecture/levels.markdown) #beginner_iii 
 Creating New Levels, Reload Level, Load Level, Set as Starting Level
 
  # Spaces

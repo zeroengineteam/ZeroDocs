@@ -44,7 +44,7 @@ No matter what the renderer is, the order that graphicals are drawn will almost 
 | `SortEvent` | Sorting is done by a value handled in the SortEvent |
 
  # Creating RenderGroups
-To create a RenderGroup, use [Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Editor/EditorCommands/Commands.markdown) : [Add](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#add) or the Add button button.  From the resource list, select `RenderGroup  > DefaultRenderGroup`:
+To create a RenderGroup, use [Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [Add](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#add) or the Add button button.  From the resource list, select `RenderGroup  > DefaultRenderGroup`:
 
 
 

@@ -2,7 +2,7 @@ This lesson focuses on teaching the basics of physics effects and components.
 
  # Learning Objectives
 
-- [GravityEffect](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/GravityEffect.markdown) and [DragEffect](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/DragEffect.markdown) components
+- [GravityEffect](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/gravityeffect.markdown) and [DragEffect](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/drageffect.markdown) components
 - Apply / Ignore physics effects on objects
 - Basic uses of `name=LevelSettings, icon=cog`
 
@@ -149,7 +149,7 @@ NOTE: The [IgnoreSpaceEffects](https://github.com/zeroengineteam/ZeroDocs/blob/m
 
 The region component can be used to apply any physics effects (Gravity, Drag, etc) to  a specific zone. It works by using a Collider (which it has a dependency on) as a trigger volume to determine whether objects are inside it and then applies the specified force effects.
 
-- [Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Editor/EditorCommands/Commands.markdown) : [CreateSprite](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#createsprite)
+- [Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [CreateSprite](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#createsprite)
 - In the `Property Window`
  - Rename Sprite object to `RegionEffect`
  - Under [Transform](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/transform.markdown)  
@@ -171,18 +171,18 @@ NOTE: Experiment by adding the [ForceEffect](https://github.com/zeroengineteam/Z
 
  ## Code Reference
  ### Classes
-- [Transform](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Transform.markdown)
-- [RigidBody](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/RigidBody.markdown)
+- [Transform](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/transform.markdown)
+- [RigidBody](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/rigidbody.markdown)
 - [BoxCollider](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/boxcollider.markdown)
 - [Region](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/region.markdown)
-- [GravityEffect](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/GravityEffect.markdown)
-- [DragEffect](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/DragEffect.markdown)
-- [ForceEffect](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/ForceEffect.markdown)
-- [BuoyancyEffect](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/BuoyancyEffect.markdown)
-- [WindEffect](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/WindEffect.markdown)
+- [GravityEffect](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/gravityeffect.markdown)
+- [DragEffect](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/drageffect.markdown)
+- [ForceEffect](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/forceeffect.markdown)
+- [BuoyancyEffect](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/buoyancyeffect.markdown)
+- [WindEffect](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/windeffect.markdown)
 
  ### Commands
-- [Create a New 2D Project](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Editor/EditorCommands/LauncherNewProject.markdown)
+- [Create a New 2D Project](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/launchernewproject.markdown)
 - [ Add Resource](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/resourceadding.markdown)
 - [ PlayGame](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#playgame)
 - [ StopGame](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#stopgame)

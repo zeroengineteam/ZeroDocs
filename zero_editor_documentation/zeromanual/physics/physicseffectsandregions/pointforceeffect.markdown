@@ -1,4 +1,4 @@
-[PointGravityEffect](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/PointGravityEffect.markdown) and [PointForceEffect](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/PointForceEffect.markdown) are effects that apply linear forces towards a central point based upon an inner and outer strength. This is commonly used to create spherical effects such as planetary gravity or explosive shockwaves.
+[PointGravityEffect](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/pointgravityeffect.markdown) and [PointForceEffect](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/pointforceeffect.markdown) are effects that apply linear forces towards a central point based upon an inner and outer strength. This is commonly used to create spherical effects such as planetary gravity or explosive shockwaves.
 
 
 
@@ -56,10 +56,10 @@ Point effects are only expected to be used as Region effects. Other application 
  ###  Manual
 - [physicseffectsandregions.markdown](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/physicseffectsandregions.markdown)
  ##  Reference
-- [PointForceEffect](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/PointForceEffect.markdown)
-- [PointGravityEffect](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/PointGravityEffect.markdown)
-- [PhysicsEffect](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/PhysicsEffect.markdown)
-- [Region](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Region.markdown)
+- [PointForceEffect](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/pointforceeffect.markdown)
+- [PointGravityEffect](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/pointgravityeffect.markdown)
+- [PhysicsEffect](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/physicseffect.markdown)
+- [Region](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/region.markdown)
 - [PhysicsEffectInterpolationType](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#physicseffectinterpolationtype) 
 
  

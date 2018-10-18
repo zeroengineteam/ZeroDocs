@@ -233,10 +233,10 @@ function OnGamepadStickFlicked(event : GamepadEvent)
 - [Mouse Input](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/gameplay/input/mouseinput.markdown)
 
  ## Code Reference
-- [Gamepad](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Gamepad.markdown) 
-- [Gamepads](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Gamepads.markdown) 
+- [Gamepad](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/gamepad.markdown) 
+- [Gamepads](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/gamepads.markdown) 
 - [Real2](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/real2.markdown) 
-- [ObjectEvent](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/ObjectEvent.markdown) 
+- [ObjectEvent](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/objectevent.markdown) 
 - [GamepadEvent](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/gamepadevent.markdown) 
 
  

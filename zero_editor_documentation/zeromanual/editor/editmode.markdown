@@ -14,7 +14,7 @@ NOTE: In 2D Mode, objects can still have their Z Translation set to a value othe
  ## Can I change my 2D project to 3D?
 
 
-The setting is just defaults, so you can change any setting back. You can also use the [Command ](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Editor/EditorCommands/Commands.markdown) : [Mode3D](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#mode3d)/[Mode2D](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#mode2d). You can also click the ![image](https://media.githubusercontent.com/media/zeroengineteam/ZeroFiles/master/doc_files/47018.png) ![image](https://media.githubusercontent.com/media/zeroengineteam/ZeroFiles/master/doc_files/47020.png) buttos in the top left corner of the `name=Level Window, icon=window-restore`.
+The setting is just defaults, so you can change any setting back. You can also use the [Command ](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [Mode3D](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#mode3d)/[Mode2D](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#mode2d). You can also click the ![image](https://media.githubusercontent.com/media/zeroengineteam/ZeroFiles/master/doc_files/47018.png) ![image](https://media.githubusercontent.com/media/zeroengineteam/ZeroFiles/master/doc_files/47020.png) buttos in the top left corner of the `name=Level Window, icon=window-restore`.
 
 (NOTE)**Physics when switching to 3D mode:** Keep in mind that the  [PhysicsSpace](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/physicsspace.markdown)  will not change mode when you use the `Mode2D` or `Mode3D` command. These commands are intended to help with editing not change the foundation of a project.
 
@@ -26,7 +26,7 @@ The engine and collision detection are still 3D. This z dimension is a nice way 
  ## Manual
 - [Physics](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics.markdown)
 - [PhysicsSpace](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/physicsspace.markdown)
-- [Command ](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Editor/EditorCommands/Commands.markdown)
+- [Command ](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown)
  ## Code Reference
 - [Mode2D](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#mode2d)
 - [Mode3D](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#mode3d) 

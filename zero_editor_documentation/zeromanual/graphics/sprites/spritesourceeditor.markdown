@@ -74,8 +74,8 @@ The Origin drop-down menu property will place whichever point on the Sprite that
 - [Area](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/sprites/area.markdown)
 
  ## Reference
-- [SpriteSource](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/SpriteSource.markdown)
-- [Sprite](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Sprite.markdown)
+- [SpriteSource](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/spritesource.markdown)
+- [Sprite](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/sprite.markdown)
 - [transform](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/transform.markdown)
 - [Origin](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#origin)
 - [Sprite Sampling](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#spritesampling)

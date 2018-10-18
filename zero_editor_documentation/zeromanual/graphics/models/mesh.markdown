@@ -1,4 +1,4 @@
-Imported meshes may be used to apply to a [Model](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/models/model_component.markdown) or [SkinnedModel](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/models/model_component.markdown#skinned-model) component as well as to create a [PhysicsMesh](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/PhysicsMesh.markdown) for that object. This page focuses solely on using a mesh for a Model and SkinnedModel. Clicking on a particular mesh in the Library window will open up the ContentComponents of that mesh in the Properties window:
+Imported meshes may be used to apply to a [Model](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/models/model_component.markdown) or [SkinnedModel](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/models/model_component.markdown#skinned-model) component as well as to create a [PhysicsMesh](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/physicsmesh.markdown) for that object. This page focuses solely on using a mesh for a Model and SkinnedModel. Clicking on a particular mesh in the Library window will open up the ContentComponents of that mesh in the Properties window:
 
  # ContentComponents for a Sample Mesh
 
@@ -31,6 +31,6 @@ These components have no properties and are there only if `ImportTextures` and `
  ## Reference
 - [model](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/model.markdown)
 - [skinnedmodel](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/skinnedmodel.markdown)
-- [PhysicsMesh](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/PhysicsMesh.markdown) 
+- [PhysicsMesh](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/physicsmesh.markdown) 
 
  

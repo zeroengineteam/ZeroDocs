@@ -1,16 +1,16 @@
 Resources are where most data comes from in a game. While Cogs allow us to model any scene we want, the model will often lack context or depth with out resources such as visual and audio assets. While many resources are imported into a project from outside the engine some such as Levels and Archetypes are created within the engine.
 
-- [Resources](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Architecture/Resources/Resources.markdown)
-- [ResourceAdding](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Editor/EditorCommands/ResourceAdding.markdown)
+- [Resources](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/architecture/resources/resources.markdown)
+- [ResourceAdding](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/resourceadding.markdown)
 
  # Independent Resources
 While most resources are directly tied to larger systems within the engine and are therefore included in the documentation for the respective system (e.g., the page for [sound](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/audio/sound.markdown) can be found in the [audio](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/audio.markdown) index), there are a few that are independent of any one system. As a matter of convenience, these particular resources are collected here:
 
-- [ColorGradient ](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Architecture/Resources/ColorGradient.markdown)
-- [Level ](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Architecture/Resources/Level.markdown)
-- [SampleCurve ](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Architecture/Resources/SampleCurve.markdown)
-- [TextBlock ](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Architecture/Resources/TextBlock.markdown)
-- [ResourceTable](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Architecture/Resources/ResourceTable.markdown)
+- [ColorGradient ](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/architecture/resources/colorgradient.markdown)
+- [Level ](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/architecture/resources/level.markdown)
+- [SampleCurve ](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/architecture/resources/samplecurve.markdown)
+- [TextBlock ](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/architecture/resources/textblock.markdown)
+- [ResourceTable](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/architecture/resources/resourcetable.markdown)
 - [archetypes](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/architecture/archetypes.markdown)
 
  # Types of Resources
@@ -21,7 +21,7 @@ Resources vary greatly in type, ranging from audio and visual assets to physics 
 - [ZilchFragment (Shaders)](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/materials/shaders.markdown)
 
  ## Graphics Resources
-- [Font](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Architecture/Resources/Font.markdown)
+- [Font](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/architecture/resources/font.markdown)
 - [ Materials](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/materials/materials_overview.markdown)
 - [Mesh](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/models/mesh.markdown)
 - [RenderGroup](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/rendergroups.markdown)

@@ -2,10 +2,10 @@ Materials define the various texture mappings and shaders that will be applied t
 
  # [ Materials Overview ](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/materials/materials_overview.markdown)
 Material blocks represent various rendering models and shaders of a material. The [deferred renderer](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/renderer/deferred_renderer.markdown) in Zero should be fed with PBR-based materials composed of specific components.
- - [Albedo.markdown](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/materials/Albedo.markdown)
- - [Metallic.markdown](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/materials/Metallic.markdown)
- - [Normal_Map.markdown](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/materials/Normal_Map.markdown)
- - [Roughness.markdown](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/materials/Roughness.markdown)
+ - [albedo.markdown](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/materials/albedo.markdown)
+ - [metallic.markdown](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/materials/metallic.markdown)
+ - [normal_map.markdown](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/materials/normal_map.markdown)
+ - [roughness.markdown](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/materials/roughness.markdown)
 
  # [Textures](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/materials/textures.markdown)
 Textures are the external data that materials apply to a model.

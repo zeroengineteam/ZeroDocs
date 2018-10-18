@@ -1,4 +1,4 @@
-The [PhysicsSolverConfig](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/PhysicsSolverConfig.markdown) resource allows a certain level of customization in how physics solves [PhysicsSolverPositionCorrection](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#physicssolverpositioncor) types.
+The [PhysicsSolverConfig](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/physicssolverconfig.markdown) resource allows a certain level of customization in how physics solves [PhysicsSolverPositionCorrection](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#physicssolverpositioncor) types.
 
 
 
@@ -21,7 +21,7 @@ Physics typically solves with discrete time-steps which allows position error to
 This property configures the default solving method for all constraints unless overridden as described below.
 
  #  Joint/Contact Configurations
-[JointConfigOverride](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/JointConfigOverride.markdown) component and uses its properties. Note that this component cannot be applied to contacts. Next, the joint will check its space's PhysicsSolverConfig to see if a block for its joint type exists. If this block exists then it'll use the specified values. Finally, any global fallback values will be used such as the position correction type. In the case of properties like slop, each joint type has its own defaults to use when no block exists.
+[JointConfigOverride](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/jointconfigoverride.markdown) component and uses its properties. Note that this component cannot be applied to contacts. Next, the joint will check its space's PhysicsSolverConfig to see if a block for its joint type exists. If this block exists then it'll use the specified values. Finally, any global fallback values will be used such as the position correction type. In the case of properties like slop, each joint type has its own defaults to use when no block exists.
 
  #  Joint Blocks
 A configuration block can be added for any joint type that determines how the physics system solves that constraint type. This allows changing certain joint types at a global level to solve differently from others.
@@ -30,15 +30,15 @@ A configuration block can be added for any joint type that determines how the ph
 
  #  Related Materials
  ##  Manual
-- [Joints.markdown](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/Joints.markdown)
-- [CollisionOverview.markdown](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/CollisionOverview.markdown)
-- [PhysicsSpace.markdown](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/PhysicsSpace.markdown)
+- [joints.markdown](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/joints.markdown)
+- [collisionoverview.markdown](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/collisionoverview.markdown)
+- [physicsspace.markdown](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/physicsspace.markdown)
 
  ##  Code Reference
-- [Joint](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Joint.markdown)
-- [JointConfigOverride](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/JointConfigOverride.markdown)
-- [ConstraintConfigBlock](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/ConstraintConfigBlock.markdown)
-- [PhysicsSpace](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/PhysicsSpace.markdown)
+- [Joint](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/joint.markdown)
+- [JointConfigOverride](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/jointconfigoverride.markdown)
+- [ConstraintConfigBlock](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/constraintconfigblock.markdown)
+- [PhysicsSpace](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/physicsspace.markdown)
 - [PhysicsSolverPositionCorrection](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#physicssolverpositioncor) 
 
  

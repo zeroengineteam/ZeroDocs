@@ -1,10 +1,10 @@
 Discover parts of the engine used primarily for gameplay scripting.
 
  # Input
- ## [input1](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/Tutorials/gameplay/input1.markdown) #beginner_ii
+ ## [input1](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/tutorials/gameplay/input1.markdown) #beginner_ii
 Zero.Keyboard.KeyIsDown, KeyIsPressed, etc all used within Logic Update
 
- ## [Gamepad Input](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/tutorials/gameplay/Gamepad.markdown) #beginner_iv 
+ ## [Gamepad Input](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/tutorials/gameplay/gamepad.markdown) #beginner_iv 
 Detecting Gamepad, Gamepad Input, Deadzone, Rumble
 
  ## [mouseinput.markdown](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/tutorials/gameplay/mouseinput.markdown) #beginner_iv 

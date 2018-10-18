@@ -1,4 +1,4 @@
-[BoxCollider](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/BoxCollider.markdown) defines a rectangular box shape ([cuboid](https://en.wikipedia.org/wiki/Cuboid )) for collision. The size of the box is determined by the combination of the box's Size  property and the Transform's Scale .
+[BoxCollider](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/boxcollider.markdown) defines a rectangular box shape ([cuboid](https://en.wikipedia.org/wiki/Cuboid )) for collision. The size of the box is determined by the combination of the box's Size  property and the Transform's Scale .
 
 (NOTE) **Recommended Reading:** The [Collider](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/colliders.markdown) page should be read before this page.
 
@@ -11,7 +11,7 @@ A BoxCollider exposes the Size  property to determine the pre-transform size of 
 - [colliders.markdown](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/colliders.markdown)
 
  ##  Reference
-- [BoxCollider](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/BoxCollider.markdown)
-- [Collider](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Collider.markdown) 
+- [BoxCollider](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/boxcollider.markdown)
+- [Collider](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/collider.markdown) 
 
  

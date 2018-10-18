@@ -1,4 +1,4 @@
-The HeightMapTool is a tool used to create a [HeightMap](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/class_reference/HeightMap.markdown) object and manipulate patches created on it. It has five sub-tools the user can use to create and destroy, raise and lower, smooth and sharpen, flatten, and paint patches on a HeightMap object.
+The HeightMapTool is a tool used to create a [HeightMap](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/class_reference/heightmap.markdown) object and manipulate patches created on it. It has five sub-tools the user can use to create and destroy, raise and lower, smooth and sharpen, flatten, and paint patches on a HeightMap object.
 
  # Using the HeightMapTool
 There are two ways to access the HeightMapTool:
@@ -109,7 +109,7 @@ To flatten an area on the height map, one must first decide whether to sample a 
 
 
  ## WeightPainter
-The WeightPainter sub-tool is used to paint textures onto a height map. In order to use the WeightPainter sub-tool, one must first make a  [Material](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/materials.markdown)  that has the  [HeightMapTextureWeights](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/class_reference/HeightMapTextureWeights.markdown)  material block on it, as seen here:
+The WeightPainter sub-tool is used to paint textures onto a height map. In order to use the WeightPainter sub-tool, one must first make a  [Material](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/materials.markdown)  that has the  [HeightMapTextureWeights](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/class_reference/heightmaptextureweights.markdown)  material block on it, as seen here:
 
 
 
@@ -139,12 +139,12 @@ Once this new [Material](https://github.com/zeroengineteam/ZeroDocs/blob/master/
 - [HeightMap Collider](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/collision/heightmapcollider.markdown)
 
  ## Code Reference
-- [HeightMap](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/class_reference/HeightMap.markdown) 
-- [Integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/zilch_base_types/Integer.markdown) 
-- [Real](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/zilch_base_types/Real.markdown) 
-- [Boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/zilch_base_types/Boolean.markdown) 
-- [Real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/zilch_base_types/Real3.markdown) 
-- [Material](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/class_reference/Material.markdown) 
+- [HeightMap](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/class_reference/heightmap.markdown) 
+- [Integer](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/zilch_base_types/integer.markdown) 
+- [Real](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/zilch_base_types/real.markdown) 
+- [Boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/zilch_base_types/boolean.markdown) 
+- [Real3](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/zilch_base_types/real3.markdown) 
+- [Material](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/class_reference/material.markdown) 
 
  
 

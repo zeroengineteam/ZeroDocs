@@ -1,8 +1,8 @@
-A level is resource that stores a set of objects which will then be created later when the level is loaded. Levels can be loaded into a space in order to create all objects saved to the resource. Levels can be edited using several tools, especially those found via the [Editor UI](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Editor/EditorUI.markdown).
+A level is resource that stores a set of objects which will then be created later when the level is loaded. Levels can be loaded into a space in order to create all objects saved to the resource. Levels can be edited using several tools, especially those found via the [Editor UI](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorui.markdown).
 
  # Using Levels
  ## Creating a Level
-A new level can be added by using the Add command ([Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Editor/EditorCommands/Commands.markdown) : [Add](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#add) or clicking on the Add button button) followed by selecting Level drop-down menu. The newly-created level will open in the Level Window and allow for the manipulation of objects to build game levels. At creation the level will only have the default objects inside it: `LevelSettings` and a few other object from the level template you select.
+A new level can be added by using the Add command ([Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [Add](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#add) or clicking on the Add button button) followed by selecting Level drop-down menu. The newly-created level will open in the Level Window and allow for the manipulation of objects to build game levels. At creation the level will only have the default objects inside it: `LevelSettings` and a few other object from the level template you select.
 
 
 
@@ -68,9 +68,9 @@ This code snippet gives an example of having two levels exist at once. By giving
 
  # Related Materials
  ## Manual
-- [Editor UI](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Editor/EditorUI.markdown)
+- [Editor UI](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorui.markdown)
 - [Spaces](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/architecture/objects/spaces.markdown)
-- [CamerasViewportsRenderers](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Graphics/CamerasViewportsRenderers.markdown)
+- [CamerasViewportsRenderers](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/camerasviewportsrenderers.markdown)
 - [Level Settings](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/architecture/objects/levelsettings.markdown)
  
 

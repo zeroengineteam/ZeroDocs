@@ -204,11 +204,11 @@ class RayCasterLogic : ZilchComponent
 
 Raycasting always consists of 3 steps:
 
-1. Create the [Ray](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Ray.markdown)
-2. Request the [PhysicsSpace](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/PhysicsSpace.markdown) to cast it (storing the results)
-3. Interpret the [CastResult](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/CastResult.markdown)
+1. Create the [Ray](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/ray.markdown)
+2. Request the [PhysicsSpace](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/physicsspace.markdown) to cast it (storing the results)
+3. Interpret the [CastResult](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/castresult.markdown)
 
-If the ray intersects an object, you can retrieve the following information from the [CastResult](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/CastResult.markdown):
+If the ray intersects an object, you can retrieve the following information from the [CastResult](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/castresult.markdown):
 
 |CastResult |
 |------------|
@@ -220,7 +220,7 @@ If the ray intersects an object, you can retrieve the following information from
 
  # Multiple Results
 
-It is also possible to cast a Ray and retrieve the resulting intersections with multiple objects by using the [ PhysicsSpace.CastRay()](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/PhysicsSpace.markdown) function instead.
+It is also possible to cast a Ray and retrieve the resulting intersections with multiple objects by using the [ PhysicsSpace.CastRay()](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/physicsspace.markdown) function instead.
 
 - Add the following function to the `RayCasterLogic` class:
 
@@ -279,11 +279,11 @@ It is also possible to cast a Ray and retrieve the resulting intersections with 
 
 - [ Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ StopGame](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#stopgame)
 
-The [ CastRay](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/PhysicsSpace.markdown) function allows you to specify the ray and a maximum number of objects to detect. It returns a range of [ CastResults](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/CastResult.markdown) that contains all of the objects intersected (up to the specified number) in order of distance (closest to farthest).
+The [ CastRay](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/physicsspace.markdown) function allows you to specify the ray and a maximum number of objects to detect. It returns a range of [ CastResults](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/castresult.markdown) that contains all of the objects intersected (up to the specified number) in order of distance (closest to farthest).
 
  # Cast Filters
 
-[ CastFilters](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/CastFilter.markdown) allow you to customize which objects the raycast process should hit and which should be ignored. The filter can then be passed as an optional third parameter to the `CastRay` function.
+[ CastFilters](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/castfilter.markdown) allow you to customize which objects the raycast process should hit and which should be ignored. The filter can then be passed as an optional third parameter to the `CastRay` function.
 
 - Replace the `FindSeveralObjects` function in the `RayCasterLogic` class with the following :
 
@@ -329,7 +329,7 @@ The [ CastRay](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_refer
 
 - [Select](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/selectobject.markdown) : GreenCircle object
 - In the `Properties Window`
- - Under [SphereCollider](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/SphereCollider.markdown)
+ - Under [SphereCollider](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/spherecollider.markdown)
   - Set  Ghost checkBox to `true`
 
 - [ Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ PlayGame](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#playgame)
@@ -341,11 +341,11 @@ The [ CastRay](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_refer
 
 - [ Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ StopGame](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#stopgame)
 
-Here are some useful properties you can set on the [CastFilter](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/CastFilter.markdown) that allow you to further customize which objects to ignore.
+Here are some useful properties you can set on the [CastFilter](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/castfilter.markdown) that allow you to further customize which objects to ignore.
 
 |Cast Filter|
 |-----------|
-|IgnoreCog| [Cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Cog.markdown)| A given specific Cog to ignore |
+|IgnoreCog| [Cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)| A given specific Cog to ignore |
 |IgnoreDynamic| [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)| Ignores all objects marked as [Dynamic](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#rigidbodydynamicstate)|
 |IgnoreGhost| [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)| Ignores all objects marked as [Ghost](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/collider.markdown#ghost)|
 |IgnoreKinematic| [boolean](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/boolean.markdown)| Ignores all objects marked as [Kinematic](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#rigidbodydynamicstate)|
@@ -358,13 +358,13 @@ Here are some useful properties you can set on the [CastFilter](https://github.c
 
 In addition to Rays, Zero Engine allows you to cast other types of shapes, including:
 
-- [Segment](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Segment.markdown)
-- [Sphere](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Sphere.markdown)
-- [Aabb](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Aabb.markdown)
-- [Frustum](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Frustum.markdown)
-- [Collider](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Collider.markdown)
+- [Segment](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/segment.markdown)
+- [Sphere](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/sphere.markdown)
+- [Aabb](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/aabb.markdown)
+- [Frustum](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/frustum.markdown)
+- [Collider](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/collider.markdown)
 
-They all follow the same basic steps described in this tutorial: define the shape, request [PhysicsSpace](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/PhysicsSpace.markdown) to cast it (with the optional inclusion of a [CastFilter](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/CastFilter.markdown)) and then interpret the results. You can read more about them in the [ PhysicsCasting](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/physicscasting.markdown) Manual Page.
+They all follow the same basic steps described in this tutorial: define the shape, request [PhysicsSpace](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/physicsspace.markdown) to cast it (with the optional inclusion of a [CastFilter](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/castfilter.markdown)) and then interpret the results. You can read more about them in the [ PhysicsCasting](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/physics/physicscasting.markdown) Manual Page.
 
 
  # Related Materials
@@ -380,16 +380,16 @@ They all follow the same basic steps described in this tutorial: define the shap
 
  ## Code Reference
  ### Classes
-- [Transform](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Transform.markdown)
-- [Sprite](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Sprite.markdown)
-- [Cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Cog.markdown)
+- [Transform](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/transform.markdown)
+- [Sprite](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/sprite.markdown)
+- [Cog](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/cog.markdown)
 - [spherecollider](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/spherecollider.markdown)
-- [Ray](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Ray.markdown)
-- [Segment](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Segment.markdown)
-- [CastFilter](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/CastFilter.markdown)
-- [CastResult](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/CastResult.markdown)
-- [PhysicsSpace](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/PhysicsSpace.markdown)
-- [Collider](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Collider.markdown)
+- [Ray](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/ray.markdown)
+- [Segment](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/segment.markdown)
+- [CastFilter](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/castfilter.markdown)
+- [CastResult](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/castresult.markdown)
+- [PhysicsSpace](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/physicsspace.markdown)
+- [Collider](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/collider.markdown)
 - [collisiongroup](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/collisiongroup.markdown)
 - [collisiontable](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/collisiontable.markdown)
 - [sphere](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/sphere.markdown)

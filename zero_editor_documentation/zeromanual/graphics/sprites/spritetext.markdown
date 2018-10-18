@@ -8,7 +8,7 @@
 
  # Using SpriteText
  ## Creating SpriteText
-SpriteText can be made in different two ways: using the [Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Editor/EditorCommands/Commands.markdown) : CreateSpriteText  or adding the `SpriteText` Component to any existing Game Object. The actual font is defined by the Font resource property, and all other properties control how the font is displayed:  The only differences in the objects are the values of a few properties:
+SpriteText can be made in different two ways: using the [Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : CreateSpriteText  or adding the `SpriteText` Component to any existing Game Object. The actual font is defined by the Font resource property, and all other properties control how the font is displayed:  The only differences in the objects are the values of a few properties:
 
 
 
@@ -16,7 +16,7 @@ SpriteText can be made in different two ways: using the [Command](https://github
 
 
  ## Adding new Fonts
-Importing and accessing different Font resource resources is arguably the most important thing to understand regarding SpriteText. Luckily, Zero Engine makes this very simple, allowing the user to drag and drop the [font](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/architecture/resources/font.markdown) into the Editor window. Alternatively, the user can use either [Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Editor/EditorCommands/Commands.markdown) : Add  or click on the Add button button and select `Font  > IMPORT FONT`:
+Importing and accessing different Font resource resources is arguably the most important thing to understand regarding SpriteText. Luckily, Zero Engine makes this very simple, allowing the user to drag and drop the [font](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/architecture/resources/font.markdown) into the Editor window. Alternatively, the user can use either [Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : Add  or click on the Add button button and select `Font  > IMPORT FONT`:
 
 
 
@@ -47,9 +47,9 @@ Typing the desired text into the Text  property and changing the FontSize  will 
 - [TextBlock](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/architecture/resources/textblock.markdown)
 
  ## Reference Pages
-- [SpriteText](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/class_reference/SpriteText.markdown)
-- [Font](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/class_reference/Font.markdown)
-- [Camera](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/class_reference/Camera.markdown)
-- [Event](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/class_reference/Event.markdown) 
+- [SpriteText](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/class_reference/spritetext.markdown)
+- [Font](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/class_reference/font.markdown)
+- [Camera](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/class_reference/camera.markdown)
+- [Event](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/class_reference/event.markdown) 
 
  

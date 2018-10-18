@@ -105,8 +105,8 @@ In the following demonstration, another, smaller Sprite has been added behind th
 - [resourceadding](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/resourceadding.markdown)
  ## Reference Pages
 - [colorgradient](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/colorgradient.markdown)
-- [Sprite](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Sprite.markdown) 
-- [Material](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/Material.markdown) 
+- [Sprite](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/sprite.markdown) 
+- [Material](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/material.markdown) 
 
  
 

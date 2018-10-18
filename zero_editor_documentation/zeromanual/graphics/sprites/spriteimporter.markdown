@@ -93,8 +93,8 @@ If your SpriteSource doesn't have a blank background, it's possible to use the S
 - [Sprite](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation.markdown)
 
  ## Code Reference
-- [SpriteSource](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/class_reference/SpriteSource.markdown)
-- [Sprite](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/class_reference/Sprite.markdown)
+- [SpriteSource](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/class_reference/spritesource.markdown)
+- [Sprite](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/class_reference/sprite.markdown)
 - [Smoothing](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#spritesampling)
 - [Origin](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/enum_reference.markdown#spriteorigin) 
 

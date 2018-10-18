@@ -162,7 +162,7 @@ class EasedMovement : ZilchComponent
 
  # Related Materials
  ## Manual
-- [ResourceAdding](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/ZeroManual/Editor/EditorCommands/ResourceAdding.markdown)
+- [ResourceAdding](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/resourceadding.markdown)
 - [samplecurve](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/architecture/resources/samplecurve.markdown)
 
  ## Code Reference
