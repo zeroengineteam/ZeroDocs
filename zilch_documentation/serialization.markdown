@@ -40,12 +40,5 @@ void SerializeMember(const String& name, BoundType* type)
 ```
 
  
-  
-  
-  
-  
-  
-  
-  
 
  

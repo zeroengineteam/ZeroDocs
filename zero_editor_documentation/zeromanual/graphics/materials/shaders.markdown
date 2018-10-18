@@ -25,7 +25,7 @@ When adding a new ZilchFragment, there are multiple templates for each type of s
 
 This tool translates Materials—rather, the ZilchFragments that make up the Material—into different versions of the shader language GLSL.
 
-[Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ DebugShaderTranslation](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#debugshadertranslation) will open the tool
+[Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ DebugShaderTranslation](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#debugshadertranslation) will open the tool
 
 On the left hand side of the window are properties that set the parameters that define the shaders to be be translated: CoreVertex enum, Material enum, and RenderPass enum. `Translation Language` set the version of GLSL to translate to.  These options set what exactly will be translated. Material enum, for example, sets the Material to be translated as its name would suggest.
 
@@ -36,7 +36,7 @@ Here's a screenshot of a dragon material made for PBR:
 ![Gold Dragon Material](https://media.githubusercontent.com/media/zeroengineteam/ZeroFiles/master/doc_files/88445.png) **Figure 1**: A material to apply to a dragon material made with PBR in mind.
 
 
-Figure 1 shows that the [Material](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/graphics/materials/materials_overview.markdown) has Material Blocks for the four inputs expected by the physically-based renderer as well as a [NormalMap](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/graphics/materials/normal_map.markdown). When setting the Material enum to the Golden Dragon material and and set LightPass enum the shader outputs are:
+Figure 1 shows that the [Material](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/materials/materials_overview.markdown) has Material Blocks for the four inputs expected by the physically-based renderer as well as a [NormalMap](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/materials/normal_map.markdown). When setting the Material enum to the Golden Dragon material and and set LightPass enum the shader outputs are:
 
 
 
@@ -47,15 +47,8 @@ If not familiar with GLSL, these will become overwhelmingly complex very quickly
 
  # Related Materials
  ## Manual
-- [normal_map](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/graphics/materials/normal_map.markdown)
-- [Material](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/graphics/materials/materials_overview.markdown)
+- [normal_map](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/materials/normal_map.markdown)
+- [Material](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/materials/materials_overview.markdown)
  
-  
-  
-  
-  
-  
-  
-  
 
  

@@ -4,7 +4,7 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/collisionendblock.markdown#collisionendblock-void)| |[collisionfilterblock](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/collisionfilterblock.markdown)| |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/collisionendblock.markdown#collisionendblock-void)| |[collisionfilterblock](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/collisionfilterblock.markdown)| |
 
 
  #  Properties
@@ -29,12 +29,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

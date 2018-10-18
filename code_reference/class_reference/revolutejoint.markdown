@@ -6,21 +6,21 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/revolutejoint.markdown#revolutejoint-void)|[ FrameOfReference](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/revolutejoint.markdown#frameofreference-zero-en)|[joint](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/joint.markdown)| |
-|[ SetWorldFrame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/revolutejoint.markdown#setworldframe-void)|[ LocalBasisA](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/revolutejoint.markdown#localbasisa-zero-engine)| | |
-|[ SetWorldPoints](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/revolutejoint.markdown#setworldpoints-void)|[ LocalBasisB](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/revolutejoint.markdown#localbasisb-zero-engine)| | |
-| |[ LocalPointA](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/revolutejoint.markdown#localpointa-zero-engine)| | |
-| |[ LocalPointB](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/revolutejoint.markdown#localpointb-zero-engine)| | |
-| |[ WorldBasis](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/revolutejoint.markdown#worldbasis-zero-engine-d)| | |
-| |[ WorldPointA](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/revolutejoint.markdown#worldpointa-zero-engine)| | |
-| |[ WorldPointB](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/revolutejoint.markdown#worldpointb-zero-engine)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/revolutejoint.markdown#revolutejoint-void)|[ FrameOfReference](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/revolutejoint.markdown#frameofreference-zero-en)|[joint](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/joint.markdown)| |
+|[ SetWorldFrame](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/revolutejoint.markdown#setworldframe-void)|[ LocalBasisA](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/revolutejoint.markdown#localbasisa-zero-engine)| | |
+|[ SetWorldPoints](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/revolutejoint.markdown#setworldpoints-void)|[ LocalBasisB](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/revolutejoint.markdown#localbasisb-zero-engine)| | |
+| |[ LocalPointA](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/revolutejoint.markdown#localpointa-zero-engine)| | |
+| |[ LocalPointB](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/revolutejoint.markdown#localpointb-zero-engine)| | |
+| |[ WorldBasis](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/revolutejoint.markdown#worldbasis-zero-engine-d)| | |
+| |[ WorldPointA](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/revolutejoint.markdown#worldpointa-zero-engine)| | |
+| |[ WorldPointB](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/revolutejoint.markdown#worldpointb-zero-engine)| | |
 
 
  #  Properties
 
 
 ---  
- #  FrameOfReference : [JointFrameOfReference](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/enum_reference.markdown#jointframeofreference)
+ #  FrameOfReference : [JointFrameOfReference](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#jointframeofreference)
 
 > Should the default basis of the constraint be object A or B? This determines which object's world axis is used when constructing the basis for the constraint. In the case of a dynamic and static object, the static object is generally the better choice. As a general rule of thumb, it should be the heavier/most important object.
 > ``` lang=cpp, name=Zilch
@@ -28,7 +28,7 @@
 
 
 ---  
- #  LocalBasisA : [quaternion](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/quaternion.markdown)
+ #  LocalBasisA : [quaternion](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/quaternion.markdown)
 
 > The local space reference frame of object A . This frame is transformed to world space and then aligned with object B s frame . 
 > ``` lang=cpp, name=Zilch
@@ -36,7 +36,7 @@
 
 
 ---  
- #  LocalBasisB : [quaternion](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/quaternion.markdown)
+ #  LocalBasisB : [quaternion](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/quaternion.markdown)
 
 > The local space reference frame of object B . This frame is transformed to world space and then aligned with object A s frame . 
 > ``` lang=cpp, name=Zilch
@@ -44,7 +44,7 @@
 
 
 ---  
- #  LocalPointA : [real3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real3.markdown)
+ #  LocalPointA : [real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)
 
 > The local point of the anchor on object A . 
 > ``` lang=cpp, name=Zilch
@@ -52,7 +52,7 @@
 
 
 ---  
- #  LocalPointB : [real3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real3.markdown)
+ #  LocalPointB : [real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)
 
 > The local point of the anchor on object B . 
 > ``` lang=cpp, name=Zilch
@@ -60,7 +60,7 @@
 
 
 ---  
- #  WorldBasis : [quaternion](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/quaternion.markdown)
+ #  WorldBasis : [quaternion](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/quaternion.markdown)
 
 > The basis of the joint in world-space. This basis will come object specified by FrameOfReference. The basis is constructed such that the x-axis is the primary axis while the z-axis is the hinge axis.
 > ``` lang=cpp, name=Zilch
@@ -68,7 +68,7 @@
 
 
 ---  
- #  WorldPointA : [real3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real3.markdown)
+ #  WorldPointA : [real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)
 
 > The position of the anchor on object A given a position in world space 
 > ``` lang=cpp, name=Zilch
@@ -76,7 +76,7 @@
 
 
 ---  
- #  WorldPointB : [real3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real3.markdown)
+ #  WorldPointB : [real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)
 
 > The position of the anchor on object B given a position in world space 
 > ``` lang=cpp, name=Zilch
@@ -106,7 +106,7 @@
 > Legacy. Used to set the entire frame in world space for this joint. The x and y axes are used as a basis for limiting the joint. The x axis is at angle 0 and the y axis is at angle 90. The z axis is the axis of rotational freedom.
 > |Name|Type|Description|
 > |---|---|---|
-> |rot|[quaternion](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/quaternion.markdown)| |
+> |rot|[quaternion](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/quaternion.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function SetWorldFrame(rot : Quaternion)
 > ``` 
@@ -118,7 +118,7 @@
 > Sets the position of the anchor on object A and B given a position in world space 
 > |Name|Type|Description|
 > |---|---|---|
-> |point|[real3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real3.markdown)| |
+> |point|[real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function SetWorldPoints(point : Real3)
 > ``` 
@@ -126,12 +126,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

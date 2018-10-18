@@ -1,4 +1,4 @@
-Fundamentally, casting is converting from one type to another.  As demonstrated in the code snippet below, a [Function](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/functions.markdown) that takes a grade and returns pass/fail can be thought of as a conversion from a [real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown) to a [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown).
+Fundamentally, casting is converting from one type to another.  As demonstrated in the code snippet below, a [Function](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/functions.markdown) that takes a grade and returns pass/fail can be thought of as a conversion from a [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown) to a [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown).
 ```lang=csharp, name=Conversion Function
 function IsPassing(grade : Real) : Boolean
 {
@@ -12,7 +12,7 @@ function IsPassing(grade : Real) : Boolean
 The logic of that particular conversion is defined as a function and intended for a specific situation, but *cast operations* are more general-case and defined by Zilch.
 
  # Implicit and Explicit
-There are two types of casting, implicit and explicit.  Implicit casting occurs during the assignment of a variable of one type, with a value of a *different* type.  Implicit casting is a mechanism that Zilch uses when a [Variable](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/variables_and_data_types.markdown) of one type is set to data of another type.  Explicit casting is a mechanic used by the user with the `as` keyword.  Any cast that can happen implicitly can be done explicitly.
+There are two types of casting, implicit and explicit.  Implicit casting occurs during the assignment of a variable of one type, with a value of a *different* type.  Implicit casting is a mechanism that Zilch uses when a [Variable](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/variables_and_data_types.markdown) of one type is set to data of another type.  Explicit casting is a mechanic used by the user with the `as` keyword.  Any cast that can happen implicitly can be done explicitly.
 
 WARNING: Even with explicit casting, there are still *cast operations* that are invalid and will trigger compile-time exceptions.
 
@@ -21,17 +21,17 @@ var myReal : Real = 1.0;
 var myDoubleReal : DoubleReal = myReal; // implicit casting
 var myInteger : Integer = myReal as Integer; // explicit casting
 ```
-In the example above, `myDoubleReal` is being set to `myReal`, which invokes an implicit cast from [real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown) to [doublereal](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doublereal.markdown).  When `myReal as Integer` is evaluated, explicit casting is invoked to convert a [real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown) to an [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown).  The format for explicit casting is `<value> as <new type>`.
+In the example above, `myDoubleReal` is being set to `myReal`, which invokes an implicit cast from [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown) to [doublereal](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doublereal.markdown).  When `myReal as Integer` is evaluated, explicit casting is invoked to convert a [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown) to an [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown).  The format for explicit casting is `<value> as <new type>`.
 
 NOTE: Explicit casting should only be used when one is aware of all of the nuances of the cast.
 
  # Casting Between Numeric and Boolean Types
 The following base data types are considerered Numeric and Boolean:
-| [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown) |
-| [doubleinteger](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doubleinteger.markdown) |
-| [real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown) |
-| [doublereal](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doublereal.markdown) |
-| [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown) |
+| [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown) |
+| [doubleinteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doubleinteger.markdown) |
+| [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown) |
+| [doublereal](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doublereal.markdown) |
+| [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown) |
 
 All *cast operations* using only these types are valid, meaning either explicit or implicit.  The code snippit below demonstates implicit casting between numeric types.
 
@@ -45,7 +45,7 @@ var myDoubleReal1 : DoubleReal = myInteger;
 var myDoubleReal2 : DoubleReal = myDoubleInteger;
 var myDoubleReal3 : DoubleReal = myReal;
 ```
-Notice that implicit casting is allowed when converting to a numeric set, from a smaller data size to a larger one.  The value of `myInteger` can be implicitly casted to a [doubleinteger](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doubleinteger.markdown), which holds twice the number of bits as an [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown).  The value of `myInteger` can also be implicitly casted to a [real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown).  Real values can hold whole numbers and a decimal portion, whereas integers can only be whole numbers.
+Notice that implicit casting is allowed when converting to a numeric set, from a smaller data size to a larger one.  The value of `myInteger` can be implicitly casted to a [doubleinteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doubleinteger.markdown), which holds twice the number of bits as an [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown).  The value of `myInteger` can also be implicitly casted to a [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown).  Real values can hold whole numbers and a decimal portion, whereas integers can only be whole numbers.
 
 (NOTE)**From a Mathematics Perspective** The integer set is a subset of the real set.  For more information on mathematical sets, visit the [Wikipedia Set (Mathematics)](https://en.wikipedia.org/wiki/Set_(mathematics)) page.
 
@@ -64,7 +64,7 @@ Console.WriteLine(-3.99 as Integer);
 ```
 
  # Upcasting and Downcasting
-When casting between classes related through [inheritance](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/inheritance.markdown), one class must be a base class of the other.
+When casting between classes related through [inheritance](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/inheritance.markdown), one class must be a base class of the other.
 
 ```lang=csharp, name=Classes with Inheritance
 class A {}
@@ -116,13 +116,13 @@ var a2 : A = null as A; // explicit cast (unnecessary)
 NOTE: Interpreting `null` as an invalid state for object references is a common pattern in programming.
 
  # Any Casts
-Any type can be cast implicitly to an [any](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/any.markdown), and an [any](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/any.markdown) value can be implicitly cast to any type.  The [any](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/any.markdown) type is used as a generic reference to any instantiated class or struct.
+Any type can be cast implicitly to an [any](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/any.markdown), and an [any](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/any.markdown) value can be implicitly cast to any type.  The [any](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/any.markdown) type is used as a generic reference to any instantiated class or struct.
 ```lang=csharp, name=Any Casting
 var integerOne : any = 1;
 var myInteger : Integer = integerOne; // any cast
 var myReal : Real = integerOne; // runtime exception
 ```
-Notice how the attempt to cast `integerOne`, which is an [any](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/any.markdown), to a [real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown) results in a runtime exception.  An [any](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/any.markdown) must first be cast to the type of the value it holds, even before other implicit conversions.
+Notice how the attempt to cast `integerOne`, which is an [any](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/any.markdown), to a [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown) results in a runtime exception.  An [any](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/any.markdown) must first be cast to the type of the value it holds, even before other implicit conversions.
 
  # Same Casts
 Same casts are casts that convert a value of one type to the same type.  All same casts can be done implicitly and are unnecessary.
@@ -133,23 +133,16 @@ var myInteger : Integer = 1 as Integer; // explicit same cast
 
  # Related Materials
  ## Manual
-- [Function](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/functions.markdown)
-- [Variable](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/variables_and_data_types.markdown)
-- [inheritance](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/inheritance.markdown)
+- [Function](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/functions.markdown)
+- [Variable](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/variables_and_data_types.markdown)
+- [inheritance](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/inheritance.markdown)
 
  ## Code Reference
-- [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
-- [doubleinteger](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doubleinteger.markdown)
-- [real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)
-- [doublereal](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doublereal.markdown)
-- [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
-- [any](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/any.markdown) 
-  
-  
-  
-  
-  
-  
-  
+- [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+- [doubleinteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doubleinteger.markdown)
+- [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
+- [doublereal](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doublereal.markdown)
+- [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
+- [any](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/any.markdown) 
 
  

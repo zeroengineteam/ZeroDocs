@@ -5,12 +5,5 @@ The slider sets the volume adjustment, in decibels, which will be applied to all
 The colored bars indicate the RMS volume of all the audio currently playing. Roughly speaking, this is the average volume of the recent audio.
 
 The red line on top of the volume bars indicates the recent peak volume of the audio. This shows you the highest level that the audio data has reached. If this reaches the top of the meter, there may be clicks or static in the audio, since audio data is lost of the volume becomes too loud. 
-  
-  
-  
-  
-  
-  
-  
 
  

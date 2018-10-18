@@ -39,27 +39,20 @@ While the code completion window is open, one may notice it will occasionally ha
 ![TabTypedSuggestions](https://media.githubusercontent.com/media/zeroengineteam/ZeroFiles/master/doc_files/47415.gif)
 
 
-This indicates that the menu has switched to **word completion** mode. If it is enabled (it can be disabled in the [ TextEditorConfig](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/texteditor/texteditorconfig.markdown)), the word completion window pops up any time an alphabetical character is typed and there isn't already a code or word completion window open. The word completion list is populated by every whole word it can find in the current file. In addition, it also lists all keywords (such as `if` and `foreach`), special words (like `this` and `value`), and all bound type names (like `Transform` and `Event`).
+This indicates that the menu has switched to **word completion** mode. If it is enabled (it can be disabled in the [ TextEditorConfig](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/texteditor/texteditorconfig.markdown)), the word completion window pops up any time an alphabetical character is typed and there isn't already a code or word completion window open. The word completion list is populated by every whole word it can find in the current file. In addition, it also lists all keywords (such as `if` and `foreach`), special words (like `this` and `value`), and all bound type names (like `Transform` and `Event`).
 
  ## Script Errors
 Occasionally when using the code editor, the user may find that class types that they defined are not available in code completion options. This usually happens when trying to declare a variable of a type that was just defined and indicates that there is another error somewhere in the project. Since Zilch is a statically compiled language, each file must individually compile in order for the whole project to do so. This allows all contexts within the user's code to be aware of all definitions within the project. However, it means that since code completion depends on a clean project compilation, a single error will prevent code completion options from being correctly generated. In this case, the word completion menu will appear.
 
  # Related Materials
  ## Manual Pages
-- [Text Editor Hotkeys](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/ZeroManual/Editor/TextEditor/TextEditorHotkeys.markdown)
-- [Text Editor Config](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/ZeroManual/Editor/TextEditor/TextEditorConfig.markdown)
+- [Text Editor Hotkeys](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/ZeroManual/Editor/TextEditor/TextEditorHotkeys.markdown)
+- [Text Editor Config](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/ZeroManual/Editor/TextEditor/TextEditorConfig.markdown)
 
  ## Code Reference
-- [TextEditorConfig](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/code_reference/class_reference/TextEditorConfig.markdown) 
+- [TextEditorConfig](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/code_reference/class_reference/TextEditorConfig.markdown) 
 
  ## Tasks
 - T442 
-  
-  
-  
-  
-  
-  
-  
 
  

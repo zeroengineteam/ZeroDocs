@@ -2,7 +2,7 @@ Debug drawing is a feature in Zero that allows you to draw lines and shapes with
 
  # DebugDraw
 
-The DebugDraw object draws all the debug objects in a level once per frame.  Each debug draw object is turned into a graphical which uses either the DebugDraw resource or  DebugDrawOnTop resource [RenderGroup](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/graphics/rendergroups.markdown). The user will never make the draw call directly; instead, all debug objects to be rendered must be added to the debug draw call using the `DebugDraw.Add()` function:
+The DebugDraw object draws all the debug objects in a level once per frame.  Each debug draw object is turned into a graphical which uses either the DebugDraw resource or  DebugDrawOnTop resource [RenderGroup](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/rendergroups.markdown). The user will never make the draw call directly; instead, all debug objects to be rendered must be added to the debug draw call using the `DebugDraw.Add()` function:
 
 ``` lang=csharp
 // Create a DebugLine instance with a point and a radius, and add it to the DebugDraw call
@@ -179,13 +179,6 @@ class DrawTriangles: ZilchComponent
 
  ## Related Materials
  ### Manual
-- [rendergroups](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/graphics/rendergroups.markdown) 
-  
-  
-  
-  
-  
-  
-  
+- [rendergroups](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/rendergroups.markdown) 
 
  

@@ -6,17 +6,17 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ DeltaRadiansAroundAxis](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/ringgizmoevent.markdown#deltaradiansaroundaxis-z)|[gizmoupdateevent](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/gizmoupdateevent.markdown)| |
-| |[ RadiansAroundAxis](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/ringgizmoevent.markdown#radiansaroundaxis-zero-e)| | |
-| |[ WorldRotation](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/ringgizmoevent.markdown#worldrotation-zero-engin)| | |
-| |[ WorldRotationAxis](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/ringgizmoevent.markdown#worldrotationaxis-zero-e)| | |
+| |[ DeltaRadiansAroundAxis](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/ringgizmoevent.markdown#deltaradiansaroundaxis-z)|[gizmoupdateevent](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/gizmoupdateevent.markdown)| |
+| |[ RadiansAroundAxis](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/ringgizmoevent.markdown#radiansaroundaxis-zero-e)| | |
+| |[ WorldRotation](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/ringgizmoevent.markdown#worldrotation-zero-engin)| | |
+| |[ WorldRotationAxis](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/ringgizmoevent.markdown#worldrotationaxis-zero-e)| | |
 
 
  #  Properties
 
 
 ---  
- #  DeltaRadiansAroundAxis : [real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)
+ #  DeltaRadiansAroundAxis : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -24,7 +24,7 @@
 
 
 ---  
- #  RadiansAroundAxis : [real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)
+ #  RadiansAroundAxis : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -32,7 +32,7 @@
 
 
 ---  
- #  WorldRotation : [quaternion](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/quaternion.markdown)
+ #  WorldRotation : [quaternion](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/quaternion.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -40,7 +40,7 @@
 
 
 ---  
- #  WorldRotationAxis : [real3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real3.markdown)
+ #  WorldRotationAxis : [real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -53,12 +53,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

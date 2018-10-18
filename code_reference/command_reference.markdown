@@ -1254,12 +1254,5 @@ Show the Volume Meter Window
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

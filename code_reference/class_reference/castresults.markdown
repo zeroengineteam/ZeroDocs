@@ -2,9 +2,9 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ All](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/castresults.markdown#all-zero-engine-document)| | | |
-|[ Clear](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/castresults.markdown#clear-void)| | | |
-|[ Empty](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/castresults.markdown#empty-zero-engine-docume)| | | |
+|[ All](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/castresults.markdown#all-zero-engine-document)| | | |
+|[ Clear](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/castresults.markdown#clear-void)| | | |
+|[ Empty](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/castresults.markdown#empty-zero-engine-docume)| | | |
 
 
  #  Properties
@@ -15,7 +15,7 @@
 
 
 ---  
- #  All : [castresultsarrayrange](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/castresultsarrayrange.markdown)
+ #  All : [castresultsarrayrange](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/castresultsarrayrange.markdown)
 
 > 
 > |Name|Type|Description|
@@ -37,7 +37,7 @@
 
 
 ---  
- #  Empty : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  Empty : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
@@ -49,12 +49,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

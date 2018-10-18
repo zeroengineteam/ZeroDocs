@@ -4,16 +4,16 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Add](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/graphicalrangeinterface.markdown#add-void)|[ Count](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/graphicalrangeinterface.markdown#count-zero-engine-docume)| | |
-|[ Clear](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/graphicalrangeinterface.markdown#clear-void)| | | |
-|[ Constructor](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/graphicalrangeinterface.markdown#graphicalrangeinterface)| | | |
+|[ Add](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/graphicalrangeinterface.markdown#add-void)|[ Count](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/graphicalrangeinterface.markdown#count-zero-engine-docume)| | |
+|[ Clear](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/graphicalrangeinterface.markdown#clear-void)| | | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/graphicalrangeinterface.markdown#graphicalrangeinterface)| | | |
 
 
  #  Properties
 
 
 ---  
- #  Count : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  Count : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
  `read-only`
 
@@ -32,7 +32,7 @@
 > Add a Graphical to the list.
 > |Name|Type|Description|
 > |---|---|---|
-> |graphical|[graphical](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/graphical.markdown)| |
+> |graphical|[graphical](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/graphical.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Add(graphical : Graphical)
 > ``` 
@@ -70,7 +70,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[graphicalrangeinterface](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/graphicalrangeinterface.markdown)| |
+> ||[graphicalrangeinterface](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/graphicalrangeinterface.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function GraphicalRangeInterface( : GraphicalRangeInterface)
 > ``` 
@@ -78,12 +78,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

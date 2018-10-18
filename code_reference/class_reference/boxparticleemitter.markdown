@@ -6,7 +6,7 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/boxparticleemitter.markdown#boxparticleemitter-void)| |[particleemittershared](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/particleemittershared.markdown)| |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/boxparticleemitter.markdown#boxparticleemitter-void)| |[particleemittershared](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/particleemittershared.markdown)| |
 
 
  #  Properties
@@ -31,12 +31,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

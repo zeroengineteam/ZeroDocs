@@ -2,7 +2,7 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| | |[safeid32eventobject](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/safeid32eventobject.markdown)|[cogcommand](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/cogcommand.markdown)|
+| | |[safeid32eventobject](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/safeid32eventobject.markdown)|[cogcommand](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cogcommand.markdown)|
 
 
  #  Properties
@@ -14,12 +14,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

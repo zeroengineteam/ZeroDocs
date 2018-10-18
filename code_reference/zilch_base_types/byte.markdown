@@ -2,15 +2,15 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Parse](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/byte.markdown#parse-zero-engine-docume)|[ PositiveMax](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/byte.markdown#positivemax-zero-engine)| | |
-| |[ PositiveValueClosestToZero](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/byte.markdown#positivevalueclosesttoze)| | |
+|[ Parse](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/byte.markdown#parse-zero-engine-docume)|[ PositiveMax](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/byte.markdown#positivemax-zero-engine)| | |
+| |[ PositiveValueClosestToZero](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/byte.markdown#positivevalueclosesttoze)| | |
 
 
  #  Properties
 
 
 ---  
- #  PositiveMax : [byte](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/byte.markdown)
+ #  PositiveMax : [byte](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/byte.markdown)
 
  `read-only` `static`
 
@@ -20,7 +20,7 @@
 
 
 ---  
- #  PositiveValueClosestToZero : [byte](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/byte.markdown)
+ #  PositiveValueClosestToZero : [byte](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/byte.markdown)
 
  `read-only` `static`
 
@@ -34,14 +34,14 @@
 
 
 ---  
- #  Parse : [byte](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/byte.markdown)
+ #  Parse : [byte](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/byte.markdown)
 
  `static`
 
 > Attempt to convert the given StringRange to a Byte. If parsing fails 0 is returned.
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[stringrange](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/stringrange.markdown)| |
+> |p0|[stringrange](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/stringrange.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Parse(p0 : StringRange) : Byte
 > ``` 
@@ -49,12 +49,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

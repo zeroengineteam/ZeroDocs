@@ -66,12 +66,5 @@ Inside DriverControl: 2.0
 After Drivers: 15.0
 ```
 In this example it can be seen that when the property delegate of `MyProperty` is passed into the function `Driver()` it can be used to set the value of the member variable. This is because desprite the delegate itself being passed by value into the function it still contains a reference to `MyProperty`. However, when `MyProperty` is passed directly into the function `DriverControl()` it is also passed by value. The assignment of `prop` in `DriverControl()` is actually setting the value of the a local copy of `MyProperty`. When the function completes and reaches the end of its scope `prop` will cease to exist.  
-  
-  
-  
-  
-  
-  
-  
 
  

@@ -2,17 +2,17 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ MoveNext](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/nethostrange.markdown#movenext-void)|[ All](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/nethostrange.markdown#all-zero-engine-document)| | |
-|[ Constructor](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/nethostrange.markdown#nethostrange-void)|[ Current](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/nethostrange.markdown#current-zero-engine-docu)| | |
-| |[ IsEmpty](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/nethostrange.markdown#isempty-zero-engine-docu)| | |
-| |[ IsNotEmpty](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/nethostrange.markdown#isnotempty-zero-engine-d)| | |
+|[ MoveNext](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/nethostrange.markdown#movenext-void)|[ All](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/nethostrange.markdown#all-zero-engine-document)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/nethostrange.markdown#nethostrange-void)|[ Current](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/nethostrange.markdown#current-zero-engine-docu)| | |
+| |[ IsEmpty](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/nethostrange.markdown#isempty-zero-engine-docu)| | |
+| |[ IsNotEmpty](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/nethostrange.markdown#isnotempty-zero-engine-d)| | |
 
 
  #  Properties
 
 
 ---  
- #  All : [nethostrange](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/nethostrange.markdown)
+ #  All : [nethostrange](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/nethostrange.markdown)
 
  `read-only`
 
@@ -22,7 +22,7 @@
 
 
 ---  
- #  Current : [nethost](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/nethost.markdown)
+ #  Current : [nethost](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/nethost.markdown)
 
  `read-only`
 
@@ -32,7 +32,7 @@
 
 
 ---  
- #  IsEmpty : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  IsEmpty : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -42,7 +42,7 @@
 
 
 ---  
- #  IsNotEmpty : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  IsNotEmpty : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -87,7 +87,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[nethostrange](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/nethostrange.markdown)| |
+> |p0|[nethostrange](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/nethostrange.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function NetHostRange(p0 : NetHostRange)
 > ``` 
@@ -95,12 +95,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

@@ -6,17 +6,17 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/drageffect.markdown#drageffect-void)|[ AngularDamping](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/drageffect.markdown#angulardamping-zero-engi)|[physicseffect](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/physicseffect.markdown)| |
-| |[ AngularDrag](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/drageffect.markdown#angulardrag-zero-engine)| | |
-| |[ LinearDamping](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/drageffect.markdown#lineardamping-zero-engin)| | |
-| |[ LinearDrag](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/drageffect.markdown#lineardrag-zero-engine-d)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/drageffect.markdown#drageffect-void)|[ AngularDamping](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/drageffect.markdown#angulardamping-zero-engi)|[physicseffect](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/physicseffect.markdown)| |
+| |[ AngularDrag](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/drageffect.markdown#angulardrag-zero-engine)| | |
+| |[ LinearDamping](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/drageffect.markdown#lineardamping-zero-engin)| | |
+| |[ LinearDrag](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/drageffect.markdown#lineardrag-zero-engine-d)| | |
 
 
  #  Properties
 
 
 ---  
- #  AngularDamping : [real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)
+ #  AngularDamping : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
 
 > Angular damping coefficient for applying an angular drag acceleration (accel = -kw). Note: this affects objects the same regardless of mass.
 > ``` lang=cpp, name=Zilch
@@ -24,7 +24,7 @@
 
 
 ---  
- #  AngularDrag : [real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)
+ #  AngularDrag : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
 
 > The angular drag coefficient for applying an angular drag force (T = -kw).
 > ``` lang=cpp, name=Zilch
@@ -32,7 +32,7 @@
 
 
 ---  
- #  LinearDamping : [real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)
+ #  LinearDamping : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
 
 > Linear damping coefficient for applying a linear drag acceleration (accel = -bv). Note: this affects objects the same regardless of mass.
 > ``` lang=cpp, name=Zilch
@@ -40,7 +40,7 @@
 
 
 ---  
- #  LinearDrag : [real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)
+ #  LinearDrag : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
 
 > The linear drag coefficient for applying a linear drag force (F = -bv).
 > ``` lang=cpp, name=Zilch
@@ -66,12 +66,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

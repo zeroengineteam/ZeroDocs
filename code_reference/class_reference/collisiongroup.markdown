@@ -6,8 +6,8 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ CreateRuntime](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/collisiongroup.markdown#createruntime-zero-engin)| |[dataresource](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/dataresource.markdown)| |
-|[ RuntimeClone](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/collisiongroup.markdown#runtimeclone-zero-engine)| | | |
+|[ CreateRuntime](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/collisiongroup.markdown#createruntime-zero-engin)| |[dataresource](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/dataresource.markdown)| |
+|[ RuntimeClone](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/collisiongroup.markdown#runtimeclone-zero-engine)| | | |
 
 
  #  Properties
@@ -18,7 +18,7 @@
 
 
 ---  
- #  CreateRuntime : [collisiongroup](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/collisiongroup.markdown)
+ #  CreateRuntime : [collisiongroup](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/collisiongroup.markdown)
 
  `static`
 
@@ -31,7 +31,7 @@
 
 
 ---  
- #  RuntimeClone : [collisiongroup](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/collisiongroup.markdown)
+ #  RuntimeClone : [collisiongroup](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/collisiongroup.markdown)
 
 > Creates a clone of this CollisionGroup for run-time modifications.
 > |Name|Type|Description|
@@ -43,12 +43,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

@@ -1,4 +1,4 @@
-Reflection describes an objects ability to "reflect" on itself, generally this means to understand it's type and relationships to other types. Although Zilch does not boast a robust reflection library it does have a basic typeid for by-value types and [property_delegates](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/property_delegates.markdown):
+Reflection describes an objects ability to "reflect" on itself, generally this means to understand it's type and relationships to other types. Although Zilch does not boast a robust reflection library it does have a basic typeid for by-value types and [property_delegates](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/property_delegates.markdown):
 
  # typeid
 ```lang=csharp
@@ -48,7 +48,7 @@ Reflection describes an objects ability to "reflect" on itself, generally this m
 --------------------
  # String Interpolation
 
-Those types that are [memory_management](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/memory_management.markdown) or [delegates](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/delegates.markdown) types can be inspected with [string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/zilch_base_types/string.markdown) Interpolation:
+Those types that are [memory_management](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/memory_management.markdown) or [delegates](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/delegates.markdown) types can be inspected with [string](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/zilch_base_types/string.markdown) Interpolation:
 
 ```lang=csharp
 class Utility
@@ -103,7 +103,7 @@ ref Real3, (0.0, 1.0, 2.0) is of type: ref Real3
 
  # Console.DumpValue
 
-Useful in understanding the current state of a Zilch object, Console.DumpValue prints out the names of the variables and their type, if a [class](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/classes.markdown), or their value if a basic, built-in data type.
+Useful in understanding the current state of a Zilch object, Console.DumpValue prints out the names of the variables and their type, if a [class](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/classes.markdown), or their value if a basic, built-in data type.
 
 ```lang=csharp
 class TopLevel
@@ -170,18 +170,11 @@ BottomLevel
  # Related Materials
  ## Manual
 
-- [property_delegates](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/property_delegates.markdown)
-- [memory_management](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/memory_management.markdown)
-- [delegates](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/delegates.markdown)
-- [string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/zilch_base_types/string.markdown)
-- [classes](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/classes.markdown)
+- [property_delegates](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/property_delegates.markdown)
+- [memory_management](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/memory_management.markdown)
+- [delegates](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/delegates.markdown)
+- [string](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/zilch_base_types/string.markdown)
+- [classes](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/classes.markdown)
  
-  
-  
-  
-  
-  
-  
-  
 
  

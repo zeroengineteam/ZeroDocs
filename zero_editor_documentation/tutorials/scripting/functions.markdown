@@ -1,4 +1,4 @@
-This lesson covers the basics of using Functions in [Zilch](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero.markdown).
+This lesson covers the basics of using Functions in [Zilch](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero.markdown).
 
 
  # Learning Objectives
@@ -9,16 +9,16 @@ This lesson covers the basics of using Functions in [Zilch](https://github.com/A
 
  # Level Setup
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ New Project](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#newproject)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ New Project](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#newproject)
  - Create a new project using the {nav icon=clone, name=Empty 2D Project} template
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [CreateSprite](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#createsprite)
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [Add Resource](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#add)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [CreateSprite](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#createsprite)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [Add Resource](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#add)
  - Create a ZilchScript resource using the Component template template and name it `MyBehavior`
 - In the `Object Window`
- - [Select](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/selectobject.markdown) : Sprite object
+ - [Select](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/selectobject.markdown) : Sprite object
 - In the `Properties Window`
  - Rename Sprite object to `Square`
- - [Add Component](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown) : `MyBehavior`
+ - [Add Component](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown) : `MyBehavior`
 
  # Custom Functions
 
@@ -132,30 +132,23 @@ WARNING: Functions may use conditionals; however, when a Return Type is declared
  # Related Materials
 
  ## Manual
-- [Components](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/architecture/components.markdown)
-- [ Zilch User Documentation](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero.markdown)
-- [ Functions](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/functions.markdown)
-- [Create a New 2D Project](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/ZeroManual/Editor/EditorCommands/LauncherNewProject.markdown)
+- [Components](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/architecture/components.markdown)
+- [ Zilch User Documentation](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero.markdown)
+- [ Functions](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/functions.markdown)
+- [Create a New 2D Project](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/ZeroManual/Editor/EditorCommands/LauncherNewProject.markdown)
 
  ##  Tutorials
-- [CustomComponents](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/tutorials/scripting/CustomComponents.markdown)
+- [CustomComponents](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/tutorials/scripting/CustomComponents.markdown)
 
  ## Reference
  ### Classes
-- [Transform](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/Transform.markdown)
-- [Sprite](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/Sprite.markdown)
-- [ZilchScript](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/ZilchScript.markdown)
+- [Transform](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/Transform.markdown)
+- [Sprite](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/Sprite.markdown)
+- [ZilchScript](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/ZilchScript.markdown)
 
  ### Commands
-- [CreateSprite](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#createsprite)
-- [Add Resource](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#add)
+- [CreateSprite](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#createsprite)
+- [Add Resource](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#add)
  
-  
-  
-  
-  
-  
-  
-  
 
  

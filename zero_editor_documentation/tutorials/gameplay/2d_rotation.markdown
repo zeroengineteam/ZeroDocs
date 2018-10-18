@@ -13,33 +13,33 @@ This lesson covers the basic ways to rotate an object in 2D at runtime.
  #  Level Setup
 
 
-- [Create a New 2D Project](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/ZeroManual/Editor/EditorCommands/LauncherNewProject.markdown)
-- [Select](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/selectobject.markdown) : GameCamera object
+- [Create a New 2D Project](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/ZeroManual/Editor/EditorCommands/LauncherNewProject.markdown)
+- [Select](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/selectobject.markdown) : GameCamera object
 - In the `Properties Window`
- - Under [Camera](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/camera.markdown)
+ - Under [Camera](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/camera.markdown)
   - Set Size  to `5`
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ Add Resource](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/resourceadding.markdown)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ Add Resource](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/resourceadding.markdown)
  - Create a ZilchScript resource using the Component template template and name it `Rotate2D`
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [CreateSprite](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#createsprite)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [CreateSprite](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#createsprite)
 - In the `Properties Window`
  - Rename Sprite object to `Parent`
- - Under [Transform](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/transform.markdown)
+ - Under [Transform](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/transform.markdown)
   - Set Translation  to `[0, 0, 0]`
- - [Add Component](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown) : `Rotate2D`
- - Under [Transform](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/transform.markdown)
-  - Hover the cursor over the name of the [Transform.Rotation](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/transform.markdown#rotation-zero-engine-doc) property.
+ - [Add Component](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown) : `Rotate2D`
+ - Under [Transform](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/transform.markdown)
+  - Hover the cursor over the name of the [Transform.Rotation](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/transform.markdown#rotation-zero-engine-doc) property.
 
 
 
 ![image](https://media.githubusercontent.com/media/zeroengineteam/ZeroFiles/master/doc_files/94052.png)
 
 
-*Hovering over [Transform.Rotation](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/transform.markdown#rotation-zero-engine-doc)*
+*Hovering over [Transform.Rotation](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/transform.markdown#rotation-zero-engine-doc)*
 
 
-As you can see, rotational data is saved as a [Quaternion](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/quaternion.markdown). As a high-level developer, you do not need to know how Quaternions work, but you will need to know how to use them. In the `Properties Window`, Quaternions are represented by three angles that are the rotation of the object around the corresponding three axes; these are called Euler (pronounced “oil-er”) angles. In this lesson, we will be working with a 2D game, so we only need to worry about the Z-axis rotation.
+As you can see, rotational data is saved as a [Quaternion](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/quaternion.markdown). As a high-level developer, you do not need to know how Quaternions work, but you will need to know how to use them. In the `Properties Window`, Quaternions are represented by three angles that are the rotation of the object around the corresponding three axes; these are called Euler (pronounced “oil-er”) angles. In this lesson, we will be working with a 2D game, so we only need to worry about the Z-axis rotation.
 
-Rotation  can be changed either through the `Properties Window` or via accessing the [Transform](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/transform.markdown) component in script.
+Rotation  can be changed either through the `Properties Window` or via accessing the [Transform](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/transform.markdown) component in script.
 
  # Simple Rotating on Update
 
@@ -87,30 +87,30 @@ function OnLogicUpdate(event : UpdateEvent)
   this.Transform.RotateWorld(frameRotation);
 }
 ```
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ PlayGame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#playgame)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ PlayGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#playgame)
 
 
 
 ![RotateOnUpdate](https://media.githubusercontent.com/media/zeroengineteam/ZeroFiles/master/doc_files/94054.gif)
 
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ StopGame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#stopgame)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ StopGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#stopgame)
 
  # Local vs World Rotation
-You may have noticed the name of the function [RotateAnglesWorld](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/transform.markdown#rotateanglesworld-void), and wondered why there is also a [RotateAnglesLocal](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/transform.markdown#rotateangleslocal-void) function. Let's take a closer look at these functions.
+You may have noticed the name of the function [RotateAnglesWorld](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/transform.markdown#rotateanglesworld-void), and wondered why there is also a [RotateAnglesLocal](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/transform.markdown#rotateangleslocal-void) function. Let's take a closer look at these functions.
 
  ## Parent RotateWorld
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [CreateSprite](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#createsprite)
-- [Select](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/selectobject.markdown) : Sprite object
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [CreateSprite](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#createsprite)
+- [Select](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/selectobject.markdown) : Sprite object
 - In the `Properties Window`
  - Rename Sprite object to `Child`
- - Under [Transform](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/transform.markdown)
+ - Under [Transform](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/transform.markdown)
   - Set Translation  to `[0, 1, 0]`
- - Under [Sprite](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/sprite.markdown)
+ - Under [Sprite](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/sprite.markdown)
   - Set VertexColor  to `[R:255, G:0, B:0, A:1.0]`
-- [Attach](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/tutorials/architecture/hierarchies.markdown) Child object to Parent object
+- [Attach](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/tutorials/architecture/hierarchies.markdown) Child object to Parent object
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ PlayGame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#playgame)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ PlayGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#playgame)
 
 
 
@@ -119,16 +119,16 @@ You may have noticed the name of the function [RotateAnglesWorld](https://github
 
 Now we can see that a child object rotates with its parent. You may have seen similar behavior when using the rotation tool with hierarchies in the past. It is important to note that the Child object maintains it's translation relative to the parent object as the parent object rotates.
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ StopGame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#stopgame)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ StopGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#stopgame)
 
  ## Child RotateWorld
-- [Select](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/selectobject.markdown) : Child object
+- [Select](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/selectobject.markdown) : Child object
 - In the `Properties Window`
- - [Add Component](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown) : `Rotate2D`
-- [Select](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/selectobject.markdown) : Parent object
+ - [Add Component](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown) : `Rotate2D`
+- [Select](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/selectobject.markdown) : Parent object
 - In the `Properties Window`
- - [Remove Component](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown) : `Rotate2D`
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ PlayGame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#playgame)
+ - [Remove Component](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown) : `Rotate2D`
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ PlayGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#playgame)
 
 
 
@@ -137,12 +137,12 @@ Now we can see that a child object rotates with its parent. You may have seen si
 
 Here we can see that rotating the Child object has no affect on the Parent object.
 
-(NOTE)[Transform.RotateWorld](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/transform.markdown#rotateworld-void) vs [Transform.RotateLocal](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/transform.markdown#rotatelocal-void): You may have noticed the RotateLocal function on Transform. `Local` and `World` refer to to the axes that the rotation will be applied to. RotateWorld rotates an object around its world axes, while RotateLocal rotates it around the axes of its parent object (if any). This is done by applying the rotation of the parent object to the child after the child applies its own rotation.
+(NOTE)[Transform.RotateWorld](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/transform.markdown#rotateworld-void) vs [Transform.RotateLocal](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/transform.markdown#rotatelocal-void): You may have noticed the RotateLocal function on Transform. `Local` and `World` refer to to the axes that the rotation will be applied to. RotateWorld rotates an object around its world axes, while RotateLocal rotates it around the axes of its parent object (if any). This is done by applying the rotation of the parent object to the child after the child applies its own rotation.
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ StopGame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#stopgame)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ StopGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#stopgame)
 
  # Rotating with Actions
-Rotating on update is useful when trying to rotate in a specific direction, continuously, or more than 360 degrees. However, we often want an object to make quick small rotations to a specific target rotation. This is where rotating with [Actions](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/tutorials/scripting/actions.markdown) is very convenient.
+Rotating on update is useful when trying to rotate in a specific direction, continuously, or more than 360 degrees. However, we often want an object to make quick small rotations to a specific target rotation. This is where rotating with [Actions](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/tutorials/scripting/actions.markdown) is very convenient.
 
 - In `Rotate2D`
  - Update the `Rotate2D` class to look like the following code block
@@ -170,7 +170,7 @@ class Rotate2D : ZilchComponent
 }
 ```
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ PlayGame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#playgame)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ PlayGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#playgame)
 
 
 
@@ -180,14 +180,14 @@ class Rotate2D : ZilchComponent
 *Rotating the child object to 45 degrees on the Z-axis using an Action*
 
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ StopGame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#stopgame)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ StopGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#stopgame)
 
-- [Select](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/selectobject.markdown) : Child object
+- [Select](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/selectobject.markdown) : Child object
 - In the `Properties Window`
  - Under `Rotate2D`
   - Set `TargetRotation` to `[0,0,405]`
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ PlayGame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#playgame)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ PlayGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#playgame)
 
 
 
@@ -197,40 +197,33 @@ class Rotate2D : ZilchComponent
 *Rotating the child object to 405 degrees on the Z-axis using an Action*
 
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ StopGame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#stopgame)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ StopGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#stopgame)
 
-Notice how both rotations appear the same. Now one may expect the object to make a full 405 degree rotation. However, in the constructor of [Quaternion](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/quaternion.markdown) the angle is normalized to the range of `[0, 360]` degrees. Since 405 degrees is equivalent to 45 degrees, that is the rotation of the [Quaternion](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/quaternion.markdown) that is passed to the action constructor.
+Notice how both rotations appear the same. Now one may expect the object to make a full 405 degree rotation. However, in the constructor of [Quaternion](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/quaternion.markdown) the angle is normalized to the range of `[0, 360]` degrees. Since 405 degrees is equivalent to 45 degrees, that is the rotation of the [Quaternion](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/quaternion.markdown) that is passed to the action constructor.
 
 
  # Related Materials
  ## Manual
-- [Create a New 2D Project](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/ZeroManual/Editor/EditorCommands/LauncherNewProject.markdown)
-- [ Add Resource](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/resourceadding.markdown)
+- [Create a New 2D Project](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/ZeroManual/Editor/EditorCommands/LauncherNewProject.markdown)
+- [ Add Resource](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/resourceadding.markdown)
 - {icon university}[[zero_engine_documentation/zero_editor_documentation/zeromanual/editor/addremovecomponent/|Add/Remove Component]]
 
  ## Tutorials
-- [Actions](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/tutorials/scripting/actions.markdown) 
-- [Attach](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/tutorials/architecture/hierarchies.markdown)
+- [Actions](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/tutorials/scripting/actions.markdown) 
+- [Attach](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/tutorials/architecture/hierarchies.markdown)
 
  ## Reference
  ### Classes
-- [Transform](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/transform.markdown)
-- [Sprite](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/sprite.markdown)
-- [Quaternion](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/quaternion.markdown)
-- [Camera](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/camera.markdown)
+- [Transform](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/transform.markdown)
+- [Sprite](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/sprite.markdown)
+- [Quaternion](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/quaternion.markdown)
+- [Camera](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/camera.markdown)
 
  ### Commands
-- [ PlayGame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#playgame)
-- [ StopGame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#stopgame)
-- [CreateSprite](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#createsprite)
+- [ PlayGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#playgame)
+- [ StopGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#stopgame)
+- [CreateSprite](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#createsprite)
  ## Tasks
 - T1174 
-  
-  
-  
-  
-  
-  
-  
 
  

@@ -6,16 +6,16 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ OurRequestBundle](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/netpeersentuseraddrequest.markdown#ourrequestbundle-zero-en)|[event](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/event.markdown)| |
-| |[ TheirIpAddress](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/netpeersentuseraddrequest.markdown#theiripaddress-zero-engi)| | |
-| |[ TheirNetPeerId](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/netpeersentuseraddrequest.markdown#theirnetpeerid-zero-engi)| | |
+| |[ OurRequestBundle](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netpeersentuseraddrequest.markdown#ourrequestbundle-zero-en)|[event](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/event.markdown)| |
+| |[ TheirIpAddress](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netpeersentuseraddrequest.markdown#theiripaddress-zero-engi)| | |
+| |[ TheirNetPeerId](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netpeersentuseraddrequest.markdown#theirnetpeerid-zero-engi)| | |
 
 
  #  Properties
 
 
 ---  
- #  OurRequestBundle : [eventbundle](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/eventbundle.markdown)
+ #  OurRequestBundle : [eventbundle](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/eventbundle.markdown)
 
  `read-only`
 
@@ -25,7 +25,7 @@
 
 
 ---  
- #  TheirIpAddress : [ipaddress](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/ipaddress.markdown)
+ #  TheirIpAddress : [ipaddress](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/ipaddress.markdown)
 
  `read-only`
 
@@ -35,7 +35,7 @@
 
 
 ---  
- #  TheirNetPeerId : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  TheirNetPeerId : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
  `read-only`
 
@@ -50,12 +50,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

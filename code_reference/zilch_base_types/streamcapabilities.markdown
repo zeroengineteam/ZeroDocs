@@ -2,19 +2,19 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ GetCount](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/streamcapabilities.markdown#getcount-zero-engine-doc)|[enum](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/enum.markdown)| |
-| |[ None](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/streamcapabilities.markdown#none-zero-engine-documen)| | |
-| |[ Read](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/streamcapabilities.markdown#read-zero-engine-documen)| | |
-| |[ Seek](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/streamcapabilities.markdown#seek-zero-engine-documen)| | |
-| |[ SetCount](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/streamcapabilities.markdown#setcount-zero-engine-doc)| | |
-| |[ Write](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/streamcapabilities.markdown#write-zero-engine-docume)| | |
+| |[ GetCount](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/streamcapabilities.markdown#getcount-zero-engine-doc)|[enum](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/enum.markdown)| |
+| |[ None](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/streamcapabilities.markdown#none-zero-engine-documen)| | |
+| |[ Read](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/streamcapabilities.markdown#read-zero-engine-documen)| | |
+| |[ Seek](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/streamcapabilities.markdown#seek-zero-engine-documen)| | |
+| |[ SetCount](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/streamcapabilities.markdown#setcount-zero-engine-doc)| | |
+| |[ Write](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/streamcapabilities.markdown#write-zero-engine-docume)| | |
 
 
  #  Properties
 
 
 ---  
- #  GetCount : [streamcapabilities](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/streamcapabilities.markdown)
+ #  GetCount : [streamcapabilities](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/streamcapabilities.markdown)
 
  `read-only` `static`
 
@@ -24,7 +24,7 @@
 
 
 ---  
- #  None : [streamcapabilities](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/streamcapabilities.markdown)
+ #  None : [streamcapabilities](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/streamcapabilities.markdown)
 
  `read-only` `static`
 
@@ -34,7 +34,7 @@
 
 
 ---  
- #  Read : [streamcapabilities](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/streamcapabilities.markdown)
+ #  Read : [streamcapabilities](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/streamcapabilities.markdown)
 
  `read-only` `static`
 
@@ -44,7 +44,7 @@
 
 
 ---  
- #  Seek : [streamcapabilities](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/streamcapabilities.markdown)
+ #  Seek : [streamcapabilities](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/streamcapabilities.markdown)
 
  `read-only` `static`
 
@@ -54,7 +54,7 @@
 
 
 ---  
- #  SetCount : [streamcapabilities](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/streamcapabilities.markdown)
+ #  SetCount : [streamcapabilities](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/streamcapabilities.markdown)
 
  `read-only` `static`
 
@@ -64,7 +64,7 @@
 
 
 ---  
- #  Write : [streamcapabilities](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/streamcapabilities.markdown)
+ #  Write : [streamcapabilities](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/streamcapabilities.markdown)
 
  `read-only` `static`
 
@@ -79,12 +79,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

@@ -2,12 +2,5 @@ Many other languages have a concept known as reflection which lets you look up i
 
 C++ lacks this feature however we are able to build our own version of it in language which we call *Meta*. We use a collection of complex templates and macros to simplify this process.
  
-  
-  
-  
-  
-  
-  
-  
 
  

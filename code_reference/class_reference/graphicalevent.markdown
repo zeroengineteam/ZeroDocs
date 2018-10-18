@@ -6,14 +6,14 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ ViewingObject](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/graphicalevent.markdown#viewingobject-zero-engin)|[event](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/event.markdown)| |
+| |[ ViewingObject](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/graphicalevent.markdown#viewingobject-zero-engin)|[event](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/event.markdown)| |
 
 
  #  Properties
 
 
 ---  
- #  ViewingObject : [cog](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/cog.markdown)
+ #  ViewingObject : [cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
 
 > The viewing CameraViewport for EnterView/ExitView.
 > ``` lang=cpp, name=Zilch
@@ -26,12 +26,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

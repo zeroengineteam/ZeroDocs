@@ -324,18 +324,11 @@ The tables below are meant for both quick reference via the name column as well 
 
  # Related Materials
  ## Manual Pages
-- [Code Completion](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/ZeroManual/Editor/TextEditor/CodeCompletion.markdown)
-- [Text Editor Config](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/ZeroManual/Editor/TextEditor/TextEditorConfig.markdown)
+- [Code Completion](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/ZeroManual/Editor/TextEditor/CodeCompletion.markdown)
+- [Text Editor Config](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/ZeroManual/Editor/TextEditor/TextEditorConfig.markdown)
  ## Code Reference
-- [TextEditorConfig](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/code_reference/class_reference/TextEditorConfig.markdown) 
+- [TextEditorConfig](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/code_reference/class_reference/TextEditorConfig.markdown) 
 
  
-  
-  
-  
-  
-  
-  
-  
 
  

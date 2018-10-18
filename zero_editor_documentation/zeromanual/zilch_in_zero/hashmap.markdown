@@ -2,7 +2,7 @@ A HashMap is a templated data structure that can map unique keys of type A to va
 
  # Declaration
 
-NOTE: The types `HashMap` and `KeyValue` not currently appear in the [zilch_base_types](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types.markdown) list and does not currently show up in code completion suggestions (T552) during initial declaration.
+NOTE: The types `HashMap` and `KeyValue` not currently appear in the [zilch_base_types](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types.markdown) list and does not currently show up in code completion suggestions (T552) during initial declaration.
 
 HashMap declaration is similiar to the declaration of any templated type in Zilch. When a HashMap is created, by default, it has no elements.
 
@@ -13,7 +13,7 @@ var spawnerToEnemyType = HashMap[Cog, Archetype]();
 var enemyType = HashMap[Archetype, Integer]();
 ```
 
-HashMaps have a variety of uses. One may use them to keep track of objects at runtime by an alternate name, or to keep count of how many of each enemy archetype a spawner has created at runtime. Below are some simple example of HashMap functionality which map unique [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown) keys to non-unique [string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown) values.
+HashMaps have a variety of uses. One may use them to keep track of objects at runtime by an alternate name, or to keep count of how many of each enemy archetype a spawner has created at runtime. Below are some simple example of HashMap functionality which map unique [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown) keys to non-unique [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown) values.
 
  ## Initialization
 It is common for a HashMap to be populated at runtime, but it is also possible to define elements within an initializer list.
@@ -36,9 +36,9 @@ HashMap[Integer, String] (20744110)
 }
 ```
 
-Notice that the order in which the elements are printed is not the order in which they were added to the HashMap. This is due to HashMaps having no inherent order, unlike [Arrays](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/array_t.markdown). Instead of the pairs being printed in an indexed order they are printed in an arbitrary order based on the hash of the pair.
+Notice that the order in which the elements are printed is not the order in which they were added to the HashMap. This is due to HashMaps having no inherent order, unlike [Arrays](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_t.markdown). Instead of the pairs being printed in an indexed order they are printed in an arbitrary order based on the hash of the pair.
 
-NOTE: The HashMap templated type is currently lacking templated print functionality similiar to [Arrays](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/arrays.markdown). The `PrintHashMap` function used in this page is implemented below:
+NOTE: The HashMap templated type is currently lacking templated print functionality similiar to [Arrays](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/arrays.markdown). The `PrintHashMap` function used in this page is implemented below:
 
 ```name=PrintHashMap, lang=csharp
 function PrintHashMap(hash : HashMap[Integer, String])
@@ -101,7 +101,7 @@ three
 ```
 
  ### HashMap.GetOrDefault
-`HashMap.GetOrDefault` behaves the same as [Get](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/hashmap/.markdown#hashmap-get), but instead of throwing an exception when passed an invalid key it returns a *default// value that is the same type as the //values* of the HashMap.
+`HashMap.GetOrDefault` behaves the same as [Get](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/hashmap/.markdown#hashmap-get), but instead of throwing an exception when passed an invalid key it returns a *default// value that is the same type as the //values* of the HashMap.
 
 ```name=HashMap.GetOrDefault Example, lang=csharp
 var hash = HashMap[Integer, String]()
@@ -125,10 +125,10 @@ default
 ```
 
  ### HashMap.GetOrError
-`GetOrError` has the same functionality as [Get](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/hashmap/.markdown#hashmap-get), the only difference being that it is not called by the `[]` operator.
+`GetOrError` has the same functionality as [Get](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/hashmap/.markdown#hashmap-get), the only difference being that it is not called by the `[]` operator.
 
  # Adding to a HashMap
-There are multiple ways to add `KeyValue` pairs to HashMaps. [Add](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/hashmap/.markdown#hashmap-add), [Set](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/hashmap/.markdown#hashmap-set), and the `[]` operator can all be used to add `KeyValue` pairs to the HashMap.
+There are multiple ways to add `KeyValue` pairs to HashMaps. [Add](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/hashmap/.markdown#hashmap-add), [Set](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/hashmap/.markdown#hashmap-set), and the `[]` operator can all be used to add `KeyValue` pairs to the HashMap.
 
  ## HashMap.Add
 `Add` takes a *key* and //value//, adding the pair to the HashMap. If the given key already exists then a runtime exception will be thrown.
@@ -152,7 +152,7 @@ HashMap[Integer, String] (20744110)
 It should be noted that the `Add` function is called for each `KeyValue` pair when a HashMap is populated using an initializer list.
 
  ## HashMap.Set
-`Set` is very similar to [Add](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/hashmap/.markdown#hashmap-add). `Set` takes a *key// and //value//, adding the pair to the HashMap if the key does not exist. If the key does exist then the //value* paired with the given key will be replaced with the //given value//.
+`Set` is very similar to [Add](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/hashmap/.markdown#hashmap-add). `Set` takes a *key// and //value//, adding the pair to the HashMap if the key does not exist. If the key does exist then the //value* paired with the given key will be replaced with the //given value//.
 
 ```name=Set, lang=csharp
 var hash = HashMap[Integer, String]();
@@ -170,7 +170,7 @@ HashMap[Integer, String] (20744110)
 ```
 
  ### HashMap.SetOrOverwrite
-The relationship of [Set](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/hashmap/.markdown#hashmap-set) and `SetOrOverwrite` is simliar to that of [Get](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/hashmap/.markdown#hashmap-get) and [GetOrError](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/hashmap/.markdown#hashmap-getorerror) in that they have the same behavior. However, like [Get](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/hashmap/.markdown#hashmap-get), [Set](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/hashmap/.markdown#hashmap-set) is called by the `[]` operator during assignment.
+The relationship of [Set](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/hashmap/.markdown#hashmap-set) and `SetOrOverwrite` is simliar to that of [Get](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/hashmap/.markdown#hashmap-get) and [GetOrError](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/hashmap/.markdown#hashmap-getorerror) in that they have the same behavior. However, like [Get](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/hashmap/.markdown#hashmap-get), [Set](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/hashmap/.markdown#hashmap-set) is called by the `[]` operator during assignment.
 
 ```name=SetOrOverwrite, lang=csharp
 var hash = HashMap[Integer, String]();
@@ -188,7 +188,7 @@ HashMap[Integer, String] (20744110)
 ```
 
  ### HashMap.SetOrIgnore
-`SetOrIgnore` behaves the same as [Set](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/hashmap/.markdown#hashmap-set) except if the given *key* already exists the function returns leaving the HashMap unmodified.
+`SetOrIgnore` behaves the same as [Set](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/hashmap/.markdown#hashmap-set) except if the given *key* already exists the function returns leaving the HashMap unmodified.
 
 ```name=SetOrIgnore, lang=csharp
 var hash = HashMap[Integer, String]();
@@ -206,7 +206,7 @@ HashMap[Integer, String] (20744110)
 ```
 
  ### HashMap.SetOrError
-`SetOrError` follows a similiar behavior to [GetOrError](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/hashmap/.markdown#hashmap-getorerror). If the key passed to `SetOrError` already exists in the HashMap then an exception will be thrown.
+`SetOrError` follows a similiar behavior to [GetOrError](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/hashmap/.markdown#hashmap-getorerror). If the key passed to `SetOrError` already exists in the HashMap then an exception will be thrown.
 
 
 ![image](https://media.githubusercontent.com/media/zeroengineteam/ZeroFiles/master/doc_files/90732.png)
@@ -286,19 +286,12 @@ The `PrintHashMap` function is an excellent example of how one may use `All`.
 
  # Related Materials
  ## Manual
-- [Arrays](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/arrays.markdown)
+- [Arrays](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/arrays.markdown)
  ## Reference
-- [Arrays](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/array_t.markdown)
-- [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
-- [string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)
+- [Arrays](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/array_t.markdown)
+- [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
+- [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
  ## Task
 - T1317 
-  
-  
-  
-  
-  
-  
-  
 
  

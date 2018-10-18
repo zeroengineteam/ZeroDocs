@@ -2,11 +2,11 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Clear](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/stringbuilder.markdown#clear-void)| | | |
-|[ Constructor](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/stringbuilder.markdown#stringbuilder-void)| | | |
-|[ ToString](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/stringbuilder.markdown#tostring-zero-engine-doc)| | | |
-|[ Write](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/stringbuilder.markdown#write-void)| | | |
-|[ WriteLine](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/stringbuilder.markdown#writeline-void)| | | |
+|[ Clear](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/stringbuilder.markdown#clear-void)| | | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/stringbuilder.markdown#stringbuilder-void)| | | |
+|[ ToString](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/stringbuilder.markdown#tostring-zero-engine-doc)| | | |
+|[ Write](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/stringbuilder.markdown#write-void)| | | |
+|[ WriteLine](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/stringbuilder.markdown#writeline-void)| | | |
 
 
  #  Properties
@@ -41,7 +41,7 @@
 
 
 ---  
- #  ToString : [string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)
+ #  ToString : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
 
 > 
 > |Name|Type|Description|
@@ -88,12 +88,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

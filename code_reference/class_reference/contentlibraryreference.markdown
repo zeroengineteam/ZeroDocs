@@ -2,14 +2,14 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ ContentLibraryName](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/contentlibraryreference.markdown#contentlibraryname-zero)|[safeid32object](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/safeid32object.markdown)| |
+| |[ ContentLibraryName](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/contentlibraryreference.markdown#contentlibraryname-zero)|[safeid32object](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/safeid32object.markdown)| |
 
 
  #  Properties
 
 
 ---  
- #  ContentLibraryName : [string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)
+ #  ContentLibraryName : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -22,12 +22,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

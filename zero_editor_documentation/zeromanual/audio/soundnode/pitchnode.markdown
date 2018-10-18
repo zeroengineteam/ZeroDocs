@@ -1,4 +1,4 @@
-The [ PitchNode ](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/pitchnode.markdown) collects audio data from all of its inputs and applies a pitch modification to the samples before passing them off to its output nodes.
+The [ PitchNode ](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/pitchnode.markdown) collects audio data from all of its inputs and applies a pitch modification to the samples before passing them off to its output nodes.
 
  # Common Uses
 
@@ -23,16 +23,9 @@ The `AudioInterpolationDone` event will be sent when a pitch interpolation has f
 ---
  # Related Materials
  ## Manual
-- [soudnode_overview](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/audio/soundnode/soudnode_overview.markdown)
+- [soudnode_overview](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/audio/soundnode/soudnode_overview.markdown)
 
  ## Code Reference
-- [ PitchNode ](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/pitchnode.markdown) 
-  
-  
-  
-  
-  
-  
-  
+- [ PitchNode ](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/pitchnode.markdown) 
 
  

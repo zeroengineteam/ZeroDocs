@@ -6,26 +6,26 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ CreateRuntime](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/texture.markdown#createruntime-zero-engin)|[ AddressingX](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/texture.markdown#addressingx-zero-engine)|Resource| |
-|[ SubUpload](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/texture.markdown#subupload-void)|[ AddressingY](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/texture.markdown#addressingy-zero-engine)| | |
-|[ Upload](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/texture.markdown#upload-void)|[ Anisotropy](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/texture.markdown#anisotropy-zero-engine-d)| | |
-| |[ CompareFunc](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/texture.markdown#comparefunc-zero-engine)| | |
-| |[ CompareMode](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/texture.markdown#comparemode-zero-engine)| | |
-| |[ Compression](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/texture.markdown#compression-zero-engine)| | |
-| |[ Filtering](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/texture.markdown#filtering-zero-engine-do)| | |
-| |[ Format](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/texture.markdown#format-zero-engine-docum)| | |
-| |[ Height](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/texture.markdown#height-zero-engine-docum)| | |
-| |[ MipMapping](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/texture.markdown#mipmapping-zero-engine-d)| | |
-| |[ Size](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/texture.markdown#size-zero-engine-documen)| | |
-| |[ Type](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/texture.markdown#type-zero-engine-documen)| | |
-| |[ Width](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/texture.markdown#width-zero-engine-docume)| | |
+|[ CreateRuntime](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texture.markdown#createruntime-zero-engin)|[ AddressingX](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texture.markdown#addressingx-zero-engine)|Resource| |
+|[ SubUpload](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texture.markdown#subupload-void)|[ AddressingY](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texture.markdown#addressingy-zero-engine)| | |
+|[ Upload](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texture.markdown#upload-void)|[ Anisotropy](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texture.markdown#anisotropy-zero-engine-d)| | |
+| |[ CompareFunc](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texture.markdown#comparefunc-zero-engine)| | |
+| |[ CompareMode](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texture.markdown#comparemode-zero-engine)| | |
+| |[ Compression](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texture.markdown#compression-zero-engine)| | |
+| |[ Filtering](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texture.markdown#filtering-zero-engine-do)| | |
+| |[ Format](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texture.markdown#format-zero-engine-docum)| | |
+| |[ Height](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texture.markdown#height-zero-engine-docum)| | |
+| |[ MipMapping](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texture.markdown#mipmapping-zero-engine-d)| | |
+| |[ Size](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texture.markdown#size-zero-engine-documen)| | |
+| |[ Type](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texture.markdown#type-zero-engine-documen)| | |
+| |[ Width](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texture.markdown#width-zero-engine-docume)| | |
 
 
  #  Properties
 
 
 ---  
- #  AddressingX : [TextureAddressing](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/enum_reference.markdown#textureaddressing)
+ #  AddressingX : [TextureAddressing](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#textureaddressing)
 
 > How to treat uv coordinates outside of [0, 1] along the Texture's width.
 > ``` lang=cpp, name=Zilch
@@ -33,7 +33,7 @@
 
 
 ---  
- #  AddressingY : [TextureAddressing](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/enum_reference.markdown#textureaddressing)
+ #  AddressingY : [TextureAddressing](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#textureaddressing)
 
 > How to treat uv coordinates outside of [0, 1] along the Texture's height.
 > ``` lang=cpp, name=Zilch
@@ -41,7 +41,7 @@
 
 
 ---  
- #  Anisotropy : [TextureAnisotropy](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/enum_reference.markdown#textureanisotropy)
+ #  Anisotropy : [TextureAnisotropy](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#textureanisotropy)
 
 > Max ratio of anisotropy that filtering will account for at oblique viewing angles.
 > ``` lang=cpp, name=Zilch
@@ -49,7 +49,7 @@
 
 
 ---  
- #  CompareFunc : [TextureCompareFunc](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/enum_reference.markdown#texturecomparefunc)
+ #  CompareFunc : [TextureCompareFunc](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#texturecomparefunc)
 
 > Which method of comparison should be used if CompareMode is set to Enable.
 > ``` lang=cpp, name=Zilch
@@ -57,7 +57,7 @@
 
 
 ---  
- #  CompareMode : [TextureCompareMode](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/enum_reference.markdown#texturecomparemode)
+ #  CompareMode : [TextureCompareMode](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#texturecomparemode)
 
 > If sampling in hardware should perform comparison instead of fetching. Requires using SamplerShadow2d in the shader.
 > ``` lang=cpp, name=Zilch
@@ -65,7 +65,7 @@
 
 
 ---  
- #  Compression : [TextureCompression](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/enum_reference.markdown#texturecompression)
+ #  Compression : [TextureCompression](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#texturecompression)
 
  `read-only`
 
@@ -75,7 +75,7 @@
 
 
 ---  
- #  Filtering : [TextureFiltering](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/enum_reference.markdown#texturefiltering)
+ #  Filtering : [TextureFiltering](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#texturefiltering)
 
 > How samples should be blended under minification/magnification.
 > ``` lang=cpp, name=Zilch
@@ -83,7 +83,7 @@
 
 
 ---  
- #  Format : [TextureFormat](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/enum_reference.markdown#textureformat)
+ #  Format : [TextureFormat](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#textureformat)
 
  `read-only`
 
@@ -93,7 +93,7 @@
 
 
 ---  
- #  Height : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  Height : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
  `read-only`
 
@@ -103,7 +103,7 @@
 
 
 ---  
- #  MipMapping : [TextureMipMapping](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/enum_reference.markdown#texturemipmapping)
+ #  MipMapping : [TextureMipMapping](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#texturemipmapping)
 
 > If downsampled versions of the texture (mip maps) should be generated. PreGenerated is not valid for runtime Textures.
 > ``` lang=cpp, name=Zilch
@@ -111,7 +111,7 @@
 
 
 ---  
- #  Size : [integer2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer2.markdown)
+ #  Size : [integer2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer2.markdown)
 
  `read-only`
 
@@ -121,7 +121,7 @@
 
 
 ---  
- #  Type : [TextureType](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/enum_reference.markdown#texturetype)
+ #  Type : [TextureType](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#texturetype)
 
  `read-only`
 
@@ -131,7 +131,7 @@
 
 
 ---  
- #  Width : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  Width : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
  `read-only`
 
@@ -145,7 +145,7 @@
 
 
 ---  
- #  CreateRuntime : [texture](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/texture.markdown)
+ #  CreateRuntime : [texture](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texture.markdown)
 
  `static`
 
@@ -163,9 +163,9 @@
 > Uploads the given texture data, overwriting a sub region of the texture data that is already on the gpu.
 > |Name|Type|Description|
 > |---|---|---|
-> |textureData|[texturedata](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/texturedata.markdown)| |
-> |xOffset|[integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)| |
-> |yOffset|[integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> |textureData|[texturedata](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texturedata.markdown)| |
+> |xOffset|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> |yOffset|[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function SubUpload(textureData : TextureData, xOffset : Integer, yOffset : Integer)
 > ``` 
@@ -177,7 +177,7 @@
 > Uploads the given texture data to the gpu, configured with the current settings of this Texture.
 > |Name|Type|Description|
 > |---|---|---|
-> |textureData|[texturedata](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/texturedata.markdown)| |
+> |textureData|[texturedata](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texturedata.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Upload(textureData : TextureData)
 > ``` 
@@ -185,12 +185,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

@@ -21,19 +21,12 @@ Physically-based rendering (PBR) is a relatively recent rendering technique and 
 
  # Implementation in Zero
 
-The [DeferredRenderer and ForwardRenderer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/graphics/renderer/deferred_renderer.markdown) follow a metallic-roughness workflow (as opposed to metallic-glossiness) and expects inputs for albedo (referred to as "base color" in other workflows), metallic, roughness, and specular in the form of texture maps or uniform values. These maps or values are set via ZilchFragments and applied to a [Material](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/graphics/materials/materials_overview.markdown). 
+The [DeferredRenderer and ForwardRenderer](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/renderer/deferred_renderer.markdown) follow a metallic-roughness workflow (as opposed to metallic-glossiness) and expects inputs for albedo (referred to as "base color" in other workflows), metallic, roughness, and specular in the form of texture maps or uniform values. These maps or values are set via ZilchFragments and applied to a [Material](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/materials/materials_overview.markdown). 
 
  # Related Materials
  ## Manual
 
-- [DeferredRenderer and ForwardRenderer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/graphics/renderer/deferred_renderer.markdown)
-- [Material](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/graphics/materials/materials_overview.markdown) 
-  
-  
-  
-  
-  
-  
-  
+- [DeferredRenderer and ForwardRenderer](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/renderer/deferred_renderer.markdown)
+- [Material](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/materials/materials_overview.markdown) 
 
  

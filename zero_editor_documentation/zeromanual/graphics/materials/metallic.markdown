@@ -1,4 +1,4 @@
-The metallic fragment, in the form of either a map or value, describes whether a [Material](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/graphics/materials.markdown), or part of a material, should have the properties of a metal (or conductor) in relation to light. Metals have high specular and their color represents the visible spectrum of light that a particular metal reflects. This is in opposition for dielectrics, or non-metals, that--for the most part--have high diffuse reflectance. In fact, when authoring a new material for a PBR-based renderer, whether that material is a metal or not (or some combination of the two) is usually the first consideration one should make.
+The metallic fragment, in the form of either a map or value, describes whether a [Material](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/materials.markdown), or part of a material, should have the properties of a metal (or conductor) in relation to light. Metals have high specular and their color represents the visible spectrum of light that a particular metal reflects. This is in opposition for dielectrics, or non-metals, that--for the most part--have high diffuse reflectance. In fact, when authoring a new material for a PBR-based renderer, whether that material is a metal or not (or some combination of the two) is usually the first consideration one should make.
 
 As metals have very high specular and very low diffuse reflectance, their color comes from a "tint" to reflected light. Gold and copper are two metals associated with their unique colors, instead of the grays usually found with metals. A simplified explanation of why gold and copper have the tint that they do is because they do not reflect much of the blue part of the spectrum. Compare the following three spheres, each tinted to represent gold, copper, and silver respectively.
 
@@ -11,7 +11,7 @@ Using either a map or a value fragment, one may assign a metallic value between 
 
  #  The Metallic Fragment
 
-Metallic may be set using a [Texture](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/texture.markdown) map or a value. If a value is used, it applied uniformly across the entire Material. If a map is used, the metallic value may be set to different levels across the Material.  If there is neither a metallic map or value fragment, it would be as if a metallic value of `0.0` is applied to the entire Material.
+Metallic may be set using a [Texture](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texture.markdown) map or a value. If a value is used, it applied uniformly across the entire Material. If a map is used, the metallic value may be set to different levels across the Material.  If there is neither a metallic map or value fragment, it would be as if a metallic value of `0.0` is applied to the entire Material.
 
  ##  MetallicValue
 
@@ -45,18 +45,11 @@ A MetallicMap fragment is appropriate to use when the Material will have section
  # Related Materials
 
  ## Manual
-- [materials](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/graphics/materials.markdown)
-- [adding_textures_and_sprites](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/graphics/adding_assets/adding_textures_and_sprites.markdown)
+- [materials](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/materials.markdown)
+- [adding_textures_and_sprites](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/adding_assets/adding_textures_and_sprites.markdown)
 
  ## Code Reference
-- [material](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/material.markdown)
-- [texture](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/texture.markdown) 
-  
-  
-  
-  
-  
-  
-  
+- [material](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/material.markdown)
+- [texture](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texture.markdown) 
 
  

@@ -1,18 +1,18 @@
-[ResourceTable](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/ResourceTable.markdown) is a resource that stores a collection of entries of a certain resource type for sampling during run-time. Sampling can be performed through three different interfaces: array, hashmap, and a [ weighted table](https://github.com/ArendDanielek/ZeroDocsTest/blob/master.markdown#weightedtable-interface).
+[ResourceTable](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/ResourceTable.markdown) is a resource that stores a collection of entries of a certain resource type for sampling during run-time. Sampling can be performed through three different interfaces: array, hashmap, and a [ weighted table](https://github.com/zeroengineteam/ZeroDocs.markdown#weightedtable-interface).
 
 
 
 
 ![ResourceTable1](https://media.githubusercontent.com/media/zeroengineteam/ZeroFiles/master/doc_files/47118.PNG)
 
-ResourceTables store a homogeneous collection of entries. Pictured above is a table of [ Archetypes ](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/architecture/archetypes.markdown). This can be switched to any other resource type or to strings.
+ResourceTables store a homogeneous collection of entries. Pictured above is a table of [ Archetypes ](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/architecture/archetypes.markdown). This can be switched to any other resource type or to strings.
 
 ResourceTable entries are composed of three items:
  - **Name**: A name used for hashmap queries. This is sometimes used as a display name for the entry. Note: This name does not have to Value. 
  - **Value**: The actual resource/string of the entry.
- - **Weight**: The weight to use when randomly sampling the table. See the [ WeightedTable Interface](https://github.com/ArendDanielek/ZeroDocsTest/blob/master.markdown#weightedtable-interface) section below for details.
+ - **Weight**: The weight to use when randomly sampling the table. See the [ WeightedTable Interface](https://github.com/zeroengineteam/ZeroDocs.markdown#weightedtable-interface) section below for details.
 
-All sampling functions for a ResourceTable return a [ResourceTableEntry](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/ResourceTableEntry.markdown). In addition to the above listed properties, the stored resource can also be looked up via the `Resource` property. Note: This must be casted to the correct resource type.
+All sampling functions for a ResourceTable return a [ResourceTableEntry](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/ResourceTableEntry.markdown). In addition to the above listed properties, the stored resource can also be looked up via the `Resource` property. Note: This must be casted to the correct resource type.
 
  #  Array Interface
 
@@ -86,16 +86,9 @@ Additionally, ResourceTable exposes the `SampleIndex` function which returns the
 
  #  Related Materials
  ##  Reference
- [ResourceTable](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/ResourceTable.markdown)
- [ResourceTableEntry](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/ResourceTableEntry.markdown)
- [Archetype](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/Archetype.markdown)
- [RandomContext](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/RandomContext.markdown) 
-  
-  
-  
-  
-  
-  
-  
+ [ResourceTable](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/ResourceTable.markdown)
+ [ResourceTableEntry](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/ResourceTableEntry.markdown)
+ [Archetype](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/Archetype.markdown)
+ [RandomContext](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/RandomContext.markdown) 
 
  

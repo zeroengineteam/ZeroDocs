@@ -2,27 +2,27 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ AddTrailingDirectorySeparator](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/filepath.markdown#addtrailingdirectorysepa)|[ DirectorySeparator](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/filepath.markdown#directoryseparator-zero)| | |
-|[ ChangeExtension](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/filepath.markdown#changeextension-zero-eng)|[ ExecutableDirectory](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/filepath.markdown#executabledirectory-zero)| | |
-|[ CombineDirectories](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/filepath.markdown#combinedirectories-zero)|[ ExecutableFile](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/filepath.markdown#executablefile-zero-engi)| | |
-|[ CombineDirectoriesAndFile](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/filepath.markdown#combinedirectoriesandfil)|[ TemporaryDirectory](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/filepath.markdown#temporarydirectory-zero)| | |
-|[ GetCanonicalizedPathFromAbsolutePath](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/filepath.markdown#getcanonicalizedpathfrom)|[ UserDocumentsDirectory](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/filepath.markdown#userdocumentsdirectory-z)| | |
-|[ GetComparablePathFromAbsolutePath](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/filepath.markdown#getcomparablepathfromabs)|[ UserLocalDirectory](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/filepath.markdown#userlocaldirectory-zero)| | |
-|[ GetDirectoryName](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/filepath.markdown#getdirectoryname-zero-en)|[ WorkingDirectory](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/filepath.markdown#workingdirectory-zero-en)| | |
-|[ GetDirectoryPath](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/filepath.markdown#getdirectorypath-zero-en)| | | |
-|[ GetExtensionWithDot](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/filepath.markdown#getextensionwithdot-zero)| | | |
-|[ GetExtensionWithoutDot](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/filepath.markdown#getextensionwithoutdot-z)| | | |
-|[ GetFileNameWithExtension](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/filepath.markdown#getfilenamewithextension)| | | |
-|[ GetFileNameWithoutExtension](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/filepath.markdown#getfilenamewithoutextens)| | | |
-|[ IsRelative](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/filepath.markdown#isrelative-zero-engine-d)| | | |
-|[ RemoveTrailingDirectorySeparator](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/filepath.markdown#removetrailingdirectorys)| | | |
+|[ AddTrailingDirectorySeparator](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/filepath.markdown#addtrailingdirectorysepa)|[ DirectorySeparator](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/filepath.markdown#directoryseparator-zero)| | |
+|[ ChangeExtension](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/filepath.markdown#changeextension-zero-eng)|[ ExecutableDirectory](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/filepath.markdown#executabledirectory-zero)| | |
+|[ CombineDirectories](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/filepath.markdown#combinedirectories-zero)|[ ExecutableFile](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/filepath.markdown#executablefile-zero-engi)| | |
+|[ CombineDirectoriesAndFile](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/filepath.markdown#combinedirectoriesandfil)|[ TemporaryDirectory](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/filepath.markdown#temporarydirectory-zero)| | |
+|[ GetCanonicalizedPathFromAbsolutePath](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/filepath.markdown#getcanonicalizedpathfrom)|[ UserDocumentsDirectory](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/filepath.markdown#userdocumentsdirectory-z)| | |
+|[ GetComparablePathFromAbsolutePath](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/filepath.markdown#getcomparablepathfromabs)|[ UserLocalDirectory](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/filepath.markdown#userlocaldirectory-zero)| | |
+|[ GetDirectoryName](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/filepath.markdown#getdirectoryname-zero-en)|[ WorkingDirectory](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/filepath.markdown#workingdirectory-zero-en)| | |
+|[ GetDirectoryPath](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/filepath.markdown#getdirectorypath-zero-en)| | | |
+|[ GetExtensionWithDot](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/filepath.markdown#getextensionwithdot-zero)| | | |
+|[ GetExtensionWithoutDot](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/filepath.markdown#getextensionwithoutdot-z)| | | |
+|[ GetFileNameWithExtension](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/filepath.markdown#getfilenamewithextension)| | | |
+|[ GetFileNameWithoutExtension](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/filepath.markdown#getfilenamewithoutextens)| | | |
+|[ IsRelative](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/filepath.markdown#isrelative-zero-engine-d)| | | |
+|[ RemoveTrailingDirectorySeparator](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/filepath.markdown#removetrailingdirectorys)| | | |
 
 
  #  Properties
 
 
 ---  
- #  DirectorySeparator : [string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)
+ #  DirectorySeparator : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
 
  `read-only` `static`
 
@@ -33,7 +33,7 @@
 
 
 ---  
- #  ExecutableDirectory : [string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)
+ #  ExecutableDirectory : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
 
  `read-only` `static`
 
@@ -44,7 +44,7 @@
 
 
 ---  
- #  ExecutableFile : [string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)
+ #  ExecutableFile : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
 
  `read-only` `static`
 
@@ -55,7 +55,7 @@
 
 
 ---  
- #  TemporaryDirectory : [string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)
+ #  TemporaryDirectory : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
 
  `read-only` `static`
 
@@ -66,7 +66,7 @@
 
 
 ---  
- #  UserDocumentsDirectory : [string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)
+ #  UserDocumentsDirectory : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
 
  `read-only` `static`
 
@@ -77,7 +77,7 @@
 
 
 ---  
- #  UserLocalDirectory : [string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)
+ #  UserLocalDirectory : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
 
  `read-only` `static`
 
@@ -88,7 +88,7 @@
 
 
 ---  
- #  WorkingDirectory : [string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)
+ #  WorkingDirectory : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
 
  `static`
 
@@ -103,7 +103,7 @@
 
 
 ---  
- #  AddTrailingDirectorySeparator : [string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)
+ #  AddTrailingDirectorySeparator : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
 
  `static`
 
@@ -113,14 +113,14 @@ Example: ('Content\Powerups\') results in 'Content\Powerups\'
 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)| |
+> |p0|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function AddTrailingDirectorySeparator(p0 : String) : String
 > ``` 
 
 
 ---  
- #  ChangeExtension : [string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)
+ #  ChangeExtension : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
 
  `static`
 
@@ -131,15 +131,15 @@ Example: ('Content\Player.', '.jpg') results in 'Content\Player.jpg'
 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)| |
-> |p1|[string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)| |
+> |p0|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
+> |p1|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function ChangeExtension(p0 : String, p1 : String) : String
 > ``` 
 
 
 ---  
- #  CombineDirectories : [string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)
+ #  CombineDirectories : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
 
  `static`
 
@@ -151,15 +151,15 @@ Example: ('C:\Sandbox\', 'Content') results in 'C:\Sandbox\Content\'
 
 > |Name|Type|Description|
 > |---|---|---|
-> |dir0|[string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)| |
-> |dir1|[string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)| |
+> |dir0|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
+> |dir1|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function CombineDirectories(dir0 : String, dir1 : String) : String
 > ``` 
 
 
 ---  
- #  CombineDirectories : [string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)
+ #  CombineDirectories : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
 
  `static`
 
@@ -171,16 +171,16 @@ Example: ('C:\Sandbox\', 'Content') results in 'C:\Sandbox\Content\'
 
 > |Name|Type|Description|
 > |---|---|---|
-> |dir0|[string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)| |
-> |dir1|[string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)| |
-> |dir2|[string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)| |
+> |dir0|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
+> |dir1|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
+> |dir2|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function CombineDirectories(dir0 : String, dir1 : String, dir2 : String) : String
 > ``` 
 
 
 ---  
- #  CombineDirectories : [string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)
+ #  CombineDirectories : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
 
  `static`
 
@@ -192,17 +192,17 @@ Example: ('C:\Sandbox\', 'Content') results in 'C:\Sandbox\Content\'
 
 > |Name|Type|Description|
 > |---|---|---|
-> |dir0|[string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)| |
-> |dir1|[string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)| |
-> |dir2|[string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)| |
-> |dir3|[string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)| |
+> |dir0|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
+> |dir1|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
+> |dir2|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
+> |dir3|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function CombineDirectories(dir0 : String, dir1 : String, dir2 : String, dir3 : String) : String
 > ``` 
 
 
 ---  
- #  CombineDirectories : [string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)
+ #  CombineDirectories : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
 
  `static`
 
@@ -214,18 +214,18 @@ Example: ('C:\Sandbox\', 'Content') results in 'C:\Sandbox\Content\'
 
 > |Name|Type|Description|
 > |---|---|---|
-> |dir0|[string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)| |
-> |dir1|[string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)| |
-> |dir2|[string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)| |
-> |dir3|[string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)| |
-> |dir4|[string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)| |
+> |dir0|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
+> |dir1|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
+> |dir2|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
+> |dir3|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
+> |dir4|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function CombineDirectories(dir0 : String, dir1 : String, dir2 : String, dir3 : String, dir4 : String) : String
 > ``` 
 
 
 ---  
- #  CombineDirectoriesAndFile : [string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)
+ #  CombineDirectoriesAndFile : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
 
  `static`
 
@@ -237,15 +237,15 @@ Example: ('C:\Sandbox\', 'Content\Player.png') results in 'C:\Sandbox\Content\Pl
 
 > |Name|Type|Description|
 > |---|---|---|
-> |dir0|[string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)| |
-> |fileName|[string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)| |
+> |dir0|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
+> |fileName|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function CombineDirectoriesAndFile(dir0 : String, fileName : String) : String
 > ``` 
 
 
 ---  
- #  CombineDirectoriesAndFile : [string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)
+ #  CombineDirectoriesAndFile : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
 
  `static`
 
@@ -257,16 +257,16 @@ Example: ('C:\Sandbox\', 'Content\Player.png') results in 'C:\Sandbox\Content\Pl
 
 > |Name|Type|Description|
 > |---|---|---|
-> |dir0|[string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)| |
-> |dir1|[string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)| |
-> |fileName|[string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)| |
+> |dir0|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
+> |dir1|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
+> |fileName|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function CombineDirectoriesAndFile(dir0 : String, dir1 : String, fileName : String) : String
 > ``` 
 
 
 ---  
- #  CombineDirectoriesAndFile : [string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)
+ #  CombineDirectoriesAndFile : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
 
  `static`
 
@@ -278,17 +278,17 @@ Example: ('C:\Sandbox\', 'Content\Player.png') results in 'C:\Sandbox\Content\Pl
 
 > |Name|Type|Description|
 > |---|---|---|
-> |dir0|[string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)| |
-> |dir1|[string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)| |
-> |dir2|[string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)| |
-> |fileName|[string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)| |
+> |dir0|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
+> |dir1|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
+> |dir2|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
+> |fileName|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function CombineDirectoriesAndFile(dir0 : String, dir1 : String, dir2 : String, fileName : String) : String
 > ``` 
 
 
 ---  
- #  CombineDirectoriesAndFile : [string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)
+ #  CombineDirectoriesAndFile : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
 
  `static`
 
@@ -300,18 +300,18 @@ Example: ('C:\Sandbox\', 'Content\Player.png') results in 'C:\Sandbox\Content\Pl
 
 > |Name|Type|Description|
 > |---|---|---|
-> |dir0|[string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)| |
-> |dir1|[string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)| |
-> |dir2|[string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)| |
-> |dir3|[string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)| |
-> |fileName|[string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)| |
+> |dir0|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
+> |dir1|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
+> |dir2|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
+> |dir3|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
+> |fileName|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function CombineDirectoriesAndFile(dir0 : String, dir1 : String, dir2 : String, dir3 : String, fileName : String) : String
 > ``` 
 
 
 ---  
- #  GetCanonicalizedPathFromAbsolutePath : [string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)
+ #  GetCanonicalizedPathFromAbsolutePath : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
 
  `static`
 
@@ -320,14 +320,14 @@ Example: ('C:/Sandbox//Engine/../Content/./Player.png') results in 'C:\Sandbox\C
 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)| |
+> |p0|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function GetCanonicalizedPathFromAbsolutePath(p0 : String) : String
 > ``` 
 
 
 ---  
- #  GetComparablePathFromAbsolutePath : [string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)
+ #  GetComparablePathFromAbsolutePath : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
 
  `static`
 
@@ -336,14 +336,14 @@ Example: ('C:\Sandbox\Engine\..\Content\.\Player.png') results in 'c:\sandbox\co
 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)| |
+> |p0|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function GetComparablePathFromAbsolutePath(p0 : String) : String
 > ``` 
 
 
 ---  
- #  GetDirectoryName : [string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)
+ #  GetDirectoryName : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
 
  `static`
 
@@ -355,14 +355,14 @@ Example: ('Content') results in ''
 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)| |
+> |p0|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function GetDirectoryName(p0 : String) : String
 > ``` 
 
 
 ---  
- #  GetDirectoryPath : [string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)
+ #  GetDirectoryPath : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
 
  `static`
 
@@ -374,14 +374,14 @@ Example: ('Content') results in ''
 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)| |
+> |p0|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function GetDirectoryPath(p0 : String) : String
 > ``` 
 
 
 ---  
- #  GetExtensionWithDot : [string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)
+ #  GetExtensionWithDot : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
 
  `static`
 
@@ -392,14 +392,14 @@ Example: ('Parent.Directory\Log') results in ''
 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)| |
+> |p0|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function GetExtensionWithDot(p0 : String) : String
 > ``` 
 
 
 ---  
- #  GetExtensionWithoutDot : [string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)
+ #  GetExtensionWithoutDot : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
 
  `static`
 
@@ -410,14 +410,14 @@ Example: ('Parent.Directory\Log') results in ''
 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)| |
+> |p0|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function GetExtensionWithoutDot(p0 : String) : String
 > ``` 
 
 
 ---  
- #  GetFileNameWithExtension : [string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)
+ #  GetFileNameWithExtension : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
 
  `static`
 
@@ -428,14 +428,14 @@ Example: ('Content\Powerups') results in 'Powerups'
 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)| |
+> |p0|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function GetFileNameWithExtension(p0 : String) : String
 > ``` 
 
 
 ---  
- #  GetFileNameWithoutExtension : [string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)
+ #  GetFileNameWithoutExtension : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
 
  `static`
 
@@ -446,14 +446,14 @@ Example: ('Content\Powerups') results in 'Powerups'
 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)| |
+> |p0|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function GetFileNameWithoutExtension(p0 : String) : String
 > ``` 
 
 
 ---  
- #  IsRelative : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  IsRelative : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
  `static`
 
@@ -465,14 +465,14 @@ Example: ('/usr/Content/Player.png') results in 'false'
 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)| |
+> |p0|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function IsRelative(p0 : String) : Boolean
 > ``` 
 
 
 ---  
- #  RemoveTrailingDirectorySeparator : [string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)
+ #  RemoveTrailingDirectorySeparator : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
 
  `static`
 
@@ -482,7 +482,7 @@ Example: ('Content\Powerups\') results in 'Content\Powerups'
 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)| |
+> |p0|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function RemoveTrailingDirectorySeparator(p0 : String) : String
 > ``` 
@@ -490,12 +490,5 @@ Example: ('Content\Powerups\') results in 'Content\Powerups'
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

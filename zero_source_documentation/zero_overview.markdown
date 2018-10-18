@@ -197,12 +197,5 @@
 - This is normally done when game objects or resources are dynamically created in C++ code (which means the automatically generated resource packages don't know about them).
 
  
-  
-  
-  
-  
-  
-  
-  
 
  

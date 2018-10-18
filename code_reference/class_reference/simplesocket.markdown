@@ -4,14 +4,14 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/simplesocket.markdown#simplesocket-void)|[ Socket](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/simplesocket.markdown#socket-zero-engine-docum)|[component](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/component.markdown)| |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/simplesocket.markdown#simplesocket-void)|[ Socket](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/simplesocket.markdown#socket-zero-engine-docum)|[component](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/component.markdown)| |
 
 
  #  Properties
 
 
 ---  
- #  Socket : [tcpsocket](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/tcpsocket.markdown)
+ #  Socket : [tcpsocket](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/tcpsocket.markdown)
 
  `read-only`
 
@@ -39,12 +39,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

@@ -1,4 +1,4 @@
-The [ LowPassNode ](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/lowpassnode.markdown) collects audio data from all of its inputs and applies a low pass filter to it before passing it along to its outputs.
+The [ LowPassNode ](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/lowpassnode.markdown) collects audio data from all of its inputs and applies a low pass filter to it before passing it along to its outputs.
 
  # Common Uses
 
@@ -12,18 +12,11 @@ Low pass filters leave low frequencies untouched while silencing high frequencie
 ---
  # Related Materials
  ## Manual
-- [soudnode_overview](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/audio/soundnode/soudnode_overview.markdown)
-- [bandpassnode](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/audio/soundnode/bandpassnode.markdown)
-- [highpassnode](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/audio/soundnode/highpassnode.markdown)
+- [soudnode_overview](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/audio/soundnode/soudnode_overview.markdown)
+- [bandpassnode](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/audio/soundnode/bandpassnode.markdown)
+- [highpassnode](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/audio/soundnode/highpassnode.markdown)
 
  ## Code Reference
-- [ LowPassNode ](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/lowpassnode.markdown) 
-  
-  
-  
-  
-  
-  
-  
+- [ LowPassNode ](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/lowpassnode.markdown) 
 
  

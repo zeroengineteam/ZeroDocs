@@ -6,7 +6,7 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/heightmapmodel.markdown#heightmapmodel-void)| |[graphical](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/graphical.markdown)| |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/heightmapmodel.markdown#heightmapmodel-void)| |[graphical](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/graphical.markdown)| |
 
 
  #  Properties
@@ -31,12 +31,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

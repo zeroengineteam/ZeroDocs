@@ -4,19 +4,19 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ FeedbackPercent](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/chorusnode.markdown#feedbackpercent-zero-eng)|[soundnode](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/soundnode.markdown)| |
-| |[ FeedbackValue](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/chorusnode.markdown#feedbackvalue-zero-engin)| | |
-| |[ MaxDelayMillisec](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/chorusnode.markdown#maxdelaymillisec-zero-en)| | |
-| |[ MinDelayMillisec](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/chorusnode.markdown#mindelaymillisec-zero-en)| | |
-| |[ ModulationFrequency](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/chorusnode.markdown#modulationfrequency-zero)| | |
-| |[ OffsetMillisec](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/chorusnode.markdown#offsetmillisec-zero-engi)| | |
+| |[ FeedbackPercent](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/chorusnode.markdown#feedbackpercent-zero-eng)|[soundnode](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/soundnode.markdown)| |
+| |[ FeedbackValue](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/chorusnode.markdown#feedbackvalue-zero-engin)| | |
+| |[ MaxDelayMillisec](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/chorusnode.markdown#maxdelaymillisec-zero-en)| | |
+| |[ MinDelayMillisec](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/chorusnode.markdown#mindelaymillisec-zero-en)| | |
+| |[ ModulationFrequency](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/chorusnode.markdown#modulationfrequency-zero)| | |
+| |[ OffsetMillisec](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/chorusnode.markdown#offsetmillisec-zero-engi)| | |
 
 
  #  Properties
 
 
 ---  
- #  FeedbackPercent : [real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)
+ #  FeedbackPercent : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
 
 > DEPRECATED The FeedbackValue property should be used instead.
 > ``` lang=cpp, name=Zilch
@@ -24,7 +24,7 @@
 
 
 ---  
- #  FeedbackValue : [real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)
+ #  FeedbackValue : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
 
 > The percentage of output (0 - 1.0) which is fed back into the filter as input.
 > ``` lang=cpp, name=Zilch
@@ -32,7 +32,7 @@
 
 
 ---  
- #  MaxDelayMillisec : [real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)
+ #  MaxDelayMillisec : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
 
 > The maximum delay reached by the modulation. It will oscillate between the MinDelayMillisec value and this value at the frequency set by the ModulationFrequency property.
 > ``` lang=cpp, name=Zilch
@@ -40,7 +40,7 @@
 
 
 ---  
- #  MinDelayMillisec : [real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)
+ #  MinDelayMillisec : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
 
 > The minimum delay reached by the modulation. It will oscillate between the this value and the MaxDelayMillisec value at the frequency set by the ModulationFrequency property.
 > ``` lang=cpp, name=Zilch
@@ -48,7 +48,7 @@
 
 
 ---  
- #  ModulationFrequency : [real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)
+ #  ModulationFrequency : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
 
 > The frequency of the oscillator which varies the modulation.
 > ``` lang=cpp, name=Zilch
@@ -56,7 +56,7 @@
 
 
 ---  
- #  OffsetMillisec : [real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)
+ #  OffsetMillisec : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
 
 > The offset value of the chorus filter, in milliseconds.
 > ``` lang=cpp, name=Zilch
@@ -69,12 +69,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

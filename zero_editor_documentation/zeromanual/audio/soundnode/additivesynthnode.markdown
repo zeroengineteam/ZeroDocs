@@ -1,8 +1,8 @@
-[ AdditiveSynthNodes ](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/additivesynthnode.markdown) are basic synthesizers, generating notes using a combination of sound waves.
+[ AdditiveSynthNodes ](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/additivesynthnode.markdown) are basic synthesizers, generating notes using a combination of sound waves.
 
  ## Common Uses
 
-- A custom synthesizer using [MIDI ](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/audio/soundnode//midi.markdown) events sent by a keyboard or other device
+- A custom synthesizer using [MIDI ](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/audio/soundnode//midi.markdown) events sent by a keyboard or other device
 - Creating music or sound effects with no audio files
 - Dynamic or procedural music 
 
@@ -59,7 +59,7 @@ The `NoteOff` method stops any currently playing notes with the specified MIDI k
 
  ## AdsrEnvelope
 
-An ADSR envelope controls the Attack, Decay, Sustain, and Release portions of a sound's volume. The Attack period is first, where the sound goes from silence to full volume. The Decay period is next, where the sound goes from full volume to its sustain volume. The Sustain period controls how long it stays at the sustain volume, and the Release period is where it goes from the sustain volume back to silence. The [ AdsrEnvelope ](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/adsrenvelope.markdown) object used by the Zero Engine also has a parameter for delaying when the sound starts.
+An ADSR envelope controls the Attack, Decay, Sustain, and Release portions of a sound's volume. The Attack period is first, where the sound goes from silence to full volume. The Decay period is next, where the sound goes from full volume to its sustain volume. The Sustain period controls how long it stays at the sustain volume, and the Release period is where it goes from the sustain volume back to silence. The [ AdsrEnvelope ](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/adsrenvelope.markdown) object used by the Zero Engine also has a parameter for delaying when the sound starts.
 
 NOTE: Setting the `SustainTime` property to `0` will make the harmonic play indefinitely until the `NoteOff` method is called.
 
@@ -67,18 +67,11 @@ NOTE: Setting the `SustainTime` property to `0` will make the harmonic play inde
  # Related Materials
 
  ## Manual
-- [soudnode_overview](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/audio/soundnode/soudnode_overview.markdown)
-- [MIDI ](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/audio/soundnode/midi.markdown)
+- [soudnode_overview](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/audio/soundnode/soudnode_overview.markdown)
+- [MIDI ](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/audio/soundnode/midi.markdown)
 
  ## Code Reference
-- [ AdditiveSynthNode ](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/additivesynthnode.markdown)
-- [ AdsrEnvelope ](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/adsrenvelope.markdown) 
-  
-  
-  
-  
-  
-  
-  
+- [ AdditiveSynthNode ](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/additivesynthnode.markdown)
+- [ AdsrEnvelope ](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/adsrenvelope.markdown) 
 
  

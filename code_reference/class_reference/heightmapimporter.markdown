@@ -2,21 +2,21 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ BaseHeight](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/heightmapimporter.markdown#baseheight-zero-engine-d)|[composite](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/composite.markdown)| |
-| |[ ImportMode](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/heightmapimporter.markdown#importmode-zero-engine-d)| | |
-| |[ MaxHeightRange](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/heightmapimporter.markdown#maxheightrange-zero-engi)| | |
-| |[ MinHeightRange](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/heightmapimporter.markdown#minheightrange-zero-engi)| | |
-| |[ Name](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/heightmapimporter.markdown#name-zero-engine-documen)| | |
-| |[ PatchColumns](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/heightmapimporter.markdown#patchcolumns-zero-engine)| | |
-| |[ PatchRows](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/heightmapimporter.markdown#patchrows-zero-engine-do)| | |
-| |[ PatchSize](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/heightmapimporter.markdown#patchsize-zero-engine-do)| | |
+| |[ BaseHeight](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/heightmapimporter.markdown#baseheight-zero-engine-d)|[composite](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/composite.markdown)| |
+| |[ ImportMode](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/heightmapimporter.markdown#importmode-zero-engine-d)| | |
+| |[ MaxHeightRange](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/heightmapimporter.markdown#maxheightrange-zero-engi)| | |
+| |[ MinHeightRange](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/heightmapimporter.markdown#minheightrange-zero-engi)| | |
+| |[ Name](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/heightmapimporter.markdown#name-zero-engine-documen)| | |
+| |[ PatchColumns](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/heightmapimporter.markdown#patchcolumns-zero-engine)| | |
+| |[ PatchRows](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/heightmapimporter.markdown#patchrows-zero-engine-do)| | |
+| |[ PatchSize](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/heightmapimporter.markdown#patchsize-zero-engine-do)| | |
 
 
  #  Properties
 
 
 ---  
- #  BaseHeight : [real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)
+ #  BaseHeight : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -24,7 +24,7 @@
 
 
 ---  
- #  ImportMode : [ImportMode](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/enum_reference.markdown#importmode)
+ #  ImportMode : [ImportMode](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#importmode)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -32,7 +32,7 @@
 
 
 ---  
- #  MaxHeightRange : [real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)
+ #  MaxHeightRange : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -40,7 +40,7 @@
 
 
 ---  
- #  MinHeightRange : [real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)
+ #  MinHeightRange : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -48,7 +48,7 @@
 
 
 ---  
- #  Name : [string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)
+ #  Name : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -56,7 +56,7 @@
 
 
 ---  
- #  PatchColumns : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  PatchColumns : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -64,7 +64,7 @@
 
 
 ---  
- #  PatchRows : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  PatchRows : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -72,7 +72,7 @@
 
 
 ---  
- #  PatchSize : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  PatchSize : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -85,12 +85,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

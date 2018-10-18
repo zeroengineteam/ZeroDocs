@@ -4,14 +4,14 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/objecttranslategizmo.markdown#objecttranslategizmo-voi)|[ DuplicateOnCtrlDrag](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/objecttranslategizmo.markdown#duplicateonctrldrag-zero)|[objecttransformgizmo](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/objecttransformgizmo.markdown)| |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/objecttranslategizmo.markdown#objecttranslategizmo-voi)|[ DuplicateOnCtrlDrag](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/objecttranslategizmo.markdown#duplicateonctrldrag-zero)|[objecttransformgizmo](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/objecttransformgizmo.markdown)| |
 
 
  #  Properties
 
 
 ---  
- #  DuplicateOnCtrlDrag : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  DuplicateOnCtrlDrag : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -37,12 +37,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

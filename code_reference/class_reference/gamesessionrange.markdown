@@ -2,17 +2,17 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/gamesessionrange.markdown#gamesessionrange-void)|[ All](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/gamesessionrange.markdown#all-zero-engine-document)| | |
-|[ MoveNext](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/gamesessionrange.markdown#movenext-void)|[ Current](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/gamesessionrange.markdown#current-zero-engine-docu)| | |
-| |[ IsEmpty](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/gamesessionrange.markdown#isempty-zero-engine-docu)| | |
-| |[ IsNotEmpty](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/gamesessionrange.markdown#isnotempty-zero-engine-d)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/gamesessionrange.markdown#gamesessionrange-void)|[ All](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/gamesessionrange.markdown#all-zero-engine-document)| | |
+|[ MoveNext](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/gamesessionrange.markdown#movenext-void)|[ Current](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/gamesessionrange.markdown#current-zero-engine-docu)| | |
+| |[ IsEmpty](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/gamesessionrange.markdown#isempty-zero-engine-docu)| | |
+| |[ IsNotEmpty](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/gamesessionrange.markdown#isnotempty-zero-engine-d)| | |
 
 
  #  Properties
 
 
 ---  
- #  All : [gamesessionrange](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/gamesessionrange.markdown)
+ #  All : [gamesessionrange](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/gamesessionrange.markdown)
 
  `read-only`
 
@@ -22,7 +22,7 @@
 
 
 ---  
- #  Current : [gamesession](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/gamesession.markdown)
+ #  Current : [gamesession](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/gamesession.markdown)
 
  `read-only`
 
@@ -32,7 +32,7 @@
 
 
 ---  
- #  IsEmpty : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  IsEmpty : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -42,7 +42,7 @@
 
 
 ---  
- #  IsNotEmpty : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  IsNotEmpty : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -76,7 +76,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[gamesessionrange](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/gamesessionrange.markdown)| |
+> |p0|[gamesessionrange](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/gamesessionrange.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function GameSessionRange(p0 : GameSessionRange)
 > ``` 
@@ -95,12 +95,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

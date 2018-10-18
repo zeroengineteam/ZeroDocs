@@ -2,7 +2,7 @@
  # Theory
 Screen Space Ambient Occlusion(SSAO) is a method of simulating Ambient Occlusion.  Ambient Occlusion refers to the amount a point on a surface is occluded by objects.  A shadow effect occurs, but the shadow doesn't come from any particular light source.  It comes from the ambient light, hence the name.
 
-Specifically, SSAO uses the depth of the visible pixels to compute the AO map, which is then applied to the light buffer of the [Deferred Renderer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/graphics/renderer/deferred_renderer.markdown).
+Specifically, SSAO uses the depth of the visible pixels to compute the AO map, which is then applied to the light buffer of the [Deferred Renderer](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/renderer/deferred_renderer.markdown).
 
 (WARNING)**Performance Impact** SSAO will decrease performance when more pixels on the screen are occluded.
 
@@ -48,13 +48,6 @@ The artifacts are gone and the result looks far better, however the blur is too 
 
  # Related Material
  ## Manual
-- [Deferred and Forward Renderer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/graphics/renderer/deferred_renderer.markdown) 
-  
-  
-  
-  
-  
-  
-  
+- [Deferred and Forward Renderer](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/renderer/deferred_renderer.markdown) 
 
  

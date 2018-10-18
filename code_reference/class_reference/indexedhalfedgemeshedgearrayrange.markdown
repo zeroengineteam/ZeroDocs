@@ -2,17 +2,17 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/indexedhalfedgemeshedgearrayrange.markdown#indexedhalfedgemeshedgea)|[ All](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/indexedhalfedgemeshedgearrayrange.markdown#all-zero-engine-document)| | |
-|[ MoveNext](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/indexedhalfedgemeshedgearrayrange.markdown#movenext-void)|[ Current](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/indexedhalfedgemeshedgearrayrange.markdown#current-zero-engine-docu)| | |
-| |[ IsEmpty](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/indexedhalfedgemeshedgearrayrange.markdown#isempty-zero-engine-docu)| | |
-| |[ IsNotEmpty](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/indexedhalfedgemeshedgearrayrange.markdown#isnotempty-zero-engine-d)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/indexedhalfedgemeshedgearrayrange.markdown#indexedhalfedgemeshedgea)|[ All](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/indexedhalfedgemeshedgearrayrange.markdown#all-zero-engine-document)| | |
+|[ MoveNext](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/indexedhalfedgemeshedgearrayrange.markdown#movenext-void)|[ Current](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/indexedhalfedgemeshedgearrayrange.markdown#current-zero-engine-docu)| | |
+| |[ IsEmpty](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/indexedhalfedgemeshedgearrayrange.markdown#isempty-zero-engine-docu)| | |
+| |[ IsNotEmpty](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/indexedhalfedgemeshedgearrayrange.markdown#isnotempty-zero-engine-d)| | |
 
 
  #  Properties
 
 
 ---  
- #  All : [indexedhalfedgemeshedgearrayrange](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/indexedhalfedgemeshedgearrayrange.markdown)
+ #  All : [indexedhalfedgemeshedgearrayrange](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/indexedhalfedgemeshedgearrayrange.markdown)
 
  `read-only`
 
@@ -22,7 +22,7 @@
 
 
 ---  
- #  Current : [indexedhalfedge](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/indexedhalfedge.markdown)
+ #  Current : [indexedhalfedge](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/indexedhalfedge.markdown)
 
  `read-only`
 
@@ -32,7 +32,7 @@
 
 
 ---  
- #  IsEmpty : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  IsEmpty : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -42,7 +42,7 @@
 
 
 ---  
- #  IsNotEmpty : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  IsNotEmpty : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -76,7 +76,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[indexedhalfedgemeshedgearrayrange](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/indexedhalfedgemeshedgearrayrange.markdown)| |
+> |p0|[indexedhalfedgemeshedgearrayrange](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/indexedhalfedgemeshedgearrayrange.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function IndexedHalfEdgeMeshEdgeArrayRange(p0 : IndexedHalfEdgeMeshEdgeArrayRange)
 > ``` 
@@ -95,12 +95,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

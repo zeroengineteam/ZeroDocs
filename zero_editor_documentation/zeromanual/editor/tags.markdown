@@ -31,7 +31,7 @@ and
 and all other permutations of tags.
 
  # Tags in Zero
-Tags in the Zero Engine are used in the Library Window to organize the [Resources](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/architecture/resources/resources.markdown). 
+Tags in the Zero Engine are used in the Library Window to organize the [Resources](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/architecture/resources/resources.markdown). 
 
  ## Adding and Removing Tags
 Right-clicking on an object in the `Library Window` will give you the option to Edit Tags:
@@ -58,12 +58,5 @@ and remove them using the x button.
  ## Automatically Generated Tags
 There are a few automatically generated tags, such as Archetype , Level , Texture , etc. These arise from the need to have a tag for every object so that they can show up when you search. They are added when you add the resource and cannot be removed. This prevents a user from losing the ability to access a resource they created.
  
-  
-  
-  
-  
-  
-  
-  
 
  

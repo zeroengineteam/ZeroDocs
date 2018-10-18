@@ -545,12 +545,5 @@ int Sum(Array<int>& values)
 - ErrorIf(pointer == NULL, "Could not find object named %s", objectName.c_str())
 - Exceptions are not used
  
-  
-  
-  
-  
-  
-  
-  
 
  

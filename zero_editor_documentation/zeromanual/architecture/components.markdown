@@ -62,12 +62,5 @@ For instance, the shooter could have used an "input component" for mouse and key
 
 As with all design the correct way depends on the project. No single set of script components that will give you all your required functionality for all projects.
  
-  
-  
-  
-  
-  
-  
-  
 
  

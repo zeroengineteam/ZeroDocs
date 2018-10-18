@@ -2,14 +2,14 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ ImportImages](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/imageoptions.markdown#importimages-zero-engine)|Object| |
+| |[ ImportImages](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/imageoptions.markdown#importimages-zero-engine)|Object| |
 
 
  #  Properties
 
 
 ---  
- #  ImportImages : [ImageImport](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/enum_reference.markdown#imageimport)
+ #  ImportImages : [ImageImport](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#imageimport)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -22,12 +22,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

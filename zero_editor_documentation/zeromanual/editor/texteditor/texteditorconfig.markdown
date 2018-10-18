@@ -13,18 +13,11 @@ The `TextEditorConfig` component which manages the editable properties of the Ze
 
  # Related Materials
  ## Manual Pages
-- [Text Editor Hotkeys](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/texteditor/TextEditorHotkeys.markdown)
-- [Tab Completion](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/texteditor/Tab_Completion.markdown)
+- [Text Editor Hotkeys](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/texteditor/TextEditorHotkeys.markdown)
+- [Tab Completion](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/texteditor/Tab_Completion.markdown)
 
  ## Code Reference
-- [texteditorconfig](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/texteditorconfig.markdown) 
+- [texteditorconfig](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texteditorconfig.markdown) 
  
-  
-  
-  
-  
-  
-  
-  
 
  

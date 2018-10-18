@@ -4,7 +4,7 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| | |[zilchlibraryresource](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/zilchlibraryresource.markdown)| |
+| | |[zilchlibraryresource](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/zilchlibraryresource.markdown)| |
 
 
  #  Properties
@@ -16,12 +16,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

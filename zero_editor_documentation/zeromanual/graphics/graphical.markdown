@@ -1,4 +1,4 @@
-All [graphical](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/graphical.markdown) components—2D and 3D alike—inherit from the Graphical base class. As a result there are a number of properties that all graphical components have in common.
+All [graphical](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/graphical.markdown) components—2D and 3D alike—inherit from the Graphical base class. As a result there are a number of properties that all graphical components have in common.
 
 
 
@@ -11,7 +11,7 @@ By default, this property is set to true and the model will be culled if its bou
 
  # VisibilityEvents
 
-When set to `true` the object that owns this graphical component will receive events upon entering or exiting the view frustum of an active camera (such as the game camera). To put it another way, if set to `false`, when the object that owns this graphical component enters an active view frustum, it will not connect to view [GraphicalEvents](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/graphicalevent.markdown) such as `EnterView` and `ExitView`.
+When set to `true` the object that owns this graphical component will receive events upon entering or exiting the view frustum of an active camera (such as the game camera). To put it another way, if set to `false`, when the object that owns this graphical component enters an active view frustum, it will not connect to view [GraphicalEvents](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/graphicalevent.markdown) such as `EnterView` and `ExitView`.
 
  # OverrideBoundingBox
 
@@ -31,27 +31,20 @@ Initially, the values of these two properties will be such that they do not chan
 
  # GroupSortValue
 
-This property should only be used if using a [RenderGroup](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/graphics/rendergroups.markdown) that uses `GraphicalSortValue` as its GraphicalSortMethod enum. While GroupSortValue  could be set on an object by object basis, if there is even a moderate amount of graphicals in a project, setting this value for all graphicals through a script—where graphicals can be filtered into discrete groups—is recommended.
+This property should only be used if using a [RenderGroup](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/rendergroups.markdown) that uses `GraphicalSortValue` as its GraphicalSortMethod enum. While GroupSortValue  could be set on an object by object basis, if there is even a moderate amount of graphicals in a project, setting this value for all graphicals through a script—where graphicals can be filtered into discrete groups—is recommended.
 
  # Material
 
-Every graphical uses a Material, whether it is user-defined or built-in. Information on Materials can be found in the [materials_overview](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/graphics/materials/materials_overview.markdown).
+Every graphical uses a Material, whether it is user-defined or built-in. Information on Materials can be found in the [materials_overview](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/materials/materials_overview.markdown).
 
  # RelatedMaterials
  ## Manual
-- [RenderGroup](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/graphics/rendergroups.markdown)
-- [materials_overview](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/graphics/materials/materials_overview.markdown)
+- [RenderGroup](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/rendergroups.markdown)
+- [materials_overview](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/materials/materials_overview.markdown)
 
  ## Code Reference
-- [graphical](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/graphical.markdown)
-- [graphicalevent](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/graphicalevent.markdown)
+- [graphical](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/graphical.markdown)
+- [graphicalevent](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/graphicalevent.markdown)
  
-  
-  
-  
-  
-  
-  
-  
 
  

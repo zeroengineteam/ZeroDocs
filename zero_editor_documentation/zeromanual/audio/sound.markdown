@@ -1,4 +1,4 @@
-A [ Sound ](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/sound.markdown) resource is created for every imported audio file. Sounds can be attached to any number of [SoundCues](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/audio/soundcue.markdown), allowing the user to play the same sound multiple ways while only storing the file once.
+A [ Sound ](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/sound.markdown) resource is created for every imported audio file. Sounds can be attached to any number of [SoundCues](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/audio/soundcue.markdown), allowing the user to play the same sound multiple ways while only storing the file once.
 
  # Using Sounds
 
@@ -14,7 +14,7 @@ Once files are imported, they will be resampled to 48000 Hz and stored in a cust
 
  # SoundBuilder Options
 
-When a Sound resource is selected, the [ SoundBuilder ](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/soundbuilder.markdown) properties will be shown in the Property window.
+When a Sound resource is selected, the [ SoundBuilder ](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/soundbuilder.markdown) properties will be shown in the Property window.
 
 NOTE: When changing these properties for an existing resource the user must click on the Reload button before the settings will take effect.
 
@@ -25,7 +25,7 @@ When the Streamed checkBox property is un-checked the entire audio file is loade
 
 In general the only audio that should be streamed are long files, such as background music, and only when worried about memory usage.
 
-NOTE: Streaming files can’t be played multiple times simultaneously, can’t have their playback position set directly, and can’t use the LoopTailLength  property on [SoundEntries](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/audio/soundcue.markdown#soundentries).
+NOTE: Streaming files can’t be played multiple times simultaneously, can’t have their playback position set directly, and can’t use the LoopTailLength  property on [SoundEntries](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/audio/soundcue.markdown#soundentries).
 
  ##  Normalizing
  ![SoundBuilder2](https://media.githubusercontent.com/media/zeroengineteam/ZeroFiles/master/doc_files/85543.png)
@@ -37,18 +37,11 @@ If the Normalize checkBox property is checked the MaxVolume  property will be sh
 
  ## Manual
 
-- [SoundCue ](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/audio/soundcue.markdown)
-- [SoundEntry ](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/audio/soundcue.markdown#soundentries)
+- [SoundCue ](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/audio/soundcue.markdown)
+- [SoundEntry ](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/audio/soundcue.markdown#soundentries)
 
  ## Reference
-- [ Sound ](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/sound.markdown)
-- [ SoundBuilder ](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/soundbuilder.markdown) 
-  
-  
-  
-  
-  
-  
-  
+- [ Sound ](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/sound.markdown)
+- [ SoundBuilder ](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/soundbuilder.markdown) 
 
  

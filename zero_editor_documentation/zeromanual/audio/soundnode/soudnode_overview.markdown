@@ -1,20 +1,20 @@
 ![Graph](https://media.githubusercontent.com/media/zeroengineteam/ZeroFiles/master/doc_files/46355.png)
 
-[ SoundNodes ](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/soundnode.markdown) are the building blocks behind all audio in the Zero Engine. A SoundNode receives audio data from other SoundNodes through its input connections, modifies that data in some way (or simply collects it), then passes it along to more SoundNodes through its output connections.
+[ SoundNodes ](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/soundnode.markdown) are the building blocks behind all audio in the Zero Engine. A SoundNode receives audio data from other SoundNodes through its input connections, modifies that data in some way (or simply collects it), then passes it along to more SoundNodes through its output connections.
 
-Some SoundNodes only generate audio data, like [SoundInstances](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/audio/soundnode/soundinstance.markdown). Those nodes do not collect anything from their input connections and attaching nodes to their input would have no effect.
+Some SoundNodes only generate audio data, like [SoundInstances](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/audio/soundnode/soundinstance.markdown). Those nodes do not collect anything from their input connections and attaching nodes to their input would have no effect.
 
-All sound objects in the Zero Engine use some type of SoundNode. These nodes are connected together into a tree-like graph, with generating nodes as the topmost branches, and the output node of the [SoundSpace ](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/audio/soundnode/soundspace.markdown) as the root node at the bottom. The SoundNode graph processes audio by starting at the root node and requesting data from its input nodes. These nodes then request data from their inputs, and so on, until the request reaches a generating node which returns audio data that then follows the chain back down the graph. 
+All sound objects in the Zero Engine use some type of SoundNode. These nodes are connected together into a tree-like graph, with generating nodes as the topmost branches, and the output node of the [SoundSpace ](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/audio/soundnode/soundspace.markdown) as the root node at the bottom. The SoundNode graph processes audio by starting at the root node and requesting data from its input nodes. These nodes then request data from their inputs, and so on, until the request reaches a generating node which returns audio data that then follows the chain back down the graph. 
 
 There are many types of SoundNodes that can only be created and added to the node graph in ZilchScripts. These SoundNodes are reference counted: they will stay alive as long as the user stores a variable with the SoundNode assigned to it. If it is not stored, the node will be alive as long as it is connected to the graph, but users can no longer access it. 
 
 The SoundNodes of built-in objects are also exposed in Zilch, and users can freely edit most of the graph connections, giving them a great deal of flexibility in creating audio. When building connections it is important to remember that nodes closer to the generating node modify the audio before nodes that are further away. For example, to change the pitch of a sound before applying reverb, the PitchNode must be between the SoundInstance and the ReverbNode. 
 
-The [SoundNode Graph ](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/audio/soundnode/soundnode_graph.markdown) tool can be extremely helpful when editing the graph directly.
+The [SoundNode Graph ](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/audio/soundnode/soundnode_graph.markdown) tool can be extremely helpful when editing the graph directly.
 
 WARNING: SoundNodes can be connected in many complicated ways, but users must be careful not to create a loop. If loops are created, the user will receive an error, and the SoundNodes will be automatically disconnected.
 
-In most cases, nodes can be connected in any order and to any number of other nodes. The exception is the [PitchNode ](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/audio/soundnode/pitchnode.markdown). The PitchNode changes the pitch of a sound by essentially stretching or squishing the sound waves, which means that it needs a different amount of data than other nodes. This causes a problem when a PitchNode and a node that was not pitch-shifted request data from the same SoundInstance.
+In most cases, nodes can be connected in any order and to any number of other nodes. The exception is the [PitchNode ](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/audio/soundnode/pitchnode.markdown). The PitchNode changes the pitch of a sound by essentially stretching or squishing the sound waves, which means that it needs a different amount of data than other nodes. This causes a problem when a PitchNode and a node that was not pitch-shifted request data from the same SoundInstance.
 
 WARNING: When using PitchNodes, if a generating node has multiple output connections the user must make sure all of them are at the same pitch. If SoundNodes request data from the generating node at different pitch settings there will be an error and the nodes will be disconnected.
 
@@ -25,7 +25,7 @@ In ZilchScripts, all SoundNodes are created using the appropriate method on the 
 var myPitchNode = Audio.PitchNode();
 ```
 
-There are multiple places in the SoundNode Graph that sound nodes can be attached.  Here is an example of a component that creates and controls a PitchNode for its neighboring [SoundEmitter](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/audio/soundemitter.markdown):
+There are multiple places in the SoundNode Graph that sound nodes can be attached.  Here is an example of a component that creates and controls a PitchNode for its neighboring [SoundEmitter](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/audio/soundemitter.markdown):
 ```lang=csharp
 class EmitterPitch : ZilchComponent
 {
@@ -45,7 +45,7 @@ class EmitterPitch : ZilchComponent
 }
 ```
 
-The functionality described below is available on all SoundNodes. See the individual [Manual pages](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/audio/soundnode.markdown) for details about each SoundNode type.
+The functionality described below is available on all SoundNodes. See the individual [Manual pages](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/audio/soundnode.markdown) for details about each SoundNode type.
 
  ## Adding and Removing SoundNodes 
 
@@ -73,26 +73,19 @@ If the `AutoCollapse` property is set to True, the SoundNode will automatically 
 
  ## Zilch Events
 
-- The `SoundNodeDisconnected` [ SoundEvent ](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/soundevent.markdown) is sent by all SoundNodes when they are is completely disconnected from the graph (when the node has no more inputs or outputs).
+- The `SoundNodeDisconnected` [ SoundEvent ](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/soundevent.markdown) is sent by all SoundNodes when they are is completely disconnected from the graph (when the node has no more inputs or outputs).
 
 ---
  # Related Materials
 
  ## Manual
 
-- [SoundInstance ](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/audio/soundnode/soundinstance.markdown)
-- [SoundSpace ](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/audio/soundnode/soundspace.markdown)
-- [SoundNode Graph ](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/audio/soundnode/soundnode_graph.markdown)
+- [SoundInstance ](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/audio/soundnode/soundinstance.markdown)
+- [SoundSpace ](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/audio/soundnode/soundspace.markdown)
+- [SoundNode Graph ](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/audio/soundnode/soundnode_graph.markdown)
 
  ## Reference
 
-- [ SoundNode ](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/soundnode.markdown) 
-  
-  
-  
-  
-  
-  
-  
+- [ SoundNode ](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/soundnode.markdown) 
 
  

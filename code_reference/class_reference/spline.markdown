@@ -4,20 +4,20 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Clone](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/spline.markdown#clone-zero-engine-docume)|[ BakedPoints](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/spline.markdown#bakedpoints-zero-engine)|[referencecountedeventobject](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/referencecountedeventobject.markdown)| |
-|[ Create](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/spline.markdown#create-zero-engine-docum)|[ Closed](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/spline.markdown#closed-zero-engine-docum)| | |
-|[ DebugDraw](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/spline.markdown#debugdraw-void)|[ ControlPoints](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/spline.markdown#controlpoints-zero-engin)| | |
-|[ ForceRebuild](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/spline.markdown#forcerebuild-void)|[ Error](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/spline.markdown#error-zero-engine-docume)| | |
-|[ RebuildIfModified](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/spline.markdown#rebuildifmodified-void)|[ SplineType](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/spline.markdown#splinetype-zero-engine-d)| | |
-|[ SampleDistance](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/spline.markdown#sampledistance-zero-engi)|[ TotalDistance](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/spline.markdown#totaldistance-zero-engin)| | |
-|[ SampleNormalized](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/spline.markdown#samplenormalized-zero-en)| | | |
+|[ Clone](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spline.markdown#clone-zero-engine-docume)|[ BakedPoints](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spline.markdown#bakedpoints-zero-engine)|[referencecountedeventobject](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/referencecountedeventobject.markdown)| |
+|[ Create](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spline.markdown#create-zero-engine-docum)|[ Closed](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spline.markdown#closed-zero-engine-docum)| | |
+|[ DebugDraw](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spline.markdown#debugdraw-void)|[ ControlPoints](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spline.markdown#controlpoints-zero-engin)| | |
+|[ ForceRebuild](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spline.markdown#forcerebuild-void)|[ Error](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spline.markdown#error-zero-engine-docume)| | |
+|[ RebuildIfModified](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spline.markdown#rebuildifmodified-void)|[ SplineType](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spline.markdown#splinetype-zero-engine-d)| | |
+|[ SampleDistance](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spline.markdown#sampledistance-zero-engi)|[ TotalDistance](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spline.markdown#totaldistance-zero-engin)| | |
+|[ SampleNormalized](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spline.markdown#samplenormalized-zero-en)| | | |
 
 
  #  Properties
 
 
 ---  
- #  BakedPoints : [splinebakedpoints](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/splinebakedpoints.markdown)
+ #  BakedPoints : [splinebakedpoints](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/splinebakedpoints.markdown)
 
  `read-only`
 
@@ -27,7 +27,7 @@
 
 
 ---  
- #  Closed : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  Closed : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > Does the spline loop back on itself?
 > ``` lang=cpp, name=Zilch
@@ -35,7 +35,7 @@
 
 
 ---  
- #  ControlPoints : [splinecontrolpoints](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/splinecontrolpoints.markdown)
+ #  ControlPoints : [splinecontrolpoints](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/splinecontrolpoints.markdown)
 
  `read-only`
 
@@ -45,7 +45,7 @@
 
 
 ---  
- #  Error : [real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)
+ #  Error : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
 
 > The max number of units that a line segment is allowed to deviate from the curve.
 > ``` lang=cpp, name=Zilch
@@ -53,7 +53,7 @@
 
 
 ---  
- #  SplineType : [SplineType](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/enum_reference.markdown#splinetype)
+ #  SplineType : [SplineType](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#splinetype)
 
 > The kind of spline (Linear, BSpline, CatmullRom). Determines how the control points affect the curve.
 > ``` lang=cpp, name=Zilch
@@ -61,7 +61,7 @@
 
 
 ---  
- #  TotalDistance : [real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)
+ #  TotalDistance : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
 
  `read-only`
 
@@ -75,7 +75,7 @@
 
 
 ---  
- #  Clone : [spline](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/spline.markdown)
+ #  Clone : [spline](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spline.markdown)
 
 > Create a new copy of this spline.
 > |Name|Type|Description|
@@ -86,7 +86,7 @@
 
 
 ---  
- #  Create : [spline](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/spline.markdown)
+ #  Create : [spline](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spline.markdown)
 
  `static`
 
@@ -104,7 +104,7 @@
 > Draw the baked points of the curve with the provided color.
 > |Name|Type|Description|
 > |---|---|---|
-> |color|[real4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real4.markdown)| |
+> |color|[real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function DebugDraw(color : Real4)
 > ``` 
@@ -133,24 +133,24 @@
 
 
 ---  
- #  SampleDistance : [splinesampledata](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/splinesampledata.markdown)
+ #  SampleDistance : [splinesampledata](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/splinesampledata.markdown)
 
 > Samples the curve at a given arc-length distance.
 > |Name|Type|Description|
 > |---|---|---|
-> |distance|[real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)| |
+> |distance|[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function SampleDistance(distance : Real) : SplineSampleData
 > ``` 
 
 
 ---  
- #  SampleNormalized : [splinesampledata](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/splinesampledata.markdown)
+ #  SampleNormalized : [splinesampledata](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/splinesampledata.markdown)
 
 > Samples the curve with a time in the range of [0, 1].
 > |Name|Type|Description|
 > |---|---|---|
-> |time|[real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)| |
+> |time|[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function SampleNormalized(time : Real) : SplineSampleData
 > ``` 
@@ -158,12 +158,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

@@ -6,7 +6,7 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bone.markdown#bone-void)| |[component](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/component.markdown)| |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bone.markdown#bone-void)| |[component](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/component.markdown)| |
 
 
  #  Properties
@@ -31,12 +31,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

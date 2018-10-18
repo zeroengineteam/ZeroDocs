@@ -2,15 +2,15 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ FragmentName](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/metashaderinput.markdown#fragmentname-zero-engine)|[metaattribute](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/metaattribute.markdown)| |
-| |[ InputName](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/metashaderinput.markdown#inputname-zero-engine-do)| | |
+| |[ FragmentName](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/metashaderinput.markdown#fragmentname-zero-engine)|[metaattribute](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/metaattribute.markdown)| |
+| |[ InputName](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/metashaderinput.markdown#inputname-zero-engine-do)| | |
 
 
  #  Properties
 
 
 ---  
- #  FragmentName : [string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)
+ #  FragmentName : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -18,7 +18,7 @@
 
 
 ---  
- #  InputName : [string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)
+ #  InputName : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -31,12 +31,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

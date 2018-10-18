@@ -56,12 +56,5 @@ Any time a new primitive needs to be implemented that touches OS specific code, 
 
 Another consideration is what errors we return from the OS when using primitives. In the beginning we either opted to ignore errors (asserting when they would happen) or to return bools. This proved to be insufficient because often we needed to give feedback to the user. For example, we attempt to open a file in their game's Content directory, but it fails due to security permissions. The assert would catch this on developer computers only because asserts are stripped in Release mode. These situations typically happen in the wild, and not on developer machines. A bool would at least give us information as to why it failed, but that's not enough for the user to correct a situation. The best approach was to use the 'Status' object. is basically a standardized way for us to return pseudo exceptions without using exception handling. We generally take the Status object by reference as the first parameter, and we set it to either success or failure with an error message provided by the OS. Callers can easily check status for failure, as well as print messages to the console or do popups in the GUI. In the future, all primitives will be moved to status (status may also get an option to automatically assert on failure, just to give more control to the caller).
  
-  
-  
-  
-  
-  
-  
-  
 
  

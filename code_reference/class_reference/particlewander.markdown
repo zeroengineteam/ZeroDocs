@@ -6,16 +6,16 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/particlewander.markdown#particlewander-void)|[ WanderAngle](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/particlewander.markdown#wanderangle-zero-engine)|[particleanimator](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/particleanimator.markdown)| |
-| |[ WanderAngleVariance](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/particlewander.markdown#wanderanglevariance-zero)| | |
-| |[ WanderStrength](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/particlewander.markdown#wanderstrength-zero-engi)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/particlewander.markdown#particlewander-void)|[ WanderAngle](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/particlewander.markdown#wanderangle-zero-engine)|[particleanimator](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/particleanimator.markdown)| |
+| |[ WanderAngleVariance](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/particlewander.markdown#wanderanglevariance-zero)| | |
+| |[ WanderStrength](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/particlewander.markdown#wanderstrength-zero-engi)| | |
 
 
  #  Properties
 
 
 ---  
- #  WanderAngle : [real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)
+ #  WanderAngle : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -23,7 +23,7 @@
 
 
 ---  
- #  WanderAngleVariance : [real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)
+ #  WanderAngleVariance : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -31,7 +31,7 @@
 
 
 ---  
- #  WanderStrength : [real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)
+ #  WanderStrength : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -57,12 +57,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

@@ -6,14 +6,14 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/hierarchy.markdown#hierarchy-void)|[ Children](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/hierarchy.markdown#children-zero-engine-doc)|[component](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/component.markdown)| |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/hierarchy.markdown#hierarchy-void)|[ Children](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/hierarchy.markdown#children-zero-engine-doc)|[component](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/component.markdown)| |
 
 
  #  Properties
 
 
 ---  
- #  Children : [hierarchylistrange](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/hierarchylistrange.markdown)
+ #  Children : [hierarchylistrange](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/hierarchylistrange.markdown)
 
  `read-only`
 
@@ -41,12 +41,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

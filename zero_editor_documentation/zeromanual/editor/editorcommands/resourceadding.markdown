@@ -7,7 +7,7 @@ The `Add a Resource` window is the interface by which all new Resources added. T
 
 The Add command can be invoked in two different ways:
 
-1. [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ Add Resource](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#add)
+1. [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ Add Resource](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#add)
 
 2. In the Menu bar `Resource  > Add`
 
@@ -40,17 +40,10 @@ When using the Add Command, however, the type of Resource desired must first be 
 
  # Related Materials
  ## Manual
-- [Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands.markdown)
+- [Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands.markdown)
 
  ## Reference
  ### Commands
-- [ Add](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#add) 
-  
-  
-  
-  
-  
-  
-  
+- [ Add](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#add) 
 
  

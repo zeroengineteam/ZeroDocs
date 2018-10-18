@@ -50,13 +50,6 @@ The ability to control the effect of bloom on a color is only the first step in 
 
  # Related Material
  ## Manual
-- [Deferred and Forward Renderer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/graphics/renderer/deferred_renderer.markdown) 
-  
-  
-  
-  
-  
-  
-  
+- [Deferred and Forward Renderer](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/renderer/deferred_renderer.markdown) 
 
  

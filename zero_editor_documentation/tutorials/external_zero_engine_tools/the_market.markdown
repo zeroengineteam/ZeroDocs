@@ -7,23 +7,23 @@ This lesson covers the Market, and how to use it to download content for your pr
 
  #  Level Setup
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ New Project](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#newproject)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ New Project](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#newproject)
  - Create a new project using the {nav icon=clone, name=2D Project} template
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ CreateSprite](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#createsprite)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ CreateSprite](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#createsprite)
 - In the `Properties Window`
- - Under [ Transform](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/transform.markdown)
+ - Under [ Transform](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/transform.markdown)
   - Set Translation  to `[0, -3, 0]`
   - Set Scale  to `[10, 1, 1]`
- - Under [ Sprite](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/sprite.markdown)
+ - Under [ Sprite](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/sprite.markdown)
   - Set SpriteSource enum to `Square`
- - [ Add Component](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown) : `BoxCollider`
+ - [ Add Component](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown) : `BoxCollider`
 
 
 
 ![image](https://media.githubusercontent.com/media/zeroengineteam/ZeroFiles/master/doc_files/101883.png) *The level so far*
 
 
-[ The Market](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/using_the_market.markdown) is an online content collection. Users (including the #zero_engine_developers) can upload and download assets to and from the Market for use in their projects. The Market can be accessed from within the Zero Editor or from a web browser, but this tutorial will just use the Market's in-editor interface.
+[ The Market](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/using_the_market.markdown) is an online content collection. Users (including the #zero_engine_developers) can upload and download assets to and from the Market for use in their projects. The Market can be accessed from within the Zero Editor or from a web browser, but this tutorial will just use the Market's in-editor interface.
 
  #  Accessing the Market
 
@@ -94,7 +94,7 @@ This content pack includes the `SweptController` character controller component,
 ![image](https://media.githubusercontent.com/media/zeroengineteam/ZeroFiles/master/doc_files/101885.png) *The level with a player*
 
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ PlayGame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#playgame)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ PlayGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#playgame)
  - Use the `A` and `D` keys and the `Space` bar to move the player and jump
 
 
@@ -104,33 +104,26 @@ This content pack includes the `SweptController` character controller component,
 
 You can use the Market to add content like the SweptController to any of your future projects.
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ StopGame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#stopgame)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ StopGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#stopgame)
 
  #  Related Materials
  ##  Manual
-- [using_the_market](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/using_the_market.markdown)
-- [commands](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown)
-- [addremovecomponent](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown)
+- [using_the_market](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/using_the_market.markdown)
+- [commands](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown)
+- [addremovecomponent](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown)
  ##  Reference
  ###  Commands
-- [ NewProject](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#newproject)
-- [ CreateSprite](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#createsprite)
-- [ PlayGame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#playgame)
-- [ StopGame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#stopgame)
+- [ NewProject](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#newproject)
+- [ CreateSprite](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#createsprite)
+- [ PlayGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#playgame)
+- [ StopGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#stopgame)
  ###  Classes
-- [transform](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/transform.markdown)
-- [sprite](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/sprite.markdown)
-- [boxcollider](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/boxcollider.markdown)
-- [rigidbody](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/rigidbody.markdown)
+- [transform](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/transform.markdown)
+- [sprite](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/sprite.markdown)
+- [boxcollider](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/boxcollider.markdown)
+- [rigidbody](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/rigidbody.markdown)
  ##  Development Task
 - {T1450}
  
-  
-  
-  
-  
-  
-  
-  
 
  

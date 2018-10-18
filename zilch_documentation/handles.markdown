@@ -45,12 +45,5 @@ handle.Type = YourBoundType;
 handle.Manager = state->GetHandleManager<ManagerType>();
 handle.Manager->ObjectToHandle(valueMemory, someHandle);
 ``` 
-  
-  
-  
-  
-  
-  
-  
 
  

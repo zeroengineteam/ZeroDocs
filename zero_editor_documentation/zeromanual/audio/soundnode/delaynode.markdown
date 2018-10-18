@@ -1,4 +1,4 @@
-The [ DelayNode ](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/delaynode.markdown) collects audio data from all of its inputs and applies a delay filter before passing it off to its outputs. 
+The [ DelayNode ](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/delaynode.markdown) collects audio data from all of its inputs and applies a delay filter before passing it off to its outputs. 
 
  # Common Uses
 
@@ -14,16 +14,9 @@ The `WetPercent` property controls the loudness of the delayed echo. At `100` th
 ---
  # Related Materials
  ## Manual
-- [soudnode_overview](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/audio/soundnode/soudnode_overview.markdown)
+- [soudnode_overview](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/audio/soundnode/soudnode_overview.markdown)
 
  ## Code Reference
-- [ DelayNode ](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/delaynode.markdown) 
-  
-  
-  
-  
-  
-  
-  
+- [ DelayNode ](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/delaynode.markdown) 
 
  

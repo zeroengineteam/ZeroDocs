@@ -6,23 +6,23 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Toggle](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/physicseffect.markdown#toggle-void)|[ Active](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/physicseffect.markdown#active-zero-engine-docum)|[component](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/component.markdown)|[basicdirectioneffect](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/basicdirectioneffect.markdown)|
-| |[ DebugDrawEffect](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/physicseffect.markdown#debugdraweffect-zero-eng)| |[basicpointeffect](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/basicpointeffect.markdown)|
-| |[ EffectType](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/physicseffect.markdown#effecttype-zero-engine-d)| |[buoyancyeffect](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/buoyancyeffect.markdown)|
-| |[ WakeUpOnChange](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/physicseffect.markdown#wakeuponchange-zero-engi)| |[customphysicseffect](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/customphysicseffect.markdown)|
-| | | |[drageffect](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/drageffect.markdown)|
-| | | |[floweffect](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/floweffect.markdown)|
-| | | |[thrusteffect](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/thrusteffect.markdown)|
-| | | |[torqueeffect](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/torqueeffect.markdown)|
-| | | |[vortexeffect](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/vortexeffect.markdown)|
-| | | |[windeffect](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/windeffect.markdown)|
+|[ Toggle](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/physicseffect.markdown#toggle-void)|[ Active](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/physicseffect.markdown#active-zero-engine-docum)|[component](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/component.markdown)|[basicdirectioneffect](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/basicdirectioneffect.markdown)|
+| |[ DebugDrawEffect](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/physicseffect.markdown#debugdraweffect-zero-eng)| |[basicpointeffect](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/basicpointeffect.markdown)|
+| |[ EffectType](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/physicseffect.markdown#effecttype-zero-engine-d)| |[buoyancyeffect](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/buoyancyeffect.markdown)|
+| |[ WakeUpOnChange](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/physicseffect.markdown#wakeuponchange-zero-engi)| |[customphysicseffect](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/customphysicseffect.markdown)|
+| | | |[drageffect](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/drageffect.markdown)|
+| | | |[floweffect](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/floweffect.markdown)|
+| | | |[thrusteffect](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/thrusteffect.markdown)|
+| | | |[torqueeffect](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/torqueeffect.markdown)|
+| | | |[vortexeffect](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/vortexeffect.markdown)|
+| | | |[windeffect](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/windeffect.markdown)|
 
 
  #  Properties
 
 
 ---  
- #  Active : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  Active : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > Enable/disable this effect.
 > ``` lang=cpp, name=Zilch
@@ -30,7 +30,7 @@
 
 
 ---  
- #  DebugDrawEffect : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  DebugDrawEffect : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > Should the effect debug draw.
 > ``` lang=cpp, name=Zilch
@@ -38,7 +38,7 @@
 
 
 ---  
- #  EffectType : [PhysicsEffectType](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/enum_reference.markdown#physicseffecttype)
+ #  EffectType : [PhysicsEffectType](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#physicseffecttype)
 
  `read-only`
 
@@ -48,7 +48,7 @@
 
 
 ---  
- #  WakeUpOnChange : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  WakeUpOnChange : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > Whether the object associated with this is woken up when any property is changed.
 > ``` lang=cpp, name=Zilch
@@ -72,12 +72,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

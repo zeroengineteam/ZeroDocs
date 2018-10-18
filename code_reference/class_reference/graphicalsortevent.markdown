@@ -4,15 +4,15 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ GraphicalEntries](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/graphicalsortevent.markdown#graphicalentries-zero-en)|[event](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/event.markdown)| |
-| |[ RenderGroup](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/graphicalsortevent.markdown#rendergroup-zero-engine)| | |
+| |[ GraphicalEntries](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/graphicalsortevent.markdown#graphicalentries-zero-en)|[event](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/event.markdown)| |
+| |[ RenderGroup](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/graphicalsortevent.markdown#rendergroup-zero-engine)| | |
 
 
  #  Properties
 
 
 ---  
- #  GraphicalEntries : [graphicalentryrange](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/graphicalentryrange.markdown)
+ #  GraphicalEntries : [graphicalentryrange](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/graphicalentryrange.markdown)
 
  `read-only`
 
@@ -22,7 +22,7 @@
 
 
 ---  
- #  RenderGroup : [rendergroup](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/rendergroup.markdown)
+ #  RenderGroup : [rendergroup](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/rendergroup.markdown)
 
  `read-only`
 
@@ -37,12 +37,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

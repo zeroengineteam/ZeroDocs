@@ -166,12 +166,5 @@ builder.AddBoundDestructor(classType, ClassDestructor);
 ```
 Take note that you can use other functions like AddBoundConstructor to bind constructors with parameters. It is often a good idea to have a default constructor (if it makes sense) because it simplifies inheritance and makes other features possibly like automatic serialization.
  
-  
-  
-  
-  
-  
-  
-  
 
  

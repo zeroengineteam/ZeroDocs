@@ -6,17 +6,17 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/physicssolverconfig.markdown#physicssolverconfig-void)|[ PositionCorrectionType](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/physicssolverconfig.markdown#positioncorrectiontype-z)|[dataresource](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/dataresource.markdown)| |
-| |[ PositionIterationCount](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/physicssolverconfig.markdown#positioniterationcount-z)| | |
-| |[ SolverIterationCount](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/physicssolverconfig.markdown#solveriterationcount-zer)| | |
-| |[ VelocityRestitutionThreshold](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/physicssolverconfig.markdown#velocityrestitutionthres)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/physicssolverconfig.markdown#physicssolverconfig-void)|[ PositionCorrectionType](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/physicssolverconfig.markdown#positioncorrectiontype-z)|[dataresource](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/dataresource.markdown)| |
+| |[ PositionIterationCount](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/physicssolverconfig.markdown#positioniterationcount-z)| | |
+| |[ SolverIterationCount](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/physicssolverconfig.markdown#solveriterationcount-zer)| | |
+| |[ VelocityRestitutionThreshold](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/physicssolverconfig.markdown#velocityrestitutionthres)| | |
 
 
  #  Properties
 
 
 ---  
- #  PositionCorrectionType : [PhysicsSolverPositionCorrection](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/enum_reference.markdown#physicssolverpositioncorrection)
+ #  PositionCorrectionType : [PhysicsSolverPositionCorrection](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#physicssolverpositioncorrection)
 
 > What method should be used to fix errors in joints. Baumgarte fixes errors by adding extra velocity but results in a more spongy behavior. Post Stabilization fixes errors by directly modifying position but can behave worse in unsolvable configurations.
 > ``` lang=cpp, name=Zilch
@@ -24,7 +24,7 @@
 
 
 ---  
- #  PositionIterationCount : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  PositionIterationCount : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
 > The number of iterations used for position correction (if position correction is used).
 > ``` lang=cpp, name=Zilch
@@ -32,7 +32,7 @@
 
 
 ---  
- #  SolverIterationCount : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  SolverIterationCount : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
 > The number of iterations used in the constraint solver. Affects how stiff joints will be.
 > ``` lang=cpp, name=Zilch
@@ -40,7 +40,7 @@
 
 
 ---  
- #  VelocityRestitutionThreshold : [real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)
+ #  VelocityRestitutionThreshold : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
 
 > To prevent numerical issues, restitution is only applied if the relative velocity between the two objects is above this value.
 > ``` lang=cpp, name=Zilch
@@ -66,12 +66,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

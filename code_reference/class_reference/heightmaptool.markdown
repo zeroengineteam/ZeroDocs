@@ -4,18 +4,18 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/heightmaptool.markdown#heightmaptool-void)|[ CellIndexType](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/heightmaptool.markdown#cellindextype-zero-engin)|[component](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/component.markdown)| |
-| |[ CurrentTool](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/heightmaptool.markdown#currenttool-zero-engine)| | |
-| |[ ShowCellIndex](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/heightmaptool.markdown#showcellindex-zero-engin)| | |
-| |[ ShowPatchIndex](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/heightmaptool.markdown#showpatchindex-zero-engi)| | |
-| |[ SubTool](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/heightmaptool.markdown#subtool-zero-engine-docu)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/heightmaptool.markdown#heightmaptool-void)|[ CellIndexType](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/heightmaptool.markdown#cellindextype-zero-engin)|[component](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/component.markdown)| |
+| |[ CurrentTool](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/heightmaptool.markdown#currenttool-zero-engine)| | |
+| |[ ShowCellIndex](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/heightmaptool.markdown#showcellindex-zero-engin)| | |
+| |[ ShowPatchIndex](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/heightmaptool.markdown#showpatchindex-zero-engi)| | |
+| |[ SubTool](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/heightmaptool.markdown#subtool-zero-engine-docu)| | |
 
 
  #  Properties
 
 
 ---  
- #  CellIndexType : [CellIndexType](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/enum_reference.markdown#cellindextype)
+ #  CellIndexType : [CellIndexType](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#cellindextype)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -23,7 +23,7 @@
 
 
 ---  
- #  CurrentTool : [HeightTool](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/enum_reference.markdown#heighttool)
+ #  CurrentTool : [HeightTool](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#heighttool)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -31,7 +31,7 @@
 
 
 ---  
- #  ShowCellIndex : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  ShowCellIndex : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -39,7 +39,7 @@
 
 
 ---  
- #  ShowPatchIndex : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  ShowPatchIndex : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -47,7 +47,7 @@
 
 
 ---  
- #  SubTool : [heightmapsubtool](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/heightmapsubtool.markdown)
+ #  SubTool : [heightmapsubtool](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/heightmapsubtool.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -73,12 +73,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

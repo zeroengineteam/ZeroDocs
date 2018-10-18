@@ -25,14 +25,14 @@ Components found on EditorConfig object are unique to it, and cannot be attached
 
  ##  MainConfig
 
-The [ MainConfig](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/mainconfig.markdown) component shows details about the current version of the editor. *Its fields are read-only.*
+The [ MainConfig](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/mainconfig.markdown) component shows details about the current version of the editor. *Its fields are read-only.*
 
 
 
 ![image](https://media.githubusercontent.com/media/zeroengineteam/ZeroFiles/master/doc_files/66647.png)
 
 
-*The [ MainConfig](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/mainconfig.markdown) component*
+*The [ MainConfig](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/mainconfig.markdown) component*
 
 
  ##  ContentConfig
@@ -43,7 +43,7 @@ The **ContentConfig** component contains settings controlling the loading of add
 
  ##  TextEditorConfig
 
-The [ TextEditorConfig](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/texteditorconfig.markdown) component allows the user to view and modify various settings of Zero's text editor.
+The [ TextEditorConfig](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texteditorconfig.markdown) component allows the user to view and modify various settings of Zero's text editor.
 
  ###  TabWidth
 The text editor may be configured to insert either two or four spaces when the `Tab` key is pressed.
@@ -94,7 +94,7 @@ This defines the initial font size used for text files when they are opened in t
 
  ##  EditorSettings
 
-The [editorsettings](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/editorsettings.markdown) component allows the user to view and modify various general editor settings.
+The [editorsettings](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/editorsettings.markdown) component allows the user to view and modify various general editor settings.
 
 WARNING: Some of the settings in this component should not be modified by the user, as noted below.
 
@@ -125,20 +125,13 @@ NOTE: The data from EditorConfig object is read from and written to a config fil
  #  Related Materials
 
  ##  Manual
-- [Project Configuration](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/project_configuration.markdown)
-- [ Tab Completion](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/texteditor/tab_completion.markdown)
+- [Project Configuration](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/project_configuration.markdown)
+- [ Tab Completion](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/texteditor/tab_completion.markdown)
 
  ##  Reference
-- [ MainConfig](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/mainconfig.markdown)
-- [ TextEditorConfig](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/texteditorconfig.markdown)
-- [editorsettings](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/editorsettings.markdown)
-- [ TabWidth](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/enum_reference.markdown#tabwidth) 
-  
-  
-  
-  
-  
-  
-  
+- [ MainConfig](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/mainconfig.markdown)
+- [ TextEditorConfig](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texteditorconfig.markdown)
+- [editorsettings](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/editorsettings.markdown)
+- [ TabWidth](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#tabwidth) 
 
  

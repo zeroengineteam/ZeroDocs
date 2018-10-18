@@ -6,25 +6,25 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ GetIgnoreState](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/ignorespaceeffects.markdown#getignorestate-zero-engi)|[ IgnoreBuoyancy](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/ignorespaceeffects.markdown#ignorebuoyancy-zero-engi)|[component](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/component.markdown)| |
-|[ Constructor](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/ignorespaceeffects.markdown#ignorespaceeffects-void)|[ IgnoreCustom](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/ignorespaceeffects.markdown#ignorecustom-zero-engine)| | |
-|[ SetIgnoreState](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/ignorespaceeffects.markdown#setignorestate-void)|[ IgnoreDrag](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/ignorespaceeffects.markdown#ignoredrag-zero-engine-d)| | |
-| |[ IgnoreFlow](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/ignorespaceeffects.markdown#ignoreflow-zero-engine-d)| | |
-| |[ IgnoreForce](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/ignorespaceeffects.markdown#ignoreforce-zero-engine)| | |
-| |[ IgnoreGravity](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/ignorespaceeffects.markdown#ignoregravity-zero-engin)| | |
-| |[ IgnorePointForce](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/ignorespaceeffects.markdown#ignorepointforce-zero-en)| | |
-| |[ IgnorePointGravity](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/ignorespaceeffects.markdown#ignorepointgravity-zero)| | |
-| |[ IgnoreThrust](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/ignorespaceeffects.markdown#ignorethrust-zero-engine)| | |
-| |[ IgnoreTorque](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/ignorespaceeffects.markdown#ignoretorque-zero-engine)| | |
-| |[ IgnoreVortex](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/ignorespaceeffects.markdown#ignorevortex-zero-engine)| | |
-| |[ IgnoreWind](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/ignorespaceeffects.markdown#ignorewind-zero-engine-d)| | |
+|[ GetIgnoreState](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/ignorespaceeffects.markdown#getignorestate-zero-engi)|[ IgnoreBuoyancy](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/ignorespaceeffects.markdown#ignorebuoyancy-zero-engi)|[component](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/component.markdown)| |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/ignorespaceeffects.markdown#ignorespaceeffects-void)|[ IgnoreCustom](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/ignorespaceeffects.markdown#ignorecustom-zero-engine)| | |
+|[ SetIgnoreState](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/ignorespaceeffects.markdown#setignorestate-void)|[ IgnoreDrag](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/ignorespaceeffects.markdown#ignoredrag-zero-engine-d)| | |
+| |[ IgnoreFlow](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/ignorespaceeffects.markdown#ignoreflow-zero-engine-d)| | |
+| |[ IgnoreForce](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/ignorespaceeffects.markdown#ignoreforce-zero-engine)| | |
+| |[ IgnoreGravity](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/ignorespaceeffects.markdown#ignoregravity-zero-engin)| | |
+| |[ IgnorePointForce](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/ignorespaceeffects.markdown#ignorepointforce-zero-en)| | |
+| |[ IgnorePointGravity](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/ignorespaceeffects.markdown#ignorepointgravity-zero)| | |
+| |[ IgnoreThrust](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/ignorespaceeffects.markdown#ignorethrust-zero-engine)| | |
+| |[ IgnoreTorque](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/ignorespaceeffects.markdown#ignoretorque-zero-engine)| | |
+| |[ IgnoreVortex](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/ignorespaceeffects.markdown#ignorevortex-zero-engine)| | |
+| |[ IgnoreWind](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/ignorespaceeffects.markdown#ignorewind-zero-engine-d)| | |
 
 
  #  Properties
 
 
 ---  
- #  IgnoreBuoyancy : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  IgnoreBuoyancy : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > Whether or not to ignore buoyancy effects.
 > ``` lang=cpp, name=Zilch
@@ -32,7 +32,7 @@
 
 
 ---  
- #  IgnoreCustom : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  IgnoreCustom : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > Whether or not to ignore custom effects.
 > ``` lang=cpp, name=Zilch
@@ -40,7 +40,7 @@
 
 
 ---  
- #  IgnoreDrag : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  IgnoreDrag : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > Whether or not to ignore drag effects.
 > ``` lang=cpp, name=Zilch
@@ -48,7 +48,7 @@
 
 
 ---  
- #  IgnoreFlow : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  IgnoreFlow : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > Whether or not to ignore flow effects.
 > ``` lang=cpp, name=Zilch
@@ -56,7 +56,7 @@
 
 
 ---  
- #  IgnoreForce : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  IgnoreForce : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > Whether or not to ignore force effects.
 > ``` lang=cpp, name=Zilch
@@ -64,7 +64,7 @@
 
 
 ---  
- #  IgnoreGravity : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  IgnoreGravity : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > Whether or not to ignore gravity effects.
 > ``` lang=cpp, name=Zilch
@@ -72,7 +72,7 @@
 
 
 ---  
- #  IgnorePointForce : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  IgnorePointForce : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > Whether or not to ignore point force effects.
 > ``` lang=cpp, name=Zilch
@@ -80,7 +80,7 @@
 
 
 ---  
- #  IgnorePointGravity : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  IgnorePointGravity : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > Whether or not to ignore point gravity effects.
 > ``` lang=cpp, name=Zilch
@@ -88,7 +88,7 @@
 
 
 ---  
- #  IgnoreThrust : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  IgnoreThrust : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > Whether or not to ignore thrust effects.
 > ``` lang=cpp, name=Zilch
@@ -96,7 +96,7 @@
 
 
 ---  
- #  IgnoreTorque : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  IgnoreTorque : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > Whether or not to ignore torque effects.
 > ``` lang=cpp, name=Zilch
@@ -104,7 +104,7 @@
 
 
 ---  
- #  IgnoreVortex : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  IgnoreVortex : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > Whether or not to ignore vortex effects.
 > ``` lang=cpp, name=Zilch
@@ -112,7 +112,7 @@
 
 
 ---  
- #  IgnoreWind : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  IgnoreWind : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > Whether or not to ignore wind effects.
 > ``` lang=cpp, name=Zilch
@@ -124,12 +124,12 @@
 
 
 ---  
- #  GetIgnoreState : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  GetIgnoreState : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > Should the given effect type be ignored?
 > |Name|Type|Description|
 > |---|---|---|
-> |effectType|[PhysicsEffectType](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/enum_reference.markdown#physicseffecttype)| |
+> |effectType|[PhysicsEffectType](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#physicseffecttype)| |
 > ``` lang=cpp, name=Zilch
 > function GetIgnoreState(effectType : PhysicsEffectType) : Boolean
 > ``` 
@@ -154,8 +154,8 @@
 > Set if an effect type should be ignored.
 > |Name|Type|Description|
 > |---|---|---|
-> |effectType|[PhysicsEffectType](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/enum_reference.markdown#physicseffecttype)| |
-> |ignore|[boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)| |
+> |effectType|[PhysicsEffectType](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#physicseffecttype)| |
+> |ignore|[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function SetIgnoreState(effectType : PhysicsEffectType, ignore : Boolean)
 > ``` 
@@ -163,12 +163,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

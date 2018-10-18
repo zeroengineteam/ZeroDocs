@@ -52,12 +52,5 @@ three different ways:
 ![image](https://media.githubusercontent.com/media/zeroengineteam/ZeroFiles/master/doc_files/47326.png)
 
  
-  
-  
-  
-  
-  
-  
-  
 
  

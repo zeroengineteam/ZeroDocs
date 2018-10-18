@@ -39,12 +39,5 @@ Any other file type downloaded through the editor will be saved into the users t
  ## How to download packages through a web browser
 Any files downloaded through a web browser will prompt the user for a location to save the file to. Downloaded zeropack files can be dragged and dropped directly onto any open projects within the Zero Editor to prompt the user with the import window.
  
-  
-  
-  
-  
-  
-  
-  
 
  

@@ -6,7 +6,7 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| | |[component](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/component.markdown)|[particleemittershared](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/particleemittershared.markdown)|
+| | |[component](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/component.markdown)|[particleemittershared](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/particleemittershared.markdown)|
 
 
  #  Properties
@@ -18,12 +18,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

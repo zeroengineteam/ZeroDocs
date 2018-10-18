@@ -1,15 +1,8 @@
 
- # [zeromanual](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual.markdown)
-The Zero Manual is a comprehensive overview of the Zero Engine [ Editor ](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor.markdown), covering topics such as [architecture](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/architecture.markdown), [graphics](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/graphics.markdown), [physics](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/physics.markdown), [audio](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/audio.markdown), and [ Zilch ](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero.markdown).
+ # [zeromanual](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual.markdown)
+The Zero Manual is a comprehensive overview of the Zero Engine [ Editor ](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor.markdown), covering topics such as [architecture](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/architecture.markdown), [graphics](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics.markdown), [physics](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/physics.markdown), [audio](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/audio.markdown), and [ Zilch ](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero.markdown).
 
- # [tutorials](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/tutorials.markdown)
-Tutorials for the Zero Engine [ Editor ](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/tutorials/editor.markdown) are available in [tutorial_sequences](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/tutorials/tutorial_sequences.markdown) or they can be perused based off topics such as [architecture](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/tutorials/architecture.markdown), [graphics](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/tutorials/graphics.markdown), [physics](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/tutorials/physics.markdown), and [audio](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/tutorials/audio.markdown). 
-  
-  
-  
-  
-  
-  
-  
+ # [tutorials](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/tutorials.markdown)
+Tutorials for the Zero Engine [ Editor ](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/tutorials/editor.markdown) are available in [tutorial_sequences](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/tutorials/tutorial_sequences.markdown) or they can be perused based off topics such as [architecture](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/tutorials/architecture.markdown), [graphics](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/tutorials/graphics.markdown), [physics](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/tutorials/physics.markdown), and [audio](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/tutorials/audio.markdown). 
 
  

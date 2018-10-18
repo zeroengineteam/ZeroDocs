@@ -35,12 +35,5 @@ ZilchForEach(Property* property, boundType->AllProperties.all())
 
  #  Handle Manager
 ToStringFunction BaseType 
-  
-  
-  
-  
-  
-  
-  
 
  

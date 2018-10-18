@@ -4,17 +4,17 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ FeedbackPercent](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/flangernode.markdown#feedbackpercent-zero-eng)|[soundnode](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/soundnode.markdown)| |
-| |[ FeedbackValue](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/flangernode.markdown#feedbackvalue-zero-engin)| | |
-| |[ MaxDelayMillisec](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/flangernode.markdown#maxdelaymillisec-zero-en)| | |
-| |[ ModulationFrequency](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/flangernode.markdown#modulationfrequency-zero)| | |
+| |[ FeedbackPercent](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/flangernode.markdown#feedbackpercent-zero-eng)|[soundnode](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/soundnode.markdown)| |
+| |[ FeedbackValue](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/flangernode.markdown#feedbackvalue-zero-engin)| | |
+| |[ MaxDelayMillisec](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/flangernode.markdown#maxdelaymillisec-zero-en)| | |
+| |[ ModulationFrequency](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/flangernode.markdown#modulationfrequency-zero)| | |
 
 
  #  Properties
 
 
 ---  
- #  FeedbackPercent : [real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)
+ #  FeedbackPercent : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
 
 > DEPRECATED The FeedbackValue property should be used instead.
 > ``` lang=cpp, name=Zilch
@@ -22,7 +22,7 @@
 
 
 ---  
- #  FeedbackValue : [real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)
+ #  FeedbackValue : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
 
 > The percentage of output (0 - 1.0) which is fed back into the filter as input.
 > ``` lang=cpp, name=Zilch
@@ -30,7 +30,7 @@
 
 
 ---  
- #  MaxDelayMillisec : [real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)
+ #  MaxDelayMillisec : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
 
 > The maximum delay reached by the modulation. It will oscillate between 0 and this value at the frequency set by the ModulationFrequency property.
 > ``` lang=cpp, name=Zilch
@@ -38,7 +38,7 @@
 
 
 ---  
- #  ModulationFrequency : [real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)
+ #  ModulationFrequency : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
 
 > The frequency of the oscillator which varies the modulation.
 > ``` lang=cpp, name=Zilch
@@ -51,12 +51,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

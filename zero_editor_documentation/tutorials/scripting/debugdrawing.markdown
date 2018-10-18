@@ -2,19 +2,19 @@
  # Learning Objectives
 - Drawing debug primitives
 
-Often when developing a game we may we run into data that is hard to interpret from just printing to the [console](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/console.markdown). Values such as [Velocity](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/rigidbody.markdown#velocity-zero-engine-doc) or the direction a [ Cog ](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/cog.markdown) is facing are better represented visually than by numerical values. DebugDraw objects are a useful debuging technique that allows us to draw simple primitives to visually represent data in the game itself.
+Often when developing a game we may we run into data that is hard to interpret from just printing to the [console](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/console.markdown). Values such as [Velocity](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/rigidbody.markdown#velocity-zero-engine-doc) or the direction a [ Cog ](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown) is facing are better represented visually than by numerical values. DebugDraw objects are a useful debuging technique that allows us to draw simple primitives to visually represent data in the game itself.
 
  # Level Setup
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ New Project](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#newproject)
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ CreateCube](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#createcube)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ New Project](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#newproject)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ CreateCube](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#createcube)
 - In the `Properties Window`
- - Under [Transform](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/transform.markdown)
+ - Under [Transform](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/transform.markdown)
   - Set Translation  to `[0, -2, 0]`
   - Set Scale  to `[20, 1, 1]`
-- [ Remove Component](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown) : [RigidBody](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/rigidbody.markdown)
+- [ Remove Component](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown) : [RigidBody](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/rigidbody.markdown)
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ Add Resource](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/resourceadding.markdown)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ Add Resource](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/resourceadding.markdown)
  - Create a ZilchScript resource using the Component template template and name it `DebugLauncher`
 
 - Update the `DebugLauncher` class to the following:
@@ -66,14 +66,14 @@ class DebugLauncher : ZilchComponent
 }
 ```
 
-Notice we use [FrameUpdate](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/event_reference.markdown#frameupdate) as opposed to [LogicUpdate](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/event_reference.markdown#logicupdate). Generally, debug drawing should still occur when a [TimeSpace](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/timespace.markdown) is paused, and FrameUpdate is sent every frame, whether a space is paused or not. 
+Notice we use [FrameUpdate](https://github.com/zeroengineteam/ZeroDocs/code_reference/event_reference.markdown#frameupdate) as opposed to [LogicUpdate](https://github.com/zeroengineteam/ZeroDocs/code_reference/event_reference.markdown#logicupdate). Generally, debug drawing should still occur when a [TimeSpace](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/timespace.markdown) is paused, and FrameUpdate is sent every frame, whether a space is paused or not. 
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ CreateSphere](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#createsphere)
-- [ Add Component](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown) : `DebugLauncher`
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ CreateSphere](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#createsphere)
+- [ Add Component](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown) : `DebugLauncher`
 - In the `Properties Window`
  - Under `DebugLauncher`
   - Set Camera  to GameCamera object
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ PlayGame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#playgame)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ PlayGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#playgame)
 - `Click + Hold` and `Release` around on the screen above the platform
 
 
@@ -85,10 +85,10 @@ NOTE: The yellow circle overlaying the cursor is added to the image by the scree
 
 We can see when the mouse button is released that the velocity of the ball is set and the ball launches towards the cursor position. This is a prime example of a physics-based behavior that can be hard to debug or tune without further visual assistance.
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ StopGame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#stopgame)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ StopGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#stopgame)
 
  # DebugLine
-One of the most common debug draw type is [DebugLine](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/debugline.markdown), which is actually a line segment as it has start and end points. 
+One of the most common debug draw type is [DebugLine](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/debugline.markdown), which is actually a line segment as it has start and end points. 
 
 - Add the following to the `DebugLauncher` class:
 
@@ -101,7 +101,7 @@ function DrawDebug()
 }
 ```
 
-Here we configure the debug line for the current frame by setting a start and end point for the segment. The final line of code `DebugDraw.Add(this.TargetLine);` adds `this.TargetLine` to a list of debug objects which should be drawn that frame. This means that debug object must be passed to [DebugDraw.Add](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/debugdraw.markdown#add-void-k) each frame they should be drawn.
+Here we configure the debug line for the current frame by setting a start and end point for the segment. The final line of code `DebugDraw.Add(this.TargetLine);` adds `this.TargetLine` to a list of debug objects which should be drawn that frame. This means that debug object must be passed to [DebugDraw.Add](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/debugdraw.markdown#add-void-k) each frame they should be drawn.
 
 - Add the following to the `OnFrameUpdate` function in the `DebugLauncher` class:
 
@@ -111,7 +111,7 @@ this.DrawDebug();
 
 Calling our `DrawDebug` function every frame that the mouse is down allows our drawing of the line segment to be reactive to when we want to communicate the information about the launch velocity. Integrating debug drawing into functionality you are implementing is a fairly common task.
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ PlayGame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#playgame)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ PlayGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#playgame)
 - `Click + Hold` and `Release` around on the screen above the platform
 
 
@@ -119,12 +119,12 @@ Calling our `DrawDebug` function every frame that the mouse is down allows our d
 ![DebugLauncherDraw](https://media.githubusercontent.com/media/zeroengineteam/ZeroFiles/master/doc_files/98968.gif)
 
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ StopGame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#stopgame)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ StopGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#stopgame)
 
  # DebugCircle
-There are many types that can be debug drawn, as can be seen in the [Related Materials](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/tutorials/scripting/debugdrawing/.markdown#related_materials)[DebugCircle](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/debugcircle.markdown), which will be used to make a clock.
+There are many types that can be debug drawn, as can be seen in the [Related Materials](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/tutorials/scripting/debugdrawing/.markdown#related_materials)[DebugCircle](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/debugcircle.markdown), which will be used to make a clock.
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ Add Resource](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/resourceadding.markdown)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ Add Resource](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/resourceadding.markdown)
  - Create a ZilchScript resource using the Component template template and name it `DebugClock`
 - Update the `DebugClock` class to the following:
 ```name=DebugClock, lang=csharp
@@ -158,20 +158,20 @@ class DebugClock : ZilchComponent
 }
 ```
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ CreateTransform](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#createtransform)
-- [ Add Component](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown) : `DebugClock`
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ CreateTransform](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#createtransform)
+- [ Add Component](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown) : `DebugClock`
 
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ PlayGame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#playgame)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ PlayGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#playgame)
 
 
 
 ![image](https://media.githubusercontent.com/media/zeroengineteam/ZeroFiles/master/doc_files/98979.png)
 
 
-We can see the [DebugCircle](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/debugcircle.markdown) being drawn in the background now. Just like we set the color of the line we can set the color of the circle. 
+We can see the [DebugCircle](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/debugcircle.markdown) being drawn in the background now. Just like we set the color of the line we can set the color of the circle. 
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ StopGame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#stopgame)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ StopGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#stopgame)
 
 - Add the following to the `DebugClock` class:
 ```name=New DebugClock Variables, lang=csharp
@@ -270,7 +270,7 @@ function OnFrameUpdate(event : UpdateEvent)
 }
 ```
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ PlayGame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#playgame)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ PlayGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#playgame)
 
 - Watch the clock
 
@@ -286,18 +286,18 @@ function OnFrameUpdate(event : UpdateEvent)
 *Here we see the clock in motion at different point in it's cycle*
 
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ StopGame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#stopgame)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ StopGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#stopgame)
 
 Now we know how to debug draw simple objects. Let's look at a more complicated built-in example.
 
  # VortexEffect
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ CreateTransform](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#createtransform)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ CreateTransform](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#createtransform)
 - In the `Properties Window`
- - [ Add Component](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown) : [VortexEffect](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/vortexeffect.markdown)
- - Under [Transform](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/transform.markdown)
+ - [ Add Component](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown) : [VortexEffect](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/vortexeffect.markdown)
+ - Under [Transform](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/transform.markdown)
   - Set Translation  to `[0,5,0]`
- - Under [VortexEffect](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/vortexeffect.markdown)
+ - Under [VortexEffect](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/vortexeffect.markdown)
   - Set VortexAxis  to `[0,0,1]`
 
 
@@ -305,54 +305,47 @@ Now we know how to debug draw simple objects. Let's look at a more complicated b
 ![VortexEffect](https://media.githubusercontent.com/media/zeroengineteam/ZeroFiles/master/doc_files/101956.gif)
 
 
-Here is an example of a built-in debug draw effect in action. You actually see debug drawing everytime you use and editor tool; PhysicsEffect components just offer a more complex example. In the case of the [VortexEffect](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/vortexeffect.markdown) multiple [DebugArc](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/debugarc.markdown) objects are drawn indicating the direction and speed of the vortex, while [DebugLine](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/debugline.markdown) objects are used to show that the component is pulling objects into the vortex as opposed to throwing them out.
+Here is an example of a built-in debug draw effect in action. You actually see debug drawing everytime you use and editor tool; PhysicsEffect components just offer a more complex example. In the case of the [VortexEffect](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/vortexeffect.markdown) multiple [DebugArc](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/debugarc.markdown) objects are drawn indicating the direction and speed of the vortex, while [DebugLine](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/debugline.markdown) objects are used to show that the component is pulling objects into the vortex as opposed to throwing them out.
 
  # Related Materials
  ## Manual
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown)
-- [ Add Resource](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/resourceadding.markdown)
-- [ Add Component](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown)
-- [ Remove Component](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown)
+- [ Add Resource](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/resourceadding.markdown)
+- [ Add Component](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown)
+- [ Remove Component](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown)
 
  ## Tutorial
-- [PhysicsEffects](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/tutorials/physics/physicseffects.markdown)
+- [PhysicsEffects](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/tutorials/physics/physicseffects.markdown)
 
  ## Reference
  ### Classes
-- [ Cog ](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/cog.markdown)
-- [Console](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/console.markdown)
-- [RigidBody](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/rigidbody.markdown)
-- [DebugArc](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/debugarc.markdown)
-- [DebugBox](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/debugbox.markdown)
-- [DebugCapsule](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/debugcapsule.markdown)
-- [DebugCircle](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/debugcircle.markdown)
-- [DebugCone](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/debugcone.markdown)
-- [DebugCylinder](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/debugcylinder.markdown)
-- [DebugFrustum](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/debugfrustum.markdown)
-- [DebugLine](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/debugline.markdown)
-- [DebugLineCross](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/debuglinecross.markdown)
-- [DebugObb](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/debugobb.markdown)
-- [DebugSphere](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/debugsphere.markdown)
-- [DebugText](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/debugtext.markdown)
-- [DebugTriangle](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/debugtriangle.markdown)
-- [VortexEffect](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/vortexeffect.markdown)
+- [ Cog ](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
+- [Console](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/console.markdown)
+- [RigidBody](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/rigidbody.markdown)
+- [DebugArc](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/debugarc.markdown)
+- [DebugBox](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/debugbox.markdown)
+- [DebugCapsule](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/debugcapsule.markdown)
+- [DebugCircle](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/debugcircle.markdown)
+- [DebugCone](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/debugcone.markdown)
+- [DebugCylinder](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/debugcylinder.markdown)
+- [DebugFrustum](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/debugfrustum.markdown)
+- [DebugLine](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/debugline.markdown)
+- [DebugLineCross](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/debuglinecross.markdown)
+- [DebugObb](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/debugobb.markdown)
+- [DebugSphere](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/debugsphere.markdown)
+- [DebugText](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/debugtext.markdown)
+- [DebugTriangle](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/debugtriangle.markdown)
+- [VortexEffect](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/vortexeffect.markdown)
 
  ### Commands
-- [ New Project](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#newproject)
-- [ CreateTransform](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#createtransform)
-- [ CreateCube](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#createcube)
+- [ New Project](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#newproject)
+- [ CreateTransform](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#createtransform)
+- [ CreateCube](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#createcube)
 
-- [ PlayGame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#playgame)
-- [ StopGame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#stopgame)
+- [ PlayGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#playgame)
+- [ StopGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#stopgame)
 
  ## Development Task
 - T1343 
-  
-  
-  
-  
-  
-  
-  
 
  

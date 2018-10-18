@@ -4,15 +4,15 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ LostFocus](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/uifocusevent.markdown#lostfocus-zero-engine-do)|[event](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/event.markdown)| |
-| |[ ReceivedFocus](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/uifocusevent.markdown#receivedfocus-zero-engin)| | |
+| |[ LostFocus](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uifocusevent.markdown#lostfocus-zero-engine-do)|[event](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/event.markdown)| |
+| |[ ReceivedFocus](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uifocusevent.markdown#receivedfocus-zero-engin)| | |
 
 
  #  Properties
 
 
 ---  
- #  LostFocus : [uiwidget](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/uiwidget.markdown)
+ #  LostFocus : [uiwidget](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown)
 
  `read-only`
 
@@ -22,7 +22,7 @@
 
 
 ---  
- #  ReceivedFocus : [uiwidget](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/uiwidget.markdown)
+ #  ReceivedFocus : [uiwidget](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/uiwidget.markdown)
 
  `read-only`
 
@@ -37,12 +37,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

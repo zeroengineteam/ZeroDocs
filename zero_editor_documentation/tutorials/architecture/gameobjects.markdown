@@ -13,7 +13,7 @@ This lesson focuses on teaching the very basics of the engine: creating objects,
  # Level Setup
 
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ New Project](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#newproject)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ New Project](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#newproject)
  - Create a new project using the {nav icon=clone, name=Empty 2D Project} template
 
 Here is a new empty level:
@@ -39,7 +39,7 @@ We'll cover these in more detail in future tutorials.
 
  # Create a Game Object
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ CreateSprite](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#createsprite)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ CreateSprite](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#createsprite)
 
 
 
@@ -58,12 +58,12 @@ The Sprite object object can now be found in the `Objects Window`:
 *The Sprite object listed in the `Objects Window`*
 
 
-- [ Select](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/selectobject.markdown) : Sprite object
+- [ Select](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/selectobject.markdown) : Sprite object
 
 NOTE:
- If the `Properties Window` is not visible, then enter the [Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [Properties](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#properties) in the `Search Window`. (Remember you can open the ` Search Window` from any where in the engine using `Ctrl + Shift + Space`.)
+ If the `Properties Window` is not visible, then enter the [Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [Properties](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#properties) in the `Search Window`. (Remember you can open the ` Search Window` from any where in the engine using `Ctrl + Shift + Space`.)
 
-The properties of the [Transform](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/transform.markdown) component attached to the object can be found in the `Properties Window`:
+The properties of the [Transform](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/transform.markdown) component attached to the object can be found in the `Properties Window`:
 
 
 ![image](https://media.githubusercontent.com/media/zeroengineteam/ZeroFiles/master/doc_files/46950.png)
@@ -72,23 +72,23 @@ The properties of the [Transform](https://github.com/ArendDanielek/ZeroDocsTest/
 *The properties of the Sprite object in the `Properties Window`*
 
 - In the `Properties Window`
- - Click  on the [Transform](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/transform.markdown) component
+ - Click  on the [Transform](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/transform.markdown) component
 
 
 
 ![Under](https://media.githubusercontent.com/media/zeroengineteam/ZeroFiles/master/doc_files/85621.gif)
 
 
-*Expanding the [Transform](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/transform.markdown) component in the `Properties Window`*
+*Expanding the [Transform](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/transform.markdown) component in the `Properties Window`*
 
 
-(NOTE)**Under**: When accessing properties of a paticular component we use the term **Under**, as the properties are found **under** the component title in the `Properties Window`. For instance, *Under the [Transform](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/transform.markdown) component* {icon long-arrow-right} //Set Scale  to `[2, 2, 1]`//.
+(NOTE)**Under**: When accessing properties of a paticular component we use the term **Under**, as the properties are found **under** the component title in the `Properties Window`. For instance, *Under the [Transform](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/transform.markdown) component* {icon long-arrow-right} //Set Scale  to `[2, 2, 1]`//.
 
 
  #  Renaming an Object
 
 
-- [ Select](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/selectobject.markdown) : Sprite object
+- [ Select](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/selectobject.markdown) : Sprite object
 - In the `Properties Window`
  - Rename Sprite object to `Square`
 
@@ -99,7 +99,7 @@ The properties of the [Transform](https://github.com/ArendDanielek/ZeroDocsTest/
 *Renaming the Sprite object*
 
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ PlayGame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#playgame)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ PlayGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#playgame)
 
 Here is how the game should look:
 
@@ -110,7 +110,7 @@ Here is how the game should look:
 *The `Game Window`*
 
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ StopGame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#stopgame)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ StopGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#stopgame)
 
 
  #  Tools
@@ -205,18 +205,11 @@ NOTE: Zero Engine does **not** support negative scale for objects.
  # Related Materials
 
  ## Manual
-- [COGs](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/architecture/cogs/gameobjectsconcept.markdown)
-- [Editor Commands](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands.markdown)
+- [COGs](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/architecture/cogs/gameobjectsconcept.markdown)
+- [Editor Commands](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands.markdown)
 
  ## Code Reference
-- [Transform](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/transform.markdown)
+- [Transform](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/transform.markdown)
  
-  
-  
-  
-  
-  
-  
-  
 
  

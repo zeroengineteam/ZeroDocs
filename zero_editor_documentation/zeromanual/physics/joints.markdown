@@ -1,4 +1,4 @@
-[ Joints](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/Joint.markdown) are a representation of a physics concept known as [constraints](https://en.wikipedia.org/wiki/Constraint_(mathematics) ). A constraint is a mathematical rule that defines (or constrains) how objects are allowed to move. A Joint is a collection of one or more constraints that define a more common interaction. In Zero, a Joint is typically an independent object that connects two [ObjectLink](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/ObjectLink.markdown).
+[ Joints](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/Joint.markdown) are a representation of a physics concept known as [constraints](https://en.wikipedia.org/wiki/Constraint_(mathematics) ). A constraint is a mathematical rule that defines (or constrains) how objects are allowed to move. A Joint is a collection of one or more constraints that define a more common interaction. In Zero, a Joint is typically an independent object that connects two [ObjectLink](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/ObjectLink.markdown).
 
  #  Shared Properties
 Before looking at individual joints, there's a few useful shared properties:
@@ -10,23 +10,23 @@ Before looking at individual joints, there's a few useful shared properties:
  #  Joint Add-ons
 Before discussing each individual Joint, there's several helper components that are important to understand. These components affect how a joint will affect the connected objects. These components can be added to any Joint, but may not always make sense for a specific one.
 
- ###  [JointLimit](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/JointLimit.markdown)
+ ###  [JointLimit](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/JointLimit.markdown)
 A limit restricts a certain portion of the joint to only be active part of the time. This is typically sets some min/max distance/angle where the joint will allow free movement.
 NOTE: When the limit is for angles it is specified in radians.
 
- ###  [JointMotor](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/JointMotor.markdown)
+ ###  [JointMotor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/JointMotor.markdown)
 A motor takes a portion of the joint and adds energy to it. This is often used to drive a portion of the joint when no external forces are acting upon it. A motor allows setting a target speed and a max impulse it can use to try and achieve this.
 
- ###  [JointSpring](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/JointSpring.markdown)
+ ###  [JointSpring](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/JointSpring.markdown)
 A spring takes a portion of the joint and makes it soft, or non-rigid. This can be useful to simulate a spring or make the limits of a joint springy. Springs are defined by a frequency in Hertz (oscillations per second) and a damping ratio. The damping ratio defines how much energy should be damped out of the system where 0 means no damping and 1 is critical (perfect) damping.
 
  ##  Extra AddOns
 There are a few extra joint add-ons that are less frequently used.
 
- ###  [JointConfigOverride](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/JointConfigOverride.markdown)
+ ###  [JointConfigOverride](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/JointConfigOverride.markdown)
 This allows configuring individual joint properties for solving. Typically you shouldn't touch this if you don't understand it.
 
- ###  [JointDebugDrawConfig](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/JointDebugDrawConfig.markdown)
+ ###  [JointDebugDrawConfig](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/JointDebugDrawConfig.markdown)
 The debug draw config is used to give additional debug drawing information to the joint. This is mostly to allow configuring which object's perspective to draw information from. Not all joints currently observe this component.
 
  #  JointTypes
@@ -39,7 +39,7 @@ A stick joint, or distance joint, defines that two points on the objects should 
 A position joint locks two points on the objects to be at the same position. This is common for a ball-and-socket like joint.
 
  ###  WeldJoint
-A weld joint locks the the relative position and rotation of two objects together. For a rigid connection, [hierarchies](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/physics/Hierarchies.markdown) should be used instead as joints are not completely stiff. If run-time behaviors, such as auto-snapping with a max impulse, are desired then using a weld is easier than hierarchies.
+A weld joint locks the the relative position and rotation of two objects together. For a rigid connection, [hierarchies](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/physics/Hierarchies.markdown) should be used instead as joints are not completely stiff. If run-time behaviors, such as auto-snapping with a max impulse, are desired then using a weld is easier than hierarchies.
 
  ###  PrismaticJoint
 A prismatic joint (or slider) locks the rotation of two objects together and two of the linear axes. This allows relative translation of the objects along one axis. This is often used to create pistons or sliders.
@@ -71,40 +71,33 @@ A few joints have 2D versions that should be used when making a 2D game instead 
 ---
  ##  Related Materials
  ###  Manual
-- [Colliders.markdown](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/physics/Colliders.markdown)
+- [Colliders.markdown](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/physics/Colliders.markdown)
 
  ###  Reference
- - [Joint](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/Joint.markdown)
- - [StickJoint](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/StickJoint.markdown)
- - [PositionJoint](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/PositionJoint.markdown)
- - [WeldJoint](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/WeldJoint.markdown)
- - [PrismaticJoint](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/PrismaticJoint.markdown)
- - [PrismaticJoint2d](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/PrismaticJoint2d.markdown)
- - [RevoluteJoint](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/RevoluteJoint.markdown)
- - [RevoluteJoint2d](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/RevoluteJoint2d.markdown)
- - [WheelJoint](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/WheelJoint.markdown)
- - [WheelJoint2d](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/WheelJoint2d.markdown)
- - [UniversalJoint](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/UniversalJoint.markdown)
- - [UprightJoint](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/UprightJoint.markdown)
- - [GearJoint](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/GearJoint.markdown)
- - [PulleyJoint](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/PulleyJoint.markdown)
- - [CustomJoint](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/CustomJoint.markdown)
- - [JointEvent](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/JointEvent.markdown)
- - [CustomJointEvent](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/CustomJointEvent.markdown)
- - [JointLimit](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/JointLimit.markdown)
- - [JointMotor](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/JointMotor.markdown)
- - [JointSpring](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/JointSpring.markdown)
- - [JointDebugDrawConfig](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/JointDebugDrawConfig.markdown)
- - [JointConfigOverride](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/JointConfigOverride.markdown)
- - [CustomConstraintInfo](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/CustomConstraintInfo.markdown)
- - [Collider](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/Collider.markdown)
+ - [Joint](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/Joint.markdown)
+ - [StickJoint](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/StickJoint.markdown)
+ - [PositionJoint](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/PositionJoint.markdown)
+ - [WeldJoint](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/WeldJoint.markdown)
+ - [PrismaticJoint](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/PrismaticJoint.markdown)
+ - [PrismaticJoint2d](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/PrismaticJoint2d.markdown)
+ - [RevoluteJoint](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/RevoluteJoint.markdown)
+ - [RevoluteJoint2d](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/RevoluteJoint2d.markdown)
+ - [WheelJoint](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/WheelJoint.markdown)
+ - [WheelJoint2d](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/WheelJoint2d.markdown)
+ - [UniversalJoint](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/UniversalJoint.markdown)
+ - [UprightJoint](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/UprightJoint.markdown)
+ - [GearJoint](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/GearJoint.markdown)
+ - [PulleyJoint](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/PulleyJoint.markdown)
+ - [CustomJoint](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/CustomJoint.markdown)
+ - [JointEvent](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/JointEvent.markdown)
+ - [CustomJointEvent](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/CustomJointEvent.markdown)
+ - [JointLimit](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/JointLimit.markdown)
+ - [JointMotor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/JointMotor.markdown)
+ - [JointSpring](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/JointSpring.markdown)
+ - [JointDebugDrawConfig](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/JointDebugDrawConfig.markdown)
+ - [JointConfigOverride](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/JointConfigOverride.markdown)
+ - [CustomConstraintInfo](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/CustomConstraintInfo.markdown)
+ - [Collider](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/Collider.markdown)
  
-  
-  
-  
-  
-  
-  
-  
 
  

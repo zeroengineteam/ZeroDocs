@@ -18,12 +18,5 @@ Source Indexing
 Even with the symbol server setup, we still don't get source for a file at that revision. This is handled via another step called source indexing. The pdb is actually a file format that can store various files under stream names. There is a special stream named "SRC_SRV" that stores information about how to get a copy of a file from source control. For source indexing, you write to this stream a file that contains something along the lines of: FileName at %Revision% comes from the mercurial repository at %ZERO_SOURCE% with the command hg checkout FileName at %Revision% > %OutLocation%. This is currently done via the SourceIndexer program in the DevTools repository. This program takes in a source tree location and a collection of repository locations to pull from and embeds them in the pdb. Note that the source indexing needs to be embedded into the pdb before the symbol server is run. Also note that at the moment there are hard-coded repository names in the SourceIndexer program that should ideally be removed later.
 
 Crash dumps for zero are currently downloadable from http://zerocrash.digipen.edu. This website needs a large update though as it's really slow... 
-  
-  
-  
-  
-  
-  
-  
 
  

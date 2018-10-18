@@ -183,12 +183,5 @@ Controls
 
 - Requires documentation
  
-  
-  
-  
-  
-  
-  
-  
 
  

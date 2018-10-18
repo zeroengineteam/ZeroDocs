@@ -4,135 +4,135 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#bitstream-void)| | | |
-|[ CanReadBoolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#canreadboolean-zero-engi)| | | |
-|[ CanReadDoubleInteger](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#canreaddoubleinteger-zer)| | | |
-|[ CanReadDoubleIntegerQuantized](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#canreaddoubleintegerquan)| | | |
-|[ CanReadDoubleReal](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#canreaddoublereal-zero-e)| | | |
-|[ CanReadDoubleRealQuantized](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#canreaddoublerealquantiz)| | | |
-|[ CanReadInteger](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#canreadinteger-zero-engi)| | | |
-|[ CanReadInteger2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#canreadinteger2-zero-eng)| | | |
-|[ CanReadInteger2Quantized](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#canreadinteger2quantized)| | | |
-|[ CanReadInteger3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#canreadinteger3-zero-eng)| | | |
-|[ CanReadInteger3Quantized](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#canreadinteger3quantized)| | | |
-|[ CanReadInteger4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#canreadinteger4-zero-eng)| | | |
-|[ CanReadInteger4Quantized](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#canreadinteger4quantized)| | | |
-|[ CanReadIntegerQuantized](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#canreadintegerquantized)| | | |
-|[ CanReadQuaternion](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#canreadquaternion-zero-e)| | | |
-|[ CanReadReal](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#canreadreal-zero-engine)| | | |
-|[ CanReadReal2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#canreadreal2-zero-engine)| | | |
-|[ CanReadReal2Half](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#canreadreal2half-zero-en)| | | |
-|[ CanReadReal2Quantized](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#canreadreal2quantized-ze)| | | |
-|[ CanReadReal3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#canreadreal3-zero-engine)| | | |
-|[ CanReadReal3Half](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#canreadreal3half-zero-en)| | | |
-|[ CanReadReal3Quantized](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#canreadreal3quantized-ze)| | | |
-|[ CanReadReal4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#canreadreal4-zero-engine)| | | |
-|[ CanReadReal4Half](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#canreadreal4half-zero-en)| | | |
-|[ CanReadReal4Quantized](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#canreadreal4quantized-ze)| | | |
-|[ CanReadRealHalf](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#canreadrealhalf-zero-eng)| | | |
-|[ CanReadRealQuantized](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#canreadrealquantized-zer)| | | |
-|[ CanReadString](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#canreadstring-zero-engin)| | | |
-|[ Clear](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#clear-void)| | | |
-|[ ClearBitsRead](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#clearbitsread-void)| | | |
-|[ ClearBitsWritten](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#clearbitswritten-void)| | | |
-|[ GetBitCapacity](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#getbitcapacity-zero-engi)| | | |
-|[ GetBitsRead](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#getbitsread-zero-engine)| | | |
-|[ GetBitsUnread](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#getbitsunread-zero-engin)| | | |
-|[ GetBitsUnwritten](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#getbitsunwritten-zero-en)| | | |
-|[ GetBitsWritten](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#getbitswritten-zero-engi)| | | |
-|[ GetByteCapacity](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#getbytecapacity-zero-eng)| | | |
-|[ GetBytesRead](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#getbytesread-zero-engine)| | | |
-|[ GetBytesUnread](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#getbytesunread-zero-engi)| | | |
-|[ GetBytesUnwritten](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#getbytesunwritten-zero-e)| | | |
-|[ GetBytesWritten](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#getbyteswritten-zero-eng)| | | |
-|[ IsEmpty](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#isempty-zero-engine-docu)| | | |
-|[ MeasureBoolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#measureboolean-zero-engi)| | | |
-|[ MeasureDoubleInteger](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#measuredoubleinteger-zer)| | | |
-|[ MeasureDoubleIntegerQuantized](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#measuredoubleintegerquan)| | | |
-|[ MeasureDoubleReal](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#measuredoublereal-zero-e)| | | |
-|[ MeasureDoubleRealQuantized](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#measuredoublerealquantiz)| | | |
-|[ MeasureInteger](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#measureinteger-zero-engi)| | | |
-|[ MeasureInteger2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#measureinteger2-zero-eng)| | | |
-|[ MeasureInteger2Quantized](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#measureinteger2quantized)| | | |
-|[ MeasureInteger3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#measureinteger3-zero-eng)| | | |
-|[ MeasureInteger3Quantized](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#measureinteger3quantized)| | | |
-|[ MeasureInteger4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#measureinteger4-zero-eng)| | | |
-|[ MeasureInteger4Quantized](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#measureinteger4quantized)| | | |
-|[ MeasureIntegerQuantized](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#measureintegerquantized)| | | |
-|[ MeasureQuaternion](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#measurequaternion-zero-e)| | | |
-|[ MeasureReal](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#measurereal-zero-engine)| | | |
-|[ MeasureReal2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#measurereal2-zero-engine)| | | |
-|[ MeasureReal2Half](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#measurereal2half-zero-en)| | | |
-|[ MeasureReal2Quantized](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#measurereal2quantized-ze)| | | |
-|[ MeasureReal3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#measurereal3-zero-engine)| | | |
-|[ MeasureReal3Half](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#measurereal3half-zero-en)| | | |
-|[ MeasureReal3Quantized](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#measurereal3quantized-ze)| | | |
-|[ MeasureReal4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#measurereal4-zero-engine)| | | |
-|[ MeasureReal4Half](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#measurereal4half-zero-en)| | | |
-|[ MeasureReal4Quantized](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#measurereal4quantized-ze)| | | |
-|[ MeasureRealHalf](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#measurerealhalf-zero-eng)| | | |
-|[ MeasureRealQuantized](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#measurerealquantized-zer)| | | |
-|[ MeasureString](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#measurestring-zero-engin)| | | |
-|[ ReadBoolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#readboolean-zero-engine)| | | |
-|[ ReadDoubleInteger](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#readdoubleinteger-zero-e)| | | |
-|[ ReadDoubleIntegerQuantized](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#readdoubleintegerquantiz)| | | |
-|[ ReadDoubleReal](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#readdoublereal-zero-engi)| | | |
-|[ ReadDoubleRealQuantized](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#readdoublerealquantized)| | | |
-|[ ReadInteger](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#readinteger-zero-engine)| | | |
-|[ ReadInteger2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#readinteger2-zero-engine)| | | |
-|[ ReadInteger2Quantized](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#readinteger2quantized-ze)| | | |
-|[ ReadInteger3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#readinteger3-zero-engine)| | | |
-|[ ReadInteger3Quantized](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#readinteger3quantized-ze)| | | |
-|[ ReadInteger4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#readinteger4-zero-engine)| | | |
-|[ ReadInteger4Quantized](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#readinteger4quantized-ze)| | | |
-|[ ReadIntegerQuantized](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#readintegerquantized-zer)| | | |
-|[ ReadQuaternion](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#readquaternion-zero-engi)| | | |
-|[ ReadReal](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#readreal-zero-engine-doc)| | | |
-|[ ReadReal2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#readreal2-zero-engine-do)| | | |
-|[ ReadReal2Half](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#readreal2half-zero-engin)| | | |
-|[ ReadReal2Quantized](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#readreal2quantized-zero)| | | |
-|[ ReadReal3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#readreal3-zero-engine-do)| | | |
-|[ ReadReal3Half](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#readreal3half-zero-engin)| | | |
-|[ ReadReal3Quantized](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#readreal3quantized-zero)| | | |
-|[ ReadReal4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#readreal4-zero-engine-do)| | | |
-|[ ReadReal4Half](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#readreal4half-zero-engin)| | | |
-|[ ReadReal4Quantized](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#readreal4quantized-zero)| | | |
-|[ ReadRealHalf](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#readrealhalf-zero-engine)| | | |
-|[ ReadRealQuantized](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#readrealquantized-zero-e)| | | |
-|[ ReadString](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#readstring-zero-engine-d)| | | |
-|[ Reserve](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#reserve-void)| | | |
-|[ SetBitsRead](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#setbitsread-void)| | | |
-|[ SetBitsWritten](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#setbitswritten-void)| | | |
-|[ SetBytesRead](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#setbytesread-void)| | | |
-|[ SetBytesWritten](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#setbyteswritten-void)| | | |
-|[ Unread](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#unread-void)| | | |
-|[ WriteBoolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#writeboolean-void)| | | |
-|[ WriteDoubleInteger](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#writedoubleinteger-void)| | | |
-|[ WriteDoubleIntegerQuantized](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#writedoubleintegerquanti)| | | |
-|[ WriteDoubleReal](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#writedoublereal-void)| | | |
-|[ WriteDoubleRealQuantized](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#writedoublerealquantized)| | | |
-|[ WriteInteger](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#writeinteger-void)| | | |
-|[ WriteInteger2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#writeinteger2-void)| | | |
-|[ WriteInteger2Quantized](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#writeinteger2quantized-v)| | | |
-|[ WriteInteger3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#writeinteger3-void)| | | |
-|[ WriteInteger3Quantized](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#writeinteger3quantized-v)| | | |
-|[ WriteInteger4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#writeinteger4-void)| | | |
-|[ WriteInteger4Quantized](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#writeinteger4quantized-v)| | | |
-|[ WriteIntegerQuantized](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#writeintegerquantized-vo)| | | |
-|[ WriteQuaternion](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#writequaternion-void)| | | |
-|[ WriteReal](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#writereal-void)| | | |
-|[ WriteReal2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#writereal2-void)| | | |
-|[ WriteReal2Half](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#writereal2half-void)| | | |
-|[ WriteReal2Quantized](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#writereal2quantized-void)| | | |
-|[ WriteReal3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#writereal3-void)| | | |
-|[ WriteReal3Half](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#writereal3half-void)| | | |
-|[ WriteReal3Quantized](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#writereal3quantized-void)| | | |
-|[ WriteReal4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#writereal4-void)| | | |
-|[ WriteReal4Half](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#writereal4half-void)| | | |
-|[ WriteReal4Quantized](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#writereal4quantized-void)| | | |
-|[ WriteRealHalf](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#writerealhalf-void)| | | |
-|[ WriteRealQuantized](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#writerealquantized-void)| | | |
-|[ WriteString](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/bitstream.markdown#writestring-void)| | | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#bitstream-void)| | | |
+|[ CanReadBoolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#canreadboolean-zero-engi)| | | |
+|[ CanReadDoubleInteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#canreaddoubleinteger-zer)| | | |
+|[ CanReadDoubleIntegerQuantized](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#canreaddoubleintegerquan)| | | |
+|[ CanReadDoubleReal](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#canreaddoublereal-zero-e)| | | |
+|[ CanReadDoubleRealQuantized](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#canreaddoublerealquantiz)| | | |
+|[ CanReadInteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#canreadinteger-zero-engi)| | | |
+|[ CanReadInteger2](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#canreadinteger2-zero-eng)| | | |
+|[ CanReadInteger2Quantized](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#canreadinteger2quantized)| | | |
+|[ CanReadInteger3](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#canreadinteger3-zero-eng)| | | |
+|[ CanReadInteger3Quantized](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#canreadinteger3quantized)| | | |
+|[ CanReadInteger4](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#canreadinteger4-zero-eng)| | | |
+|[ CanReadInteger4Quantized](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#canreadinteger4quantized)| | | |
+|[ CanReadIntegerQuantized](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#canreadintegerquantized)| | | |
+|[ CanReadQuaternion](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#canreadquaternion-zero-e)| | | |
+|[ CanReadReal](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#canreadreal-zero-engine)| | | |
+|[ CanReadReal2](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#canreadreal2-zero-engine)| | | |
+|[ CanReadReal2Half](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#canreadreal2half-zero-en)| | | |
+|[ CanReadReal2Quantized](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#canreadreal2quantized-ze)| | | |
+|[ CanReadReal3](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#canreadreal3-zero-engine)| | | |
+|[ CanReadReal3Half](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#canreadreal3half-zero-en)| | | |
+|[ CanReadReal3Quantized](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#canreadreal3quantized-ze)| | | |
+|[ CanReadReal4](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#canreadreal4-zero-engine)| | | |
+|[ CanReadReal4Half](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#canreadreal4half-zero-en)| | | |
+|[ CanReadReal4Quantized](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#canreadreal4quantized-ze)| | | |
+|[ CanReadRealHalf](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#canreadrealhalf-zero-eng)| | | |
+|[ CanReadRealQuantized](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#canreadrealquantized-zer)| | | |
+|[ CanReadString](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#canreadstring-zero-engin)| | | |
+|[ Clear](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#clear-void)| | | |
+|[ ClearBitsRead](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#clearbitsread-void)| | | |
+|[ ClearBitsWritten](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#clearbitswritten-void)| | | |
+|[ GetBitCapacity](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#getbitcapacity-zero-engi)| | | |
+|[ GetBitsRead](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#getbitsread-zero-engine)| | | |
+|[ GetBitsUnread](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#getbitsunread-zero-engin)| | | |
+|[ GetBitsUnwritten](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#getbitsunwritten-zero-en)| | | |
+|[ GetBitsWritten](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#getbitswritten-zero-engi)| | | |
+|[ GetByteCapacity](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#getbytecapacity-zero-eng)| | | |
+|[ GetBytesRead](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#getbytesread-zero-engine)| | | |
+|[ GetBytesUnread](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#getbytesunread-zero-engi)| | | |
+|[ GetBytesUnwritten](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#getbytesunwritten-zero-e)| | | |
+|[ GetBytesWritten](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#getbyteswritten-zero-eng)| | | |
+|[ IsEmpty](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#isempty-zero-engine-docu)| | | |
+|[ MeasureBoolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#measureboolean-zero-engi)| | | |
+|[ MeasureDoubleInteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#measuredoubleinteger-zer)| | | |
+|[ MeasureDoubleIntegerQuantized](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#measuredoubleintegerquan)| | | |
+|[ MeasureDoubleReal](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#measuredoublereal-zero-e)| | | |
+|[ MeasureDoubleRealQuantized](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#measuredoublerealquantiz)| | | |
+|[ MeasureInteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#measureinteger-zero-engi)| | | |
+|[ MeasureInteger2](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#measureinteger2-zero-eng)| | | |
+|[ MeasureInteger2Quantized](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#measureinteger2quantized)| | | |
+|[ MeasureInteger3](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#measureinteger3-zero-eng)| | | |
+|[ MeasureInteger3Quantized](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#measureinteger3quantized)| | | |
+|[ MeasureInteger4](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#measureinteger4-zero-eng)| | | |
+|[ MeasureInteger4Quantized](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#measureinteger4quantized)| | | |
+|[ MeasureIntegerQuantized](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#measureintegerquantized)| | | |
+|[ MeasureQuaternion](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#measurequaternion-zero-e)| | | |
+|[ MeasureReal](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#measurereal-zero-engine)| | | |
+|[ MeasureReal2](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#measurereal2-zero-engine)| | | |
+|[ MeasureReal2Half](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#measurereal2half-zero-en)| | | |
+|[ MeasureReal2Quantized](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#measurereal2quantized-ze)| | | |
+|[ MeasureReal3](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#measurereal3-zero-engine)| | | |
+|[ MeasureReal3Half](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#measurereal3half-zero-en)| | | |
+|[ MeasureReal3Quantized](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#measurereal3quantized-ze)| | | |
+|[ MeasureReal4](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#measurereal4-zero-engine)| | | |
+|[ MeasureReal4Half](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#measurereal4half-zero-en)| | | |
+|[ MeasureReal4Quantized](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#measurereal4quantized-ze)| | | |
+|[ MeasureRealHalf](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#measurerealhalf-zero-eng)| | | |
+|[ MeasureRealQuantized](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#measurerealquantized-zer)| | | |
+|[ MeasureString](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#measurestring-zero-engin)| | | |
+|[ ReadBoolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#readboolean-zero-engine)| | | |
+|[ ReadDoubleInteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#readdoubleinteger-zero-e)| | | |
+|[ ReadDoubleIntegerQuantized](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#readdoubleintegerquantiz)| | | |
+|[ ReadDoubleReal](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#readdoublereal-zero-engi)| | | |
+|[ ReadDoubleRealQuantized](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#readdoublerealquantized)| | | |
+|[ ReadInteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#readinteger-zero-engine)| | | |
+|[ ReadInteger2](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#readinteger2-zero-engine)| | | |
+|[ ReadInteger2Quantized](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#readinteger2quantized-ze)| | | |
+|[ ReadInteger3](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#readinteger3-zero-engine)| | | |
+|[ ReadInteger3Quantized](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#readinteger3quantized-ze)| | | |
+|[ ReadInteger4](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#readinteger4-zero-engine)| | | |
+|[ ReadInteger4Quantized](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#readinteger4quantized-ze)| | | |
+|[ ReadIntegerQuantized](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#readintegerquantized-zer)| | | |
+|[ ReadQuaternion](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#readquaternion-zero-engi)| | | |
+|[ ReadReal](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#readreal-zero-engine-doc)| | | |
+|[ ReadReal2](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#readreal2-zero-engine-do)| | | |
+|[ ReadReal2Half](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#readreal2half-zero-engin)| | | |
+|[ ReadReal2Quantized](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#readreal2quantized-zero)| | | |
+|[ ReadReal3](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#readreal3-zero-engine-do)| | | |
+|[ ReadReal3Half](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#readreal3half-zero-engin)| | | |
+|[ ReadReal3Quantized](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#readreal3quantized-zero)| | | |
+|[ ReadReal4](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#readreal4-zero-engine-do)| | | |
+|[ ReadReal4Half](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#readreal4half-zero-engin)| | | |
+|[ ReadReal4Quantized](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#readreal4quantized-zero)| | | |
+|[ ReadRealHalf](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#readrealhalf-zero-engine)| | | |
+|[ ReadRealQuantized](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#readrealquantized-zero-e)| | | |
+|[ ReadString](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#readstring-zero-engine-d)| | | |
+|[ Reserve](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#reserve-void)| | | |
+|[ SetBitsRead](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#setbitsread-void)| | | |
+|[ SetBitsWritten](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#setbitswritten-void)| | | |
+|[ SetBytesRead](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#setbytesread-void)| | | |
+|[ SetBytesWritten](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#setbyteswritten-void)| | | |
+|[ Unread](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#unread-void)| | | |
+|[ WriteBoolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#writeboolean-void)| | | |
+|[ WriteDoubleInteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#writedoubleinteger-void)| | | |
+|[ WriteDoubleIntegerQuantized](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#writedoubleintegerquanti)| | | |
+|[ WriteDoubleReal](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#writedoublereal-void)| | | |
+|[ WriteDoubleRealQuantized](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#writedoublerealquantized)| | | |
+|[ WriteInteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#writeinteger-void)| | | |
+|[ WriteInteger2](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#writeinteger2-void)| | | |
+|[ WriteInteger2Quantized](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#writeinteger2quantized-v)| | | |
+|[ WriteInteger3](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#writeinteger3-void)| | | |
+|[ WriteInteger3Quantized](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#writeinteger3quantized-v)| | | |
+|[ WriteInteger4](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#writeinteger4-void)| | | |
+|[ WriteInteger4Quantized](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#writeinteger4quantized-v)| | | |
+|[ WriteIntegerQuantized](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#writeintegerquantized-vo)| | | |
+|[ WriteQuaternion](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#writequaternion-void)| | | |
+|[ WriteReal](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#writereal-void)| | | |
+|[ WriteReal2](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#writereal2-void)| | | |
+|[ WriteReal2Half](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#writereal2half-void)| | | |
+|[ WriteReal2Quantized](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#writereal2quantized-void)| | | |
+|[ WriteReal3](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#writereal3-void)| | | |
+|[ WriteReal3Half](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#writereal3half-void)| | | |
+|[ WriteReal3Quantized](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#writereal3quantized-void)| | | |
+|[ WriteReal4](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#writereal4-void)| | | |
+|[ WriteReal4Half](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#writereal4half-void)| | | |
+|[ WriteReal4Quantized](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#writereal4quantized-void)| | | |
+|[ WriteRealHalf](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#writerealhalf-void)| | | |
+|[ WriteRealQuantized](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#writerealquantized-void)| | | |
+|[ WriteString](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/bitstream.markdown#writestring-void)| | | |
 
 
  #  Properties
@@ -156,7 +156,7 @@
 
 
 ---  
- #  CanReadBoolean : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  CanReadBoolean : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
@@ -167,7 +167,7 @@
 
 
 ---  
- #  CanReadDoubleInteger : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  CanReadDoubleInteger : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
@@ -178,34 +178,34 @@
 
 
 ---  
- #  CanReadDoubleIntegerQuantized : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  CanReadDoubleIntegerQuantized : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[doubleinteger](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doubleinteger.markdown)| |
-> ||[doubleinteger](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doubleinteger.markdown)| |
+> ||[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doubleinteger.markdown)| |
+> ||[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doubleinteger.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function CanReadDoubleIntegerQuantized( : DoubleInteger,  : DoubleInteger) : Boolean
 > ``` 
 
 
 ---  
- #  CanReadDoubleIntegerQuantized : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  CanReadDoubleIntegerQuantized : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[doubleinteger](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doubleinteger.markdown)| |
-> ||[doubleinteger](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doubleinteger.markdown)| |
-> ||[doubleinteger](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doubleinteger.markdown)| |
+> ||[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doubleinteger.markdown)| |
+> ||[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doubleinteger.markdown)| |
+> ||[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doubleinteger.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function CanReadDoubleIntegerQuantized( : DoubleInteger,  : DoubleInteger,  : DoubleInteger) : Boolean
 > ``` 
 
 
 ---  
- #  CanReadDoubleReal : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  CanReadDoubleReal : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
@@ -216,34 +216,34 @@
 
 
 ---  
- #  CanReadDoubleRealQuantized : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  CanReadDoubleRealQuantized : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[doublereal](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doublereal.markdown)| |
-> ||[doublereal](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doublereal.markdown)| |
+> ||[doublereal](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doublereal.markdown)| |
+> ||[doublereal](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doublereal.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function CanReadDoubleRealQuantized( : DoubleReal,  : DoubleReal) : Boolean
 > ``` 
 
 
 ---  
- #  CanReadDoubleRealQuantized : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  CanReadDoubleRealQuantized : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[doublereal](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doublereal.markdown)| |
-> ||[doublereal](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doublereal.markdown)| |
-> ||[doublereal](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doublereal.markdown)| |
+> ||[doublereal](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doublereal.markdown)| |
+> ||[doublereal](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doublereal.markdown)| |
+> ||[doublereal](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doublereal.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function CanReadDoubleRealQuantized( : DoubleReal,  : DoubleReal,  : DoubleReal) : Boolean
 > ``` 
 
 
 ---  
- #  CanReadInteger : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  CanReadInteger : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
@@ -254,7 +254,7 @@
 
 
 ---  
- #  CanReadInteger2 : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  CanReadInteger2 : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
@@ -265,34 +265,34 @@
 
 
 ---  
- #  CanReadInteger2Quantized : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  CanReadInteger2Quantized : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[integer2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer2.markdown)| |
-> ||[integer2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer2.markdown)| |
+> ||[integer2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer2.markdown)| |
+> ||[integer2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function CanReadInteger2Quantized( : Integer2,  : Integer2) : Boolean
 > ``` 
 
 
 ---  
- #  CanReadInteger2Quantized : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  CanReadInteger2Quantized : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[integer2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer2.markdown)| |
-> ||[integer2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer2.markdown)| |
-> ||[integer2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer2.markdown)| |
+> ||[integer2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer2.markdown)| |
+> ||[integer2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer2.markdown)| |
+> ||[integer2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function CanReadInteger2Quantized( : Integer2,  : Integer2,  : Integer2) : Boolean
 > ``` 
 
 
 ---  
- #  CanReadInteger3 : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  CanReadInteger3 : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
@@ -303,34 +303,34 @@
 
 
 ---  
- #  CanReadInteger3Quantized : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  CanReadInteger3Quantized : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[integer3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer3.markdown)| |
-> ||[integer3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer3.markdown)| |
+> ||[integer3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer3.markdown)| |
+> ||[integer3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function CanReadInteger3Quantized( : Integer3,  : Integer3) : Boolean
 > ``` 
 
 
 ---  
- #  CanReadInteger3Quantized : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  CanReadInteger3Quantized : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[integer3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer3.markdown)| |
-> ||[integer3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer3.markdown)| |
-> ||[integer3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer3.markdown)| |
+> ||[integer3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer3.markdown)| |
+> ||[integer3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer3.markdown)| |
+> ||[integer3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function CanReadInteger3Quantized( : Integer3,  : Integer3,  : Integer3) : Boolean
 > ``` 
 
 
 ---  
- #  CanReadInteger4 : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  CanReadInteger4 : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
@@ -341,61 +341,61 @@
 
 
 ---  
- #  CanReadInteger4Quantized : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  CanReadInteger4Quantized : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[integer4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer4.markdown)| |
-> ||[integer4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer4.markdown)| |
+> ||[integer4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer4.markdown)| |
+> ||[integer4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function CanReadInteger4Quantized( : Integer4,  : Integer4) : Boolean
 > ``` 
 
 
 ---  
- #  CanReadInteger4Quantized : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  CanReadInteger4Quantized : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[integer4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer4.markdown)| |
-> ||[integer4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer4.markdown)| |
-> ||[integer4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer4.markdown)| |
+> ||[integer4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer4.markdown)| |
+> ||[integer4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer4.markdown)| |
+> ||[integer4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function CanReadInteger4Quantized( : Integer4,  : Integer4,  : Integer4) : Boolean
 > ``` 
 
 
 ---  
- #  CanReadIntegerQuantized : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  CanReadIntegerQuantized : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)| |
-> ||[integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> ||[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> ||[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function CanReadIntegerQuantized( : Integer,  : Integer) : Boolean
 > ``` 
 
 
 ---  
- #  CanReadIntegerQuantized : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  CanReadIntegerQuantized : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)| |
-> ||[integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)| |
-> ||[integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> ||[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> ||[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> ||[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function CanReadIntegerQuantized( : Integer,  : Integer,  : Integer) : Boolean
 > ``` 
 
 
 ---  
- #  CanReadQuaternion : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  CanReadQuaternion : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
@@ -406,7 +406,7 @@
 
 
 ---  
- #  CanReadReal : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  CanReadReal : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
@@ -417,7 +417,7 @@
 
 
 ---  
- #  CanReadReal2 : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  CanReadReal2 : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
@@ -428,7 +428,7 @@
 
 
 ---  
- #  CanReadReal2Half : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  CanReadReal2Half : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
@@ -439,34 +439,34 @@
 
 
 ---  
- #  CanReadReal2Quantized : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  CanReadReal2Quantized : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[real2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real2.markdown)| |
-> ||[real2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real2.markdown)| |
+> ||[real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)| |
+> ||[real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function CanReadReal2Quantized( : Real2,  : Real2) : Boolean
 > ``` 
 
 
 ---  
- #  CanReadReal2Quantized : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  CanReadReal2Quantized : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[real2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real2.markdown)| |
-> ||[real2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real2.markdown)| |
-> ||[real2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real2.markdown)| |
+> ||[real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)| |
+> ||[real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)| |
+> ||[real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function CanReadReal2Quantized( : Real2,  : Real2,  : Real2) : Boolean
 > ``` 
 
 
 ---  
- #  CanReadReal3 : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  CanReadReal3 : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
@@ -477,7 +477,7 @@
 
 
 ---  
- #  CanReadReal3Half : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  CanReadReal3Half : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
@@ -488,34 +488,34 @@
 
 
 ---  
- #  CanReadReal3Quantized : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  CanReadReal3Quantized : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[real3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real3.markdown)| |
-> ||[real3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real3.markdown)| |
+> ||[real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)| |
+> ||[real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function CanReadReal3Quantized( : Real3,  : Real3) : Boolean
 > ``` 
 
 
 ---  
- #  CanReadReal3Quantized : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  CanReadReal3Quantized : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[real3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real3.markdown)| |
-> ||[real3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real3.markdown)| |
-> ||[real3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real3.markdown)| |
+> ||[real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)| |
+> ||[real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)| |
+> ||[real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function CanReadReal3Quantized( : Real3,  : Real3,  : Real3) : Boolean
 > ``` 
 
 
 ---  
- #  CanReadReal4 : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  CanReadReal4 : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
@@ -526,7 +526,7 @@
 
 
 ---  
- #  CanReadReal4Half : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  CanReadReal4Half : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
@@ -537,34 +537,34 @@
 
 
 ---  
- #  CanReadReal4Quantized : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  CanReadReal4Quantized : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[real4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real4.markdown)| |
-> ||[real4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real4.markdown)| |
+> ||[real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)| |
+> ||[real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function CanReadReal4Quantized( : Real4,  : Real4) : Boolean
 > ``` 
 
 
 ---  
- #  CanReadReal4Quantized : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  CanReadReal4Quantized : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[real4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real4.markdown)| |
-> ||[real4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real4.markdown)| |
-> ||[real4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real4.markdown)| |
+> ||[real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)| |
+> ||[real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)| |
+> ||[real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function CanReadReal4Quantized( : Real4,  : Real4,  : Real4) : Boolean
 > ``` 
 
 
 ---  
- #  CanReadRealHalf : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  CanReadRealHalf : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
@@ -575,34 +575,34 @@
 
 
 ---  
- #  CanReadRealQuantized : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  CanReadRealQuantized : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)| |
-> ||[real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)| |
+> ||[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)| |
+> ||[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function CanReadRealQuantized( : Real,  : Real) : Boolean
 > ``` 
 
 
 ---  
- #  CanReadRealQuantized : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  CanReadRealQuantized : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)| |
-> ||[real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)| |
-> ||[real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)| |
+> ||[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)| |
+> ||[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)| |
+> ||[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function CanReadRealQuantized( : Real,  : Real,  : Real) : Boolean
 > ``` 
 
 
 ---  
- #  CanReadString : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  CanReadString : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
@@ -618,7 +618,7 @@
 > Clears all data written and resets the bitstream, optionally freeing reserved memory.
 > |Name|Type|Description|
 > |---|---|---|
-> |freeMemory|[boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)| |
+> |freeMemory|[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Clear(freeMemory : Boolean)
 > ``` 
@@ -647,7 +647,7 @@
 
 
 ---  
- #  GetBitCapacity : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  GetBitCapacity : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
 > Returns the data array capacity in bits.
 > |Name|Type|Description|
@@ -658,7 +658,7 @@
 
 
 ---  
- #  GetBitsRead : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  GetBitsRead : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
 > Returns the number of bits read.
 > |Name|Type|Description|
@@ -669,7 +669,7 @@
 
 
 ---  
- #  GetBitsUnread : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  GetBitsUnread : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
 > Returns the number of bits unread.
 > |Name|Type|Description|
@@ -680,7 +680,7 @@
 
 
 ---  
- #  GetBitsUnwritten : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  GetBitsUnwritten : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
 > Returns the number of bits unwritten.
 > |Name|Type|Description|
@@ -691,7 +691,7 @@
 
 
 ---  
- #  GetBitsWritten : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  GetBitsWritten : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
 > Returns the number of bits written.
 > |Name|Type|Description|
@@ -702,7 +702,7 @@
 
 
 ---  
- #  GetByteCapacity : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  GetByteCapacity : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
 > Returns the data array capacity in bytes.
 > |Name|Type|Description|
@@ -713,7 +713,7 @@
 
 
 ---  
- #  GetBytesRead : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  GetBytesRead : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
 > Returns the number of bytes read (Rounded up, ex. 12 bits = 2 bytes)
 > |Name|Type|Description|
@@ -724,7 +724,7 @@
 
 
 ---  
- #  GetBytesUnread : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  GetBytesUnread : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
 > Returns the number of bytes unread (Rounded up, ex. 12 bits = 2 bytes)
 > |Name|Type|Description|
@@ -735,7 +735,7 @@
 
 
 ---  
- #  GetBytesUnwritten : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  GetBytesUnwritten : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
 > Returns the number of bytes unwritten (Rounded up, ex. 12 bits = 2 bytes)
 > |Name|Type|Description|
@@ -746,7 +746,7 @@
 
 
 ---  
- #  GetBytesWritten : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  GetBytesWritten : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
 > Returns the number of bytes written (Rounded up, ex. 12 bits = 2 bytes)
 > |Name|Type|Description|
@@ -757,7 +757,7 @@
 
 
 ---  
- #  IsEmpty : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  IsEmpty : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > Returns true if the BitStream is empty (0 bits written), else false.
 > |Name|Type|Description|
@@ -768,7 +768,7 @@
 
 
 ---  
- #  MeasureBoolean : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  MeasureBoolean : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
  `static`
 
@@ -781,7 +781,7 @@
 
 
 ---  
- #  MeasureDoubleInteger : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  MeasureDoubleInteger : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
  `static`
 
@@ -794,38 +794,38 @@
 
 
 ---  
- #  MeasureDoubleIntegerQuantized : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  MeasureDoubleIntegerQuantized : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
  `static`
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[doubleinteger](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doubleinteger.markdown)| |
-> ||[doubleinteger](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doubleinteger.markdown)| |
+> ||[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doubleinteger.markdown)| |
+> ||[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doubleinteger.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function MeasureDoubleIntegerQuantized( : DoubleInteger,  : DoubleInteger) : Integer
 > ``` 
 
 
 ---  
- #  MeasureDoubleIntegerQuantized : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  MeasureDoubleIntegerQuantized : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
  `static`
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[doubleinteger](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doubleinteger.markdown)| |
-> ||[doubleinteger](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doubleinteger.markdown)| |
-> ||[doubleinteger](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doubleinteger.markdown)| |
+> ||[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doubleinteger.markdown)| |
+> ||[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doubleinteger.markdown)| |
+> ||[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doubleinteger.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function MeasureDoubleIntegerQuantized( : DoubleInteger,  : DoubleInteger,  : DoubleInteger) : Integer
 > ``` 
 
 
 ---  
- #  MeasureDoubleReal : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  MeasureDoubleReal : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
  `static`
 
@@ -838,38 +838,38 @@
 
 
 ---  
- #  MeasureDoubleRealQuantized : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  MeasureDoubleRealQuantized : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
  `static`
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[doublereal](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doublereal.markdown)| |
-> ||[doublereal](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doublereal.markdown)| |
+> ||[doublereal](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doublereal.markdown)| |
+> ||[doublereal](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doublereal.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function MeasureDoubleRealQuantized( : DoubleReal,  : DoubleReal) : Integer
 > ``` 
 
 
 ---  
- #  MeasureDoubleRealQuantized : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  MeasureDoubleRealQuantized : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
  `static`
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[doublereal](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doublereal.markdown)| |
-> ||[doublereal](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doublereal.markdown)| |
-> ||[doublereal](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doublereal.markdown)| |
+> ||[doublereal](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doublereal.markdown)| |
+> ||[doublereal](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doublereal.markdown)| |
+> ||[doublereal](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doublereal.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function MeasureDoubleRealQuantized( : DoubleReal,  : DoubleReal,  : DoubleReal) : Integer
 > ``` 
 
 
 ---  
- #  MeasureInteger : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  MeasureInteger : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
  `static`
 
@@ -882,7 +882,7 @@
 
 
 ---  
- #  MeasureInteger2 : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  MeasureInteger2 : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
  `static`
 
@@ -895,38 +895,38 @@
 
 
 ---  
- #  MeasureInteger2Quantized : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  MeasureInteger2Quantized : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
  `static`
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[integer2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer2.markdown)| |
-> ||[integer2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer2.markdown)| |
+> ||[integer2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer2.markdown)| |
+> ||[integer2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function MeasureInteger2Quantized( : Integer2,  : Integer2) : Integer
 > ``` 
 
 
 ---  
- #  MeasureInteger2Quantized : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  MeasureInteger2Quantized : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
  `static`
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[integer2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer2.markdown)| |
-> ||[integer2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer2.markdown)| |
-> ||[integer2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer2.markdown)| |
+> ||[integer2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer2.markdown)| |
+> ||[integer2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer2.markdown)| |
+> ||[integer2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function MeasureInteger2Quantized( : Integer2,  : Integer2,  : Integer2) : Integer
 > ``` 
 
 
 ---  
- #  MeasureInteger3 : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  MeasureInteger3 : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
  `static`
 
@@ -939,38 +939,38 @@
 
 
 ---  
- #  MeasureInteger3Quantized : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  MeasureInteger3Quantized : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
  `static`
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[integer3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer3.markdown)| |
-> ||[integer3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer3.markdown)| |
+> ||[integer3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer3.markdown)| |
+> ||[integer3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function MeasureInteger3Quantized( : Integer3,  : Integer3) : Integer
 > ``` 
 
 
 ---  
- #  MeasureInteger3Quantized : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  MeasureInteger3Quantized : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
  `static`
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[integer3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer3.markdown)| |
-> ||[integer3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer3.markdown)| |
-> ||[integer3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer3.markdown)| |
+> ||[integer3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer3.markdown)| |
+> ||[integer3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer3.markdown)| |
+> ||[integer3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function MeasureInteger3Quantized( : Integer3,  : Integer3,  : Integer3) : Integer
 > ``` 
 
 
 ---  
- #  MeasureInteger4 : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  MeasureInteger4 : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
  `static`
 
@@ -983,69 +983,69 @@
 
 
 ---  
- #  MeasureInteger4Quantized : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  MeasureInteger4Quantized : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
  `static`
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[integer4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer4.markdown)| |
-> ||[integer4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer4.markdown)| |
+> ||[integer4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer4.markdown)| |
+> ||[integer4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function MeasureInteger4Quantized( : Integer4,  : Integer4) : Integer
 > ``` 
 
 
 ---  
- #  MeasureInteger4Quantized : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  MeasureInteger4Quantized : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
  `static`
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[integer4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer4.markdown)| |
-> ||[integer4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer4.markdown)| |
-> ||[integer4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer4.markdown)| |
+> ||[integer4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer4.markdown)| |
+> ||[integer4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer4.markdown)| |
+> ||[integer4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function MeasureInteger4Quantized( : Integer4,  : Integer4,  : Integer4) : Integer
 > ``` 
 
 
 ---  
- #  MeasureIntegerQuantized : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  MeasureIntegerQuantized : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
  `static`
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)| |
-> ||[integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> ||[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> ||[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function MeasureIntegerQuantized( : Integer,  : Integer) : Integer
 > ``` 
 
 
 ---  
- #  MeasureIntegerQuantized : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  MeasureIntegerQuantized : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
  `static`
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)| |
-> ||[integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)| |
-> ||[integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> ||[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> ||[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> ||[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function MeasureIntegerQuantized( : Integer,  : Integer,  : Integer) : Integer
 > ``` 
 
 
 ---  
- #  MeasureQuaternion : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  MeasureQuaternion : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
  `static`
 
@@ -1058,7 +1058,7 @@
 
 
 ---  
- #  MeasureReal : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  MeasureReal : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
  `static`
 
@@ -1071,7 +1071,7 @@
 
 
 ---  
- #  MeasureReal2 : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  MeasureReal2 : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
  `static`
 
@@ -1084,7 +1084,7 @@
 
 
 ---  
- #  MeasureReal2Half : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  MeasureReal2Half : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
  `static`
 
@@ -1097,38 +1097,38 @@
 
 
 ---  
- #  MeasureReal2Quantized : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  MeasureReal2Quantized : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
  `static`
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[real2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real2.markdown)| |
-> ||[real2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real2.markdown)| |
+> ||[real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)| |
+> ||[real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function MeasureReal2Quantized( : Real2,  : Real2) : Integer
 > ``` 
 
 
 ---  
- #  MeasureReal2Quantized : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  MeasureReal2Quantized : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
  `static`
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[real2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real2.markdown)| |
-> ||[real2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real2.markdown)| |
-> ||[real2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real2.markdown)| |
+> ||[real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)| |
+> ||[real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)| |
+> ||[real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function MeasureReal2Quantized( : Real2,  : Real2,  : Real2) : Integer
 > ``` 
 
 
 ---  
- #  MeasureReal3 : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  MeasureReal3 : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
  `static`
 
@@ -1141,7 +1141,7 @@
 
 
 ---  
- #  MeasureReal3Half : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  MeasureReal3Half : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
  `static`
 
@@ -1154,38 +1154,38 @@
 
 
 ---  
- #  MeasureReal3Quantized : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  MeasureReal3Quantized : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
  `static`
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[real3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real3.markdown)| |
-> ||[real3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real3.markdown)| |
+> ||[real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)| |
+> ||[real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function MeasureReal3Quantized( : Real3,  : Real3) : Integer
 > ``` 
 
 
 ---  
- #  MeasureReal3Quantized : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  MeasureReal3Quantized : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
  `static`
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[real3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real3.markdown)| |
-> ||[real3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real3.markdown)| |
-> ||[real3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real3.markdown)| |
+> ||[real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)| |
+> ||[real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)| |
+> ||[real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function MeasureReal3Quantized( : Real3,  : Real3,  : Real3) : Integer
 > ``` 
 
 
 ---  
- #  MeasureReal4 : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  MeasureReal4 : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
  `static`
 
@@ -1198,7 +1198,7 @@
 
 
 ---  
- #  MeasureReal4Half : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  MeasureReal4Half : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
  `static`
 
@@ -1211,38 +1211,38 @@
 
 
 ---  
- #  MeasureReal4Quantized : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  MeasureReal4Quantized : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
  `static`
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[real4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real4.markdown)| |
-> ||[real4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real4.markdown)| |
+> ||[real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)| |
+> ||[real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function MeasureReal4Quantized( : Real4,  : Real4) : Integer
 > ``` 
 
 
 ---  
- #  MeasureReal4Quantized : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  MeasureReal4Quantized : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
  `static`
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[real4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real4.markdown)| |
-> ||[real4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real4.markdown)| |
-> ||[real4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real4.markdown)| |
+> ||[real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)| |
+> ||[real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)| |
+> ||[real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function MeasureReal4Quantized( : Real4,  : Real4,  : Real4) : Integer
 > ``` 
 
 
 ---  
- #  MeasureRealHalf : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  MeasureRealHalf : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
  `static`
 
@@ -1255,38 +1255,38 @@
 
 
 ---  
- #  MeasureRealQuantized : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  MeasureRealQuantized : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
  `static`
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)| |
-> ||[real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)| |
+> ||[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)| |
+> ||[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function MeasureRealQuantized( : Real,  : Real) : Integer
 > ``` 
 
 
 ---  
- #  MeasureRealQuantized : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  MeasureRealQuantized : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
  `static`
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)| |
-> ||[real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)| |
-> ||[real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)| |
+> ||[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)| |
+> ||[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)| |
+> ||[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function MeasureRealQuantized( : Real,  : Real,  : Real) : Integer
 > ``` 
 
 
 ---  
- #  MeasureString : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  MeasureString : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
  `static`
 
@@ -1299,21 +1299,21 @@
 
 
 ---  
- #  MeasureString : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  MeasureString : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
  `static`
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)| |
+> ||[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function MeasureString( : String) : Integer
 > ``` 
 
 
 ---  
- #  ReadBoolean : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  ReadBoolean : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
@@ -1324,7 +1324,7 @@
 
 
 ---  
- #  ReadDoubleInteger : [doubleinteger](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doubleinteger.markdown)
+ #  ReadDoubleInteger : [doubleinteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doubleinteger.markdown)
 
 > 
 > |Name|Type|Description|
@@ -1335,34 +1335,34 @@
 
 
 ---  
- #  ReadDoubleIntegerQuantized : [doubleinteger](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doubleinteger.markdown)
+ #  ReadDoubleIntegerQuantized : [doubleinteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doubleinteger.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[doubleinteger](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doubleinteger.markdown)| |
-> ||[doubleinteger](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doubleinteger.markdown)| |
+> ||[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doubleinteger.markdown)| |
+> ||[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doubleinteger.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function ReadDoubleIntegerQuantized( : DoubleInteger,  : DoubleInteger) : DoubleInteger
 > ``` 
 
 
 ---  
- #  ReadDoubleIntegerQuantized : [doubleinteger](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doubleinteger.markdown)
+ #  ReadDoubleIntegerQuantized : [doubleinteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doubleinteger.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[doubleinteger](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doubleinteger.markdown)| |
-> ||[doubleinteger](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doubleinteger.markdown)| |
-> ||[doubleinteger](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doubleinteger.markdown)| |
+> ||[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doubleinteger.markdown)| |
+> ||[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doubleinteger.markdown)| |
+> ||[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doubleinteger.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function ReadDoubleIntegerQuantized( : DoubleInteger,  : DoubleInteger,  : DoubleInteger) : DoubleInteger
 > ``` 
 
 
 ---  
- #  ReadDoubleReal : [doublereal](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doublereal.markdown)
+ #  ReadDoubleReal : [doublereal](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doublereal.markdown)
 
 > 
 > |Name|Type|Description|
@@ -1373,34 +1373,34 @@
 
 
 ---  
- #  ReadDoubleRealQuantized : [doublereal](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doublereal.markdown)
+ #  ReadDoubleRealQuantized : [doublereal](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doublereal.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[doublereal](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doublereal.markdown)| |
-> ||[doublereal](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doublereal.markdown)| |
+> ||[doublereal](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doublereal.markdown)| |
+> ||[doublereal](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doublereal.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function ReadDoubleRealQuantized( : DoubleReal,  : DoubleReal) : DoubleReal
 > ``` 
 
 
 ---  
- #  ReadDoubleRealQuantized : [doublereal](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doublereal.markdown)
+ #  ReadDoubleRealQuantized : [doublereal](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doublereal.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[doublereal](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doublereal.markdown)| |
-> ||[doublereal](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doublereal.markdown)| |
-> ||[doublereal](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doublereal.markdown)| |
+> ||[doublereal](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doublereal.markdown)| |
+> ||[doublereal](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doublereal.markdown)| |
+> ||[doublereal](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doublereal.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function ReadDoubleRealQuantized( : DoubleReal,  : DoubleReal,  : DoubleReal) : DoubleReal
 > ``` 
 
 
 ---  
- #  ReadInteger : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  ReadInteger : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
@@ -1411,7 +1411,7 @@
 
 
 ---  
- #  ReadInteger2 : [integer2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer2.markdown)
+ #  ReadInteger2 : [integer2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer2.markdown)
 
 > 
 > |Name|Type|Description|
@@ -1422,34 +1422,34 @@
 
 
 ---  
- #  ReadInteger2Quantized : [integer2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer2.markdown)
+ #  ReadInteger2Quantized : [integer2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer2.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[integer2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer2.markdown)| |
-> ||[integer2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer2.markdown)| |
+> ||[integer2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer2.markdown)| |
+> ||[integer2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function ReadInteger2Quantized( : Integer2,  : Integer2) : Integer2
 > ``` 
 
 
 ---  
- #  ReadInteger2Quantized : [integer2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer2.markdown)
+ #  ReadInteger2Quantized : [integer2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer2.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[integer2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer2.markdown)| |
-> ||[integer2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer2.markdown)| |
-> ||[integer2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer2.markdown)| |
+> ||[integer2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer2.markdown)| |
+> ||[integer2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer2.markdown)| |
+> ||[integer2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function ReadInteger2Quantized( : Integer2,  : Integer2,  : Integer2) : Integer2
 > ``` 
 
 
 ---  
- #  ReadInteger3 : [integer3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer3.markdown)
+ #  ReadInteger3 : [integer3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer3.markdown)
 
 > 
 > |Name|Type|Description|
@@ -1460,34 +1460,34 @@
 
 
 ---  
- #  ReadInteger3Quantized : [integer3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer3.markdown)
+ #  ReadInteger3Quantized : [integer3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer3.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[integer3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer3.markdown)| |
-> ||[integer3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer3.markdown)| |
+> ||[integer3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer3.markdown)| |
+> ||[integer3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function ReadInteger3Quantized( : Integer3,  : Integer3) : Integer3
 > ``` 
 
 
 ---  
- #  ReadInteger3Quantized : [integer3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer3.markdown)
+ #  ReadInteger3Quantized : [integer3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer3.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[integer3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer3.markdown)| |
-> ||[integer3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer3.markdown)| |
-> ||[integer3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer3.markdown)| |
+> ||[integer3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer3.markdown)| |
+> ||[integer3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer3.markdown)| |
+> ||[integer3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function ReadInteger3Quantized( : Integer3,  : Integer3,  : Integer3) : Integer3
 > ``` 
 
 
 ---  
- #  ReadInteger4 : [integer4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer4.markdown)
+ #  ReadInteger4 : [integer4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer4.markdown)
 
 > 
 > |Name|Type|Description|
@@ -1498,61 +1498,61 @@
 
 
 ---  
- #  ReadInteger4Quantized : [integer4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer4.markdown)
+ #  ReadInteger4Quantized : [integer4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer4.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[integer4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer4.markdown)| |
-> ||[integer4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer4.markdown)| |
+> ||[integer4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer4.markdown)| |
+> ||[integer4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function ReadInteger4Quantized( : Integer4,  : Integer4) : Integer4
 > ``` 
 
 
 ---  
- #  ReadInteger4Quantized : [integer4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer4.markdown)
+ #  ReadInteger4Quantized : [integer4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer4.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[integer4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer4.markdown)| |
-> ||[integer4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer4.markdown)| |
-> ||[integer4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer4.markdown)| |
+> ||[integer4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer4.markdown)| |
+> ||[integer4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer4.markdown)| |
+> ||[integer4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function ReadInteger4Quantized( : Integer4,  : Integer4,  : Integer4) : Integer4
 > ``` 
 
 
 ---  
- #  ReadIntegerQuantized : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  ReadIntegerQuantized : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)| |
-> ||[integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> ||[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> ||[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function ReadIntegerQuantized( : Integer,  : Integer) : Integer
 > ``` 
 
 
 ---  
- #  ReadIntegerQuantized : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  ReadIntegerQuantized : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)| |
-> ||[integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)| |
-> ||[integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> ||[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> ||[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> ||[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function ReadIntegerQuantized( : Integer,  : Integer,  : Integer) : Integer
 > ``` 
 
 
 ---  
- #  ReadQuaternion : [quaternion](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/quaternion.markdown)
+ #  ReadQuaternion : [quaternion](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/quaternion.markdown)
 
 > 
 > |Name|Type|Description|
@@ -1563,7 +1563,7 @@
 
 
 ---  
- #  ReadReal : [real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)
+ #  ReadReal : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
 
 > 
 > |Name|Type|Description|
@@ -1574,7 +1574,7 @@
 
 
 ---  
- #  ReadReal2 : [real2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real2.markdown)
+ #  ReadReal2 : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
 
 > 
 > |Name|Type|Description|
@@ -1585,7 +1585,7 @@
 
 
 ---  
- #  ReadReal2Half : [real2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real2.markdown)
+ #  ReadReal2Half : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
 
 > 
 > |Name|Type|Description|
@@ -1596,34 +1596,34 @@
 
 
 ---  
- #  ReadReal2Quantized : [real2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real2.markdown)
+ #  ReadReal2Quantized : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[real2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real2.markdown)| |
-> ||[real2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real2.markdown)| |
+> ||[real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)| |
+> ||[real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function ReadReal2Quantized( : Real2,  : Real2) : Real2
 > ``` 
 
 
 ---  
- #  ReadReal2Quantized : [real2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real2.markdown)
+ #  ReadReal2Quantized : [real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[real2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real2.markdown)| |
-> ||[real2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real2.markdown)| |
-> ||[real2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real2.markdown)| |
+> ||[real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)| |
+> ||[real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)| |
+> ||[real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function ReadReal2Quantized( : Real2,  : Real2,  : Real2) : Real2
 > ``` 
 
 
 ---  
- #  ReadReal3 : [real3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real3.markdown)
+ #  ReadReal3 : [real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)
 
 > 
 > |Name|Type|Description|
@@ -1634,7 +1634,7 @@
 
 
 ---  
- #  ReadReal3Half : [real3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real3.markdown)
+ #  ReadReal3Half : [real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)
 
 > 
 > |Name|Type|Description|
@@ -1645,34 +1645,34 @@
 
 
 ---  
- #  ReadReal3Quantized : [real3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real3.markdown)
+ #  ReadReal3Quantized : [real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[real3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real3.markdown)| |
-> ||[real3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real3.markdown)| |
+> ||[real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)| |
+> ||[real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function ReadReal3Quantized( : Real3,  : Real3) : Real3
 > ``` 
 
 
 ---  
- #  ReadReal3Quantized : [real3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real3.markdown)
+ #  ReadReal3Quantized : [real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[real3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real3.markdown)| |
-> ||[real3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real3.markdown)| |
-> ||[real3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real3.markdown)| |
+> ||[real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)| |
+> ||[real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)| |
+> ||[real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function ReadReal3Quantized( : Real3,  : Real3,  : Real3) : Real3
 > ``` 
 
 
 ---  
- #  ReadReal4 : [real4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real4.markdown)
+ #  ReadReal4 : [real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)
 
 > 
 > |Name|Type|Description|
@@ -1683,7 +1683,7 @@
 
 
 ---  
- #  ReadReal4Half : [real4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real4.markdown)
+ #  ReadReal4Half : [real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)
 
 > 
 > |Name|Type|Description|
@@ -1694,34 +1694,34 @@
 
 
 ---  
- #  ReadReal4Quantized : [real4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real4.markdown)
+ #  ReadReal4Quantized : [real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[real4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real4.markdown)| |
-> ||[real4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real4.markdown)| |
+> ||[real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)| |
+> ||[real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function ReadReal4Quantized( : Real4,  : Real4) : Real4
 > ``` 
 
 
 ---  
- #  ReadReal4Quantized : [real4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real4.markdown)
+ #  ReadReal4Quantized : [real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[real4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real4.markdown)| |
-> ||[real4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real4.markdown)| |
-> ||[real4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real4.markdown)| |
+> ||[real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)| |
+> ||[real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)| |
+> ||[real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function ReadReal4Quantized( : Real4,  : Real4,  : Real4) : Real4
 > ``` 
 
 
 ---  
- #  ReadRealHalf : [real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)
+ #  ReadRealHalf : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
 
 > 
 > |Name|Type|Description|
@@ -1732,34 +1732,34 @@
 
 
 ---  
- #  ReadRealQuantized : [real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)
+ #  ReadRealQuantized : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)| |
-> ||[real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)| |
+> ||[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)| |
+> ||[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function ReadRealQuantized( : Real,  : Real) : Real
 > ``` 
 
 
 ---  
- #  ReadRealQuantized : [real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)
+ #  ReadRealQuantized : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
 
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)| |
-> ||[real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)| |
-> ||[real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)| |
+> ||[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)| |
+> ||[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)| |
+> ||[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function ReadRealQuantized( : Real,  : Real,  : Real) : Real
 > ``` 
 
 
 ---  
- #  ReadString : [string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)
+ #  ReadString : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
 
 > 
 > |Name|Type|Description|
@@ -1775,7 +1775,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> ||[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Reserve( : Integer)
 > ``` 
@@ -1787,7 +1787,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> ||[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function SetBitsRead( : Integer)
 > ``` 
@@ -1799,7 +1799,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> ||[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function SetBitsWritten( : Integer)
 > ``` 
@@ -1811,7 +1811,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> ||[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function SetBytesRead( : Integer)
 > ``` 
@@ -1823,7 +1823,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> ||[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function SetBytesWritten( : Integer)
 > ``` 
@@ -1835,7 +1835,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> ||[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Unread( : Integer)
 > ``` 
@@ -1847,7 +1847,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)| |
+> ||[boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function WriteBoolean( : Boolean)
 > ``` 
@@ -1859,7 +1859,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[doubleinteger](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doubleinteger.markdown)| |
+> ||[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doubleinteger.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function WriteDoubleInteger( : DoubleInteger)
 > ``` 
@@ -1871,9 +1871,9 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[doubleinteger](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doubleinteger.markdown)| |
-> ||[doubleinteger](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doubleinteger.markdown)| |
-> ||[doubleinteger](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doubleinteger.markdown)| |
+> ||[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doubleinteger.markdown)| |
+> ||[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doubleinteger.markdown)| |
+> ||[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doubleinteger.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function WriteDoubleIntegerQuantized( : DoubleInteger,  : DoubleInteger,  : DoubleInteger)
 > ``` 
@@ -1885,10 +1885,10 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[doubleinteger](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doubleinteger.markdown)| |
-> ||[doubleinteger](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doubleinteger.markdown)| |
-> ||[doubleinteger](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doubleinteger.markdown)| |
-> ||[doubleinteger](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doubleinteger.markdown)| |
+> ||[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doubleinteger.markdown)| |
+> ||[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doubleinteger.markdown)| |
+> ||[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doubleinteger.markdown)| |
+> ||[doubleinteger](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doubleinteger.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function WriteDoubleIntegerQuantized( : DoubleInteger,  : DoubleInteger,  : DoubleInteger,  : DoubleInteger)
 > ``` 
@@ -1900,7 +1900,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[doublereal](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doublereal.markdown)| |
+> ||[doublereal](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doublereal.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function WriteDoubleReal( : DoubleReal)
 > ``` 
@@ -1912,9 +1912,9 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[doublereal](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doublereal.markdown)| |
-> ||[doublereal](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doublereal.markdown)| |
-> ||[doublereal](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doublereal.markdown)| |
+> ||[doublereal](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doublereal.markdown)| |
+> ||[doublereal](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doublereal.markdown)| |
+> ||[doublereal](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doublereal.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function WriteDoubleRealQuantized( : DoubleReal,  : DoubleReal,  : DoubleReal)
 > ``` 
@@ -1926,10 +1926,10 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[doublereal](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doublereal.markdown)| |
-> ||[doublereal](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doublereal.markdown)| |
-> ||[doublereal](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doublereal.markdown)| |
-> ||[doublereal](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/doublereal.markdown)| |
+> ||[doublereal](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doublereal.markdown)| |
+> ||[doublereal](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doublereal.markdown)| |
+> ||[doublereal](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doublereal.markdown)| |
+> ||[doublereal](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/doublereal.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function WriteDoubleRealQuantized( : DoubleReal,  : DoubleReal,  : DoubleReal,  : DoubleReal)
 > ``` 
@@ -1941,7 +1941,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> ||[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function WriteInteger( : Integer)
 > ``` 
@@ -1953,7 +1953,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[integer2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer2.markdown)| |
+> ||[integer2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function WriteInteger2( : Integer2)
 > ``` 
@@ -1965,9 +1965,9 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[integer2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer2.markdown)| |
-> ||[integer2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer2.markdown)| |
-> ||[integer2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer2.markdown)| |
+> ||[integer2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer2.markdown)| |
+> ||[integer2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer2.markdown)| |
+> ||[integer2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function WriteInteger2Quantized( : Integer2,  : Integer2,  : Integer2)
 > ``` 
@@ -1979,10 +1979,10 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[integer2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer2.markdown)| |
-> ||[integer2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer2.markdown)| |
-> ||[integer2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer2.markdown)| |
-> ||[integer2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer2.markdown)| |
+> ||[integer2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer2.markdown)| |
+> ||[integer2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer2.markdown)| |
+> ||[integer2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer2.markdown)| |
+> ||[integer2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function WriteInteger2Quantized( : Integer2,  : Integer2,  : Integer2,  : Integer2)
 > ``` 
@@ -1994,7 +1994,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[integer3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer3.markdown)| |
+> ||[integer3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function WriteInteger3( : Integer3)
 > ``` 
@@ -2006,9 +2006,9 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[integer3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer3.markdown)| |
-> ||[integer3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer3.markdown)| |
-> ||[integer3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer3.markdown)| |
+> ||[integer3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer3.markdown)| |
+> ||[integer3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer3.markdown)| |
+> ||[integer3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function WriteInteger3Quantized( : Integer3,  : Integer3,  : Integer3)
 > ``` 
@@ -2020,10 +2020,10 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[integer3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer3.markdown)| |
-> ||[integer3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer3.markdown)| |
-> ||[integer3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer3.markdown)| |
-> ||[integer3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer3.markdown)| |
+> ||[integer3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer3.markdown)| |
+> ||[integer3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer3.markdown)| |
+> ||[integer3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer3.markdown)| |
+> ||[integer3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function WriteInteger3Quantized( : Integer3,  : Integer3,  : Integer3,  : Integer3)
 > ``` 
@@ -2035,7 +2035,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[integer4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer4.markdown)| |
+> ||[integer4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function WriteInteger4( : Integer4)
 > ``` 
@@ -2047,9 +2047,9 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[integer4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer4.markdown)| |
-> ||[integer4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer4.markdown)| |
-> ||[integer4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer4.markdown)| |
+> ||[integer4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer4.markdown)| |
+> ||[integer4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer4.markdown)| |
+> ||[integer4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function WriteInteger4Quantized( : Integer4,  : Integer4,  : Integer4)
 > ``` 
@@ -2061,10 +2061,10 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[integer4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer4.markdown)| |
-> ||[integer4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer4.markdown)| |
-> ||[integer4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer4.markdown)| |
-> ||[integer4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer4.markdown)| |
+> ||[integer4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer4.markdown)| |
+> ||[integer4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer4.markdown)| |
+> ||[integer4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer4.markdown)| |
+> ||[integer4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function WriteInteger4Quantized( : Integer4,  : Integer4,  : Integer4,  : Integer4)
 > ``` 
@@ -2076,9 +2076,9 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)| |
-> ||[integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)| |
-> ||[integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> ||[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> ||[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> ||[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function WriteIntegerQuantized( : Integer,  : Integer,  : Integer)
 > ``` 
@@ -2090,10 +2090,10 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)| |
-> ||[integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)| |
-> ||[integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)| |
-> ||[integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)| |
+> ||[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> ||[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> ||[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
+> ||[integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function WriteIntegerQuantized( : Integer,  : Integer,  : Integer,  : Integer)
 > ``` 
@@ -2105,7 +2105,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[quaternion](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/quaternion.markdown)| |
+> ||[quaternion](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/quaternion.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function WriteQuaternion( : Quaternion)
 > ``` 
@@ -2117,7 +2117,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)| |
+> ||[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function WriteReal( : Real)
 > ``` 
@@ -2129,7 +2129,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[real2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real2.markdown)| |
+> ||[real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function WriteReal2( : Real2)
 > ``` 
@@ -2141,7 +2141,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[real2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real2.markdown)| |
+> ||[real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function WriteReal2Half( : Real2)
 > ``` 
@@ -2153,9 +2153,9 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[real2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real2.markdown)| |
-> ||[real2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real2.markdown)| |
-> ||[real2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real2.markdown)| |
+> ||[real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)| |
+> ||[real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)| |
+> ||[real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function WriteReal2Quantized( : Real2,  : Real2,  : Real2)
 > ``` 
@@ -2167,10 +2167,10 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[real2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real2.markdown)| |
-> ||[real2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real2.markdown)| |
-> ||[real2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real2.markdown)| |
-> ||[real2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real2.markdown)| |
+> ||[real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)| |
+> ||[real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)| |
+> ||[real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)| |
+> ||[real2](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real2.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function WriteReal2Quantized( : Real2,  : Real2,  : Real2,  : Real2)
 > ``` 
@@ -2182,7 +2182,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[real3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real3.markdown)| |
+> ||[real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function WriteReal3( : Real3)
 > ``` 
@@ -2194,7 +2194,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[real3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real3.markdown)| |
+> ||[real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function WriteReal3Half( : Real3)
 > ``` 
@@ -2206,9 +2206,9 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[real3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real3.markdown)| |
-> ||[real3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real3.markdown)| |
-> ||[real3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real3.markdown)| |
+> ||[real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)| |
+> ||[real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)| |
+> ||[real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function WriteReal3Quantized( : Real3,  : Real3,  : Real3)
 > ``` 
@@ -2220,10 +2220,10 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[real3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real3.markdown)| |
-> ||[real3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real3.markdown)| |
-> ||[real3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real3.markdown)| |
-> ||[real3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real3.markdown)| |
+> ||[real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)| |
+> ||[real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)| |
+> ||[real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)| |
+> ||[real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function WriteReal3Quantized( : Real3,  : Real3,  : Real3,  : Real3)
 > ``` 
@@ -2235,7 +2235,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[real4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real4.markdown)| |
+> ||[real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function WriteReal4( : Real4)
 > ``` 
@@ -2247,7 +2247,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[real4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real4.markdown)| |
+> ||[real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function WriteReal4Half( : Real4)
 > ``` 
@@ -2259,9 +2259,9 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[real4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real4.markdown)| |
-> ||[real4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real4.markdown)| |
-> ||[real4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real4.markdown)| |
+> ||[real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)| |
+> ||[real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)| |
+> ||[real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function WriteReal4Quantized( : Real4,  : Real4,  : Real4)
 > ``` 
@@ -2273,10 +2273,10 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[real4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real4.markdown)| |
-> ||[real4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real4.markdown)| |
-> ||[real4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real4.markdown)| |
-> ||[real4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real4.markdown)| |
+> ||[real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)| |
+> ||[real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)| |
+> ||[real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)| |
+> ||[real4](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real4.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function WriteReal4Quantized( : Real4,  : Real4,  : Real4,  : Real4)
 > ``` 
@@ -2288,7 +2288,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)| |
+> ||[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function WriteRealHalf( : Real)
 > ``` 
@@ -2300,9 +2300,9 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)| |
-> ||[real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)| |
-> ||[real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)| |
+> ||[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)| |
+> ||[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)| |
+> ||[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function WriteRealQuantized( : Real,  : Real,  : Real)
 > ``` 
@@ -2314,10 +2314,10 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)| |
-> ||[real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)| |
-> ||[real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)| |
-> ||[real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)| |
+> ||[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)| |
+> ||[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)| |
+> ||[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)| |
+> ||[real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function WriteRealQuantized( : Real,  : Real,  : Real,  : Real)
 > ``` 
@@ -2329,7 +2329,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)| |
+> ||[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function WriteString( : String)
 > ``` 
@@ -2337,12 +2337,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

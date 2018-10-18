@@ -39,7 +39,7 @@ When you export your game, your new banner will replace the default one.
 To give your exported game a custom icon:
 
  - Create a .ico image file using a tool or website (we recommend [converticon ](http://converticon.com/))
-  - Place in the same directory as your project file - [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ ShowProjectFolder](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#showprojectfolder)
+  - Place in the same directory as your project file - [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ ShowProjectFolder](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#showprojectfolder)
    - Rename it to: `Icon.ico`
 
 
@@ -107,12 +107,5 @@ this.GameSession.ChangeResolution(fullscreen, resolution);
 
 IMPORTANT: Some combinations of resolutions/fullscreen mode might produce jarring visual effects. Make sure to test them thoroughly.
  
-  
-  
-  
-  
-  
-  
-  
 
  

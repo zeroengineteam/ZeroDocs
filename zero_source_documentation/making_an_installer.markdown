@@ -80,12 +80,5 @@ Zero Launcher Innoscript:
 1. `[Registry]` section is almost the same, the main new items are the subkey's of Upgrade and Run which add new right-click context menus. There's alos a section down below that adds the ValueName: "Icon" which adds custom icons for these items.
 2. `[Files]` since the package is made with all of the needed files, we only have to include this folder.
  
-  
-  
-  
-  
-  
-  
-  
 
  

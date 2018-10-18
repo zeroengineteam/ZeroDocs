@@ -6,17 +6,17 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/positionjoint.markdown#positionjoint-void)|[ LocalPointA](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/positionjoint.markdown#localpointa-zero-engine)|[joint](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/joint.markdown)| |
-|[ SetWorldPoints](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/positionjoint.markdown#setworldpoints-void)|[ LocalPointB](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/positionjoint.markdown#localpointb-zero-engine)| | |
-| |[ WorldPointA](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/positionjoint.markdown#worldpointa-zero-engine)| | |
-| |[ WorldPointB](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/positionjoint.markdown#worldpointb-zero-engine)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/positionjoint.markdown#positionjoint-void)|[ LocalPointA](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/positionjoint.markdown#localpointa-zero-engine)|[joint](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/joint.markdown)| |
+|[ SetWorldPoints](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/positionjoint.markdown#setworldpoints-void)|[ LocalPointB](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/positionjoint.markdown#localpointb-zero-engine)| | |
+| |[ WorldPointA](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/positionjoint.markdown#worldpointa-zero-engine)| | |
+| |[ WorldPointB](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/positionjoint.markdown#worldpointb-zero-engine)| | |
 
 
  #  Properties
 
 
 ---  
- #  LocalPointA : [real3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real3.markdown)
+ #  LocalPointA : [real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)
 
 > The local point of the anchor on object A . 
 > ``` lang=cpp, name=Zilch
@@ -24,7 +24,7 @@
 
 
 ---  
- #  LocalPointB : [real3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real3.markdown)
+ #  LocalPointB : [real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)
 
 > The local point of the anchor on object B . 
 > ``` lang=cpp, name=Zilch
@@ -32,7 +32,7 @@
 
 
 ---  
- #  WorldPointA : [real3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real3.markdown)
+ #  WorldPointA : [real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)
 
 > The position of the anchor on object A given a position in world space 
 > ``` lang=cpp, name=Zilch
@@ -40,7 +40,7 @@
 
 
 ---  
- #  WorldPointB : [real3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real3.markdown)
+ #  WorldPointB : [real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)
 
 > The position of the anchor on object B given a position in world space 
 > ``` lang=cpp, name=Zilch
@@ -70,7 +70,7 @@
 > Sets the position of the anchor on object A and B given a position in world space 
 > |Name|Type|Description|
 > |---|---|---|
-> |point|[real3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real3.markdown)| |
+> |point|[real3](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real3.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function SetWorldPoints(point : Real3)
 > ``` 
@@ -78,12 +78,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

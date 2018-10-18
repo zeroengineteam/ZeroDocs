@@ -6,7 +6,7 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/pointforceeffect.markdown#pointforceeffect-void)| |[basicpointeffect](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/basicpointeffect.markdown)| |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/pointforceeffect.markdown#pointforceeffect-void)| |[basicpointeffect](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/basicpointeffect.markdown)| |
 
 
  #  Properties
@@ -31,12 +31,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

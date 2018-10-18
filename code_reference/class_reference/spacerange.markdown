@@ -2,17 +2,17 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ MoveNext](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/spacerange.markdown#movenext-void)|[ All](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/spacerange.markdown#all-zero-engine-document)| | |
-|[ Constructor](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/spacerange.markdown#spacerange-void)|[ Current](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/spacerange.markdown#current-zero-engine-docu)| | |
-| |[ IsEmpty](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/spacerange.markdown#isempty-zero-engine-docu)| | |
-| |[ IsNotEmpty](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/spacerange.markdown#isnotempty-zero-engine-d)| | |
+|[ MoveNext](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spacerange.markdown#movenext-void)|[ All](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spacerange.markdown#all-zero-engine-document)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spacerange.markdown#spacerange-void)|[ Current](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spacerange.markdown#current-zero-engine-docu)| | |
+| |[ IsEmpty](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spacerange.markdown#isempty-zero-engine-docu)| | |
+| |[ IsNotEmpty](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spacerange.markdown#isnotempty-zero-engine-d)| | |
 
 
  #  Properties
 
 
 ---  
- #  All : [spacerange](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/spacerange.markdown)
+ #  All : [spacerange](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spacerange.markdown)
 
  `read-only`
 
@@ -22,7 +22,7 @@
 
 
 ---  
- #  Current : [cog](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/cog.markdown)
+ #  Current : [cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
 
  `read-only`
 
@@ -32,7 +32,7 @@
 
 
 ---  
- #  IsEmpty : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  IsEmpty : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -42,7 +42,7 @@
 
 
 ---  
- #  IsNotEmpty : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  IsNotEmpty : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -87,7 +87,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[spacerange](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/spacerange.markdown)| |
+> |p0|[spacerange](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spacerange.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function SpaceRange(p0 : SpaceRange)
 > ``` 
@@ -95,12 +95,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

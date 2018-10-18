@@ -1,6 +1,6 @@
-Custom Cursors are a great way to add a level of professionalism and polish to any project. A Cursor created specifically for a project can be used for player feedback and fits into the project universe better than the normal  [Mouse](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/code_reference/class_reference/Mouse.markdown)  icon in most situations. There are several methods that can be used to add this functionality, all of which come with their own strengths and weaknesses. 
+Custom Cursors are a great way to add a level of professionalism and polish to any project. A Cursor created specifically for a project can be used for player feedback and fits into the project universe better than the normal  [Mouse](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/code_reference/class_reference/Mouse.markdown)  icon in most situations. There are several methods that can be used to add this functionality, all of which come with their own strengths and weaknesses. 
 
-NOTE: **Recommended Reading** This section covers topics that may not have been encountered yet. To learn or review those topics, please see: [Mouse Input](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/gameplay/input/mouseinput.markdown) and  {icon university}[[zero_engine_documentation/zero_editor_documentation/ZeroManual/Graphics/CamerasViewportsRenderers/|Cameras, Viewports and Renderers]]
+NOTE: **Recommended Reading** This section covers topics that may not have been encountered yet. To learn or review those topics, please see: [Mouse Input](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/gameplay/input/mouseinput.markdown) and  {icon university}[[zero_engine_documentation/zero_editor_documentation/ZeroManual/Graphics/CamerasViewportsRenderers/|Cameras, Viewports and Renderers]]
 
  # Using a Custom Cursor
  ## Hiding the Mouse
@@ -28,7 +28,7 @@ class HiddenMouseExample : ZilchComponent
 ```
 
 
-This would be the start of a component attached to the object that will act as the Custom Cursor. After making sure the object has a [transform](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/code_reference/class_reference/transform.markdown) Component using the Dependency [-](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/ZeroManual/CodeReference/Reference/Transform.markdown) Component using the Dependency [attributes](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/attributes.markdown), it then sets the Mouse Cursor to be invisible. The final part of the code-block connects to the MouseMove event, which is fleshed out in the following code-block: 
+This would be the start of a component attached to the object that will act as the Custom Cursor. After making sure the object has a [transform](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/code_reference/class_reference/transform.markdown) Component using the Dependency [-](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/ZeroManual/CodeReference/Reference/Transform.markdown) Component using the Dependency [attributes](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/attributes.markdown), it then sets the Mouse Cursor to be invisible. The final part of the code-block connects to the MouseMove event, which is fleshed out in the following code-block: 
 
 ```
     // continued from above
@@ -44,9 +44,9 @@ This would be the start of a component attached to the object that will act as t
 ```
 
 
-The [OnMouseMove](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/code_reference/class_reference/mouseevent.markdown) function will fire every time the Mouse is moved, keeping the custom cursor in the same location as the invisible Mouse. It could also connect to other Mouse Events, such as MouseDown or MouseUp, in order to interact with these events visually (e.g., by changing the [SpriteSource](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/code_reference/class_reference/spritesource.markdown) of the object). All other working functionality can then be given to the Mouse itself, so that it can react with objects that have the [Reactive](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/code_reference/class_reference/Reactive.markdown) Component attached the them. 
+The [OnMouseMove](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/code_reference/class_reference/mouseevent.markdown) function will fire every time the Mouse is moved, keeping the custom cursor in the same location as the invisible Mouse. It could also connect to other Mouse Events, such as MouseDown or MouseUp, in order to interact with these events visually (e.g., by changing the [SpriteSource](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/code_reference/class_reference/spritesource.markdown) of the object). All other working functionality can then be given to the Mouse itself, so that it can react with objects that have the [Reactive](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/code_reference/class_reference/Reactive.markdown) Component attached the them. 
 
-A large drawback to using this method is the fact that it allows the Mouse icon to leave the boundaries of the Game window, which will make the Mouse visible and not hide it again even if the Game is brought back into focus. Below is an example of how a [Sprite](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/code_reference/class_reference/Sprite.markdown) with this script attached would act:
+A large drawback to using this method is the fact that it allows the Mouse icon to leave the boundaries of the Game window, which will make the Mouse visible and not hide it again even if the Game is brought back into focus. Below is an example of how a [Sprite](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/code_reference/class_reference/Sprite.markdown) with this script attached would act:
 
 
 ![MouseCursorMove](https://media.githubusercontent.com/media/zeroengineteam/ZeroFiles/master/doc_files/47511.gif)
@@ -111,9 +111,9 @@ class LockedMouseExample : ZilchComponent
 
 Just from the initial setup it becomes obvious that this method is much more complex than simply making the Mouse invisible and having an Object follow it, but it also offers benefits.
 
-NOTE: **Get-Sets** In order to reduce the amount of repetitive typing, a number of `getters` have been used to hold references to other functions. For further explanation of get-sets, see [Get-Sets](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/properties.markdown).
+NOTE: **Get-Sets** In order to reduce the amount of repetitive typing, a number of `getters` have been used to hold references to other functions. For further explanation of get-sets, see [Get-Sets](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/properties.markdown).
 
-When this component is attached to the current level's [LevelSettings](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/architecture/objects/levelsettings.markdown)  object, it will create an Object in a new  [Space](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/code_reference/class_reference/Space.markdown)  that is built on top of the GameSpace. This object allows it to function properly in a 3D game. As the getters have defined most of the variables, much of the script is ready to be used. 
+When this component is attached to the current level's [LevelSettings](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/architecture/objects/levelsettings.markdown)  object, it will create an Object in a new  [Space](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/code_reference/class_reference/Space.markdown)  that is built on top of the GameSpace. This object allows it to function properly in a 3D game. As the getters have defined most of the variables, much of the script is ready to be used. 
 
 ```
 ...
@@ -176,23 +176,16 @@ Below is an example of this script attached to the `LevelSettings` object of an 
 
  # Related Materials
  ## Manual
-- [Mouse Input](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation.markdown)
-- [Getters and Setters](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/properties.markdown)
+- [Mouse Input](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation.markdown)
+- [Getters and Setters](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/properties.markdown)
 - {icon university}[[zero_engine_documentation/zero_editor_documentation/ZeroManual/Graphics/CamerasViewportsRenderers/|Cameras, Viewports and Renderers]]
 
  ## Code Reference
-- [Mouse](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/code_reference/class_reference/Mouse.markdown) 
-- [Transform](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/code_reference/class_reference/Transform.markdown) 
-- [Sprite](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/code_reference/class_reference/Sprite.markdown) 
-- [Reactive](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/code_reference/class_reference/Reactive.markdown) 
-- [Space](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/code_reference/class_reference/Space.markdown) 
+- [Mouse](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/code_reference/class_reference/Mouse.markdown) 
+- [Transform](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/code_reference/class_reference/Transform.markdown) 
+- [Sprite](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/code_reference/class_reference/Sprite.markdown) 
+- [Reactive](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/code_reference/class_reference/Reactive.markdown) 
+- [Space](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/code_reference/class_reference/Space.markdown) 
  
-  
-  
-  
-  
-  
-  
-  
 
  

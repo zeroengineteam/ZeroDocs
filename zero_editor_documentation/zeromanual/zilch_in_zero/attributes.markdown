@@ -235,7 +235,7 @@ class CreateArchetype : ZilchComponent
 
 
  ## [ComponentInterface]
-The ComponentInterface attribute allows the user to define a class as a generic interface for its derived types. One common example of this is [collider](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/collider.markdown), which acts as a component interface for all collider types, such as [boxcollider](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/boxcollider.markdown), [capsulecollider](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/capsulecollider.markdown), and more. Defining an interface using this attribute allows the user to access the members of a derived class using the component name of the base class.
+The ComponentInterface attribute allows the user to define a class as a generic interface for its derived types. One common example of this is [collider](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/collider.markdown), which acts as a component interface for all collider types, such as [boxcollider](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/boxcollider.markdown), [capsulecollider](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/capsulecollider.markdown), and more. Defining an interface using this attribute allows the user to access the members of a derived class using the component name of the base class.
 
 ```name=Component Interface Access Example, lang=csharp
 var collisionGroup = this.Owner.BoxCollider.CollisionGroup;
@@ -245,7 +245,7 @@ if(collisionGroup == collisionGroupAccessedByInterface)
   Console.WriteLine("These variables reference the same component");
 ```
 
-Using a component interface does not mean that the property and methods of a derived class need to be exactly the same as the base class. What would be the point? Using the [ Virtual](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/sandbox/arend_danielek/attributes.markdown#virtual) and [ Override ](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/sandbox/arend_danielek/attributes.markdown#override) attributes, we can modify the interface of derived classes.
+Using a component interface does not mean that the property and methods of a derived class need to be exactly the same as the base class. What would be the point? Using the [ Virtual](https://github.com/zeroengineteam/ZeroDocs/sandbox/arend_danielek/attributes.markdown#virtual) and [ Override ](https://github.com/zeroengineteam/ZeroDocs/sandbox/arend_danielek/attributes.markdown#override) attributes, we can modify the interface of derived classes.
 
 ```name=Component Interface Example, lang=csharp
 [ComponentInterface]
@@ -308,15 +308,8 @@ To manually register, you would add these components to an archetype and then ad
 
  # Related Materials
  ## Manual
-- [inheritance](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/inheritance.markdown)
-- [variables_and_data_types](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/variables_and_data_types.markdown)
-- [wysiwyg](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/scripting/wysiwyg.markdown) 
-  
-  
-  
-  
-  
-  
-  
+- [inheritance](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/inheritance.markdown)
+- [variables_and_data_types](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/variables_and_data_types.markdown)
+- [wysiwyg](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/scripting/wysiwyg.markdown) 
 
  

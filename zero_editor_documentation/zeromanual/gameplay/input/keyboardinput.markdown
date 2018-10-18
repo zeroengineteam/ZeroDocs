@@ -6,7 +6,7 @@ There are two ways of checking keyboard input in the Zero Engine: by polling the
 
  ##  Polling-Based Input
 
-Polling-based input typically occurs in a callback for an Update event such as [ LogicUpdate](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/event_reference.markdown#logicupdate):
+Polling-based input typically occurs in a callback for an Update event such as [ LogicUpdate](https://github.com/zeroengineteam/ZeroDocs/code_reference/event_reference.markdown#logicupdate):
 
 ```lang=csharp, name=Update Connection Example
 function Initialize(init : CogInitializer)
@@ -19,7 +19,7 @@ The keyboard may be polled using a handful of functions on `Zero.Keyboard`.
 
  ###  KeyIsDown
 
-The [ KeyIsDown](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/keyboard.markdown#keyisdown-zero-engine-do) function returns whether the given keyboard key is down on the current frame. It is often used for movement and other actions that are performed over the course of many consecutive frames:
+The [ KeyIsDown](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/keyboard.markdown#keyisdown-zero-engine-do) function returns whether the given keyboard key is down on the current frame. It is often used for movement and other actions that are performed over the course of many consecutive frames:
 
 ```lang=csharp, name=KeyIsDown Example
 if (Zero.Keyboard.KeyIsDown(Keys.Up))
@@ -30,7 +30,7 @@ if (Zero.Keyboard.KeyIsDown(Keys.Up))
 
  ###  KeyIsUp
 
-The [ KeyIsUp](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/keyboard.markdown#keyisup-zero-engine-docu) function returns whether the given keyboard key is *not* down on the current frame. It is sometimes used in combination with **KeyIsDown** in movement code:
+The [ KeyIsUp](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/keyboard.markdown#keyisup-zero-engine-docu) function returns whether the given keyboard key is *not* down on the current frame. It is sometimes used in combination with **KeyIsDown** in movement code:
 
 ```lang=csharp, name=KeyIsUp Example
 if (Zero.Keyboard.KeyIsDown(Keys.Right) && Zero.Keyboard.KeyIsUp(Keys.Left))
@@ -46,7 +46,7 @@ if (Zero.Keyboard.KeyIsDown(Keys.Left) && Zero.Keyboard.KeyIsUp(Keys.Right))
 
  ###  KeyIsPressed
 
-The [ KeyIsPressed](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/keyboard.markdown#keyispressed-zero-engine) function returns whether the given keyboard key is down on the current frame *and* was up on the previous frame. It is often used for discrete actions, like activating character abilities and interacting with menus:
+The [ KeyIsPressed](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/keyboard.markdown#keyispressed-zero-engine) function returns whether the given keyboard key is down on the current frame *and* was up on the previous frame. It is often used for discrete actions, like activating character abilities and interacting with menus:
 
 ```lang=csharp, name=KeyIsPressed Example
 if (Zero.Keyboard.KeyIsPressed(Keys.Space))
@@ -57,7 +57,7 @@ if (Zero.Keyboard.KeyIsPressed(Keys.Space))
 
  ###  KeyIsReleased
 
-The [ KeyIsReleased](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/keyboard.markdown#keyisreleased-zero-engin) function returns whether the given keyboard key is up on the current frame, but was down on the previous frame. It is often used to end actions or processes that were started by the same key in a KeyIsPressed check:
+The [ KeyIsReleased](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/keyboard.markdown#keyisreleased-zero-engin) function returns whether the given keyboard key is up on the current frame, but was down on the previous frame. It is often used to end actions or processes that were started by the same key in a KeyIsPressed check:
 
 ```lang=csharp, name=KeyIsReleased Example
 if (Zero.Keyboard.KeyIsReleased(Keys.Space))
@@ -66,7 +66,7 @@ if (Zero.Keyboard.KeyIsReleased(Keys.Space))
 }
 ```
 
-Such queries are usually performed in a function that is called every frame, once per frame, such as an Update function; polling for input in this way is also called **frame-based input**. However, the keyboard can be polled at any time. For instance, one might check whether a certain key is held in a [ CollisionStarted](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/event_reference.markdown#collisionstarted) callback, to determine whether some special action should occur:
+Such queries are usually performed in a function that is called every frame, once per frame, such as an Update function; polling for input in this way is also called **frame-based input**. However, the keyboard can be polled at any time. For instance, one might check whether a certain key is held in a [ CollisionStarted](https://github.com/zeroengineteam/ZeroDocs/code_reference/event_reference.markdown#collisionstarted) callback, to determine whether some special action should occur:
 
 ```lang=csharp, name=Collision Polling Example
 function OnCollisionStarted(event : CollisionEvent)
@@ -76,7 +76,7 @@ function OnCollisionStarted(event : CollisionEvent)
 }
 ```
 
-NOTE: Beware that the LogicUpdate event is not dispatched on a paused TimeSpace. If input polling is performed in a LogicUpdate callback, it won't happen while the game is paused. This may result in a scenario where LogicUpdate is used to pause the game, and then it becomes impossible to unpause. For this reason, it is usually best to pause the game using event-based input, or by polling the keyboard via another event, such as [ FrameUpdate](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/event_reference.markdown#frameupdate), or in the LogicUpdate of another Space.
+NOTE: Beware that the LogicUpdate event is not dispatched on a paused TimeSpace. If input polling is performed in a LogicUpdate callback, it won't happen while the game is paused. This may result in a scenario where LogicUpdate is used to pause the game, and then it becomes impossible to unpause. For this reason, it is usually best to pause the game using event-based input, or by polling the keyboard via another event, such as [ FrameUpdate](https://github.com/zeroengineteam/ZeroDocs/code_reference/event_reference.markdown#frameupdate), or in the LogicUpdate of another Space.
 
  ##  Event-Based Input
 
@@ -91,11 +91,11 @@ function Initialize(init : CogInitializer)
 }
 ```
 
-The [ KeyboardEvent](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/keyboardevent.markdown) object that gets sent with these events specifies which key triggered the event, along with other relevant information, such as whether any of various modifier keys was held when the event was dispatched, etc.
+The [ KeyboardEvent](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/keyboardevent.markdown) object that gets sent with these events specifies which key triggered the event, along with other relevant information, such as whether any of various modifier keys was held when the event was dispatched, etc.
 
  ###  KeyDown
 
-When any key on the keyboard is pressed, the [ KeyDown](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/event_reference.markdown#keydown) event is dispatched that frame:
+When any key on the keyboard is pressed, the [ KeyDown](https://github.com/zeroengineteam/ZeroDocs/code_reference/event_reference.markdown#keydown) event is dispatched that frame:
 
 ```lang=csharp, name=KeyDown Example
 function OnKeyDown(event : KeyboardEvent)
@@ -107,7 +107,7 @@ function OnKeyDown(event : KeyboardEvent)
 
  ###  KeyUp
 
-When any key on the keyboard is released, the [ KeyUp](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/event_reference.markdown#keyup) event is dispatched that frame:
+When any key on the keyboard is released, the [ KeyUp](https://github.com/zeroengineteam/ZeroDocs/code_reference/event_reference.markdown#keyup) event is dispatched that frame:
 
 ```lang=csharp, name=KeyUpExample
 function OnKeyUp(event : KeyboardEvent)
@@ -119,7 +119,7 @@ function OnKeyUp(event : KeyboardEvent)
 
  ###  KeyRepeated
 
-When any key on the keyboard is held long enough for the operating system to send its "repeated" event, the [ KeyRepeated](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/event_reference.markdown#keyrepeated) event begins being dispatched. The delays before this begins and between dispatches are determined by the operating system:
+When any key on the keyboard is held long enough for the operating system to send its "repeated" event, the [ KeyRepeated](https://github.com/zeroengineteam/ZeroDocs/code_reference/event_reference.markdown#keyrepeated) event begins being dispatched. The delays before this begins and between dispatches are determined by the operating system:
 
 ```lang=csharp, name=KeyRepeated Example
 function OnKeyRepeated(event : KeyboardEvent)
@@ -165,18 +165,11 @@ Some input tasks don't lend themselves to being done with event-based input. For
 
  #  Related Materials
  ##  Manual
-- [ Events & Connections](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/scripting/eventsandconnections.markdown)
-- [ Components](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/architecture/components.markdown)
+- [ Events & Connections](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/scripting/eventsandconnections.markdown)
+- [ Components](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/architecture/components.markdown)
 
  ##  Code Reference
-- [ Keyboard](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/keyboard.markdown)
-- [ KeyboardEvent](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/keyboardevent.markdown) 
-  
-  
-  
-  
-  
-  
-  
+- [ Keyboard](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/keyboard.markdown)
+- [ KeyboardEvent](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/keyboardevent.markdown) 
 
  

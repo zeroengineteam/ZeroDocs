@@ -1,4 +1,4 @@
-The [ ExpanderNode ](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/expandernode.markdown) collects audio data from all of its inputs and applies an expander filter before passing the data along to its outputs. 
+The [ ExpanderNode ](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/expandernode.markdown) collects audio data from all of its inputs and applies an expander filter before passing the data along to its outputs. 
 
  # Common Uses
 
@@ -18,17 +18,10 @@ The `AttackMillisec` and `ReleaseMillisec` properties control how quickly the fi
 ---
  # Related Materials
  ## Manual
-- [soudnode_overview](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/audio/soundnode/soudnode_overview.markdown)
-- [compressornode](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/audio/soundnode/compressornode.markdown)
+- [soudnode_overview](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/audio/soundnode/soudnode_overview.markdown)
+- [compressornode](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/audio/soundnode/compressornode.markdown)
 
  ## Code Reference
-- [ ExpanderNode ](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/expandernode.markdown) 
-  
-  
-  
-  
-  
-  
-  
+- [ ExpanderNode ](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/expandernode.markdown) 
 
  

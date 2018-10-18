@@ -2,17 +2,17 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ MoveNext](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/propertyrange.markdown#movenext-void)|[ All](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/propertyrange.markdown#all-zero-engine-document)| | |
-|[ Constructor](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/propertyrange.markdown#propertyrange-void)|[ Current](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/propertyrange.markdown#current-property)| | |
-| |[ IsEmpty](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/propertyrange.markdown#isempty-zero-engine-docu)| | |
-| |[ IsNotEmpty](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/propertyrange.markdown#isnotempty-zero-engine-d)| | |
+|[ MoveNext](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/propertyrange.markdown#movenext-void)|[ All](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/propertyrange.markdown#all-zero-engine-document)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/propertyrange.markdown#propertyrange-void)|[ Current](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/propertyrange.markdown#current-property)| | |
+| |[ IsEmpty](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/propertyrange.markdown#isempty-zero-engine-docu)| | |
+| |[ IsNotEmpty](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/propertyrange.markdown#isnotempty-zero-engine-d)| | |
 
 
  #  Properties
 
 
 ---  
- #  All : [propertyrange](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/propertyrange.markdown)
+ #  All : [propertyrange](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/propertyrange.markdown)
 
  `read-only`
 
@@ -32,7 +32,7 @@
 
 
 ---  
- #  IsEmpty : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  IsEmpty : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -42,7 +42,7 @@
 
 
 ---  
- #  IsNotEmpty : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  IsNotEmpty : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -87,7 +87,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[propertyrange](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/propertyrange.markdown)| |
+> |p0|[propertyrange](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/propertyrange.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function PropertyRange(p0 : PropertyRange)
 > ``` 
@@ -95,12 +95,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

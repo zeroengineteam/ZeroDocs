@@ -6,14 +6,14 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ ReturnHostInfo](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/acquirenethostinfo.markdown#returnhostinfo-zero-engi)|[event](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/event.markdown)| |
+| |[ ReturnHostInfo](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/acquirenethostinfo.markdown#returnhostinfo-zero-engi)|[event](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/event.markdown)| |
 
 
  #  Properties
 
 
 ---  
- #  ReturnHostInfo : [eventbundle](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/eventbundle.markdown)
+ #  ReturnHostInfo : [eventbundle](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/eventbundle.markdown)
 
 > Return: Our bundled host info event data.
 > ``` lang=cpp, name=Zilch
@@ -26,12 +26,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

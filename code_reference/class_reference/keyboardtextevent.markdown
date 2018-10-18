@@ -6,14 +6,14 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ Rune](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/keyboardtextevent.markdown#rune-zero-engine-documen)|[event](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/event.markdown)| |
+| |[ Rune](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/keyboardtextevent.markdown#rune-zero-engine-documen)|[event](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/event.markdown)| |
 
 
  #  Properties
 
 
 ---  
- #  Rune : [rune](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/rune.markdown)
+ #  Rune : [rune](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/rune.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -26,12 +26,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

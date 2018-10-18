@@ -61,12 +61,5 @@ Below is a complete list of the operands sorted by order of operation.
 |            | `|=`   | assignment of bitwise or         |               |
 
  
-  
-  
-  
-  
-  
-  
-  
 
  

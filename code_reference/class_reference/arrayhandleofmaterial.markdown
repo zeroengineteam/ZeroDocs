@@ -2,17 +2,17 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/arrayhandleofmaterial.markdown#arrayhandleofmaterial-vo)|[ All](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/arrayhandleofmaterial.markdown#all-zero-engine-document)| | |
-|[ MoveNext](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/arrayhandleofmaterial.markdown#movenext-void)|[ Current](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/arrayhandleofmaterial.markdown#current-zero-engine-docu)| | |
-| |[ IsEmpty](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/arrayhandleofmaterial.markdown#isempty-zero-engine-docu)| | |
-| |[ IsNotEmpty](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/arrayhandleofmaterial.markdown#isnotempty-zero-engine-d)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/arrayhandleofmaterial.markdown#arrayhandleofmaterial-vo)|[ All](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/arrayhandleofmaterial.markdown#all-zero-engine-document)| | |
+|[ MoveNext](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/arrayhandleofmaterial.markdown#movenext-void)|[ Current](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/arrayhandleofmaterial.markdown#current-zero-engine-docu)| | |
+| |[ IsEmpty](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/arrayhandleofmaterial.markdown#isempty-zero-engine-docu)| | |
+| |[ IsNotEmpty](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/arrayhandleofmaterial.markdown#isnotempty-zero-engine-d)| | |
 
 
  #  Properties
 
 
 ---  
- #  All : [arrayhandleofmaterial](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/arrayhandleofmaterial.markdown)
+ #  All : [arrayhandleofmaterial](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/arrayhandleofmaterial.markdown)
 
  `read-only`
 
@@ -22,7 +22,7 @@
 
 
 ---  
- #  Current : [material](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/material.markdown)
+ #  Current : [material](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/material.markdown)
 
  `read-only`
 
@@ -32,7 +32,7 @@
 
 
 ---  
- #  IsEmpty : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  IsEmpty : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -42,7 +42,7 @@
 
 
 ---  
- #  IsNotEmpty : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  IsNotEmpty : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -76,7 +76,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[arrayhandleofmaterial](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/arrayhandleofmaterial.markdown)| |
+> |p0|[arrayhandleofmaterial](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/arrayhandleofmaterial.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function ArrayHandleOfMaterial(p0 : ArrayHandleOfMaterial)
 > ``` 
@@ -95,12 +95,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

@@ -1,4 +1,4 @@
-The [orientation](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/orientation.markdown) component is a utility component that helps makes the manipulation of the transform of an object easier. It can be particularly useful when an object has its own sense of forward (for example where a person or a spaceship is facing).
+The [orientation](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/orientation.markdown) component is a utility component that helps makes the manipulation of the transform of an object easier. It can be particularly useful when an object has its own sense of forward (for example where a person or a spaceship is facing).
 
  # Configuring Orientation
 The first step after attaching an Orientation component to an object is to configure the orientation basis. By redefining forward, up, and right for an object, many calculations of finding those values at runtime can be avoided later. In the image below a cube can be seen with the default orientation values. The blue arrow is the `WorldForward`, the green arrow is the `WorldUp`, and the red arrow is the `WorldRight` of the cube.
@@ -40,8 +40,8 @@ Oriented directions are helpful in and of themselves. Attaching `Orientation` to
 
  ## Look At Functions
 
-- [Orientation.LookAtPoint()](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/orientation.markdown#lookatpoint-void)
-- [Orientation.LookAtDirection()](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/orientation.markdown#lookatdirection-void)
+- [Orientation.LookAtPoint()](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/orientation.markdown#lookatpoint-void)
+- [Orientation.LookAtDirection()](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/orientation.markdown#lookatdirection-void)
 
 The most common use of `Orientation` is to make the object face a given point or direction. There are multiple ways to do this in the script below uses the `LookAtPoint` function to make the cube face the mouse position on the world Z-Plane.
 
@@ -110,12 +110,12 @@ class LookAtMouse : ZilchComponent
 ```
 
 
-Notice that when the `WorldForward` of the cube rotates past the `Y` axis, its `WorldUp`, the `WorldRight` flips to the other side of the object. This is because typically the `WorldRight` is derived from the cross product of the object's `WorldForward` and `WorldUp`. The orientation component does not care about any previous rotation of the object and `LookAt` functions will always result in a normalized rotation, meaning all Euler Angles will fall in the range [-180.0, 180.0] when `LookAt` functions are used to set an object's `Rotation`. This issue can be fixed by properly setting [Orientation.WorldUp](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/orientation.markdown#worldup-zero-engine-docu) to `[0,0,1]` to match the [DefaultOrientationBases](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/orientation.markdown#defaultorientationbases) of the object.
+Notice that when the `WorldForward` of the cube rotates past the `Y` axis, its `WorldUp`, the `WorldRight` flips to the other side of the object. This is because typically the `WorldRight` is derived from the cross product of the object's `WorldForward` and `WorldUp`. The orientation component does not care about any previous rotation of the object and `LookAt` functions will always result in a normalized rotation, meaning all Euler Angles will fall in the range [-180.0, 180.0] when `LookAt` functions are used to set an object's `Rotation`. This issue can be fixed by properly setting [Orientation.WorldUp](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/orientation.markdown#worldup-zero-engine-docu) to `[0,0,1]` to match the [DefaultOrientationBases](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/orientation.markdown#defaultorientationbases) of the object.
 
  ## `WithUp...` Functions
 
-- [Orientation.LookAtPointWithUp()](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/orientation.markdown#lookatpointwithup-void)
-- [Orientation.LookAtDirectionWithUp()](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/orientation.markdown#lookatdirectionwithup-void)
+- [Orientation.LookAtPointWithUp()](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/orientation.markdown#lookatpointwithup-void)
+- [Orientation.LookAtDirectionWithUp()](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/orientation.markdown#lookatdirectionwithup-void)
 
 The `LookAt` functions on `Orientation` each have a corresponding version with `WithUp` appended. These functions let the user define the `WorldUp` to rotate around instead of the objects `WorldUp` defined on the `Orientation` component.
 
@@ -220,13 +220,6 @@ By setting the `Up` axis to be the intended axis of rotation (the world `Z` axis
 
  # Related Materials
  ## Code Reference
-- [orientation](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/orientation.markdown) 
-  
-  
-  
-  
-  
-  
-  
+- [orientation](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/orientation.markdown) 
 
  

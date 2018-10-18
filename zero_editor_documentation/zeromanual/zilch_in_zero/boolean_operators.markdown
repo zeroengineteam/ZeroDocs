@@ -1,6 +1,6 @@
-NOTE: It is highly suggested you read [conditionals](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/conditionals.markdown) before this page, as the concepts of conditionals are used through out to demonstrate Boolean Operators.
+NOTE: It is highly suggested you read [conditionals](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/conditionals.markdown) before this page, as the concepts of conditionals are used through out to demonstrate Boolean Operators.
 
-The [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown) type has special operators that work with it.
+The [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown) type has special operators that work with it.
 
  # The Negation Operator `!`
 The `!` operator, called the negation operator, is typically the simplest of the boolean operators as it changes the value of its operand to `true` if it was `false`, and changes the value to `false` if it was `true`.
@@ -43,10 +43,8 @@ a, b, and c are equal: false
 
 While the Equality operator is not exclusively used with booleans it does always result in a boolean value.
 
-- **Equality**: `==`
-
+|Equality | | `==` |
 | **Left Operand** | **Right Operand** | **Result** |
-|---|---|---|
 | `true` | `true` | `true` |
 | `true` | `false` | `false` |
 | `false` | `true` | `false` |
@@ -73,10 +71,8 @@ a, b, and c are not equal: false
 ```
 Notice that `a != b != c` results in false. This is because `==` and `!=` are evaluated left to right. So first `a != b` returns `false` as both variables have a value of `true`. Because `a != b` evaluates to `false` and `c` has a value of `false` `a != b != c` is reduced to `false != c`. The reduced form evaluates to `false` since both operands have a value of `false`.
 
-- **Inequality**: `!=`
-
+|Inequality | | `!=` |
 | **Left Operand** | **Right Operand** | **Result** |
-|---|---|---|
 | `true` | `true` | `false` |
 | `true` | `false` | `true` |
 | `false` | `true` | `false` |
@@ -183,9 +179,8 @@ Either i or j is false
 
 The nested `if` version of the above code does allow information about whether it is `i` or `j` which is `false` to be gathered, but in many cases the *which* doesn't matter, just that one of them is `false` is enough.
 
-- **And**: `&&`
+|And | | `&&` |
 | **Left Operand** | **Right Operand** | **Result** |
-|---|---|---|
 | `true` | `true` | `true` |
 | `true` | `false` | `false` |
 | `false` | `true` | `false` |
@@ -214,10 +209,8 @@ else
 Either i or j is true
 ```
 
-- **And**: `||`
-
+|And | | `||` |
 | **Left Operand** | **Right Operand** | **Result** |
-|---|---|---|
 | `true` | `true` | `true` |
 | `true` | `false` | `true` |
 | `false` | `true` | `true` |
@@ -226,15 +219,8 @@ Either i or j is true
 
  # Related Materials
  ## Manual
-- [conditionals](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/conditionals.markdown)
+- [conditionals](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/conditionals.markdown)
  ## Code Reference
-- [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown) 
-  
-  
-  
-  
-  
-  
-  
+- [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown) 
 
  

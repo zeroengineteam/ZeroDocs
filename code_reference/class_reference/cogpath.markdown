@@ -2,26 +2,26 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Clone](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/cogpath.markdown#clone-zero-engine-docume)|[ Cog](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/cogpath.markdown#cog-zero-engine-document)|Object| |
-|[ Constructor](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/cogpath.markdown#cogpath-void)|[ DirectCog](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/cogpath.markdown#directcog-zero-engine-do)| | |
-|[ ComputePath](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/cogpath.markdown#computepath-zero-engine)|[ ErrorOnDirectLinkFail](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/cogpath.markdown#errorondirectlinkfail-ze)| | |
-|[ Refresh](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/cogpath.markdown#refresh-zero-engine-docu)|[ ErrorOnPathCantCompute](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/cogpath.markdown#erroronpathcantcompute-z)| | |
-|[ RefreshIfNull](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/cogpath.markdown#refreshifnull-zero-engin)|[ ErrorOnResolveToNull](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/cogpath.markdown#erroronresolvetonull-zer)| | |
-|[ Resolve](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/cogpath.markdown#resolve-zero-engine-docu)|[ Path](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/cogpath.markdown#path-zero-engine-documen)| | |
-| |[ PathPreference0](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/cogpath.markdown#pathpreference0-zero-eng)| | |
-| |[ PathPreference1](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/cogpath.markdown#pathpreference1-zero-eng)| | |
-| |[ PathPreference2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/cogpath.markdown#pathpreference2-zero-eng)| | |
-| |[ RelativeTo](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/cogpath.markdown#relativeto-zero-engine-d)| | |
-| |[ UpdateCogOnInitialize](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/cogpath.markdown#updatecogoninitialize-ze)| | |
-| |[ UpdateCogOnPathChange](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/cogpath.markdown#updatecogonpathchange-ze)| | |
-| |[ UpdatePathOnCogChange](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/cogpath.markdown#updatepathoncogchange-ze)| | |
+|[ Clone](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cogpath.markdown#clone-zero-engine-docume)|[ Cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cogpath.markdown#cog-zero-engine-document)|Object| |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cogpath.markdown#cogpath-void)|[ DirectCog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cogpath.markdown#directcog-zero-engine-do)| | |
+|[ ComputePath](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cogpath.markdown#computepath-zero-engine)|[ ErrorOnDirectLinkFail](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cogpath.markdown#errorondirectlinkfail-ze)| | |
+|[ Refresh](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cogpath.markdown#refresh-zero-engine-docu)|[ ErrorOnPathCantCompute](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cogpath.markdown#erroronpathcantcompute-z)| | |
+|[ RefreshIfNull](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cogpath.markdown#refreshifnull-zero-engin)|[ ErrorOnResolveToNull](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cogpath.markdown#erroronresolvetonull-zer)| | |
+|[ Resolve](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cogpath.markdown#resolve-zero-engine-docu)|[ Path](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cogpath.markdown#path-zero-engine-documen)| | |
+| |[ PathPreference0](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cogpath.markdown#pathpreference0-zero-eng)| | |
+| |[ PathPreference1](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cogpath.markdown#pathpreference1-zero-eng)| | |
+| |[ PathPreference2](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cogpath.markdown#pathpreference2-zero-eng)| | |
+| |[ RelativeTo](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cogpath.markdown#relativeto-zero-engine-d)| | |
+| |[ UpdateCogOnInitialize](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cogpath.markdown#updatecogoninitialize-ze)| | |
+| |[ UpdateCogOnPathChange](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cogpath.markdown#updatecogonpathchange-ze)| | |
+| |[ UpdatePathOnCogChange](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cogpath.markdown#updatepathoncogchange-ze)| | |
 
 
  #  Properties
 
 
 ---  
- #  Cog : [cog](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/cog.markdown)
+ #  Cog : [cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
 
 > Setting the cog manually may recompute the path if the option is set Getting the cog will attempt to resolve the cog if we don't already have one (or if the path options is set, it will always resolve)
 > ``` lang=cpp, name=Zilch
@@ -29,7 +29,7 @@
 
 
 ---  
- #  DirectCog : [cog](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/cog.markdown)
+ #  DirectCog : [cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
 
 > Setting the cog manually may recompute the path if the option is set Getting the cog will return whatever cog we already resolved, or null (it will not attempt to resolve)
 > ``` lang=cpp, name=Zilch
@@ -37,7 +37,7 @@
 
 
 ---  
- #  ErrorOnDirectLinkFail : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  ErrorOnDirectLinkFail : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > Is it an exception/notification if a direct link to the object cannot be resolved?
 > ``` lang=cpp, name=Zilch
@@ -45,7 +45,7 @@
 
 
 ---  
- #  ErrorOnPathCantCompute : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  ErrorOnPathCantCompute : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > Is it an exception/notification if the path to an object cannot be computed?
 > ``` lang=cpp, name=Zilch
@@ -53,7 +53,7 @@
 
 
 ---  
- #  ErrorOnResolveToNull : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  ErrorOnResolveToNull : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > Is an exception thrown if you try to access the Cog when it's invalid or not found?
 > ``` lang=cpp, name=Zilch
@@ -61,7 +61,7 @@
 
 
 ---  
- #  Path : [string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)
+ #  Path : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
 
 > Setting the path will invalidate the object until the next call to GetCog.
 > ``` lang=cpp, name=Zilch
@@ -69,7 +69,7 @@
 
 
 ---  
- #  PathPreference0 : [CogPathPreference](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/enum_reference.markdown#cogpathpreference)
+ #  PathPreference0 : [CogPathPreference](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#cogpathpreference)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -77,7 +77,7 @@
 
 
 ---  
- #  PathPreference1 : [CogPathPreference](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/enum_reference.markdown#cogpathpreference)
+ #  PathPreference1 : [CogPathPreference](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#cogpathpreference)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -85,7 +85,7 @@
 
 
 ---  
- #  PathPreference2 : [CogPathPreference](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/enum_reference.markdown#cogpathpreference)
+ #  PathPreference2 : [CogPathPreference](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#cogpathpreference)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -93,7 +93,7 @@
 
 
 ---  
- #  RelativeTo : [cog](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/cog.markdown)
+ #  RelativeTo : [cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
 
 > The cog that we compute paths relative to.
 > ``` lang=cpp, name=Zilch
@@ -101,7 +101,7 @@
 
 
 ---  
- #  UpdateCogOnInitialize : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  UpdateCogOnInitialize : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > Whether the cog path attempts to resolve an object when the object is fully initialized.
 > ``` lang=cpp, name=Zilch
@@ -109,7 +109,7 @@
 
 
 ---  
- #  UpdateCogOnPathChange : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  UpdateCogOnPathChange : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > When we set the cog path, should we try and resolve the object (this also detects parse errors)
 > ``` lang=cpp, name=Zilch
@@ -117,7 +117,7 @@
 
 
 ---  
- #  UpdatePathOnCogChange : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  UpdatePathOnCogChange : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > When we set the cog, should we try and recompute a path to the object?
 > ``` lang=cpp, name=Zilch
@@ -129,7 +129,7 @@
 
 
 ---  
- #  Clone : [cogpath](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/cogpath.markdown)
+ #  Clone : [cogpath](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cogpath.markdown)
 
 > Creates a new copy of a cog path (since cog paths are reference counted and shared)
 > |Name|Type|Description|
@@ -160,7 +160,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[cogpath](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/cogpath.markdown)| |
+> ||[cogpath](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cogpath.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function CogPath( : CogPath)
 > ``` 
@@ -174,30 +174,30 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |path|[string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)| |
+> |path|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function CogPath(path : String)
 > ``` 
 
 
 ---  
- #  ComputePath : [string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)
+ #  ComputePath : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
 
  `static`
 
 > Computes a path from one object to another (or an absolute path if specified - 'from' can be null) If computing the path fails, this will return an empty string.
 > |Name|Type|Description|
 > |---|---|---|
-> |from|[cog](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/cog.markdown)| |
-> |to|[cog](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/cog.markdown)| |
-> |pref|[CogPathPreference](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/enum_reference.markdown#cogpathpreference)| |
+> |from|[cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)| |
+> |to|[cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)| |
+> |pref|[CogPathPreference](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#cogpathpreference)| |
 > ``` lang=cpp, name=Zilch
 > function ComputePath(from : Cog, to : Cog, pref : CogPathPreference) : String
 > ``` 
 
 
 ---  
- #  Refresh : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  Refresh : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > Returns true if the object changes, false otherwise.
 > |Name|Type|Description|
@@ -208,7 +208,7 @@
 
 
 ---  
- #  RefreshIfNull : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  RefreshIfNull : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > Returns true if the object changes, false otherwise.
 > |Name|Type|Description|
@@ -219,15 +219,15 @@
 
 
 ---  
- #  Resolve : [cog](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/cog.markdown)
+ #  Resolve : [cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
 
  `static`
 
 > Resolves a cog from a path and a a relative object (or null for absolute paths) Returns null if it fails to find the cog, and will not throw an exception or assert.
 > |Name|Type|Description|
 > |---|---|---|
-> |startFrom|[cog](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/cog.markdown)| |
-> |path|[string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)| |
+> |startFrom|[cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)| |
+> |path|[string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function Resolve(startFrom : Cog, path : String) : Cog
 > ``` 
@@ -235,12 +235,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

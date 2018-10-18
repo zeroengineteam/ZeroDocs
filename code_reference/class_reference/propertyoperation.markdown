@@ -2,8 +2,8 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ ValueAfter](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/propertyoperation.markdown#valueafter-t)|[operation](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/operation.markdown)| |
-| |[ ValueBefore](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/propertyoperation.markdown#valuebefore-t)| | |
+| |[ ValueAfter](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/propertyoperation.markdown#valueafter-t)|[operation](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/operation.markdown)| |
+| |[ ValueBefore](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/propertyoperation.markdown#valuebefore-t)| | |
 
 
  #  Properties
@@ -35,12 +35,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

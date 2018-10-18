@@ -31,7 +31,7 @@
 
 
 ---  
- #  Count : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  Count : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
  `read-only`
 
@@ -89,7 +89,7 @@
 
 
 ---  
- #  Contains : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  Contains : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
@@ -175,7 +175,7 @@
 
 
 ---  
- #  RemoveOrIgnore : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  RemoveOrIgnore : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
@@ -187,7 +187,7 @@
 
 
 ---  
- #  Set : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  Set : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
@@ -213,7 +213,7 @@
 
 
 ---  
- #  SetOrIgnore : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  SetOrIgnore : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
@@ -226,7 +226,7 @@
 
 
 ---  
- #  SetOrOverwrite : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  SetOrOverwrite : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > |Name|Type|Description|
@@ -240,12 +240,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

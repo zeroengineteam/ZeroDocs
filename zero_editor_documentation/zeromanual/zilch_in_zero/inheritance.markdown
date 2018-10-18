@@ -1,4 +1,4 @@
-Inheritance allows a *child// [class](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/classes.markdown) to automatically receive all of the data and functionality defined within the //base* class.
+Inheritance allows a *child// [class](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/classes.markdown) to automatically receive all of the data and functionality defined within the //base* class.
 
 ```name=Feline, lang=csharp
 class Feline
@@ -22,7 +22,7 @@ var simba = new Lion(); // Instantiated from the inherited constructor
 In the above example the variable `simba` can be instantiated as a `Lion` using the constructor from `Feline`.
 
  # The **base** Keyword
-The **base** [keyword](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/keywords.markdown) is for use when defining an inherited class; it allows you to call the constructor of the base class being inherited from before running an explicitly defined constructor.
+The **base** [keyword](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/keywords.markdown) is for use when defining an inherited class; it allows you to call the constructor of the base class being inherited from before running an explicitly defined constructor.
 
 ```name=Animal, lang=csharp
 class Animal
@@ -232,13 +232,6 @@ var d : Cat = Cat();
 
  # Related Materials
  ## Manual
-- [attributes](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/attributes.markdown) 
-  
-  
-  
-  
-  
-  
-  
+- [attributes](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/attributes.markdown) 
 
  

@@ -4,16 +4,16 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ BasicHostInfo](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/nethostrecord.markdown#basichostinfo-zero-engin)|[safeid32](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/safeid32.markdown)| |
-| |[ IpAddress](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/nethostrecord.markdown#ipaddress-zero-engine-do)| | |
-| |[ Lifetime](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/nethostrecord.markdown#lifetime-zero-engine-doc)| | |
+| |[ BasicHostInfo](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/nethostrecord.markdown#basichostinfo-zero-engin)|[safeid32](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/safeid32.markdown)| |
+| |[ IpAddress](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/nethostrecord.markdown#ipaddress-zero-engine-do)| | |
+| |[ Lifetime](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/nethostrecord.markdown#lifetime-zero-engine-doc)| | |
 
 
  #  Properties
 
 
 ---  
- #  BasicHostInfo : [eventbundle](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/eventbundle.markdown)
+ #  BasicHostInfo : [eventbundle](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/eventbundle.markdown)
 
  `read-only`
 
@@ -23,7 +23,7 @@
 
 
 ---  
- #  IpAddress : [ipaddress](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/ipaddress.markdown)
+ #  IpAddress : [ipaddress](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/ipaddress.markdown)
 
  `read-only`
 
@@ -33,7 +33,7 @@
 
 
 ---  
- #  Lifetime : [real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/real.markdown)
+ #  Lifetime : [real](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/real.markdown)
 
  `read-only`
 
@@ -48,12 +48,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

@@ -1,4 +1,4 @@
-The [ AudioSettings ](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/audiosettings.markdown) component can be added to Zero Engine's project settings to control project-wide audio settings. Some of these settings are advanced and must be used with caution.
+The [ AudioSettings ](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/audiosettings.markdown) component can be added to Zero Engine's project settings to control project-wide audio settings. Some of these settings are advanced and must be used with caution.
 
  # Using the AudioSettings Component
 
@@ -23,13 +23,6 @@ If the user is experiencing audio problems such as clicks, static, or other audi
 
  ## Reference
 
-- [ AudioSettings ](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/code_reference/class_reference/audiosettings.markdown) 
-  
-  
-  
-  
-  
-  
-  
+- [ AudioSettings ](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/code_reference/class_reference/audiosettings.markdown) 
 
  

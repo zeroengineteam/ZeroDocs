@@ -154,27 +154,27 @@ ZilchBindEnumValue(builder, type, YourEnum::ValueName, "ValueName");
  #  Built-in Types Available To Binding
 The following list is not exhaustive, but contains the most common types that we accept in binding automatically. Technically anything defined in Zilch.hpp that either internal or external binding and is bound to the Core library can be used. Note that most primitives (int, float, etc) are simply type-defined as Integer, Real, etc and can be used in binding.
 
- - [ Boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master.markdown)
- - [ Boolean2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master.markdown)
- - [ Boolean3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master.markdown)
- - [ Boolean4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master.markdown)
- - [ Byte](https://github.com/ArendDanielek/ZeroDocsTest/blob/master.markdown)
- - [ Integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master.markdown)
- - [ Integer2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master.markdown)
- - [ Integer3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master.markdown)
- - [ Integer4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master.markdown)
- - [ Real](https://github.com/ArendDanielek/ZeroDocsTest/blob/master.markdown)
- - [ Real2](https://github.com/ArendDanielek/ZeroDocsTest/blob/master.markdown)
- - [ Real3](https://github.com/ArendDanielek/ZeroDocsTest/blob/master.markdown)
- - [ Real4](https://github.com/ArendDanielek/ZeroDocsTest/blob/master.markdown)
- - [ Quaternion](https://github.com/ArendDanielek/ZeroDocsTest/blob/master.markdown)
- - [ String](https://github.com/ArendDanielek/ZeroDocsTest/blob/master.markdown)
- - [ DoubleReal](https://github.com/ArendDanielek/ZeroDocsTest/blob/master.markdown)
- - [ DoubleInteger](https://github.com/ArendDanielek/ZeroDocsTest/blob/master.markdown)
- - [ Handle](https://github.com/ArendDanielek/ZeroDocsTest/blob/master.markdown) (binds to a special type that can accept any handle to any object type)
- - [ Delegate](https://github.com/ArendDanielek/ZeroDocsTest/blob/master.markdown) (binds to a special type that can accept any delegate)
- - [ Any](https://github.com/ArendDanielek/ZeroDocsTest/blob/master.markdown) (can accept any type in Zilch)
- - [ StringBuilderExtended](https://github.com/ArendDanielek/ZeroDocsTest/blob/master.markdown)
+ - [ Boolean](https://github.com/zeroengineteam/ZeroDocs.markdown)
+ - [ Boolean2](https://github.com/zeroengineteam/ZeroDocs.markdown)
+ - [ Boolean3](https://github.com/zeroengineteam/ZeroDocs.markdown)
+ - [ Boolean4](https://github.com/zeroengineteam/ZeroDocs.markdown)
+ - [ Byte](https://github.com/zeroengineteam/ZeroDocs.markdown)
+ - [ Integer](https://github.com/zeroengineteam/ZeroDocs.markdown)
+ - [ Integer2](https://github.com/zeroengineteam/ZeroDocs.markdown)
+ - [ Integer3](https://github.com/zeroengineteam/ZeroDocs.markdown)
+ - [ Integer4](https://github.com/zeroengineteam/ZeroDocs.markdown)
+ - [ Real](https://github.com/zeroengineteam/ZeroDocs.markdown)
+ - [ Real2](https://github.com/zeroengineteam/ZeroDocs.markdown)
+ - [ Real3](https://github.com/zeroengineteam/ZeroDocs.markdown)
+ - [ Real4](https://github.com/zeroengineteam/ZeroDocs.markdown)
+ - [ Quaternion](https://github.com/zeroengineteam/ZeroDocs.markdown)
+ - [ String](https://github.com/zeroengineteam/ZeroDocs.markdown)
+ - [ DoubleReal](https://github.com/zeroengineteam/ZeroDocs.markdown)
+ - [ DoubleInteger](https://github.com/zeroengineteam/ZeroDocs.markdown)
+ - [ Handle](https://github.com/zeroengineteam/ZeroDocs.markdown) (binds to a special type that can accept any handle to any object type)
+ - [ Delegate](https://github.com/zeroengineteam/ZeroDocs.markdown) (binds to a special type that can accept any delegate)
+ - [ Any](https://github.com/zeroengineteam/ZeroDocs.markdown) (can accept any type in Zilch)
+ - [ StringBuilderExtended](https://github.com/zeroengineteam/ZeroDocs.markdown)
  - [[ | ArrayClass<Handle>]]
  - [[ | ArrayClass<Delegate>]]
  - [[ | ArrayClass<Boolean>]]
@@ -211,12 +211,5 @@ unsigned long long
  #  Limitations
 
 At the moment, there is no way in binding to accept templates (such as HashMapClass or ArrayClass) templated upon any other type other than specified above. 
-  
-  
-  
-  
-  
-  
-  
 
  

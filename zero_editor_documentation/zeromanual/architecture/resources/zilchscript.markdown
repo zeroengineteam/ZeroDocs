@@ -12,7 +12,7 @@ A ZilchScript resource is an in-editor representation of a ZilchScript file, whi
 ## Using ZilchScripts
 
 ###Creating a ZilchScript
-A new ZilchScript can be added by using the Add command [Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/ZeroManual/Editor/EditorCommands/Commands.markdown) : `Add` or clicking on the `Add` button, followed by selecting `ZilchScript`. After giving the new ZilchScript a name it's also possible to choose a template to use for the ZilchScript, depending on what the script will be used for. 
+A new ZilchScript can be added by using the Add command [Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/ZeroManual/Editor/EditorCommands/Commands.markdown) : `Add` or clicking on the `Add` button, followed by selecting `ZilchScript`. After giving the new ZilchScript a name it's also possible to choose a template to use for the ZilchScript, depending on what the script will be used for. 
 
 
 
@@ -181,20 +181,13 @@ Also a part of the Tool template is a section of comments giving the user a list
 ## Related Materials
 
 ###Manual Pages
-- [Scripting in Zero](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/ZeroManual/Scripting.markdown)
-- [Zilch in Zero](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero.markdown)
+- [Scripting in Zero](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/ZeroManual/Scripting.markdown)
+- [Zilch in Zero](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero.markdown)
 
 
 ### Tutorial Pages
 
-- [Scripting Tutorials](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/Tutorials/Scripting.markdown)
+- [Scripting Tutorials](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/Tutorials/Scripting.markdown)
  
-  
-  
-  
-  
-  
-  
-  
 
  

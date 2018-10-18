@@ -2,7 +2,7 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/relativevelocityjointblock.markdown#relativevelocityjointblo)| |[constraintconfigblock](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/constraintconfigblock.markdown)| |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/relativevelocityjointblock.markdown#relativevelocityjointblo)| |[constraintconfigblock](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/constraintconfigblock.markdown)| |
 
 
  #  Properties
@@ -27,12 +27,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

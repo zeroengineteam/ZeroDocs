@@ -2,17 +2,17 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ MoveNext](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/multispriteentryrange.markdown#movenext-void)|[ All](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/multispriteentryrange.markdown#all-zero-engine-document)| | |
-|[ Constructor](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/multispriteentryrange.markdown#multispriteentryrange-vo)|[ Current](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/multispriteentryrange.markdown#current-zero-engine-docu)| | |
-| |[ IsEmpty](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/multispriteentryrange.markdown#isempty-zero-engine-docu)| | |
-| |[ IsNotEmpty](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/multispriteentryrange.markdown#isnotempty-zero-engine-d)| | |
+|[ MoveNext](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/multispriteentryrange.markdown#movenext-void)|[ All](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/multispriteentryrange.markdown#all-zero-engine-document)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/multispriteentryrange.markdown#multispriteentryrange-vo)|[ Current](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/multispriteentryrange.markdown#current-zero-engine-docu)| | |
+| |[ IsEmpty](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/multispriteentryrange.markdown#isempty-zero-engine-docu)| | |
+| |[ IsNotEmpty](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/multispriteentryrange.markdown#isnotempty-zero-engine-d)| | |
 
 
  #  Properties
 
 
 ---  
- #  All : [multispriteentryrange](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/multispriteentryrange.markdown)
+ #  All : [multispriteentryrange](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/multispriteentryrange.markdown)
 
  `read-only`
 
@@ -22,7 +22,7 @@
 
 
 ---  
- #  Current : [multispriteentry](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/multispriteentry.markdown)
+ #  Current : [multispriteentry](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/multispriteentry.markdown)
 
  `read-only`
 
@@ -32,7 +32,7 @@
 
 
 ---  
- #  IsEmpty : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  IsEmpty : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -42,7 +42,7 @@
 
 
 ---  
- #  IsNotEmpty : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  IsNotEmpty : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
  `read-only`
 
@@ -87,7 +87,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> |p0|[multispriteentryrange](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/multispriteentryrange.markdown)| |
+> |p0|[multispriteentryrange](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/multispriteentryrange.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function MultiSpriteEntryRange(p0 : MultiSpriteEntryRange)
 > ``` 
@@ -95,12 +95,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

@@ -2,24 +2,24 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/texturebuilder.markdown#texturebuilder-void)|[ AddressingX](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/texturebuilder.markdown#addressingx-zero-engine)|[buildercomponent](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/buildercomponent.markdown)| |
-| |[ AddressingY](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/texturebuilder.markdown#addressingy-zero-engine)| | |
-| |[ Anisotropy](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/texturebuilder.markdown#anisotropy-zero-engine-d)| | |
-| |[ Compression](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/texturebuilder.markdown#compression-zero-engine)| | |
-| |[ Filtering](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/texturebuilder.markdown#filtering-zero-engine-do)| | |
-| |[ GammaCorrection](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/texturebuilder.markdown#gammacorrection-zero-eng)| | |
-| |[ HalfScaleCount](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/texturebuilder.markdown#halfscalecount-zero-engi)| | |
-| |[ MipMapping](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/texturebuilder.markdown#mipmapping-zero-engine-d)| | |
-| |[ Name](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/texturebuilder.markdown#name-zero-engine-documen)| | |
-| |[ PremultipliedAlpha](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/texturebuilder.markdown#premultipliedalpha-zero)| | |
-| |[ Type](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/texturebuilder.markdown#type-zero-engine-documen)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texturebuilder.markdown#texturebuilder-void)|[ AddressingX](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texturebuilder.markdown#addressingx-zero-engine)|[buildercomponent](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/buildercomponent.markdown)| |
+| |[ AddressingY](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texturebuilder.markdown#addressingy-zero-engine)| | |
+| |[ Anisotropy](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texturebuilder.markdown#anisotropy-zero-engine-d)| | |
+| |[ Compression](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texturebuilder.markdown#compression-zero-engine)| | |
+| |[ Filtering](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texturebuilder.markdown#filtering-zero-engine-do)| | |
+| |[ GammaCorrection](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texturebuilder.markdown#gammacorrection-zero-eng)| | |
+| |[ HalfScaleCount](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texturebuilder.markdown#halfscalecount-zero-engi)| | |
+| |[ MipMapping](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texturebuilder.markdown#mipmapping-zero-engine-d)| | |
+| |[ Name](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texturebuilder.markdown#name-zero-engine-documen)| | |
+| |[ PremultipliedAlpha](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texturebuilder.markdown#premultipliedalpha-zero)| | |
+| |[ Type](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/texturebuilder.markdown#type-zero-engine-documen)| | |
 
 
  #  Properties
 
 
 ---  
- #  AddressingX : [TextureAddressing](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/enum_reference.markdown#textureaddressing)
+ #  AddressingX : [TextureAddressing](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#textureaddressing)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -27,7 +27,7 @@
 
 
 ---  
- #  AddressingY : [TextureAddressing](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/enum_reference.markdown#textureaddressing)
+ #  AddressingY : [TextureAddressing](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#textureaddressing)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -35,7 +35,7 @@
 
 
 ---  
- #  Anisotropy : [TextureAnisotropy](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/enum_reference.markdown#textureanisotropy)
+ #  Anisotropy : [TextureAnisotropy](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#textureanisotropy)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -43,7 +43,7 @@
 
 
 ---  
- #  Compression : [TextureCompression](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/enum_reference.markdown#texturecompression)
+ #  Compression : [TextureCompression](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#texturecompression)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -51,7 +51,7 @@
 
 
 ---  
- #  Filtering : [TextureFiltering](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/enum_reference.markdown#texturefiltering)
+ #  Filtering : [TextureFiltering](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#texturefiltering)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -59,7 +59,7 @@
 
 
 ---  
- #  GammaCorrection : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  GammaCorrection : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -67,7 +67,7 @@
 
 
 ---  
- #  HalfScaleCount : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  HalfScaleCount : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -75,7 +75,7 @@
 
 
 ---  
- #  MipMapping : [TextureMipMapping](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/enum_reference.markdown#texturemipmapping)
+ #  MipMapping : [TextureMipMapping](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#texturemipmapping)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -83,7 +83,7 @@
 
 
 ---  
- #  Name : [string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)
+ #  Name : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -91,7 +91,7 @@
 
 
 ---  
- #  PremultipliedAlpha : [boolean](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boolean.markdown)
+ #  PremultipliedAlpha : [boolean](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boolean.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -99,7 +99,7 @@
 
 
 ---  
- #  Type : [TextureType](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/enum_reference.markdown#texturetype)
+ #  Type : [TextureType](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#texturetype)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -125,12 +125,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

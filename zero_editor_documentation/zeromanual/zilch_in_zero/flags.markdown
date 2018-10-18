@@ -1,4 +1,4 @@
-Flags are very similar to [enums](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/enums.markdown) except that they are ordered like a bit field (i.e. increasing in powers of two starting at 1 by default). Flags can be defined with the **flags** keyword:
+Flags are very similar to [enums](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/enums.markdown) except that they are ordered like a bit field (i.e. increasing in powers of two starting at 1 by default). Flags can be defined with the **flags** keyword:
 
 ```lang=csharp, name=Flags Type Defined
 flags Pizza 
@@ -113,7 +113,7 @@ Cookie.Sugar          as Integer: 3
 ```
 *Notice how after MacadamiaNuts is set to 3, the increment is no longer on powers of 2*
 
-The underlying structure is [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown); therefore, you could interpret Integers as a flags type:
+The underlying structure is [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown); therefore, you could interpret Integers as a flags type:
 
 ```lang=csharp, name=Casting Integers to Flags
 var random: Pizza = 583 as Pizza;
@@ -297,17 +297,10 @@ The binary '+' operator 'Positive / Add' is not valid with 'Pizza' and 'Cookie'.
 
  # Related Materials
  # Manual
-- [enums](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/enums.markdown)
+- [enums](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/zilch_in_zero/enums.markdown)
 
  ## Code Reference
-- [flags_reference](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/flags_reference.markdown)
-- [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown) 
-  
-  
-  
-  
-  
-  
-  
+- [flags_reference](https://github.com/zeroengineteam/ZeroDocs/code_reference/flags_reference.markdown)
+- [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown) 
 
  

@@ -4,16 +4,16 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ Animation](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/animationgraphevent.markdown#animation-zero-engine-do)|[event](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/event.markdown)| |
-| |[ Node](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/animationgraphevent.markdown#node-zero-engine-documen)| | |
-| |[ PlayMode](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/animationgraphevent.markdown#playmode-zero-engine-doc)| | |
+| |[ Animation](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/animationgraphevent.markdown#animation-zero-engine-do)|[event](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/event.markdown)| |
+| |[ Node](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/animationgraphevent.markdown#node-zero-engine-documen)| | |
+| |[ PlayMode](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/animationgraphevent.markdown#playmode-zero-engine-doc)| | |
 
 
  #  Properties
 
 
 ---  
- #  Animation : [animation](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/animation.markdown)
+ #  Animation : [animation](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/animation.markdown)
 
  `read-only`
 
@@ -23,7 +23,7 @@
 
 
 ---  
- #  Node : [animationnode](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/animationnode.markdown)
+ #  Node : [animationnode](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/animationnode.markdown)
 
  `read-only`
 
@@ -33,7 +33,7 @@
 
 
 ---  
- #  PlayMode : [AnimationPlayMode](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/enum_reference.markdown#animationplaymode)
+ #  PlayMode : [AnimationPlayMode](https://github.com/zeroengineteam/ZeroDocs/code_reference/enum_reference.markdown#animationplaymode)
 
  `read-only`
 
@@ -48,12 +48,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

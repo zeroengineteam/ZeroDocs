@@ -4,16 +4,16 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-|[ Constructor](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/objectlinkedge.markdown#objectlinkedge-void)|[ ObjectLink](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/objectlinkedge.markdown#objectlink-zero-engine-d)| | |
-| |[ OtherCog](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/objectlinkedge.markdown#othercog-zero-engine-doc)| | |
-| |[ SelfCog](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/objectlinkedge.markdown#selfcog-zero-engine-docu)| | |
+|[ Constructor](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/objectlinkedge.markdown#objectlinkedge-void)|[ ObjectLink](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/objectlinkedge.markdown#objectlink-zero-engine-d)| | |
+| |[ OtherCog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/objectlinkedge.markdown#othercog-zero-engine-doc)| | |
+| |[ SelfCog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/objectlinkedge.markdown#selfcog-zero-engine-docu)| | |
 
 
  #  Properties
 
 
 ---  
- #  ObjectLink : [objectlink](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/objectlink.markdown)
+ #  ObjectLink : [objectlink](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/objectlink.markdown)
 
  `read-only`
 
@@ -23,7 +23,7 @@
 
 
 ---  
- #  OtherCog : [cog](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/cog.markdown)
+ #  OtherCog : [cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
 
  `read-only`
 
@@ -33,7 +33,7 @@
 
 
 ---  
- #  SelfCog : [cog](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/cog.markdown)
+ #  SelfCog : [cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
 
  `read-only`
 
@@ -67,7 +67,7 @@
 > 
 > |Name|Type|Description|
 > |---|---|---|
-> ||[objectlinkedge](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/objectlinkedge.markdown)| |
+> ||[objectlinkedge](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/objectlinkedge.markdown)| |
 > ``` lang=cpp, name=Zilch
 > function ObjectLinkEdge( : ObjectLinkEdge)
 > ``` 
@@ -75,12 +75,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

@@ -2,15 +2,15 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ Name](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/delegateparameter.markdown#name-zero-engine-documen)| | |
-| |[ Type](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/delegateparameter.markdown#type-zero-engine-documen)| | |
+| |[ Name](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/delegateparameter.markdown#name-zero-engine-documen)| | |
+| |[ Type](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/delegateparameter.markdown#type-zero-engine-documen)| | |
 
 
  #  Properties
 
 
 ---  
- #  Name : [string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)
+ #  Name : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
 
  `read-only`
 
@@ -20,7 +20,7 @@
 
 
 ---  
- #  Type : [type](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/type.markdown)
+ #  Type : [type](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/type.markdown)
 
  `read-only`
 
@@ -35,12 +35,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

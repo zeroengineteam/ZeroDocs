@@ -1,4 +1,4 @@
-The [ CompressorNode ](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/compressornode.markdown) collects audio data from all of its inputs and applies a compressor filter before passing the data along to its outputs. 
+The [ CompressorNode ](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/compressornode.markdown) collects audio data from all of its inputs and applies a compressor filter before passing the data along to its outputs. 
 
  # Common Uses
 
@@ -17,17 +17,10 @@ The `AttackMillisec` and `ReleaseMillisec` properties control how quickly the fi
 ---
  # Related Materials
  ## Manual
-- [soudnode_overview](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/audio/soundnode/soudnode_overview.markdown)
-- [expandernode](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/audio/soundnode/expandernode.markdown)
+- [soudnode_overview](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/audio/soundnode/soudnode_overview.markdown)
+- [expandernode](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/audio/soundnode/expandernode.markdown)
 
  ## Code Reference
-- [ CompressorNode ](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/compressornode.markdown) 
-  
-  
-  
-  
-  
-  
-  
+- [ CompressorNode ](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/compressornode.markdown) 
 
  

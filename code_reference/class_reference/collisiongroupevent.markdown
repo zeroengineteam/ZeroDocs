@@ -6,16 +6,16 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ FirstPoint](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/collisiongroupevent.markdown#firstpoint-zero-engine-d)|[basecollisionevent](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/basecollisionevent.markdown)| |
-| |[ TypeAName](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/collisiongroupevent.markdown#typeaname-zero-engine-do)| | |
-| |[ TypeBName](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/collisiongroupevent.markdown#typebname-zero-engine-do)| | |
+| |[ FirstPoint](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/collisiongroupevent.markdown#firstpoint-zero-engine-d)|[basecollisionevent](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/basecollisionevent.markdown)| |
+| |[ TypeAName](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/collisiongroupevent.markdown#typeaname-zero-engine-do)| | |
+| |[ TypeBName](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/collisiongroupevent.markdown#typebname-zero-engine-do)| | |
 
 
  #  Properties
 
 
 ---  
- #  FirstPoint : [contactpoint](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/contactpoint.markdown)
+ #  FirstPoint : [contactpoint](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/contactpoint.markdown)
 
  `read-only`
 
@@ -25,7 +25,7 @@
 
 
 ---  
- #  TypeAName : [string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)
+ #  TypeAName : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
 
  `read-only`
 
@@ -35,7 +35,7 @@
 
 
 ---  
- #  TypeBName : [string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)
+ #  TypeBName : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
 
  `read-only`
 
@@ -50,12 +50,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

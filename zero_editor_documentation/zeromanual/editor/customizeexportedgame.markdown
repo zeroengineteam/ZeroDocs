@@ -15,13 +15,6 @@ Export your game and your new icon will replace the default.
 
  ## Related Materials
  ### Manual
-- [exporting](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/exporting.markdown) 
-  
-  
-  
-  
-  
-  
-  
+- [exporting](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/exporting.markdown) 
 
  

@@ -6,14 +6,14 @@ This lesson covers how to import and use sprite sheets to create sprite animatio
  - Sprite animation parameters
 
  # Level Setup
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ New Project](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#newproject)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ New Project](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#newproject)
  - Create a new project using the {nav icon=clone, name=Empty 2D Project} template
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [CreateSprite](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#createsprite)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [CreateSprite](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#createsprite)
 - In the `Properties Window`
  - Rename Sprite object to `Player`
- - Under [Transform](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/transform.markdown)
+ - Under [Transform](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/transform.markdown)
   - Set Scale  to `[2, 2, 2]`
-- [Select](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/selectobject.markdown) : Renderer object
+- [Select](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/selectobject.markdown) : Renderer object
  - Under `ForwardRenderer`
   - Set ClearColor  to `[R:125, G:255, B:125, A:1.00]`
 
@@ -85,21 +85,21 @@ Now that we have imported a sprite sheet, we need to separate the frames into th
 
 Now that we've generated the animation resources, we can start using them with sprites.
 
-- [Select](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/selectobject.markdown) : Player object
+- [Select](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/selectobject.markdown) : Player object
 - In the `Properties Window`
- - Under [Sprite](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/sprite.markdown)
+ - Under [Sprite](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/sprite.markdown)
  - Set SpriteSource enum to `Walk`
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ PlayGame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#playgame)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ PlayGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#playgame)
 
 
 
 ![WalkAnimatio](https://media.githubusercontent.com/media/zeroengineteam/ZeroFiles/master/doc_files/106332.gif)
 
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ StopGame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#stopgame)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ StopGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#stopgame)
 
-Looking at the [Sprite](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/sprite.markdown) component on the property grid we find that the last 4 properties are dedicated to sprite animations. They are:
+Looking at the [Sprite](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/sprite.markdown) component on the property grid we find that the last 4 properties are dedicated to sprite animations. They are:
 
 | Sprite Animation Properties |
 |--------------------|-------------------------------------------------------------------------------------|
@@ -110,7 +110,7 @@ Looking at the [Sprite](https://github.com/ArendDanielek/ZeroDocsTest/blob/maste
 
 Let's add a component that lets us control the animation.
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ Add Resource](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/resourceadding.markdown)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ Add Resource](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/resourceadding.markdown)
  - Create a ZilchScript resource using the Component template template and name it `PlayerAnimationController`
 - In the `PlayerAnimationController` script
  - Update the `PlayerAnimationController` class to the following:
@@ -156,10 +156,10 @@ class PlayerAnimationController : ZilchComponent
   }
 }
 ```
-- [Select](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/selectobject.markdown) : Player object
+- [Select](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/selectobject.markdown) : Player object
 - In the `Properties Window`
- - [ Add Component](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown) : `PlayerAnimationController`
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ PlayGame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#playgame)
+ - [ Add Component](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown) : `PlayerAnimationController`
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ PlayGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#playgame)
 
 - Press `Space`
 
@@ -168,37 +168,30 @@ class PlayerAnimationController : ZilchComponent
 ![WalkAndRoll](https://media.githubusercontent.com/media/zeroengineteam/ZeroFiles/master/doc_files/106395.gif)
 
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ StopGame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#stopgame)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ StopGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#stopgame)
 
  # Related Materials
 
  ## Manual
-- [Sprite](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/ZeroManual/Graphics/Sprites/Sprite.markdown)
-- [Sprite Source Editor](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/ZeroManual/Graphics/Sprites/SpriteSourceEditor.markdown)
-- [Sprite Importer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/ZeroManual/Graphics/Sprites/SpriteImporter.markdown)
+- [Sprite](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/ZeroManual/Graphics/Sprites/Sprite.markdown)
+- [Sprite Source Editor](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/ZeroManual/Graphics/Sprites/SpriteSourceEditor.markdown)
+- [Sprite Importer](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/ZeroManual/Graphics/Sprites/SpriteImporter.markdown)
 
  ## Code Reference
  ### Classes
-- [Transform](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/Transform.markdown)
-- [Sprite](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/Sprite.markdown)
-- [Cog](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/Cog.markdown)
-- [spritesource](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/spritesource.markdown)
+- [Transform](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/Transform.markdown)
+- [Sprite](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/Sprite.markdown)
+- [Cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/Cog.markdown)
+- [spritesource](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spritesource.markdown)
 
  ### Commands
-- [CreateSprite](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#createsprite)
-- [ PlayGame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#playgame)
-- [ StopGame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#stopgame)
+- [CreateSprite](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#createsprite)
+- [ PlayGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#playgame)
+- [ StopGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#stopgame)
 
 
  ## Development Task
 - T1183
  
-  
-  
-  
-  
-  
-  
-  
 
  

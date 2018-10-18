@@ -1,4 +1,4 @@
-The [ ModulationNode ](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/modulationnode.markdown) collects audio data from all of its inputs and applies either amplitude or ring modulation to the audio before passing it along to its outputs. 
+The [ ModulationNode ](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/modulationnode.markdown) collects audio data from all of its inputs and applies either amplitude or ring modulation to the audio before passing it along to its outputs. 
 
  # Common Uses
 
@@ -14,16 +14,9 @@ Ring modulation will directly alter the frequencies of the sound, with stronger 
 ---
  # Related Materials
  ## Manual
-- [soudnode_overview](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/audio/soundnode/soudnode_overview.markdown)
+- [soudnode_overview](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/audio/soundnode/soudnode_overview.markdown)
 
  ## Code Reference
-- [ ModulationNode ](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/modulationnode.markdown) 
-  
-  
-  
-  
-  
-  
-  
+- [ ModulationNode ](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/modulationnode.markdown) 
 
  

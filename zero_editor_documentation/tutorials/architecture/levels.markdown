@@ -12,7 +12,7 @@ This lesson covers levels in the Zero Engine.
  #  Level Setup
 
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ New Project](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#newproject)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ New Project](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#newproject)
  - Create a new project using the {nav icon=clone, name=Empty 2D Project} template
 
 
@@ -25,9 +25,9 @@ A Level resource is a resource that stores a list of objects. These objects are 
  #  Creating a New Level
 
 
-Levels are added to the project in basically the same way as any other resource: by [ adding a resource](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/resourceadding.markdown) using one of the pre-defined resource templates.
+Levels are added to the project in basically the same way as any other resource: by [ adding a resource](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/resourceadding.markdown) using one of the pre-defined resource templates.
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ Add Resource](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/resourceadding.markdown)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ Add Resource](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/resourceadding.markdown)
 
 
 
@@ -40,16 +40,16 @@ Levels are added to the project in basically the same way as any other resource:
 Zero's built-in Level templates are like shortcuts for creating levels of different kinds: they've already got the important cogs, like renderers and cameras, and they're pre-configured to be suitable for the chosen type of level. The {nav icon=clone, name="2D Level"} template provides a **forward renderer** and an **orthographic camera**, perfect for a simple 2D game.
 
  - Create a Level resource using the {nav icon=clone, name="2D Level"} template and name it `Level1`
-- [ Select](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/selectobject.markdown) : Renderer object
+- [ Select](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/selectobject.markdown) : Renderer object
 - In the `Properties Window`
  - Under `ForwardRenderer`
   - Set ClearColor  to `[R:16, G:78, B:32, A:1.00]`
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ CreateSpriteText](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#createspritetext)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ CreateSpriteText](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#createspritetext)
 - In the `Properties Window`
  - Rename SpriteText object to `LevelNameText`
- - Under [ Transform](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/transform.markdown)
+ - Under [ Transform](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/transform.markdown)
   - Set Translation  to `[0, 5, 0]`
- - Under [ SpriteText](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/spritetext.markdown)
+ - Under [ SpriteText](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spritetext.markdown)
   - Set Text  to `- Level 1 -`
   - Set PixelsPerUnit  to `32`
 
@@ -72,7 +72,7 @@ Zero's built-in Level templates are like shortcuts for creating levels of differ
 
 There's no sense in having a level if there's no player, eh?
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ Add Resource](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/resourceadding.markdown)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ Add Resource](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/resourceadding.markdown)
  - Create a ZilchScript resource using the Component template template and name it `KeyboardMovement`
 - Update the `KeyboardMovement` script to the following:
 
@@ -120,23 +120,23 @@ class KeyboardMovement : ZilchComponent
 }
 ```
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ CreateSprite](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#createsprite)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ CreateSprite](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#createsprite)
 - In the `Properties Window`
  - Rename Sprite object to `Player`
- - Under [ Transform](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/transform.markdown)
+ - Under [ Transform](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/transform.markdown)
   - Set Translation  to `[0, 0, 0.5]`
- - Under [ Sprite](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/sprite.markdown)
+ - Under [ Sprite](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/sprite.markdown)
   - Set VertexColor  to `[R:64, G:255, B:160, A:1.00]`
   - Set SpriteSource  to `CircleBordered`
- - [ Add Component](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown) : `SphereCollider`
- - Under [ SphereCollider](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/spherecollider.markdown)
+ - [ Add Component](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown) : `SphereCollider`
+ - Under [ SphereCollider](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spherecollider.markdown)
   - Set Ghost checkBox to `true`
- - [ Add Component](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown) : `RigidBody`
- - Under [ RigidBody](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/rigidbody.markdown)
+ - [ Add Component](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown) : `RigidBody`
+ - Under [ RigidBody](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/rigidbody.markdown)
   - Set DynamicState enum to `Kinematic`
- - [ Add Component](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown) : `KeyboardMovement`
+ - [ Add Component](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown) : `KeyboardMovement`
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ PlayGame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#playgame)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ PlayGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#playgame)
 
 
 
@@ -148,7 +148,7 @@ class KeyboardMovement : ZilchComponent
 
 You can move the player with the arrow keys.
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ StopGame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#stopgame)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ StopGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#stopgame)
 
 Now let's make a Level 2 to go to from Level 1.
 
@@ -165,11 +165,11 @@ Now let's make a Level 2 to go to from Level 1.
 
 Level 2 should be visually distinct from Level 1.
 
-- [ Select](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/selectobject.markdown) : LevelNameText object
+- [ Select](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/selectobject.markdown) : LevelNameText object
 - In the `Properties Window`
  - Under `SpriteText`
   - Set Text  to `- Level 2 -`
-- [ Select](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/selectobject.markdown) : Renderer object
+- [ Select](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/selectobject.markdown) : Renderer object
 - In the `Properties Window`
  - Under `ForwardRenderer`
   - Set ClearColor  to `[R:48, G:59, B:84, A:1.00]`
@@ -188,9 +188,9 @@ Now let's make some way of going between Level 1 and Level 2.
  #  Loading a Level in the Game
 
 
-Going from one level to another is as simple as calling the [ space](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/space.markdown)'s LoadLevel function. Let's make a door: an object that calls that function when the player touches it.
+Going from one level to another is as simple as calling the [ space](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/space.markdown)'s LoadLevel function. Let's make a door: an object that calls that function when the player touches it.
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ Add Resource](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/resourceadding.markdown)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ Add Resource](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/resourceadding.markdown)
  - Create a ZilchScript resource using the Component template template and name it `LoadLevelOnCollisionStarted`
 - Update the `LoadLevelOnCollisionStarted` script to the following:
 
@@ -215,18 +215,18 @@ class LoadLevelOnCollisionStarted : ZilchComponent
 }
 ```
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ CreateSprite](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#createsprite)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ CreateSprite](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#createsprite)
 - In the `Properties Window`
  - Rename Sprite object to `Door`
- - Under [ Transform](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/transform.markdown)
+ - Under [ Transform](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/transform.markdown)
   - Set Translation  to `[-5, 3, 0]`
   - Set Scale  to `[2, 3, 1]`
- - Under [ Sprite](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/sprite.markdown)
+ - Under [ Sprite](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/sprite.markdown)
   - Set VertexColor  to `[R:230, G:23, B:57, A:1.00]`
- - [ Add Component](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown) : `BoxCollider`
- - Under [ BoxCollider](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/boxcollider.markdown)
+ - [ Add Component](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown) : `BoxCollider`
+ - Under [ BoxCollider](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/boxcollider.markdown)
   - Set Ghost checkBox to `true`
- - [ Add Component](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown) : `LoadLevelOnCollisionStarted`
+ - [ Add Component](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown) : `LoadLevelOnCollisionStarted`
  - Under `LoadLevelOnCollisionStarted`
   - Set LevelToLoad resource to `Level1`
 
@@ -238,11 +238,11 @@ class LoadLevelOnCollisionStarted : ZilchComponent
 *Level 2 now has a door*
 
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ Copy](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#copy) the Door object
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ Copy](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#copy) the Door object
 - Open the Level resource named `Level1`
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ Paste](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#paste) the Door object
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ Paste](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#paste) the Door object
 - In the `Properties Window`
- - Under [ Transform](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/transform.markdown)
+ - Under [ Transform](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/transform.markdown)
   - Set Translation  to `[5, -4, 0]`
  - Under `LoadLevelOnCollisionStarted`
   - Set LevelToLoad resource to `Level2`
@@ -255,7 +255,7 @@ class LoadLevelOnCollisionStarted : ZilchComponent
 *Level 1 now has a door*
 
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ PlayGame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#playgame)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ PlayGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#playgame)
 
 
 
@@ -264,7 +264,7 @@ class LoadLevelOnCollisionStarted : ZilchComponent
 
 If you move the player to the door, the other level is loaded.
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ StopGame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#stopgame)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ StopGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#stopgame)
 
 (NOTE) **A Closer Look:**
  When the player touches the door in Level 1, Level 2 is loaded. So what happens to Level 1? When a space's LoadLevel function is called, first, all the objects in that space are destroyed: the player, the door, the camera, the renderer, all of them. Then, all the objects in Level 2 are created. This happens every time a space changes levels.
@@ -275,7 +275,7 @@ If you move the player to the door, the other level is loaded.
 
 Just as the space has a function to load a level, it also has a function to reload the current level.
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ Add Resource](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/resourceadding.markdown)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ Add Resource](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/resourceadding.markdown)
  - Create a ZilchScript resource using the Component template template and name it `ReloadLevelOnKeyDown`
 - Update the `ReloadLevelOnKeyDown` script to the following:
 
@@ -297,10 +297,10 @@ class ReloadLevelOnKeyDown : ZilchComponent
 
 Calling the ReloadLevel function does the same thing as calling the LoadLevel function and passing in the current level.
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ Select the Space](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#selectspace)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ Select the Space](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#selectspace)
 - In the `Properties Window`
- - [ Add Component](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown) : `ReloadLevelOnKeyDown`
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ PlayGame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#playgame)
+ - [ Add Component](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown) : `ReloadLevelOnKeyDown`
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ PlayGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#playgame)
 
 
 
@@ -309,7 +309,7 @@ Calling the ReloadLevel function does the same thing as calling the LoadLevel fu
 
 You can now reload the level by pressing key `Ctrl + R`.
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ StopGame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#stopgame)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ StopGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#stopgame)
 
 (NOTE)**A Closer Look:**
  Reloading a level is just the same as loading it again, so it goes through the same process. First, everything present is destroyed. Then, everything in the level is created anew. This means that all of its objects, and all of their components, are reinitialized. However, this does *not* destroy the space that contains the level, which is only initialized when it is created, and destroyed when the user explicitly destroys it in script (or when the game ends).
@@ -318,11 +318,11 @@ You can now reload the level by pressing key `Ctrl + R`.
  #  Setting a Game's Starting Level
 
 
-When a Zero game is [ played in the editor](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#playgame), the default game setup loads the level that is currently being edited. When the game is exported, however, this isn't necessarily the first level to be loaded. As a matter of fact, there is a component on the GameSession aptly named [ DefaultGameSetup](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/defaultgamesetup.markdown), which manages this.
+When a Zero game is [ played in the editor](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#playgame), the default game setup loads the level that is currently being edited. When the game is exported, however, this isn't necessarily the first level to be loaded. As a matter of fact, there is a component on the GameSession aptly named [ DefaultGameSetup](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/defaultgamesetup.markdown), which manages this.
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ Select the Game](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#selectgame)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ Select the Game](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#selectgame)
 - In the `Properties Window`
- - Expand [ DefaultGameSetup](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/defaultgamesetup.markdown)
+ - Expand [ DefaultGameSetup](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/defaultgamesetup.markdown)
 
 
 
@@ -337,28 +337,28 @@ Let's make a new level, a title screen, and set it as the starting level.
  ##  Creating a Title Screen
 
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ Add Resource](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/resourceadding.markdown)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ Add Resource](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/resourceadding.markdown)
  - Create a Level resource using the {nav icon=clone, name="2D Level"} template and name it `TitleScreen`
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ CreateSpriteText](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#createspritetext)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ CreateSpriteText](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#createspritetext)
 - In the `Properties Window`
- - Under [ Transform](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/transform.markdown)
+ - Under [ Transform](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/transform.markdown)
   - Set Translation  to `[0, 3, 0]`
- - Under [ SpriteText](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/spritetext.markdown)
+ - Under [ SpriteText](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spritetext.markdown)
   - Set Text  to `Azomarith's Revenge 2: Shadows of the Fallen`
   - Set PixelsPerUnit  to `32`
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ CreateSpriteText](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#createspritetext)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ CreateSpriteText](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#createspritetext)
 - In the `Properties Window`
- - Under [ Transform](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/transform.markdown)
+ - Under [ Transform](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/transform.markdown)
   - Set Translation  to `[0, 2, 0]`
- - Under [ SpriteText](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/spritetext.markdown)
+ - Under [ SpriteText](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spritetext.markdown)
   - Set Text  to `Game of the Year Edition`
   - Set FontSize  to `24`
   - Set PixelsPerUnit  to `32`
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ CreateSpriteText](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#createspritetext)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ CreateSpriteText](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#createspritetext)
 - In the `Properties Window`
- - Under [ Transform](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/transform.markdown)
+ - Under [ Transform](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/transform.markdown)
   - Set Translation  to `[0, -3, 0]`
- - Under [ SpriteText](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/spritetext.markdown)
+ - Under [ SpriteText](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spritetext.markdown)
   - Set Text  to `Press Enter`
   - Set FontSize  to `18`
   - Set PixelsPerUnit  to `32`
@@ -368,22 +368,22 @@ Let's make a new level, a title screen, and set it as the starting level.
 ![image](https://media.githubusercontent.com/media/zeroengineteam/ZeroFiles/master/doc_files/96118.png)
 
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ Select the Game](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#selectgame)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ Select the Game](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#selectgame)
 - In the `Properties Window`
- - Under [ DefaultGameSetup](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/defaultgamesetup.markdown)
+ - Under [ DefaultGameSetup](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/defaultgamesetup.markdown)
   - Set StartingLevel enum to `TitleScreen`
   - Set LoadEditingLevel checkBox to `false`
 - Open the Level resource named `Level1`
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ PlayGame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#playgame)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ PlayGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#playgame)
 
 Even though we're editing Level 1, the editor loads the title screen, thanks to how the DefaultGameSetup has been configured.
 
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ StopGame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#stopgame)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ StopGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#stopgame)
 
 Next, we need a component to load Level 1 from the title screen.
 
 - Open the Level resource named `TitleScreen`
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ Add Resource](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/resourceadding.markdown)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ Add Resource](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/resourceadding.markdown)
  - Create a ZilchScript resource using the Component template template and name it `LoadLevelOnKeyDown`
 - Update the `LoadLevelOnKeyDown` script to the following:
 
@@ -408,11 +408,11 @@ class LoadLevelOnKeyDown : ZilchComponent
 }
 ```
 
-- [ Select](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/selectobject.markdown) : LevelSettings object
+- [ Select](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/selectobject.markdown) : LevelSettings object
 - In the `Properties Window`
- - [ Add Component](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown) : `LoadLevelOnKeyDown`
+ - [ Add Component](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown) : `LoadLevelOnKeyDown`
 - Open the Level resource named `Level1`
-- [ Command](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ PlayGame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#playgame)
+- [ Command](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ PlayGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#playgame)
 
 
 
@@ -426,40 +426,33 @@ Now the game always starts with the title screen, and from there goes into Level
 
  #  Related Materials
  ##  Manual
-- [launchernewproject](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/launchernewproject.markdown)
-- [commands](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown)
-- [resourceadding](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/resourceadding.markdown)
-- [selectobject](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/selectobject.markdown)
-- [addremovecomponent](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown)
+- [launchernewproject](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/launchernewproject.markdown)
+- [commands](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown)
+- [resourceadding](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/resourceadding.markdown)
+- [selectobject](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/editorcommands/selectobject.markdown)
+- [addremovecomponent](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/editor/addremovecomponent.markdown)
 
  ##  Reference
  ###  Classes
-- [transform](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/transform.markdown)
-- [spritetext](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/spritetext.markdown)
-- [sprite](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/sprite.markdown)
-- [spherecollider](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/spherecollider.markdown)
-- [boxcollider](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/boxcollider.markdown)
-- [rigidbody](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/rigidbody.markdown)
-- [space](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/space.markdown)
-- [defaultgamesetup](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/defaultgamesetup.markdown)
+- [transform](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/transform.markdown)
+- [spritetext](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spritetext.markdown)
+- [sprite](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/sprite.markdown)
+- [spherecollider](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/spherecollider.markdown)
+- [boxcollider](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/boxcollider.markdown)
+- [rigidbody](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/rigidbody.markdown)
+- [space](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/space.markdown)
+- [defaultgamesetup](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/defaultgamesetup.markdown)
 
  ###  Commands
-- [ CreateSpriteText](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#createspritetext)
-- [ CreateSprite](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#createsprite)
-- [ PlayGame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#playgame)
-- [ StopGame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#stopgame)
-- [ Paste](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#paste)
-- [ SelectSpace](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#selectspace)
-- [ SelectGame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/command_reference.markdown#selectgame)
+- [ CreateSpriteText](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#createspritetext)
+- [ CreateSprite](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#createsprite)
+- [ PlayGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#playgame)
+- [ StopGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#stopgame)
+- [ Paste](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#paste)
+- [ SelectSpace](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#selectspace)
+- [ SelectGame](https://github.com/zeroengineteam/ZeroDocs/code_reference/command_reference.markdown#selectgame)
 
  ##  Development Task
 - {T1172} 
-  
-  
-  
-  
-  
-  
-  
 
  

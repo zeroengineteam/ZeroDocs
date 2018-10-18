@@ -6,15 +6,15 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ AcquiredObject](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/netuseracquiredobjectownership.markdown#acquiredobject-zero-engi)|[event](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/event.markdown)| |
-| |[ PreviousNetUserOwner](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/netuseracquiredobjectownership.markdown#previousnetuserowner-zer)| | |
+| |[ AcquiredObject](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netuseracquiredobjectownership.markdown#acquiredobject-zero-engi)|[event](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/event.markdown)| |
+| |[ PreviousNetUserOwner](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/netuseracquiredobjectownership.markdown#previousnetuserowner-zer)| | |
 
 
  #  Properties
 
 
 ---  
- #  AcquiredObject : [cog](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/cog.markdown)
+ #  AcquiredObject : [cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
 
  `read-only`
 
@@ -24,7 +24,7 @@
 
 
 ---  
- #  PreviousNetUserOwner : [cog](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/cog.markdown)
+ #  PreviousNetUserOwner : [cog](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/cog.markdown)
 
  `read-only`
 
@@ -39,12 +39,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

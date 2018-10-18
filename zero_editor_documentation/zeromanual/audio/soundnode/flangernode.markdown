@@ -1,4 +1,4 @@
-The [ FlangerNode ](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/flangernode.markdown) collects audio data from all of its inputs and applies a flanger filter before passing it along to its outputs. 
+The [ FlangerNode ](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/flangernode.markdown) collects audio data from all of its inputs and applies a flanger filter before passing it along to its outputs. 
 
  # Common Uses
 
@@ -11,16 +11,9 @@ Flanger filters apply an oscillating delay filter to the audio. The delay will i
 ---
  # Related Materials
  ## Manual
-- [soudnode_overview](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/audio/soundnode/soudnode_overview.markdown)
+- [soudnode_overview](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/audio/soundnode/soudnode_overview.markdown)
 
  ## Code Reference
-- [ FlangerNode ](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/flangernode.markdown) 
-  
-  
-  
-  
-  
-  
-  
+- [ FlangerNode ](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/flangernode.markdown) 
 
  

@@ -2,17 +2,17 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ AnimationIndex](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/animationclip.markdown#animationindex-zero-engi)|Object| |
-| |[ EndFrame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/animationclip.markdown#endframe-zero-engine-doc)| | |
-| |[ Name](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/animationclip.markdown#name-zero-engine-documen)| | |
-| |[ StartFrame](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/animationclip.markdown#startframe-zero-engine-d)| | |
+| |[ AnimationIndex](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/animationclip.markdown#animationindex-zero-engi)|Object| |
+| |[ EndFrame](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/animationclip.markdown#endframe-zero-engine-doc)| | |
+| |[ Name](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/animationclip.markdown#name-zero-engine-documen)| | |
+| |[ StartFrame](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/animationclip.markdown#startframe-zero-engine-d)| | |
 
 
  #  Properties
 
 
 ---  
- #  AnimationIndex : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  AnimationIndex : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -20,7 +20,7 @@
 
 
 ---  
- #  EndFrame : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  EndFrame : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -28,7 +28,7 @@
 
 
 ---  
- #  Name : [string](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/string.markdown)
+ #  Name : [string](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/string.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -36,7 +36,7 @@
 
 
 ---  
- #  StartFrame : [integer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/integer.markdown)
+ #  StartFrame : [integer](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/integer.markdown)
 
 > 
 > ``` lang=cpp, name=Zilch
@@ -49,12 +49,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

@@ -2,14 +2,14 @@
 
 |Methods|Properties|Base Classes|Derived Classes|
 |---|---|---|---|
-| |[ ReferencedType](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/indirectiontype.markdown#referencedtype-zero-engi)|[type](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/type.markdown)| |
+| |[ ReferencedType](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/indirectiontype.markdown#referencedtype-zero-engi)|[type](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/type.markdown)| |
 
 
  #  Properties
 
 
 ---  
- #  ReferencedType : [boundtype](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/zilch_base_types/boundtype.markdown)
+ #  ReferencedType : [boundtype](https://github.com/zeroengineteam/ZeroDocs/code_reference/zilch_base_types/boundtype.markdown)
 
  `read-only`
 
@@ -24,12 +24,5 @@
 
 ---  
  
-  
-  
-  
-  
-  
-  
-  
 
  

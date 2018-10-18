@@ -1,6 +1,6 @@
-Roughness quite simply defines how rough--or conversely, how smooth--a particular material is. The greater the roughness of a surface, the greater the diffusion of light that hit that surface. Roughness can be defined either by value, which is uniformly applied across the surface of a [Material](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/graphics/materials/materials_overview.markdown), or by texture map, which defines the roughness value for each discrete part of the Material.
+Roughness quite simply defines how rough--or conversely, how smooth--a particular material is. The greater the roughness of a surface, the greater the diffusion of light that hit that surface. Roughness can be defined either by value, which is uniformly applied across the surface of a [Material](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/materials/materials_overview.markdown), or by texture map, which defines the roughness value for each discrete part of the Material.
 
-Roughness as defined in the [deferred renderer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/graphics/renderer/deferred_renderer.markdown) follow microfacet theory, in which surface irregularities on the Material cause reflected light to "blur". The higher the Roughness value, the greater the blurring effect will be. For a quick look at how increasing roughness corresponds to increased blur, the following screenshot shows spheres with constant albedo and metallic , but an increasing value of roughness from 0 to 1:
+Roughness as defined in the [deferred renderer](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/renderer/deferred_renderer.markdown) follow microfacet theory, in which surface irregularities on the Material cause reflected light to "blur". The higher the Roughness value, the greater the blurring effect will be. For a quick look at how increasing roughness corresponds to increased blur, the following screenshot shows spheres with constant albedo and metallic , but an increasing value of roughness from 0 to 1:
 
 
 
@@ -36,15 +36,8 @@ RoughnessMaps may be broken down into two broad categories: tileable roughness m
  # Related Materials
  ## Manual
 
-- [Material](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/graphics/materials/materials_overview.markdown)
-- [deferred_renderer](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/graphics/renderer/deferred_renderer.markdown)
+- [Material](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/materials/materials_overview.markdown)
+- [deferred_renderer](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/graphics/renderer/deferred_renderer.markdown)
  
-  
-  
-  
-  
-  
-  
-  
 
  

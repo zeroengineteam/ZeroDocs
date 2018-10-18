@@ -1,4 +1,4 @@
-A [PhysicsMaterial](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/PhysicsMaterial.markdown) describes material properties to use for a [Collider](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/physics/Colliders.markdown). These properties affect how collisions are resolved between collider types.
+A [PhysicsMaterial](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/PhysicsMaterial.markdown) describes material properties to use for a [Collider](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/physics/Colliders.markdown). These properties affect how collisions are resolved between collider types.
 
 Some PhysicsMaterial properties are used to define the surface of an object. In reality, these surface properties are not defined per object, but per object pair. The physics system computes a combined value for these properties as an approximation of the real life values.
 
@@ -28,25 +28,18 @@ The **combined friction** is computed as the square-root of the product of the t
 RestitutionImportance  determines which object's restitution should be used in collision resolution. When two objects are colliding, the restitution of the object with the higher importance value will be used. If both objects have the same importance value, the max of the two restitutions is applied.
 
  #  Friction Importance
-FrictionImportance  determines which object's friction should be used in collision resolution. When two objects are colliding, the friction of the object with the higher importance value will be used. If both objects have the same importance value, the combined friction is used (see [above](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/physics/physicsmaterial/.markdown#friction)).
+FrictionImportance  determines which object's friction should be used in collision resolution. When two objects are colliding, the friction of the object with the higher importance value will be used. If both objects have the same importance value, the combined friction is used (see [above](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/physics/physicsmaterial/.markdown#friction)).
 
 ---
 
  #  Related Materials
  ##  Manual
-- [RigidBody.markdown](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/physics/RigidBody.markdown)
-- [Colliders.markdown](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/zero_editor_documentation/zeromanual/physics/Colliders.markdown)
+- [RigidBody.markdown](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/physics/RigidBody.markdown)
+- [Colliders.markdown](https://github.com/zeroengineteam/ZeroDocs/zero_editor_documentation/zeromanual/physics/Colliders.markdown)
  ##  Reference
-- [PhysicsMaterial](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/PhysicsMaterial.markdown)
-- [RigidBody](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/RigidBody.markdown)
-- [Collider](https://github.com/ArendDanielek/ZeroDocsTest/blob/master/code_reference/class_reference/Collider.markdown)
+- [PhysicsMaterial](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/PhysicsMaterial.markdown)
+- [RigidBody](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/RigidBody.markdown)
+- [Collider](https://github.com/zeroengineteam/ZeroDocs/code_reference/class_reference/Collider.markdown)
  
-  
-  
-  
-  
-  
-  
-  
 
  
