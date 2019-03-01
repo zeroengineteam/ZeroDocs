@@ -3,7 +3,7 @@ Welcome to the Docs, home of all Zero Engine related documentation.
  # New to the Zero community? [Get started here!](https://github.com/zeroengineteam/ZeroDocs/blob/master/getting_started.markdown)
 Get a quick glance at the engine's [ features here](https://github.com/zeroengineteam/ZeroDocs/blob/master/getting_started/features.markdown). 
 
- #  [Download the Engine](https://download.zeroengine.io )
+ #  [Download the Engine](http://download.zeroengine.io )
  - [ Minimum System Requirements](https://github.com/zeroengineteam/ZeroDocs/blob/master/getting_started/min_specs.markdown)
 
  #  The Docs
