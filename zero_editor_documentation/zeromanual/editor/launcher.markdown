@@ -1,6 +1,6 @@
 This page covers the launcher and its multiple subtabs.
 
- #  [Download the Engine](https://dev.zeroengine.io/u/download )
+ #  [Download the Engine](http://download.zeroengine.io )
 
  # The Discover Tab
 
