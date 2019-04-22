@@ -1,6 +1,6 @@
   Welcome to ZeroHub, the open source project development hub for the Zero Engine community. The Zero Engine is a powerful simulation engine custom built in C++ by [DigiPen](https://www.digipen.edu/) [Research & Development](http://www.digipenresearch.com/), a team of DigiPen graduates.
 
- #  [Download the Engine](httpa://downloadlauncher.zeroengine.io )
+ #  [Download the Engine](https://downloadlauncher.zeroengine.io )
  - [min_specs.markdown](https://github.com/zeroengineteam/ZeroDocs/blob/master//Users/beepboopowner/Desktop/AJ/DP/getting_started/min_specs.markdown)
 
  # Installing the Zero Engine (and Zero Launcher)
