@@ -1,6 +1,6 @@
 This lesson introduces the **Zero Launcher** and explains how to use it.
 
- #  [Download the Engine](http://download.zeroengine.io)
+ #  [Download the Engine](https://downloadlauncher.zeroengine.io)
 
 
  #  Learning Objectives
